@@ -1,0 +1,259 @@
+Chambert's Moon
+
+Please visit the Chambert's Moon message forum at www.infantryarena.com to discuss the zone and any feedback that you may have for developers.
+
+-------------------------------
+List of the Levels :
+
+Level                 XP
+Recruit                0 
+Trainee              500
+Trooper 4th Class   1000
+Trooper 3rd Class   3000
+Trooper 2nd Class   6000
+Trooper 1st Class  12000
+Veteran 4          24000
+Veteran 3          48000
+Veteran 2          72000
+Veteran 1         108000
+Elite   4         162000
+Elite   3         243000
+Elite   2         364500
+Elite   1         546750
+Master  4         820125
+Master  3        1230187
+Master  2        1845281
+Master  1        2767921
+Ultimate Soldier 4151882
+Supreme Soldier  6227824
+-------------------------------
+
+~BApril 14, 2010~B
+-Fixed contaminator/spy teleport bug.
+
+~BApril 12, 2010~B
+-Fixed vehicle building/repairing bug on some terrains.
+-Fixed bug where skirmishers could use Eryx XV. (See update notes from March 6, 2005)
+-Fixed original Alien Menace class switching bug.
+
+~BApril 5, 2010~B
+-Fmk45 Rocket Launcher Restored weight fixed.
+-Gauss Rifle reverted back to 50 energy per shot.
+-Gauss Rifle Restored graphic changed.
+-Skirmisher can no longer use EP Combat Suit.
+-Am-Darts are now weightless.
+-Old Alien Menace HP set to 1 to force a choice between the 3 new menaces.
+-You no longer get a Alien Golden Scale when switching to a menace class.
+-Added Skorpion SMG Restored and Slug Carbine Restored.
+-Increased reward per kill and shared reward percentage.
+
+~BMarch 8, 2010~B
+-Enhanced Medikit-Self removed.
+-Alien HPs reduced.
+-Outcast Menace speed reduced to Alien Outlander speed.
+-Added Alien Diamond Scale.
+
+~BJan 25, 2010~B
+-Added Mk4.5 'Eightball' Sniper Rifle.
+-Changed graphic for restored MAS Pulse Carbine and MK6 Sniper Rifle.
+-Added restored MAS Fusion Rifle, Gauss Rifle, and Fmk45 Rocket Launcher.
+-Added restored version of Psionic Mega Blast.
+-All restored weapons now weight 0.2 less than their regular equivalents.
+-Mind Storm fire delay changed from 70 to 110.
+
+~BJan 21, 2010~B
+-Added Force Shield, an alternate armor for Psionics.
+-Added restored MAS Pulse Rifle, MAS Pulse Carbine, and MK6 Sniper Rifle.
+-Hover Troopers can no longer use EP Soldier Suit or EP Adv. Soldier Suit.
+
+~BJan 14, 2010~B
+-Team sizes lowered from 5 to 4 public and 3 private. 
+-Crowning rewards adjusted to be increased to same values as the smaller iteration of CM.
+-Above updates will promote competition, especially with the crowning objective that this zone was built for.
+
+~BMay 28, 2009~B
+-Eryx prefire is visible to everyone now
+-Bug fixes which had to do with aliens getting in tanks
+-If your an outlander without Fear, let a mod know and they can prize it to you
+-Other bug fixes
+
+~BMay 23, 2009~B
+-Alien Menace can now choose one of the 3 branched menaces without a 2000000 exp penalty
+-Fixed glitch in SMG turrets that was causing them to blink
+-Added a shadow to Spy and Hovertrooper when they jump so aim can be focused better
+-Raised barrel length on the driver position in all tank vehicles so the projectiles will originate from the front of the tank
+-Lowered fire height of rocket turret so the rockets could be cleared by a hover trooper or spy jump
+-Battle Wagon speed increased on non-road terrains to promote use
+-Switching between positions inside a vehicle works correctly now
+-Am-Dart decreased from .015 to .005 kg
+-MKVII Repair kit now uses 3 titanium oxide per repair as it was intended
+-Mk4, Mk5, and Mk6 sniper rifles now use bypass damage and should now damage properly
+-All mines and frag trap will now drop to the ground due to a higher proximity at the top of the mine than at the bottom. By dropping to the ground the proximity is even all around.
+-Fear reverted back to item jammer of 2 seconds rather than 3 seconds, due to screen shake ineffectiveness
+-Kings can no longer walk on methane
+-Outcast Menace energy maximum raised to 18 rather than reset to 10 
+-Ambusher energy cost lowered from 3 to 1
+-Both Eryx types now have a prefire graphic
+-Other bug fixes
+
+~BMay 12, 2009~B
+-Spy/Hover Trooper/skirmisher can no longer access flightpacks from garage due to abusable bugs
+-Alien Invisibility fixed, will now go back to invisible after shooting in 5 seconds rather than 30
+-Darkness received slight nerf, can see through cloak at further range. Also removed Silence from Alien Outlander and Alien Insurgent inventory since Darkness is an upgrade to Silence, therefore having it on was useless
+-Silence received slight nerf, can now see through stealth at further range. Also, energy will regenerate a little slower while its on 
+-Adjusted claw graphic for outcast branch to be smaller and do slightly less damage
+-Fear now causes a screen shake for a decent amount of time rather than jamming, changed graphic to be different than aura
+-Maklov machine gun given inactive time. Its set the same as the other Heavy MG's. Also reduced clip size.
+-High explosive pack will no longer point blank kill in one hit
+-Mind storm bounce lowered so it can make contact with enemy
+-Steriod Pack can now be purchased from the shop instead of a steriod (replacement). The pack is a 1 time use item of $400 that allows you to make a steriod at any time for the cost of 50 energy.
+-Mother's Wrath no longer point blank kills when used against walls, and each individual bolt does slightly less damage
+-Alien Egg Turrets taken away from Queen and given to Female Menace instead.
+-All dependent tank positions now display HP to teammates
+-Crossbow now takes ammo (Am-Dart), and added an explosion sound
+-Added Dart spawn
+-Drivers can no longer hop from vehicle to vehicle without first getting out. However they can still change positions inside a vehicle.
+-You now get full reward in DS for a crown victory
+-Methane now does 4 times the damage to prevent HT and spy from running away constantly
+-Regeneration and dropship recall now load correctly and won't jam
+-Creating vehicles now takes full energy on road and underground terrains
+-Mech fusion gun damage fixed, it works now
+-Anti-warp ranges adjusted for all 3 types. Reduced anti-warp and enhanced anti-warp range, raised assassin anti-warp range slightly due to such a short range. Also slightly raised weight of enhanced anti to balance effectiveness
+-Teammates can now see each other's energy
+-Raised crown victory reward
+-Gave driver a superbug as standard undroppable equipment so there won't have to be any more titox collecting on foot. Removed superbug from shop as purchaseable.
+-Alien King was given Jump due to the imbalance between Queen and Insurgent at equal levels of experience
+-Reduced Hunter Rifle weight from 7kg to 5kg
+-Reduced Hunter Pistol reload time from 4 seconds to 2 seconds
+-AA shotgun now does a little less damage to aliens
+-Mines no longer bounce off walls
+-AT mine given 1 second inactive time
+-Lifeseeker cost lowered drastically and damage increased
+-Menace was divided into 3 categories: Female Menace, Outcast Menace, and Warrior Menace. From now on you may only pick the Menace that applies to your group. The players that already have the Alien Menace will be unable to unspec with it, and have the ability to choose which chain of Menace they want, since they are in a sense downgrading. Read the class description of each to see it's abilities before you choose, since you cannot switch afterward.
+-Fmk1 Pistol now has a longer clip and shorter reload time. It was originally a copy of the jakob pistol with no differences at all except in price. Looks like someone forgot something 
+-Changed color of Fmk35 Rocket Launcher to not be an eyesore
+-Increased hyperbug fire rate and decreased energy cost to fire in order to compensate for increased fire rate. Also matched chin turret speed to buggy cannon speed.
+-Public team size remains at 6, private team size set to 5
+-There is no longer a reset at game start
+-Reduced Heavy tank to 2 turret SMGs
+-Anything dropped in the alien dropship will now disappear after a short amount of time
+-Added a Fresh Blood type A spawn in the park to go along with Fresh Blood type B
+-Improved rocket tank by adding more protection, lowered reload time of rocket turret, and made the passenger positions into flamer turrets
+
+~BSeptember 24th, 2008~B
+-Trigger Radius for Outcast classes decreased slightly to match BH settings for same graphic.
+-Alien Special Eggs set to no explosion.
+-Alien Scales set to always on.
+-RF Shotgun damage slightly decreased.
+-Four tanks' HP increased as a compensation for entry delay adjustment.
+-Sniper class regained hyper movement.
+-Heavy Infantry weight capacity reduced by a few kgs.
+
+
+
+~BSeptember 23rd, 2008~B
+-Various terrain restriction errors were fixed.
+-New alien supreme class introduced, Alien Menace.
+-Trigger Radius for Outcast classes increased. HP also increased to compensate.
+-Alien safe zone now functional.
+-Fear weapon jam timer decreased and projectile repel disabled.
+-Damage for poison dart and crossbows adjusted and do not affect vehicles.
+-Slight adjustment to the clip size and reload time of some Rifles and Carbines.
+-Heavy Infantry and Driver weight capacity increased.
+-Sniper, Combat Mech, and Freedom Fighter are a little faster.
+-Alien Spit vehicle impact enabled.
+-Psi Pull reload timer lowered.
+-Increased vehicle entry delay to help with abuse related to avoiding projectiles.
+-Removed team kill capability from grenades and some other weapons.
+-Mental Shield set to always on.
+-Higher reuse delay for a few portals that were being abused.
+-Light MG, Maklov Light MG and Fmk71 Light MG inactive time set to 30.
+-Changed graphic for V1 Sniper Rifle to make it more recognizable and fixed firing angle.
+-Increased energy cost for Pulse Damper.
+-Some SMGs, Pistols and Rifles that had more than one wall bounce were set to one.
+-Vehicle turrets show HP to teammates. 
+-Blood splatter for deaths added.
+-Alien Special Eggs show HP to teammates.
+
+
+
+~BSeptember 11th, 2008~B
+-20 second exiting delay adjusted for all non-safezone terrain types.
+-Bounty increases on roads and interiors.
+-Minor map changes. Aliens have their own DS now (ty NiTe).
+-Medium Tank can no longer be present in building interiors.
+-KOTH rewards increased by 50%.
+-Vehicles2.blo redownload issue resolved.
+-Alien Flame terrain issue fixed.
+-Added Phosphorus to D6 building.
+-Added Fresh Blood to park building.
+-All classes start with a default basic equipment setup in order to be more newbie friendly.
+-Hover Bike, Hyperbug, and Rocket Tank set to show hp to teammates. 
+
+
+
+~BSeptember 8th, 2008~B
+-20 second delay for returning to spectator, quitting and changing arena.
+-Updated links in menu.
+-Maklov Light MG changed to undroppable.
+-Some adjustments to sound bongs.
+-Increased cash and experience reward for kills by 50%.
+
+
+
+~BMarch 6th 2005~B
+-Molotov cocktail damages slightly increased.
+-Made heavy vehicles more vulnerable.
+-The buggy cannon firerate was lowered.
+-Lowered the protection of the Bodyshield suit.
+-Outcast aliens now move faster.
+-Credits were removed for now to prevent abuse. They should eventually return.
+-Damages for the flamethrowers were lowered.
+-Skirmishers cannot use mine Ap cl and Eryx anymore.
+-Freedom Fighter energy was increased to 400.
+-More...
+
+
+
+~BMarch 6th 2005~B
+-Molotov cocktail damages slightly increased.
+-Made heavy vehicles more vulnerable.
+-The buggy cannon firerate was lowered.
+-Lowered the protection of the Bodyshield suit.
+-Outcast aliens now move faster.
+-Credits were removed for now to prevent abuse. They should eventually return.
+-Damages for the flamethrowers were lowered.
+-Skirmishers cannot use mine Ap cl and Eryx anymore.
+-Freedom Fighter energy was increased to 400.
+-More...
+
+
+
+~BDec. 1st 2005~B
+-You are now rewarded in the dropship if your team wins the KOTH 
+-Increased damage on hunter pistol -Increased damage on HE Launcher 
+-Added XP requirement on Assassin teleport. You now need to be trooper 1 for the assassin tel. and veteran 1 for master assassin tel.
+-Reduced weight on Fusion grenade. Made it more explosive.
+-Change Pulse Damper to 3 shot clip, reload 300, increase nrg cost to fire 50 
+-Some things you will have to discover by yourself.
+More to come.
+
+
+
+~BNov. 28th~B
+-Whirlwind point blank damage removed
+-Changed reload on Hunter Rifle
+-Remove damage on Paralyzer and Stunner
+-Remove damage from Knocker and rotate stun effect reduced to 5 from 8 -Reduced anti-effects radius of Radioactive Ball from 80 to 50 -Change Pulse Damper to 3 shot clip, reload 300, increase nrg cost to fire 50 -Dual Rocket Launcher: changed skill so only Hvy and Driver can use.
+-Heavy Tank Turrent self ignores 10 damage explosive and kinetic.
++New Weapons:
+Hunter Pistol
+-Arena size increased to 200 and playing max 150 -All terrain causes 10 second spec delay -Cash percent leech lowered slightly
+
+
+~BNov. 23rd~B
+-Mind Storm projectile changed
+-Molotov Cocktail damages adjusted
+-Grenades no longer do point blank damage
+
++More to come. Thanks for playing!

@@ -1,0 +1,225 @@
+7,v25,31,"Inside ship",15120,3792,300,300,0,-3,    -1,1000,0,-1,1,  0,1000,-1,  None,None,0,0,0,0,0,0,ambient,SHIPAMB,0,0
+7,v25,34,"Airlock",13824,6432,180,180,0,-3,    -1,1000,0,1000,0,  0,1000,-1,  None,None,0,0,0,0,0,0,mordred,rememberr,0,0
+6,v25,39,"Upstairs TeamB NW",19776,6640,64,64,0,-3,    1,25,, 0,0,0,UpDownArrows,bh_arrow_human_up,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v25,40,"Upstairs TeamA NE",21824,3280,64,64,0,-3,    0,14,, 0,0,0,UpDownArrows,bh_arrow_human_up,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+1,v25,44,"Vertical base",10160,17312,0,0,0,-3,    -1,0,2,6, 0,0,0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,74,"RedBridge South",8352,7824,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,75,"redbridge2 South",8384,7824,0,0,0,-3,    -2,-1,4,2, 0,74,0,0, DOORS,Metac,0,0,90,0,0,0,mordred,conff,0,0,None,None,0,0
+2,v25,77,"RedBridgeSouth",8516,7860,0,0,0,-3,    0, 74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,90,0,0,0,voice,acknowlg,0,0
+2,v25,81,"RedBridgeSouthA",8516,7764,0,0,0,-3,    0, 74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,90,0,0,0,voice,acknowlg,0,0
+3,v25,91,"Team B Bridge",7568,7440,0,0,0,-3,     1000,2,999,  3,3,3,3,3,  0,0,0,  0,1,0,0,  0,0,0,250, 15,0,2000,0,0, 0,0,0,0,0, 0,"",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+4,v25,106,"Team A Start",21328,3648,800,400,0,-3,  0,999,0,500,0, 2,0,""
+4,v25,107,"Team A Death",20336,3632,800,400,0,-3,  0,999,0,500,1, 2,0,""
+4,v25,108,"Team B Start",21408,6976,800,400,0,-3,  0,999,0,500,0, 2,1,""
+4,v25,109,"Team B Death",20672,7008,800,400,0,-3,  0,999,0,500,1, 2,1,""
+1,v25,76,"redbridge3 South",8416,7824,0,0,0,-3,    -2,-1,4,2, 0,74,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,78,"redbridge4",8448,7824,0,0,0,-3,    -2,-1,4,2, 0,74,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+6,v25,38,"Upstairs TeamB SW",19776,7360,64,64,0,-3,    1,27,, 0,0,0,UpDownArrows,bh_arrow_human_up,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v25,41,"Upstairs TeamB NE",21824,6624,64,64,0,-3,    1,24,, 0,0,0,UpDownArrows,bh_arrow_human_up,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v25,79,"Upstairs TeamB SE",21824,7360,64,64,0,-3,    1,26,, 0,0,0,UpDownArrows,bh_arrow_human_up,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v25,80,"Upstairs TeamA SW",19776,4016,64,64,0,-3,    0,17,, 0,0,0,UpDownArrows,bh_arrow_human_up,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v25,162,"Upstairs TeamA SE",21824,4016,64,64,0,-3,    0,16,, 0,0,0,UpDownArrows,bh_arrow_human_up,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v25,163,"Upstairs TeamA NW",19776,3280,64,64,0,-3,    0,15,, 0,0,0,UpDownArrows,bh_arrow_human_up,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+3,v25,1,"Team B Computer",9648,7440,0,0,0,-3,     1000,2,999,  3,3,3,3,3,  0,0,0,  0,1,0,0,  0,0,0,250, 15,0,2000,0,0, 0,0,0,0,0, 0,"",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+3,v25,2,"Team B Engineering",14976,7440,0,0,0,-3,     1000,2,999,  3,3,3,3,3,  0,0,0,  0,1,0,0,  0,0,0,250, 15,0,2000,0,0, 0,0,0,0,0, 0,"",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+3,v25,3,"Team A Bridge",7568,4352,0,0,0,-3,     1000,2,999,  3,3,3,3,3,  0,0,0,  0,1,0,0,  0,0,0,250, 15,0,2000,0,0, 0,0,0,0,0, 0,"",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+3,v25,4,"Team A Computer",9632,4352,0,0,0,-3,     1000,2,999,  3,3,3,3,3,  0,0,0,  0,1,0,0,  0,0,0,250, 15,0,2000,0,0, 0,0,0,0,0, 0,"",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+3,v25,5,"Team A Engineering",15008,4352,0,0,0,-3,     1000,2,999,  3,3,3,3,3,  0,0,0,  0,1,0,0,  0,0,0,250, 15,0,2000,0,0, 0,0,0,0,0, 0,"",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+7,v25,26,"Battle red",20224,6944,600,600,0,-3,    -1,1000,0,2000,0,  0,1000,-1,  None,None,0,0,0,0,0,0,mordred,ALERTr,0,0
+7,v25,27,"Battle blue",20224,3648,600,600,0,-3,    -1,1000,0,2000,0,  0,1000,-1,  None,None,0,0,0,0,0,0,mordred,b9f,0,0
+1,v25,28,"redbridge2 D North",8352,7088,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,90,0,0,0,mordred,conff,0,0,None,None,0,0
+1,v25,29,"redbridge2 A North",8384,7088,0,0,0,-3,    -2,-1,4,2, 0,28,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,30,"redbridge2 B North",8416,7088,0,0,0,-3,    -2,-1,4,2, 0,28,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,32,"redbridge2 C North",8448,7088,0,0,0,-3,    -2,-1,4,2, 0,28,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v25,51,"RedBridgeNorthA",8500,7140,0,0,0,-3,    0, 28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,90,0,0,0,voice,acknowlg,0,0
+2,v25,52,"RedBridgeNorth",8500,7028,0,0,0,-3,    0, 28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,90,0,0,0,voice,acknowlg,0,0
+1,v25,55,"Blue Bridge C South",8368,4736,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,56,"Blue Bridge South",8464,4736,0,0,0,-3,    -2,-1,4,2, 0,55,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,57,"Blue Bridge A South",8400,4736,0,0,0,-3,    -2,-1,4,2, 0,55,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,58,"Blue Bridge B South",8432,4736,0,0,0,-3,    -2,-1,4,2, 0,55,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v25,59,"BlueBridgeSouth",8308,4676,0,0,0,-3,    0, 55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckF,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,60,"BlueBridgeSouthA",8308,4772,0,0,0,-3,    0, 55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+1,v25,64,"Blue Bridge2 C North",8464,4000,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,65,"Blue Bridge2 North",8432,4000,0,0,0,-3,    -2,-1,4,2, 0,64,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,66,"Blue Bridge2 A North",8400,4000,0,0,0,-3,    -2,-1,4,2, 0,64,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,67,"Blue Bridge2 B North",8368,4000,0,0,0,-3,    -2,-1,4,2, 0,64,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v25,68,"BlueBridgeNorth",8308,4036,0,0,0,-3,    0, 64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,69,"BlueBridgeNorthA",8308,3940,0,0,0,-3,    0, 64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckF,0,0,50,0,0,0,voice,acknowlg,0,0
+7,v25,70,"Battle red",21280,6976,600,600,0,-3,    -1,1000,0,2000,0,  0,1000,-1,  None,None,0,0,0,0,0,0,mordred,ALERTr,0,0
+7,v25,71,"Battle blue Copy (1)",21296,3568,600,600,0,-3,    -1,1000,0,2000,0,  0,1000,-1,  None,None,0,0,0,0,0,0,mordred,b9f,0,0
+7,v25,72,"Inside ship Copy (1)",15136,4864,300,300,0,-3,    -1,1000,0,-1,1,  0,1000,-1,  None,None,0,0,0,0,0,0,ambient,SHIPAMB,0,0
+7,v25,73,"Inside ship red",15120,6896,300,300,0,-3,    -1,1000,0,-1,1,  0,1000,-1,  None,None,0,0,0,0,0,0,ambient,SHIPAMB,0,0
+7,v25,84,"Inside ship red Copy (1)",15120,7968,300,300,0,-3,    -1,1000,0,-1,1,  0,1000,-1,  None,None,0,0,0,0,0,0,ambient,SHIPAMB,0,0
+7,v25,85,"Airlock B",13824,5360,180,180,0,-3,    -1,1000,0,1000,0,  0,1000,-1,  None,None,0,0,0,0,0,0,mordred,ff,0,0
+7,v25,86,"Airlock Copy (4)",13824,8464,180,180,0,-3,    -1,1000,0,1000,0,  0,1000,-1,  None,None,0,0,0,0,0,0,mordred,rememberr,0,0
+7,v25,87,"Airlock B Copy (3)",13824,3344,180,180,0,-3,    -1,1000,0,1000,0,  0,1000,-1,  None,None,0,0,0,0,0,0,mordred,ff,0,0
+7,v25,88,"Energy",10624,7440,180,180,0,-3,    -1,1000,0,-1,0,  0,1000,-1,  None,None,0,0,0,0,0,0,ambient,slomdply,0,0
+7,v25,89,"Energy Copy (1)",10624,4352,180,180,0,-3,    -1,1000,0,-1,0,  0,1000,-1,  ,,0,0,0,0,0,0,ambient,slomdply,0,0
+7,v25,90,"Computer",7600,4336,180,180,0,-3,    -1,1000,0,1000,0,  0,1000,-1,  ,,0,0,0,0,0,0,ambient,acomp,0,0
+7,v25,92,"Computer Copy (1)",7600,7424,180,180,0,-3,    -1,1000,0,1000,0,  0,1000,-1,  ,,0,0,0,0,0,0,ambient,acomp,0,0
+7,v25,93,"Beop",9712,4336,180,180,0,-3,    -1,1000,0,1000,0,  0,1000,-1,  None,None,0,0,0,0,0,0,ambient,beop (2),0,0
+7,v25,94,"Beop Copy (1)",8992,4336,180,180,0,-3,    -1,1000,0,1000,0,  0,1000,-1,  None,None,0,0,0,0,0,0,ambient,beop (2),0,0
+7,v25,95,"Beop Copy (2)",8976,7408,180,180,0,-3,    -1,1000,0,1000,0,  0,1000,-1,  ,,0,0,0,0,0,0,ambient,beop (2),0,0
+7,v25,96,"Beop Copy (3)",9728,7424,180,180,0,-3,    -1,1000,0,1000,0,  0,1000,-1,  ,,0,0,0,0,0,0,ambient,beop (2),0,0
+6,v25,98,"Downstairs TeamA NW",11872,3952,64,64,0,-3,    0,11,, 0,0,0,UpDownArrows,bh_arrow_human_down,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v25,99,"Downstairs TeamA SW",11872,4720,64,64,0,-3,    0,13,, 0,0,0,UpDownArrows,bh_arrow_human_down,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v25,100,"Downstairs TeamA SE",14288,4784,64,64,0,-3,    0,12,, 0,0,0,UpDownArrows,bh_arrow_human_down,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v25,101,"Downstairs TeamA NE",14288,3888,64,64,0,-3,    0,10,, 0,0,0,UpDownArrows,bh_arrow_human_down,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v25,102,"Downstairs TeamB NW",11856,7040,64,64,0,-3,    1,21,, 0,0,0,UpDownArrows,bh_arrow_human_down,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v25,103,"Downstairs TeamB SW",11856,7808,64,64,0,-3,    1,23,, 0,0,0,UpDownArrows,bh_arrow_human_down,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v25,104,"Downstairs TeamB NE",14272,6976,64,64,0,-3,    1,20,, 0,0,0,UpDownArrows,bh_arrow_human_down,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v25,105,"Downstairs TeamB SE",14288,7872,64,64,0,-3,    1,22,, 0,0,0,UpDownArrows,bh_arrow_human_down,0,0,85,0,0,0,None,None,0,0,0,0,0,0,robo,mech3sel,0,0
+4,v25,6,"Team A Start2",7920,4352,400,300,0,-3,  0,999,0,5,0, 2,0,""
+4,v25,7,"Team B Start2",7888,7440,400,300,0,-3,  0,999,0,5,0, 2,1,""
+4,v25,8,"Team A Start3",14608,4352,400,300,0,-3,  0,999,0,5,0, 2,0,""
+4,v25,9,"Team B Start3",14592,7440,400,300,0,-3,  0,999,0,5,0, 2,1,""
+4,v25,10,"Downstairs TeamA NE",21824,3408,80,25,0,0,  0,500,0,500,10, 2,0,""
+4,v25,11,"Downstairs TeamA NW",19776,3408,80,25,0,0,  0,500,0,500,11, 2,0,""
+4,v25,12,"Downstairs TeamA SE",21824,3888,80,25,0,0,  0,500,0,500,12, 2,0,""
+4,v25,13,"Downstairs TeamA SW",19776,3888,80,25,0,0,  0,500,0,500,13, 2,0,""
+4,v25,14,"Upstairs TeamA NE",14144,3904,25,60,0,0,  0,500,0,500,14, 2,0,""
+4,v25,15,"Upstairs TeamA NW",11872,4096,80,25,0,0,  0,500,0,500,15, 2,0,""
+4,v25,16,"Upstairs TeamA SE",14144,4816,25,60,0,0,  0,500,0,500,16, 2,0,""
+4,v25,17,"Upstairs TeamA SW",11872,4592,80,25,0,0,  0,500,0,500,17, 2,0,""
+4,v25,18,"Downstairs TeamB NE",21824,6752,80,25,0,0,  0,500,0,500,20, 2,1,""
+4,v25,19,"Downstairs TeamB NW",19776,6768,80,25,0,0,  0,500,0,500,21, 2,1,""
+4,v25,20,"Downstairs TeamB SE",21824,7232,80,25,0,0,  0,500,0,500,22, 2,1,""
+4,v25,21,"Downstairs TeamB SW",19776,7232,80,25,0,0,  0,500,0,500,23, 2,1,""
+4,v25,22,"Upstairs TeamB NE",14128,6976,25,60,0,0,  0,500,0,500,24, 2,1,""
+4,v25,23,"Upstairs TeamB NW",11856,7200,80,25,0,0,  0,500,0,500,25, 2,1,""
+4,v25,24,"Upstairs TeamB SE",14128,7904,25,60,0,0,  0,500,0,500,26, 2,1,""
+4,v25,25,"Upstairs TeamB SW",11856,7680,80,25,0,0,  0,500,0,500,27, 2,1,""
+1,v25,42,"BlueMidShipsBulkHeadA",9856,3984,0,0,0,-3,    -1,0,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,47,"BlueMidShipsBulkHeadA1",9856,4016,0,0,0,-3,    -1,0,2,2, 0,42,0,0, DOORS,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,48,"BlueMidShipsBulkHeadA2",9856,4048,0,0,0,-3,    -1,0,2,2, 0,42,0,0, DOORS,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,61,"BlueMidShipsBulkHeadA3",9856,4080,0,0,0,-3,    -1,0,2,2, 0,42,0,0, DOORS,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,62,"BlueMidShipsBulkHeadB",9856,4624,0,0,0,-3,    -1,0,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,63,"BlueMidShipsBulkHeadB1",9856,4656,0,0,0,-3,    -1,0,2,2, 0,62,0,0, DOORS,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,97,"BlueMidShipsBulkHeadB2",9856,4688,0,0,0,-3,    -1,0,2,2, 0,62,0,0, DOORS,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,110,"BlueMidShipsBulkHeadB3",9856,4720,0,0,0,-3,    -1,0,2,2, 0,62,0,0, DOORS,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,111,"RedMidShipsBulkHeadA",9840,7072,0,0,0,-3,    -1,0,2,2, 0,0,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,112,"RedMidShipsBulkHeadA1",9840,7104,0,0,0,-3,    -1,0,2,2, 0,111,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,113,"RedMidShipsBulkHeadA2",9840,7136,0,0,0,-3,    -1,0,2,2, 0,111,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,114,"RedMidShipsBulkHeadA3",9840,7168,0,0,0,-3,    -1,0,2,2, 0,111,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,115,"RedMidShipsBulkHeadB",9840,7712,0,0,0,-3,    -1,0,2,2, 0,0,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,116,"RedMidShipsBulkHeadB1",9840,7744,0,0,0,-3,    -1,0,2,2, 0,115,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,117,"RedMidShipsBulkHeadB2",9840,7776,0,0,0,-3,    -1,0,2,2, 0,115,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,118,"RedMidShipsBulkHeadB3",9840,7808,0,0,0,-3,    -1,0,2,2, 0,115,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,119,"BlueMidshipsXsferSouthA",9296,4576,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,120,"BlueMidshipsXsferSouthA1",9328,4576,0,0,0,-3,    -2,-1,4,2, 0,119,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,121,"BlueMidshipsXsferSouthA2",9360,4576,0,0,0,-3,    -2,-1,4,2, 0,119,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,122,"BlueMidshipsXsferSouthA3",9392,4576,0,0,0,-3,    -2,-1,4,2, 0,119,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,123,"BlueMidshipsXsferNorthA",9296,4160,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,124,"BlueMidshipsXsferNorthA1",9328,4160,0,0,0,-3,    -2,-1,4,2, 0,123,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,125,"BlueMidshipsXsferNorthA2",9360,4160,0,0,0,-3,    -2,-1,4,2, 0,123,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,126,"BlueMidshipsXsferNorthA3",9392,4160,0,0,0,-3,    -2,-1,4,2, 0,123,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,127,"RedMidXferSouthA",9280,7664,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,128,"RedMidXferSouthA1",9312,7664,0,0,0,-3,    -2,-1,4,2, 0,127,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,129,"RedMidXferSouthA2",9344,7664,0,0,0,-3,    -2,-1,4,2, 0,127,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,130,"RedMidXferSouthA3",9376,7664,0,0,0,-3,    -2,-1,4,2, 0,127,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,131,"RedMidXferNorthA",9280,7248,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,132,"RedMidXferNorthA1",9312,7248,0,0,0,-3,    -2,-1,4,2, 0,131,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,133,"RedMidXferNorthA2",9344,7248,0,0,0,-3,    -2,-1,4,2, 0,131,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,134,"RedMidXferNorthA3",9376,7248,0,0,0,-3,    -2,-1,4,2, 0,131,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,135,"RedMidCrewSouthA",11232,7568,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,136,"RedMidCrewSouthA1",11264,7568,0,0,0,-3,    -2,-1,4,2, 0,135,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,137,"RedMidCrewSouthA2",11296,7568,0,0,0,-3,    -2,-1,4,2, 0,135,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,138,"RedMidCrewSouthA3",11328,7568,0,0,0,-3,    -2,-1,4,2, 0,135,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,139,"RedMidCrewNorthA",11232,7344,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,140,"RedMidCrewNorthA1",11264,7344,0,0,0,-3,    -2,-1,4,2, 0,139,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,141,"RedMidCrewNorthA2",11296,7344,0,0,0,-3,    -2,-1,4,2, 0,139,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,142,"RedMidCrewNorthA3",11328,7344,0,0,0,-3,    -2,-1,4,2, 0,139,0,0, DOORS,Metac,0,0,95,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,143,"BlueMidCrewNorthA",11248,4256,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,144,"BlueMidCrewNorthA1",11280,4256,0,0,0,-3,    -2,-1,4,2, 0,143,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,147,"BlueMidCrewNorthA2",11312,4256,0,0,0,-3,    -2,-1,4,2, 0,143,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,148,"BlueMidCrewNorthA3",11344,4256,0,0,0,-3,    -2,-1,4,2, 0,143,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,149,"BlueMidCrewSouthA",11248,4480,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,150,"BlueMidCrewSouthA1",11280,4480,0,0,0,-3,    -2,-1,4,2, 0,149,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,153,"BlueMidCrewSouthA2",11312,4480,0,0,0,-3,    -2,-1,4,2, 0,149,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,154,"BlueMidCrewSouthA3",11344,4480,0,0,0,-3,    -2,-1,4,2, 0,149,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,155,"BlueEngNorthA",14576,4032,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,156,"BlueEngNorthA1",14608,4032,0,0,0,-3,    -2,-1,4,2, 0,155,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,159,"BlueEngNorthA2",14640,4032,0,0,0,-3,    -2,-1,4,2, 0,155,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,160,"BlueEngNorthA3",14672,4032,0,0,0,-3,    -2,-1,4,2, 0,155,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,161,"BlueEngSouthA",14576,4704,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,164,"BlueEngSouthA1",14608,4704,0,0,0,-3,    -2,-1,4,2, 0,161,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,165,"BlueEngSouthA2",14640,4704,0,0,0,-3,    -2,-1,4,2, 0,161,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,166,"BlueEngSouthA3",14672,4704,0,0,0,-3,    -2,-1,4,2, 0,161,0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,167,"RedEngNorthA",14560,7120,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,168,"RedEngNorthA1",14592,7120,0,0,0,-3,    -2,-1,4,2, 0,167,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,169,"RedEngNorthA2",14624,7120,0,0,0,-3,    -2,-1,4,2, 0,167,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,170,"RedEngNorthA3",14656,7120,0,0,0,-3,    -2,-1,4,2, 0,167,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,171,"RedEngSouthA",14560,7792,0,0,0,-3,    -2,-1,4,2, 0,0,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,172,"RedEngSouthA1",14592,7792,0,0,0,-3,    -2,-1,4,2, 0,171,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,173,"RedEngSouthA2",14624,7792,0,0,0,-3,    -2,-1,4,2, 0,171,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,174,"RedEngSouthA3",14656,7792,0,0,0,-3,    -2,-1,4,2, 0,171,0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,175,"BlueEngBulkHeadA",14816,4304,0,0,0,-3,    -1,0,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,176,"BlueEngBulkHeadA1",14816,4336,0,0,0,-3,    -1,0,2,2, 0,175,0,0, DOORS,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,177,"BlueEngBulkHeadA2",14816,4368,0,0,0,-3,    -1,0,2,2, 0,175,0,0, DOORS,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,178,"BlueEngBulkHeadA3",14816,4400,0,0,0,-3,    -1,0,2,2, 0,175,0,0, DOORS,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,179,"BlueEngBulkHeadA4",14816,4432,0,0,0,-3,    -1,0,2,2, 0,175,0,0, DOORS,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,180,"RedEngBulkHeadA",14800,7392,0,0,0,-3,    -1,0,2,2, 0,0,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,181,"RedEngBulkHeadA1",14800,7424,0,0,0,-3,    -1,0,2,2, 0,180,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,182,"RedEngBulkHeadA2",14800,7456,0,0,0,-3,    -1,0,2,2, 0,180,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,183,"RedEngBulkHeadA3",14800,7488,0,0,0,-3,    -1,0,2,2, 0,180,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,184,"RedEngBulkHeadA4",14800,7520,0,0,0,-3,    -1,0,2,2, 0,180,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,185,"BlueAftBulkheadNorthA",12800,3984,0,0,0,-3,    -1,0,2,2, 0,0,0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,186,"BlueAftBulkheadNorthA1",12800,4016,0,0,0,-3,    -1,0,2,2, 0,185,0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,187,"BlueAftBulkheadNorthA2",12800,4048,0,0,0,-3,    -1,0,2,2, 0,185,0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,188,"BlueAftBulkheadNorthA3",12800,4080,0,0,0,-3,    -1,0,2,2, 0,185,0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,189,"BlueAftBulkheadSouthA",12800,4656,0,0,0,-3,    -1,0,2,2, 0,0,0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,190,"BlueAftBulkheadSouthA1",12800,4688,0,0,0,-3,    -1,0,2,2, 0,189,0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,191,"BlueAftBulkheadSouthA2",12800,4720,0,0,0,-3,    -1,0,2,2, 0,189,0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,192,"BlueAftBulkheadSouthA3",12800,4752,0,0,0,-3,    -1,0,2,2, 0,189,0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,193,"RedAftBulkheadNorthA",12784,7072,0,0,0,-3,    -1,0,2,2, 0,0,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,194,"RedAftBulkheadNorthA1",12784,7104,0,0,0,-3,    -1,0,2,2, 0,193,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,195,"RedAftBulkheadNorthA2",12784,7136,0,0,0,-3,    -1,0,2,2, 0,193,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,196,"RedAftBulkheadNorthA3",12784,7168,0,0,0,-3,    -1,0,2,2, 0,193,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,197,"RedAftBulkheadSouthA",12784,7744,0,0,0,-3,    -1,0,2,2, 0,0,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,198,"RedAftBulkheadSouthA1",12784,7776,0,0,0,-3,    -1,0,2,2, 0,197,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,199,"RedAftBulkheadSouthA2",12784,7808,0,0,0,-3,    -1,0,2,2, 0,197,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,200,"RedAftBulkheadSouthA3",12784,7840,0,0,0,-3,    -1,0,2,2, 0,197,0,0, DOORS,Metala,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v25,46,"BlueMidXferLockNorth",9460,4196,0,0,0,-3,    0, 123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,49,"BlueMidXferLockNorthA",9460,4100,0,0,0,-3,    0, 123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,50,"BlueMidXferLockSouth",9460,4612,0,0,0,-3,    0, 119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,53,"BlueMidXferLockSouthA",9460,4516,0,0,0,-3,    0, 119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,54,"BlueAftBulkHeadNorth",12756,3956,0,0,0,-3,    0, 185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,82,"BlueAftBulkHeadNorthA",12852,3956,0,0,0,-3,    0, 185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,83,"BlueAftBulkHeadSouth",12756,4628,0,0,0,-3,    0, 189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,145,"BlueAftBulkHeadSouthA",12852,4628,0,0,0,-3,    0, 189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,146,"BlueMidBulkHeadNorth",9812,3956,0,0,0,-3,    0, 42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,151,"BlueMidBulkHeadNorthA",9908,3956,0,0,0,-3,    0, 42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,152,"BlueMidBulkHeadSouth",9812,4596,0,0,0,-3,    0, 62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,157,"BlueMidBulkHeadSouthA",9908,4596,0,0,0,-3,    0, 62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,158,"BlueCrewNorth",11412,4196,0,0,0,-3,    0, 143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,201,"BlueCrewNorthA",11412,4292,0,0,0,-3,    0, 143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,202,"BlueCrewSouth",11412,4420,0,0,0,-3,    0, 149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,203,"BlueCrewSouthA",11412,4516,0,0,0,-3,    0, 149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,204,"BlueEngBulkHead",14772,4260,0,0,0,-3,    0, 175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,205,"BlueEngBulkHeadA",14868,4260,0,0,0,-3,    0, 175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,206,"BlueEngLockNorth",14740,3972,0,0,0,-3,    0, 155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,207,"BlueEngLockNorthA",14740,4068,0,0,0,-3,    0, 155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,208,"BlueEngLockSouth",14740,4644,0,0,0,-3,    0, 161,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,209,"BlueEngLockSouthA",14740,4740,0,0,0,-3,    0, 161,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,210,"RedAftBulkHeadNorth",12740,7044,0,0,0,-3,    0, 193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,211,"RedAftBulkHeadNorthA",12836,7044,0,0,0,-3,    0, 193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,212,"RedAftBulkHeadSouth",12740,7716,0,0,0,-3,    0, 197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,213,"RedAftBulkHeadSouthA",12836,7716,0,0,0,-3,    0, 197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,214,"RedEngBulkHead",14756,7348,0,0,0,-3,    0, 180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,215,"RedEngBulkHeadA",14852,7348,0,0,0,-3,    0, 180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,216,"RedCrewNorth",11396,7284,0,0,0,-3,    0, 139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,217,"RedCrewNorthA",11396,7380,0,0,0,-3,    0, 139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,218,"RedCrewSouth",11396,7508,0,0,0,-3,    0, 135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,219,"RedCrewSouthA",11396,7604,0,0,0,-3,    0, 135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,220,"RedMidBulkHeadNorth",9796,7044,0,0,0,-3,    0, 111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,221,"RedMidBulkHeadNorthA",9892,7044,0,0,0,-3,    0, 111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,222,"RedMidBulkHeadSouth",9796,7684,0,0,0,-3,    0, 115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,223,"RedMidBulkHeadSouthA",9892,7684,0,0,0,-3,    0, 115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,224,"RedMidXferLockNorth",9444,7284,0,0,0,-3,    0, 131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,225,"RedMidXferLockNorthA",9444,7188,0,0,0,-3,    0, 131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,226,"RedMidXferLockSouth",9444,7700,0,0,0,-3,    0, 127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,227,"RedMidXferLockSouthA",9444,7604,0,0,0,-3,    0, 127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,228,"RedEngLockNorth",14724,7060,0,0,0,-3,    0, 167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,229,"RedEngLockNorthA",14724,7156,0,0,0,-3,    0, 167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,230,"RedEngLockSouth",14724,7732,0,0,0,-3,    0, 171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v25,231,"RedEngLockSouthA",14724,7828,0,0,0,-3,    0, 171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0

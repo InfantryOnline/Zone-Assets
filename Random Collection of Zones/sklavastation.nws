@@ -1,0 +1,112 @@
+~B~0Skirmish~B
+
+~B~2-- ~0Overview ~2--~B
+
+The object is to find, capture, and hold between 3 and 6 flags at strategic points on the map.
+A team can win one of 2 ways, either by holding all flags for 20 seconds OR by having the most 
+flags at the end of the game timer. Each team has up to 40 players.
+
+(No Man's Land is the exception; NML the only objective is to shoot the enemy. In Skirmish at 
+Outpost Delta, When you die, you will respawn near a flag that your team owns. There is a limit 
+to it: The more ppl near the flag in question, the less likely anyone will respawn there. If you
+cant be placed, you will respawn at base.)
+
+Use the keywords ?score or ?flags at game start to keep track of flags.
+
+
+~B~2-- ~0Zone Rotations ~2--~B
+
+~B[SK] Lava Station~B
+~B[SK] Battle of Kliest's Ridge~B
+~B[SK] Skirmish at Outpost Delta~B
+~B[SK] No Man's Land~B
+~B[SK] LZ Assault~B
+~B[SK] Boarding Action~B
+~B[SK] Small Unit Tactics~B
+~B[SK] Sniper School~B
+
+
+~B~2-- ~0Voice Macros ~2--~B
+
+Voice Macros are EFFECTIVE. Dont be afraid to use them. Remember to use %coord to tell your map 
+coordinates!
+
+Voice Macro Sounds
+Bong #    Says:
+22	    Acknowledged
+23	    Affirmative
+24	    Attacking
+25	    Defending
+26	    Enemy Sighted
+27	    Request Summon
+28        Under Attack
+
+You can use these macros like this:
+//your message here %<bong number>
+For Example: //I am under attack! %28
+
+
+~B~2-- ~0Ranks ~2--~B
+
+Trooper		   5000
+Veteran Trooper 	   15000
+Squad Leader 	   25000
+Corporal		   50000
+Elite Corporal	   75000
+Sergeant             100000
+Elite Sergeant 	   150000
+SubLieutenant 	   200000
+Lieutenant	         265000
+SubCommander	   350000
+Commander	         400000
+Elite Commander 	   450000
+Captain 		   525000
+Elite Captain 	   600000
+Storm Commander	   1000000
+Campaign Commander   1500000
+Lord Commander       2000000
+Storm Lord	         3000000
+
+
+~B~2-- ~0Update Notes ~2--~B
+
+~B~2June 21st, 2006~B
+- Restored grenade and LAW drops on death.  
+- Players will drop 50% of Grenades or LAWs carried.
+- Configured the arena so that players will not spawn with LAWS in No Man's Land.
+
+~B~2June 16th, 2006~B
+- Player weapon trigger radius changed to match Skirmish League.
+- Ripper guns damage turrets and barricades.
+- Grenades and LAWS do not drop on the map on death.
+
+~B~2June 6th, 2006~B
+Skirmish was updated with the following changes:
+- Mines show up on Radar.
+- Inferno Projector no longer does DOT damage.
+- AP Mines do 80 HP damage and blast radius was reduced.
+- Demo Charge blast radius was decreased, outer damage was reduced to 12 (10% of Max)
+- Assault Trooper armour kinetic protection was reduced.
+- Incediary grenades no longer do DOT damage.
+- Ripper Gun ROF was reduced slightly.
+- Ripper Gunner equipped with Incinerator.
+- Repair Kit requires 2 second stand-and-fire.  Repair is announced via Yellow Icon (lets you know they are standing still and vulnerable)
+- Repair Kit repair reduced to 2.5% from 5%
+
+~B~2April 4th, 2005~B
+- GL damage was adjusted.
+
+~B~2January 6th, 2004~B
+- Sniper damage was lowered from 80/1 to 65/30
+- Ripper Gunners now get shotgun shells after a respawn.
+- Grenade Launcher splash radius was increased slightly
+
+Friendlies are now color coded on radar:
+- Grunts=Light Blue
+- Commanders=Green
+- Medics=Yellow
+- Snipers=Blue
+- Vehicles=Light Grey
+
+
+

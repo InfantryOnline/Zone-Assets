@@ -1,0 +1,34 @@
+1,v25,1,"Door",8976,480,0,0,0,-3,    -1,-1,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,bughuntsounds,DoorSound,0,0,None,None,0,0
+1,v25,2,"Door1",8976,512,0,0,0,-3,    -1,-1,2,2, 0,1,0,0, DOORS,Metala,0,0,0,0,0,150,None,None,0,0,None,None,0,0
+1,v25,3,"Door2",8976,544,0,0,0,-3,    -1,-1,2,2, 0,1,0,0, DOORS,Metala,0,0,0,0,0,150,None,None,0,0,None,None,0,0
+2,v25,4,"Switch",8932,452,0,0,0,-3,    0, 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",0,  0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,0,bughuntsounds,DoorSwitch,0,0
+8,v25,5,"Room1",1984,400,350,200,0,-3,    4,0,"Hey good lookin'. It sounds like someone has broken into your sweet apartment! Walk into the purple swirly box in the corner to start this tutorial and kick their ass!"
+8,v25,6,"Room2",3296,416,350,200,0,-3,    4,0,"Hm. They don't seem to be here, better hurry to the next room. Try not to bump into the walls to make any noise!"
+8,v25,7,"Room3",4688,432,350,200,0,-3,    4,0,"Oh! You're still in your pajamas! Press F11 to change into your sweet Tux!"
+8,v25,8,"Room4",6048,432,350,200,0,-3,    4,0,"It seems like one of the thugs is in the room next door! Press F10 to get some stuff so you can defend yourself! Make sure you pick the correct item!"
+8,v25,9,"Room5",7520,416,350,200,0,-3,    4,0,"QUICK! SHOOT HIM!"
+8,v25,10,"Room6",8800,416,350,200,0,-3,    4,0,"Phew. Thank God that was over! Quick, press the switch and open the door to get to the next room."
+8,v25,11,"Room7",10144,416,350,200,0,-3,    4,0,"Hm. Looks like that thug is in a pretty tricky position. Walking around that corner could be pretty bad. Perhaps you can bounce something off the wall to hit him?"
+8,v25,12,"Room8",11152,256,75,100,0,-3,    4,0,"That's the end of the tutorial! Step into each section for some more great tips!"
+8,v25,13,"Room8A",11344,256,75,50,0,-3,    4,0,"You can buy multiple items simultanously and instantly by creating a macro. Start by typing '?buy [item name]:#[amount]'. Remember, it has to be exact. To store the macro simply press shift + F1-F12 or Alt + A-Q"
+8,v25,14,"Room8B",11536,256,75,50,0,-3,    4,0,"Often people will be extremely mean and mess with (troll) you. You can ignore them by simply typing in '?ignore [player name]' and then typing '?ignoresave'. They will never bother you again, but remember to be a helpful person as well!"
+6,v25,15,"Room1to2",2272,528,40,40,0,-3,    -1,301,!3, 0,0,0,uiart,warp,0,0,0,19,0,0,None,None,0,0,0,0,0,0,sound_pack_1,appear1,0,0
+4,v25,16,"Room1to2",3024,256,0,0,0,-3,  0,300,0,300,301, 0,0,""
+6,v25,17,"Room2to3",3616,544,40,40,0,-3,    -1,302,, 0,0,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,sound_pack_1,appear1,0,0
+4,v25,18,"Room2to3",4416,288,0,0,0,-3,  0,300,0,300,302, 0,0,""
+6,v25,19,"Room3to4",5024,560,40,40,0,-3,    -1,303,!30, 0,0,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,sound_pack_1,appear1,0,0
+4,v25,20,"Room3to4",5728,288,0,0,0,-3,  0,300,0,300,303, 0,0,""
+6,v25,23,"Room4to5",6368,544,40,40,0,-3,    -1,305,, 0,0,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,sound_pack_1,appear1,0,0
+4,v25,24,"Room4to5",7216,272,0,0,0,-3,  0,300,0,300,305, 0,0,""
+6,v25,25,"Room5to6",7840,544,40,40,0,-3,    -1,306,, 0,0,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,sound_pack_1,appear1,0,0
+4,v25,26,"Room5to6",8496,224,0,0,0,-3,  0,300,0,300,306, 0,0,""
+6,v25,27,"Room6to7",9120,528,40,40,0,-3,    -1,307,, 0,0,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,sound_pack_1,appear1,0,0
+4,v25,28,"Room6to7",9872,240,0,0,0,-3,  0,300,0,300,307, 0,0,""
+6,v25,29,"Room7to8",10464,528,40,40,0,-3,    -1,308,, 0,0,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,sound_pack_1,appear1,0,0
+4,v25,30,"Room7to8",11168,256,0,0,0,-3,  0,300,0,300,308, 0,0,""
+6,v25,31,"Room1to4",2288,528,40,40,0,-3,    -1,309,!30, 0,0,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,sound_pack_1,appear1,0,0
+4,v25,32,"Room1to4",5744,304,0,0,0,-3,  0,300,0,300,309, 0,0,""
+1,v25,34,"Door3",8976,576,0,0,0,-3,    -1,-2,2,2, 0,1,0,0, DOORS,Metala,0,0,0,0,0,150,None,None,0,0,None,None,0,0
+4,v25,37,"Spawn Initital",1728,400,0,0,0,-3,  0,300,0,300,400, 0,0,""
+5,v25,21,"Thug",7728,448,0,0,0,-3,     1,400,400,1, 0,500,0,99999, 1,-1,-400, 9999,0,,0,9999, 0,0,0,0, -1
+5,v25,22,"Thug2",10320,288,0,0,0,-3,     1,400,400,1, 0,500,0,99999, 1,-1,-401, 9999,0,,0,9999, 0,0,0,0, -1

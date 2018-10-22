@@ -1,0 +1,276 @@
+~BMarch 22nd, 2011~B
+	ATTENTION ALL REFEREES:
+Minerals spawn in the dropship after a *RESTART.  What does this mean?  Mineral cheating is now impossible, and will cut out a lot of the delays in starting a match as a result.
+A game restart will wipe all minerals and premades from everyone unspecced (and possibly spectators as well, need to test).  However, it wouldn't hurt to do an *event hold1 command once both squads have their bench and starters sorted.
+
+~BOctober 21st, 2010~B
+Axidus:
+	(important updates)
+	Added teams Code/UND/PT teams with respective colors, let me know if they need adjusting
+	Fixed the .lvl file from downloading everytime (hopefully)
+	
+	(un-important updates)
+	Inserted a test to avoid picking up ammo when trying to hop on boards/packs
+	Added stadium warp to dueler
+	Dueler spawns in the class changing area by default (you dont need to ask for class prizes if you have this selected beforehand)
+	
+
+~BMarch 24th, 2010~B
+Carnilion:
+	Fixed the Future Lava which was in the changing room of dueling arena and the k2 base.
+	Changes Decoy and Canucks Uniforms.
+	Moved a7 switch nearer to where it was before the base was flipped.
+	D4, e8, c6 & c4 altered slightly.
+	Vision and phsyics bugs fixed.
+	 Added extra red physics to the bottom of the map to try to stop the spawn bug.
+	 Removed boxes in the Glad arena to make it less cluttered.
+	 Changed Mineral spawns. Now Spawn 15 tox/tso due to increased spawn areas.
+
+~BApril 12th, 2010~B
+	Map bug fixes
+
+~BMarch 24th, 2010~B
+Axidus/Carnilion:
+	Swapped one of the test bases on the TITAN side with a new one designed by Carnilion, up and to the left of D7 entrance
+	Added the missing items on ?buy wipe to erase.
+	Fixed the option for duelers to see hp (was only working on collective teams before)
+	*Prize Observer (Useful for helping newer players understand how to play using items that give visual aid)
+
+~BMarch 2nd, 2010~B
+Axidus:
+	Fixed bugs from last update (concerning the ?buy wipe)
+	Added an option to display/hide hp as a dueler
+	Practice Rocket/Mg/Plasma/Sentry upon Fantasia's request.
+
+~BFebruary 18th, 2010~B
+Axidus:
+	*Prize heal restores energy now as well as health
+	Duelers have an instant heal item now instead of stim packs
+	If you are a class and you are prized that same class, your inventory will no longer be wiped as a result.
+	If you want to wipe your equipment, simply type ?buy wipe (?wipecharacter will only work in spectator mode) 
+		You can do this an UNLIMITED NUMBER OF TIMES now.
+	Event hold3 will prize everyone the infantry class and give them a gladiator warp item (?away *goto is no longer required)
+	Teams Sov T/C was changed to Con T/C and given new colors
+	
+Bong List reorganized and added to. TeamChat uses #14-#28:
+
+Bong1=bongs,beep1
+Bong2=bongs,bleep04
+Bong3=bongs,violin1
+Bong4=bongs,ding1
+Bong5=SkinCTFVoiceClip,whale1
+Bong6=mbongs,mps1
+Bong7=mbongs,mps2
+Bong8=mbongs,mps3
+Bong9=mbongs,mps4
+Bong10=bongs,PrepareForBattle
+Bong11=bongs,objective
+Bong12=joe,aborted
+Bong13=SkinCTFVoiceClip,gameover
+Bong14=SkinCTFVoiceClip,cloakers
+Bong15=CTFSounds,SteronInject
+Bong16=CTFSounds,StepItUp
+Bong17=SkinCTFVoiceClip,basecritical
+Bong18=SkinCTFVoiceClip,flanking
+Bong19=SkinCTFVoiceClip,beacon2
+Bong20=SkinCTFVoiceClip,SummonHome
+Bong21=SkinCTFVoiceClip,nmesummon
+Bong22=CTFSounds,Acknowledged
+Bong23=CTFSounds,affirmitive
+Bong24=CTFSounds,attacking
+Bong25=CTFSounds,Defending
+Bong26=CTFSounds,EnemySighted
+Bong27=CTFSounds,Summon
+Bong28=CTFSounds,underAttack
+Bong29=CTFSounds,Promotion
+Bong30=SkinCTFVoiceClip,modalarm
+
+~BJanuary 19, 2010~B
+Joe:
+	-Added Myth's uniforms
+	-Added two test classes: Assault Trooper and Marauder, prizeable with the items "AT" and "Marauder". AT is a JT/Infantry hybrid class, while Marauder is an infiltrator alternative. More details can be found on ctfpl.org
+
+~BJanuary 2010~B
+	*Event Hold1 now only deprizes minerals from everyone, no exceptions
+	*Event Hold2 prizes Engineers: 150, Medics: 150
+	*prize Tso still gives 100
+	*prize Heal restores health
+	Added Bongs (revised in February update above)
+	
+~BDecember 20th, 2009~B
+	Command function for referees is complete (removes premades, minerals, adds class specific minerals 100 tso 150 tox, and does it to every player including the ones in spectator mode)
+	Uniforms fixed/changed
+	Zombie Event should be fully functional now
+	
+~BDecember 16th, 2009~B
+	Tso = 100 instead of 150
+	Tsolvy Crystals picked up easier by engineers
+	Steiner MG94k given (3,3) inaccuracy from (0,3)
+	Gravity Charge bounces off walls instead of disappearing (still in the phase of balancing this new weapon)
+	Flechette/BR given back to infantries
+	Fixed Event-related stuff.
+	Fixed Needler skill logic (not infils or hvys)
+	
+~BDecember 11th, 2009~B
+	Fixed some uniform colors, send me your colors! (Body, Helm, Arm/Leg)
+	Fixed some zombie event related stuff.
+	Use ?buy wipe (to wipe inventory)
+	Use *Prize Tox or *Prize Tso, no numbers required and shortened names
+
+~BDecember 8th, 2009~B
+	Sentry Hunter should work now, test it please!
+    Flamethrower reverted..(Armor stacking bugs ftl)
+    TEST: *Prize Tso, *Prize Tox (gives 150 of each, no need to do *prize tso:150)
+    New zombie graphic courtesy of Mode
+	Flechette Rifle - significantly less inaccuracy, still inferior to EB
+	Kuchler GL - raised prox. Originally 40, then 10, now 17
+	Squad Leaders can carry EMP mines now
+	Battle Rifles removed from infantries
+	Gravitron mk2 - Clip Size: 3, Energy Drain 150/100 from 100/80, hopefully this is a good alternative to EB for support classes
+	?buy wipe inventory (wipes your inventory, you can use this as a macro for quick setup changes)
+	
+~BNovember 13th, 2009~B
+    Rebalanced Items:
+    Flamethrower (+4/5 damage to Carapace at 0 energy)
+    Steiner MG/Titan MG (lowered minimum range, ROF increase)
+    Battle Rifles (beefed ROF's, reloads, clip sizes)
+    Gravitron (lowered clip size, actually works)
+    Kuchler GL (lowered proximity, move and fire now)
+    Haywire Grenade (inner/outer jam times)
+    Ceramax (-10% Thrust, 150% kinetic, toggleable, 0 energy usage)
+
+New Items:
+    Sentry Hunter (detects infils)
+    Kamanev AR410 (4-shot ar, no RG's)
+    Mini Missile Launcher (Smaller version of MML, useful for smaller bases)
+    Stealth Sensors (spot infiltrators)
+
+Fun Events:
+    Marines + Zombies (*Prize marine, *Prize zombie)
+    Gladiator (*Prize Gladiator)
+
+Zombie:
+    Only marines can be seen on radar, this is important for determining who
+    won the game
+    Plasma pistol copied and changed to blood spit
+    Terrain issues fixed
+    Zombies cannot hurt eachother
+    Marines can kill eachother, it shouldn't turn them into zombie if they
+    do (testing)
+
+
+~3~****************************************************************************************************************************
+****************************************************************************************************************************
+****************************************************************************************************************************
+Old Updates
+****************************************************************************************************************************
+****************************************************************************************************************************
+****************************************************************************************************************************
+
+~2~December 27th, 2008
+-CAW returned to normal. Test over.
+-Minor edits at F4 and A5 for balance.
+
+~2~December 26th, 2008
+-Flamethrower's drain has been upped to be on par with Incinerator. It now
+is the same as Incinerator except for +1 kinetic, +10% velocity, and +2KG
+weight. Graphic also been made more realistic.
+-F4 has some slight modifications as we get closer to balance.
+
+~2~December 23th, 2008
+-F4 been modified significantly for balance. Hopefully this works a little
+better.
+-After gaining some support for the color coded beamers, one of the more
+controversial tests we're trying, we've taken Electron Beamer out of the
+store for now. Let's try with just the color coded ones for awhile now.
+-Flamethrower's reload delay has been reduced, to the same time as
+Incinerator. It's weight has been increased to 8kg, to make it harder to
+carry than Incinerator, but to compensate, fuel canister weight was lowered
+from 0.055 to 0.04kg, and max capacity increased to 120.
+
+~2~December 22th, 2008
+~BBases:~B
+-F4 has been replaced with a new base similar in structure to A7. Please
+test this over the next week so we can fix it for balance.
+-A5's pre flag room has been returned to how it was in Season 13. The pre
+flag room choke lips have been extended on both sides. The upper portion of
+A5 remains how it was in Season 14. We hope this will strike a better
+balance between A5's strength in S13 and weakness in S14.
+
+~BItems:~B
+-Flamethrower. This is an alternate incinerator available only to
+Infantries. It has +1 kinetic damage compared to Incinerator, +10% velocity,
+20% less energy drain, and a 50% longer reload delay.
+-EMP Mines. These have been upgraded from 200 energy drain to 300 energy
+drain (for reference, Bullet Mines have 200, AP mines 300, Plasma Mines
+400). Also, max capacity increased to 10.
+-Electron Beamers. Class specific, color coded electron beamers have been
+added to the store. The normal electron beamer is still available for all
+classes if you want to use it. The only gameplay difference aside from color
+is a reduction in trail length, which is present on all electron beamers.
+-CAW. CAW's switch delay has been reduced from 2.5 to 2.0 seconds.
+-Flechette Rifle. Flechette's kinetic damage has been increased from 10 to
+12.
+-Steiner MG94k. Steiner's velocity has been increased by 25%.
+-RPG. RPG's proximity has been reduced to the same size as Recoiless
+Rifle's. Don't pay much mind to the size of the reduction in numbers, as
+graphics are still the main defining factor for proximity. To compensate for
+the reduction in proximity to normal levels, RPG's outer damage has been
+increased by 5 explosive. Also, as a side effect of normalizing the
+proximity, the "pull effect" has been almost completely removed. RPG's
+bounce effect is still of the same magnitude, but the unproportionate
+proximity in relation to graphics was what was causing the illogical
+bounces.
+-Dropship Recall and Suit Teleport. Both have been changed from a 10 second
+inventory dependent load to a 20 second standalone load. Invisible loads
+WILL still be present, however you will now know they absolutely will be
+reloaded 20 seconds from the last time you used them.
+-Autogun MG Kit. This has been changed from a 10 second dependent load to a
+15 second standalone load. Again, same thing as above in regards to
+invisible loads. Same changes made on Rocket and Plasma Kit.
+
+These changes are all tests that we will be testing over the course of the
+offseason. None of these changes are confirmed.
+
+
+
+
+
+
+~2~4[Old]~2~4
+~b~0The CTF Players League is Infantry's CTF-based league.
+The league supports casual and competitive play on the Twin Peaks map. For
+more details, see our website (http://ctf.goblin1.com). [Last updated on
+11/19/06]
+
+Registering an account on the CTFPL Website is a requirement for
+participation in CTFPL. You must use your in-game Infantry alias, this WILL
+be the alias used for CTFPL play. If your alias is already taken by somebody
+else, please contact a CTFPL staff member in-game. There will be a limit of
+one alias, not modifiable, per Station ID. Note: After registering, you must
+go to the Members Section and Subscribe to be eligible for CTFPL play and
+zone access.~0~B
+
+
+~B~4Welcome to CTFPL~0~B (~011/17/06~0)
+~B~2CTFPL is currently in its 11th season.
+
+A list of the current CTFPL Staff, Rules, and also Awards can be found in
+the help menu now.
+
+We hope you enjoy the new uniform colors. If you want a uniform color
+change, we can't guarantee it will be done immediately upon your request.
+New squads entering the league mid-season may request uniform changes, but
+they will not be guaranteed. Custom uniforms are not mandatory, and they are
+on the bottom of the priority list for CTFPL.
+
+We want to keep away from putting up any news here because it will take a
+while to update. We recommend that you visit our CTFPL website for the most
+up-to-date news. It is currently being hosted by Green Goblin. The website
+URL is http://ctfpl.goblin1.com.
+
+Please feel free to contact any of the admins or head refs on the website if
+you have any questions, comments, concers, or even suggestions.
+
+Enjoy the Season!
+-Beso [CTFPL Administrator]~0~B

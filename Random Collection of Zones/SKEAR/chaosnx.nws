@@ -1,0 +1,564 @@
+Chambert's Tournament
+
+
+~b~4Zone Notice~2~B
+CT's Creators: NiTe & Xelos
+CT's Current Developer: Skear
+
+To the players: Welcome back! Chambert's Tournament has reopened! Its been 3-4 months since you
+have last participated and a plethora of updates have made. Middle spawn has been reintroduced,
+Alien's skill progression fixed, many adjustments to weapons & equipment and NEW gear has surfaced 
+in the market! Time to get suited once again, crush alien tail and take on Chambert's Tournament!
+
+
+~2~4Zone Updates~2~B
+
+
+
+~b~4December 2011~2~B
+
+Update 12.2
+
+Cyborg Development & Bug fixes over the next few updates.
+
+
+Update 12.1
+
+Ok, last update was kind of lol. But its time to get a little bit more serious.
+
+-Kill rewards scaled back down.
+-Flag & Koth rewards increased.
+-Flags: 2 Non carry flags spawned at Hospital and Storage. One carriable flag worth most reward.
+-Beefed Lunar Lance (Formerly known as Lunar Flail)
+-Cyborg somewhat operational now, try it out at your own risk.
+-Return of Fallen Warrior, drops 20k cash.
+-Blood changes.
+-SMG Toaster: Ammo Capacity reduced 10 to 8.
+-Added Temporary Cyborg weapons: Gravitron and 606. Ha!
+-Maklov AA Shotgun: Increased electronic damage (Anti Alien) and removed kinetic.
+-No longer switch from human to Acerbos.
+
+Update 12
+
+Ive changed everything to somewhat free. Realistically, progression in CT is a impossible due to population numbers so what I've done
+is made blood sellable for 2000 each and 20 is dropped every death. =40k A Human death. Humans can also pick up blood now.
+I have also beefed up experience gain for you aliens out there.
+
+-Added Lunar Flail
+-Added Saber Whirlwind
+-Team Sizes reduced.
+
+Enjoy.
+
+
+
+~b~4November 2011~2~B
+
+Update 11.2
+Experience required removed from all Taunt Launchers.
+STG's reload delay increased 100 to 150.
+Flags set to spawn evenly across the map.
+Rocket Launcher FMK34 - Thrust: Now uses 15 Rockets.
+Fallen Warrior spawns randomly on the map and drops cash when killed.
+
+Update 11.1
+Enraged Spirits: Reload Delay increased 200 to 275 & Energy Cost increased 20 to 30, increased prefire.
+Rocket Launcher FMK34 - Thrust: Vertical increased 1000 to 2000, Fire Delay Other increased 75 to 100,
+and Self Damage being adjusted.
+Zombie Guardian should die now.
+Turned Coord C4 area into a larger structure meant for basing and includes a medibot that spawns 2 kits.
+Hospital now spawns 3 medikits instead of 5.
+Dart spawn moved slightly west.
+Sniper & Hyper debated, so playing with it. For now its back but, the energy cost is larger than before.
+Sorry about the missing physics.
+
+Update 11
+Enraged Spirits: Changed visuals & is now stand and fire.
+Added Rocket Launcher FMK34 - Thrust (Found in Equipment-Gagets)
+Freedom Fighter may now use Net Launcher.
+Master Gewehr Carbine Sniper: Damage increased 25 to 28.
+Reduced number of Electron Grapplers to one total and increased stun effect & reload delay.
+Goggles X-Ray: Recharge rate adjusted from -200 to -150.
+Small Monopole changes.
+Permeable: Energy rate removed.
+Winter Locust: Gauss Chin Turret added.
+Uni-1 Holocaust: Damages everyone but self.
+Mind Tempest: Energy cost increased 40 to 60.
+Assault X: Uses Mind Storm explosion instead of Mind Tempest.
+Alien Reversion: Works properly, stand still for about 5 seconds.
+Morph Suits: Reload delay increased 100 to 500.
+Barricade Kit: Now also used by Tanker & Conscript.
+
+~b~4September~2~B
+
+-X Corp Pulse Rifle: Reload Delay increased 175 to 200, KinDamage reduced 24 to 20, ExplDamage reduced 7 to 5. Price Increased to 100k.
+-Smiley,EZ,$$ Launchers for 200k added to the new Parody category. Weight also decreased.
+-Binocular Vision: AntiCloak distance increased 400 to 550. Weight reduced 2 to 1.5.
+-IR Sensitive Receptors: AntiCloak Distance increased 500 to 800. Weight reduced 3 to 2.
+-Ocular Phototorefractive Film removed for now.
+-Toxin Class A,B,C Darts: Use Electronic Damage instead of Kinetic.
+-Agent W,X Cartridge: Use Electronic Damage instead of Kinetic.
+-Net Launcher: Firing sound adjusted.
+-Force Vault: Vertical increased to leap Orange physics.
+-Fitted Ultra Light Equipment: Movement percentages reduced by half.
+-Custom Light Equpment: Movement percentages reduced by half.
+-Auto Turret Kit: Must stand still to build now.
+-Extend Cloaking Field: Cloak Distance reduced from 160 to 150, Stealth Distance reduced 180 to 175.
+-Phantom: Energy Cost reduced 200 to 125, Damage increased 30 to 40.
+-Mk7 HEI rounds: Energy cost added is now 65.
+-Sacrifice: Ignore Damages increased 3 to 5 & Expires after 16 seconds now.
+-Inspire Teammates: Ignore Damages increased 1 to 3 & Expires after 20 seconds now.
+-Force Wall: Friendlies can now walk through & enemy cannot. 
+-Snipers: Hyper Cost reduced 200 to 150.
+-Bounty Hunter: Normal weight increased 25 to 27 and Stop Weight increased 30 to 35.
+-New Evoker weapon added: Enraged Spirits.
+-Zombie Gaurdian should drop 5 Holo-Taunt GG.
+-Vehicle Crush: Fire Delay increased 100 to 200.
+-Pzkpfw XIII M Tank: Added SMG Turret.
+
+~b~4August~2~B
+
+-Eggs act more like mines now and explode over time.
+-Bile: Damage increased 17 to 22, Outer damage increased 14 to 18. Acid Blood damage increasd 8 to 10..
+Outer increased 5 to 8.
+-Major bug fixed.
+-Psycho Projector 'Comrade' damage increased 5 to 8 & Outer increased 3 to 6, Anti thrust reduced 5 to 3.
+-Renamed Toxii Biological Attachment & COst reduced.
+-Uni-1'Holocaust' only hurts enemy now.
+-Alien Spit Darts damage increased by 2.
+-Broodling's damage increased 7 to 10.
+-Bizarre Abduct reload delay increased 250 to 300.
+-Strange Abduct reload delay increased 275 to 330.
+-Weird Abduct reload delay increased 300 to 360.
+-Abduct's outer damage increased by 5.
+-Center spawn returned to former glory.
+-Minor Map Changes.
+-Phosphorus Attempt Delay decreased 4500 to 4200.
+-X Corp Electron Flail weight decreased 10kg to 9kg.
+-Psi Energizers prices increased by 5k.
+-All Plates weight reduced slightly.
+-PiggyBack: Velitor rotation should be independent of Titans.
+-Radioactive Ball Kit added.
+-Crown time reduced.
+-Pandoran Crossbow: Shadow added is slightly less visible than Xbow ZH.
+-Recall Device: Switch Time increased 0 to 50 & Price increased to 100.
+-Assassin Teleport switch time increased to 150.
+-Assault X: Energy Cost increased 30 to 45, Ammo Cost increased 4 to 7, Ammo Capacity reduced 3 to 2.
+-Glowing Egg price reduced 100k to 50k.
+-Minigun Slayer & Terminator Damage increased 2 to 3.
+-Energy Miniguns: Muzzle velocity increased 3500 to 3650.
+-Ifrit Energy Minigun damage increased 14.5 to 15.
+-Sniper's hyper energy cost increased.
+-Hurdle & Force Vault leaping ability increased slightly.
+-Tongue & Bile progression should be fixed.
+-Alien Reversion should work now.
+-Hand Flamers weight reduced by 1.
+-Net Launcher weight reduced 8 to 5.
+
+~b~4March 21,2011~2~B
+
+-Claws changed to 0 Fire Delay Other.
+-Firebreaths changed to 75 Fire Delay Other.
+-Spits changed to 150 Fire Delay Other.
+-Gauntlet & Saber Changes...
+-Adrenaline Blood use reduced 15 to 10.
+-Haste's Crystal use reduced 30 to 25.
+-Force Pull & Push Crystal use reduced 15 to 10.
+-Auto Turret uses correct projectile & now uses 10 Tox.
+-Permeable weight carried increased to match Mystics.
+-Fireball blood use reduced 25 to 20.
+-Lockdown Prox Radius reduced 10 to 8, Gravity Accel removed, Blast Radius reduced 100 to 64.
+-Alien Reversion now requires 10 Energy to use & Must stand still and wait 2.5 seconds to use.
+-Assassin Teleport weight increased 1kg to 2kg & Asynch reload delay increased 30k to 60k.
+-Koth rewards reduced slightly & Start Delayed increased 90 to 120.
+-Fixing logics...
+
+
+~b~4March 14,2011~2~B
+
+
+Bug Fixes:
+-Grenade Mk3 skill logic.
+-Adept Firebreath skill logic. FOR SURE.
+-Fmk1 Pistol no longer fired in DropShip.
+-Fusion Torch Kit: Restricted to Mr.Fixit use only.
+-Weapons used in Permeability fixed.
+-No longer pick up flags in Permeability.
+-Delay to quit on Road added.
+-Mind Storm & Tempest no longer used in Morph forms.
+-Sensor Arrays & Reinforcement Armors no longer used in Permeability. 
+-Can't Warp to players in Burrow or Permeable.
+-Agent W no longer works on vehicles.
+
+Koth/Flag/Rewards:
+-All rewards have been scaled back down.
+-Bounty PercentToKiller reduced 120 to 95.
+-May now join a winning flag team.
+
+Weapons:
+-More fire delays added.
+-Gauntlets weight decreased 4kg to 1kg.
+-Slashes switch times reduced by 5.
+-Gauntlets: Now limited to only 1 of the 3 Gauntlets.
+-Force Tornado & Whirlpool renamed to Saber Tornado/Whirlpool. May now use with Saber regardless of Gauntlets.
+-AT Mines: Spy & Sniper cannot use now.
+-Mk7 PGU-13/B HEI: Reload Delay increased 475 to 485, Prefire Delay increased 50 to 53, Blast Radius reduced 45 to 30, Energy Cost increased to 50.
+-Crossbow ZH moved to Crossbow section
+-Bolt Empowered: Bounce count reduced 4 to 3.
+-Force Summon uses 175 crystals a shot instead of 5.
+-All Charger/Discharger are independent of the original version, Weights increased & price increased to 25k.
+-Force Haste: 10 Sec Duration, Crystal Cost reduced 35 to 30 & switched to async reload.
+-Haste: 15 Sec Duration & Veh Rotation increased from 50 to rightful spot, 165 & Crystal Cost reduced 35 to 30.
+-Buff radiuses increased.
+-X Corp Electron Flail price dropped 120k to 90k.
+-Ironfist: Alive time increased -1500 to -1475.
+-Barrier: Crystal usage increased to 4 to 10.
+-Lockdown: No longer explodes & Prox increased 8 to 10.
+-Colt Revolver +3: Damage reduced 8 to 6, Reload delayed increased 180 to 210, Capacity reduced 4 to 3.
+-Radioactive ball: Anti Recharge removed & Anti Fire added.
+-Bio Pulse Rifle: Energy Cost reduced 25 to 19.
+-Bio Pulse Rifle Mod1: Energy Cost reduced 25 to 21.
+-Bio Pulse Rifle Mod2: Energy Cost reduced 25 to 19.
+-Force Pull & Push Crystal usage increased to 15.
+-Force Pull: Reload delay increased 300 to 500.
+-Mind Storm: Uses 5 crystals instead of 4.
+-Mind Tempest: Uses 7 crystals instead of 5.
+-Agent W/X: Reload delay increased 100 to 150, Slowing effect reduced by half.
+-Xbows: Alive times reduced 1000 to 900.
+-Nanobiode Medical Kit: Energy Cost reduced 200 to 175 & Phos cost increased 10 to 15.
+
+Vehicles/Driver:
+-Damage Control Kit removed. *For now.
+-Konigstiger: 120 HE Shell Prox reduced 50 to 40 & Blast Radius reduced 70 to 67.
+
+Humans:
+-Outcast: Spawns with Saber now.
+-Contam,Evoker,Freedom Fighter,Infantry,Praetorian,Purifier,Terrorist Backward Thursts reduced 70 to 65.
+-Infantry: Thrust reduced 70 to 65.
+
+Aliens:
+-All fire delays added to Alien Evolutions & Specialties. Yes, you read that right.
+-FireBreath weights increased accordingly.
+-Tongue, Bound, Bile, Body Molt are now attribute based.
+-Burrow restricted to Titan use only.
+-All Fireballs use 25 Blood.
+-Eggs now have a 100 prefire delay & graphic to indicate its being fired.
+-FireBall Flames: Inner damamge reduced 7 to 4 & Energy damage reduced 80 to 70.
+-Adrenaline Flux restricted to Velitor use.
+-All Adrenaline ammo used increased 5 to 15.
+-Abducts reload delays increased by 25.
+-Revolting Bile: Kinetic Damage increased to 19 & Horrendous Bile: Kinetic Damage increased to 21.
+-Broodlings: Kinetic Inner Damage increased 5 to 7.
+
+Map:
+-Filled empty areas with red physics.
+-Can no longer flag on island.
+-Center Spawn's range increased to cover around the stadium.
+-Removed voids.
+
+Additions:
+-Saber Throw.
+-Zombie may have just got stronger. :O
+-Auto Turret added to Mr.Fixit.
+
+~b~4March 7,2011~2~B
+
+Bug Fixes:
+-Alien Transcend reloads now.
+-Cash bugs have been addressed.
+-Adept Firebreath's skill logic repaired.
+-Eryx can no longer be used in DropShip.
+-Coord Kirrer Fixed.
+-Burrow & Permeability expired and sent you to DS. Fixed.
+-MAS Crossbow Dart (Poisoned) spelled correctly. zzz
+
+Aliens:
+-Revolting Bile & Horrendous Bile: Reload delay reduced 1000 to 550.
+-Appalling Bile: Electronic damage increased 10 to 17 & Reload delay decreased to 550.
+-Bile Adds.: Kinetic damage increased 5 to 8 & Energy drain increased 50 to 65.
+-Titan Piggyback sells back for cash now.
+-Scales T & TT: Best explosive damage protection & other protections increased slightly.
+-Velitor's overall speed increased to match Outcast's at this point.
+-Asynch'd all Alien Spits. Happy guy?
+-Wretched Claws: Kinetic damage increased 4 to 5 & Energy damage increased 60 to 65. This inturn beefs Adept Claws.
+-Mental - Neural Crest Cells: Psionic Prot(Ignore Damage/Percent) - Increased 1/100 to 2/150.
+-All Egg's outer damage increased.
+-Bound experience requirement reduced 500k to 100k.
+-Adrenaline Flux increased 10% to 20%
+-Adrenaline Rush increased 30% to 35%.
+
+Weapons:
+-Delays on most weapons have been implemented. Should be a lot less pewpew.
+-FlameThrower: Reload Delay increased 200 to 250 & Capacity reduced 15 to 12.
+-Monopole: Switch weapon time increased 10 to 25.
+-Chargers & Dischargers weight decreased by 2-3.
+-Hand Flamer kinetic damage increased 4 to 6.
+-Hand Flamer 2 kinetic damage increased 4 to 6.
+-Hand Flamer 'Hellfire' kinetic damage increased 2 to 4.
+-Paired Uzis weight increased 4kg to 9kg.
+-Bounces on Energy SMG's reduced to 1
+-Energy SMG "Heater" fire delay increased 17 to 20 (Same as CM), Energy cost increased 8 to 9.
+-"Heater" & "Liberator" damage reduced 8 to 7 & energy drain reduced 100 to 95.
+-Energy SMG "Liberator" energy cost increased 6 to 7. Scaled due to above.
+-Boomerang energy cost increased 0 to 30, kinetic damage increased 17 to 18.
+-Mk Grenades lost Point Blank & other small changes...
+-Haste & Force Haste: Crystal cost decreased 50 to 35.
+-Rocket Launcher FMK45 Removed.
+-Rocket Launcher FMK35,37,45,47 weight increased to 15kg.
+-Gauss Rifle: Ammo capacity reduced 10 to 8.
+-Assault Laser K1: Energy cost increased 10 to 11.
+-Assault Laser's Energy Drain reduced 70 to 35.
+-Eryx: No longer used by Skirmisher branch & Sniper branch.
+-Haste: Thrust, Speed & Hyper speed increased from 150% to 165%.
+-Suicide Vest: Must wait 60 seconds after using to use again.
+-Mk7 HEI Round: Bypass damage increased 0 to 15 & Reload delay reduced 500 to 475.
+-MP 80 & 90: Damages increased by 1.5 increments.
+-Molotov Cocktail: Kinetic damage reduced 20 to 12 & Flames energy drain reduced 35 to 25.
+-Tsunami: Psionic damage increased 8 to 10 & Reload delay reduced 1000 to 500 & Now requires 50 nrg to shoot.
+-Wave & Tide: Wave=25 Energy Req & Tide=12 Energy Req.
+-Gauntlets weight increased from 1 to 4.
+-Gauntlet Slashes switch delay increased by 10 all around.
+-Mind Storm: Uses 4 crystal per shot & Energy Cost set to 30.
+-Mind Tempest: Uses 5 crystal per shot & Energy Cost set to 40.
+
+Equipment/Armor/Ammo:
+-Goggles (ANV) Anti cloaking & stealthing increased 300 to 335.
+-Foglet Cloak: Time to recloak after shooting increased 25 to 30.
+-Anti Warps weight increased slightly.
+-Foglet Cloak: Recharge rate adjusted 0 to -15.
+-Phantmom Device: Recharge rate adjusted to -25.
+-Many weapon & equipment's sell back price cut by 25% or 50% of the Buy price.
+-Psionic Crystal ammo price reduced from 5 to 4.
+-Concentration now creates 75 instead of 50.
+-Deep Concentration now creates 125 instead of 100.
+-Psi Energize through Recharge: Fire Delay Other increased 1 to 50.
+-Grenade weights increased slightly.
+-All Radar Maskers recharge rate increased -50 to -43 & Prices droped.
+-Cloaks prices increased 50k for Interphasing & 100k for Phantom Device.
+-Armor Reinforcements require experience to use now. 50k->75k->100k
+
+Koth/Flags/Rewards:
+-Experience KillReward increased 10 to 165. Lol Sorry about that, Aliens.
+-Cash share radius increased.
+-Cosmo Objective added.
+
+Humans:
+-Skirmisher: Roll rotate decreased from 1600 to 1400. (Same as CM)
+-Skirmisher: Top Speed reduced 2350 to 2310.
+-Sharp-Shooter: Hyper Top Speed increased from 2500 to 2600 & Top Speed increased 2050 to 2100.
+-Sniper branch: Hyper Thurst increased 95 to 97.
+-Heavy Infantry branch: Backward thurst reduced 50 to 46.
+-Rocket Soldier: Top Speed reduced 1575 to 1545 & Thrust reduced 60 to 58.
+-Driver branch no longer given free Titanium Oxide.
+-First Aid removed from Skirmisher.
+-Outcast: Strafe Thurst increased 75 to 77.
+-Infantry: Carry weight increased 30 to 32.
+
+Vehicles/Driver:
+-XIII M Nanokit removed from Tanker intial inventory.
+-Medium Tank tox requirement increased 30 to 50.
+-Light Tank tox requirement increased 10 to 25.
+-Price of tanks XIII C & M increased to 50000.
+-Barricade Kit: Cash cost reduced 15000 to 7000 & Useable by Mech Experts now.
+-Experience requirement on Konigigstiger=100k & Atlas=75k
+-Vehicles costs $$ per build, more information listed in descriptions.
+-Medium Tank: Top Speed reduced 2000 to 1750 on Road.
+-XIII C & M Hit Points increased 175 to 200.
+-Konigstiger: HE Shell Prox reduced 60 to 50.
+-50mm HE Shell: Kinetic damage increased 20 to 27 & Explosive damage increased 25 to 35.
+-85mm HE Shell: Kinetic damage increased 30 to 34 & Explosive damage increased 30 to 38.
+-DFMK Rocket Launcher: Reload Delay reduced 400 to 345.
+-Time takes to hop back in vehicles increased from 300 to 355.
+
+
+New Additions:
+-FMk1 Pistol added.
+-X Corp Electron Flail added. (Drains large amounts of enemies energy)
+-Holo-Taunt GG Launcher added.
+-aaerox is aliveeeee! >:S
+-Mind Coercion added. (2nd best Psi armor)
+-Alien Reversion added to aliens, returns you to DropShip.
+
+
+Also due to me being a bad dev & having the zone wiped, kill/flag/koth rewards increased for the week.
+
+
+~b~4March 4,2011~2~B
+
+Sorry for CT's delay...
+
+-Fixed some issues within CT & other small changes...
+Enjoy!
+
+~b~4February 25,2011~2~B
+
+-Monopole: Alive time increased from 30 to 35. Gravity Accel switched from 0 to -1.
+-Lunar Objective no longer can be dropped in DS.
+-Lunar Objective spawns at 10 players.
+-Moon Objective added, we'll see how this plays out.
+-Barricade restricted to Mr.Fixit use only.
+-Suicide Vest: Shrapnel Kinectic damage increased 6 to 8 and Energy Drain Damage increased 50 to 60.
+-Radius on Extend Cloaking & Stealth, Inspire Teammates & Sacrifice have been increased.
+-Sacrifice now grants the right buff.
+-Mini-Launcher: Explosive damage reduced from 15 to 12.
+-Napalm and Molotov Cocktail's flames damage reduced from 15 to 4 & Energy drain 120 to 35.
+-Molotov Cocktail: Explosive Inner Damage increased from 20 to 25.
+-Napalm Cocktail: Kinectic Inner Damage increased 4 to 5 & Explosive Inner increased 10 to 15.
+-Issue of Titan losing Firebreath at Level 30 Flame worked around. Titan Firebreath added.
+-Mental Implant weight increased from .15 to .25
+-Mind Screen weight increased from .25 to .50 & Recharge rate decreased -2 to -3.
+
+
+~b~4February 23, 2011~2~B
+-Monopole - Muzzle Velocity, Inherit Speed, Alive Time have been increased.
+-Net Launcher's explosion graphic fixed.
+-Blue Physic's value updated.
+-Barricade moved to Driver-Equipment section.
+-Targeting Projector removed.
+-Extend Cloaking & Stealth should work now.
+-Sacrifice & Inspire Teammates should work now.
+-Minigun Terminator - Damage slightly increased.
+-More 0 sell back weapons.
+
+
+~b~4February 2, 2011~2~B
+-Skirmisher & Hunter no longer spawn with wrong molotovs.
+-Alien Abducts reload delays decreased slightly.
+-Fusion Torch is sold by using ?sell Fusion Torch.
+-Napalm Cannon 1 & 2 damage increased.
+-Uni-1 Holocaust damage increased.
+-Monopoles: More Inherit, Muzzle Velocity, Decreased damage.
+-Skorpion SMG sellable.
+-Burrow unoccupied dissappears after 1 min and 30 sec & other small changes.
+-Net Launcher energy requirement reduced 150 to 100.
+-Minigun Terminator damage increased.
+-Nanobiode Medical Kit: Energy requirement 250 to 200 and overall heal increased.
+-Booster Systems now available to all skirmisher classes. Weight also increased.
+-Velitor's Leap now requires 15 Str and 20 Agility.
+-Physics back on >_<
+
+Items in testing:
+-Extend Cloaking Field
+-Extend Stealth Field
+-Sacrifice
+-Inspire Teammates
+-Targeting System
+
+Items removed:
+-Heisenberg Stabilizer :(
+-De-Morph
+-Surface
+
+
+~b~4February 1, 2011~2~B
+-All basic weapons/armor rewarded now sell back for 0.
+-Added Barricade to Mech Expert & Mr Fixit.
+-Maklov & MAS Shotgun no longer useable in DropShip.
+-Alien Abducts reload delays increased.
+-Molotov Cocktail & Napalm damage reduced. Shouldnt wtf ohko now.
+-Molotov now restricted to Skirmisher & Freedom Fighter use.
+-Napalm Cocktail now restricted to Hunter only.
+-Fusion Grenade now droppable.
+-Heavy Gunner can now use Fusion Grenade.
+-Atlas's Dual Pulse Laser; Now 5 Shot Capacity and 250 Reload Delay.
+-Assassin Teleport now works properly.
+-Updated missing item descriptions.
+-Added Net Launcher to Bounty Hunter (Resembles Cob Webs)
+-Booster Systems reimplemented.
+-Burrow now lives for 5 minutes Unoccupied.
+-Permeability now lives for 8 seconds Unoccupied & Restricted to Mystic use ONLY!
+-Nanobiode Medical Kit should heal instead of kill.
+-Added an extra gas canister to Uni-1 'Holocaust', should deal more damage overall.
+-Both Napalm Cannon's explosion burn longer before dissappearing. Napalm Cannon 2 now deals damage from directly hitting targets.
+-All Monopoles now have more Inherit and Velocity. In other words, should be easier to throw and hit with.
+-Added a flag that can be carried & periodically rewards.
+-Map changes to function with flagging.
+
+
+Items in testing:
+-Heisenberg Stabilizer
+-Extend Stealth Field
+-Extend Cloaking Field
+-Targeting System (May replace Heartbeat Sensor)
+-HE Grenade Launchers
+-Sacrifice
+-Inspire Teammates
+
+
+Items removed:
+-Heartbeat Sensor
+-PDU Plus (Psycho)
+-Ressurection
+-EMP Shockwave
+-Scout Information
+-Cloak Field Dampener
+-Stealth Field Dampener
+
+
+~b~4June 18, 2009~2~B
+-All alien biles should be set properly now
+-Increased speed of abduct drop
+-Spirit and Ironfist missles should work now
+-Mind storm/Tempest damage should work properly
+-Changed upper level alien flame to not be a spread
+-Evoker Morphs and Burrow should work now
+-Adjusted terrain settings on some vehicles to ensure they were mobile on all terrains
+-Increased radius of alien molt turrets
+-Alien tongue strikes should always pull in the correct direction now
+-A ton of other little changes and bug fixes not worth mentioning
+-Added some new variables of certain weapons, still a bunch more to go
+
+
+~b~4June 17, 2009~2~B
+-Took away MK2 and MK3 Grenades from Drop trooper
+-Took jump away from Imperial Guard
+-Gave Increase in speed to Bounty Hunter
+-Took away Peronnel Moltor Rifle from Bounty Hunter
+-Fixed up fusion torch repair to take 1 gas canister per repair, repairs 3 HP a second
+-Added Damage Control Kit, needs testing
+-Made Mr Fixit faster than other drivers
+-Added StG-87 and StG-89. Freedom Fighter has access to StG-87, infantry has access to StG-87 and StG-88, Praetorian has access to StG-87, StG-88, and StG-89
+-Gave Gewehr Carbine Sniper to Freedom Fighter
+-Removed Meson Projector from Praetorian
+-Removed Boomerang from shop
+-Removed PDU Plus (Psycho)
+-Made Titanium oxide visible on radar
+-All driver classes can now pick up titanium oxide
+-Man classes now drop blood (alien ammo) on death
+-Added blood projectile explosion to all man classes
+-Adjusted Alien bile explosions
+
+~b~4June 11, 2009~2~B
+-LIO and map fixes/additions, all gravestones should look correct now
+
+~b~4June 10, 2009~2~B
+-LIO file fixed, all warps and spawns should work correctly
+-All whirlwinds given short inactive time
+-All methods of healing and energizing fixed
+-Dropship recall fixed
+-Alien attributes fixed
+-Heavy Arms Specailst speed upped: 63 roll 53 strafe, 1600 top
+-Added STG to Heavy Arms Specialist.
+-Spanker taken away from purifer.
+-Holocaust removed from store.
+-Psycho Projector sleeper and comrade taken away from purifier.
+-Knocker Hammer and Shield Fader taken away from purifer.
+-Steroid Lite Kit taken away  from Contaminator.
+-Gave Terrorist basic Paralyzer.
+-Took Power corrupt, radio detonator, radio detonator upgrade, blood coagulator out of store. Power corrupt only one possible of keeping without lua.
+-Took suicide vest out of store.
+-Readded in Spec Ops Laser.
+-took Molotov Cocktail away from terrorist.
+-Added minigun into store
+-Took minigun and dual uziz away from heavy gunner.
+-FG-120 taken from Heavy Gunner and given to Heavy Arms specailist
+-AK-605 taken away from heavy gunner.
+-Took away all shotguns from heavy gunner.
+
+~b~4May 21, 2009~2~B
+-Chambert's Tournament placed up in test zone, lots of work to do!
+
+
+~b~4Fine Print:~2~B
+
+*Chambert's Tournament is subject to wipes if seen fit by the Developer & Staff.

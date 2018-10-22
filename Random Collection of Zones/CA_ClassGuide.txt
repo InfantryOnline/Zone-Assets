@@ -1,0 +1,360 @@
+~5Alright, here is the role guide-in-progress. Basically for new people who are wondering how each class fits into their respective roles on the battlefield, and what perspective to take while playing each class. It goes without saying that I'll revise the information for any class that undergoes drastic changes. I took a few liberties with theatrics since fanfiction used to be a hobby of mine. For those of you curious, the difference between the Commando and Sniper accents is that one is Hungarian and one is German. All the blank parts are places where I'm unsure of how to proceed, so if you have any ideas, let me know. If you have any corrections, I'd be interested in those too. I'll credit you. Cool
+
+This is not actually a strategy guide, though it delves into strategy somewhat. This is more of a guide on what makes each class 'tick' and what aspects one should be aware of in order to use each class effectively. The positions of "general tactics guide" and "weapon/equipment guide" are still properly vacant.
+
+Most of these will remain unfinished/in-progress until the zone comes back into rotation and I can observe more/revised player strategies in action.
+
+I'm holding off on further expanding the introductory briefings for the new classes until they're finalized.
+
+
+~1~bCombined Arms - Class Guide
+
+~4[Playing Recording #12, Introduction to Class disciplines]
+~6Lieutenant:~2 Welcome to the Army. As a new recruit fresh from the space docks, I suppose you'll be needing some guidance as to your future career in the Army. I've compiled some excerpts from the introductory briefings from each class, along with their analysts' notes, so just look over them and see what strikes your fancy. You're welcome to skip the introductory briefings, but be sure to at least skim the analysts' notes. Remember that we have a rather liberal policy on personal armaments and armor, so within any set class there is still plenty of room for customization.
+
+~4[Analyst's General Addendum]~2
+Unique Items = Items only that class can use
+Semi-Unique Items = Items usable by that class and at most two other classes.
+
+Grenades can shore up a class' many weaknesses, since each grenade is deadly effective at their intended usage. Hedgehog grenades, in particular, should be a last-ditch defense all soldiers hold, being able to divert beams and shockwaves.
+
+People can always go in the complete opposite direction in terms of effective roles of classes; that's just how robust item customization is, that you can find weighed-down Ceramax VII Mobile Infantry duke it out with a nimble 5% overweight Heavy Weapons with LMG.
+
+Especially with the Implants and Addons, with which you could either choose to diminish the symptoms of your weaknesses or accentuate the strengths of your chosen class.
+
+This is real war, not some school recess game of "Capture the flag". That means you can't expect to face off against a random opponent and expect to have a fighting chance. Most classes have favorable matchups against other classes, sometimes overwhelmingly so. It's up to you, and you alone, to avoid unfavorable fighting conditions through either equipment selection or field tactics.
+
+Low walls and yellow physics are not just an unimportant height classification anymore. As long as you are within a certain distance (depending on gun) of a low wall, you can shoot through it. Anything farther will hit the low wall, meaning one can take cover behind low walls and yellow physics against far-away enemies. The red directional physics on the hills, for example, are actually yellow physics height, so the hills are like surrounding yourself with free layers of low walls that you can always shoot out of.
+
+Players looking for more than chaos are well advised to stay away from the dropship portals. Attaching, even randomly, to a teammate increases your survivability by far. Attacking or defending as a team provides the most survivability as you have your comrades looking out for you (and at least firing at moving things sneaking up on you if they're not that generous).
+
+Excerpts and Analysis addendums added to by:
+Chief Creative Consultant Malchoir of Nor (Sniper, Psionicist)
+Grenade and Infantry Usage Consultant Wolf-X
+Engineer/Medic Weakness Consultant Tombstone
+Commando Strategy Consultant AllYourBase
+Demolitions Excerpt Consultant aaod99
+
+And thanks to:
+Head of Weapons, Armaments, and Vehicles R&D: STAS
+Head of Terrain and Base Deployment R&D: ryanbe
+Head of AI & Programming R&D: LooseCannon
+Chief of Classified Training R&D: Xelos
+Chief of Hologram Rendering R&D: kwekl
+Chief of Weapons Testing R&D: Tombstone
+~4[End Addendum]
+
+
+
+
+~6~b8th Infantry Division:~b "Roughnecks"~2
+This is for you new people. I only have one rule: Everyone fights, no one quits. You don't do your job, I'll shoot you myself. You get me? Welcome to the Roughnecks. Our job is simple: Defense. Those pansies in Heavy Weapons can dish it but can't take it, and those cowardly jumptroopers can run around all day like headless chickens, but when it comes down to the wire we're the ones who strap up and take the hits. We're the grunts who keep everyone else alive. Air, ground, foot, name it and we can take it, maybe even give it a run for the hills. Even when our brothers-in-arms charge a fortified position, we're the ones in front eating the bullets for them. Don't go thinking you're Rambo though, even an Infantry can't take more than one rocket head-on. I don't care what pissy weapons you use, but you treasure your armor like it's your very own brother, because it'll be taking your hits like your own blood kin would. Dismissed.
+
+~4[Analyst's Addendum]
+~4Unique Items:~2 Carapace and Power series Armor, Ceramax VII: Rare, Gauss Assault Rifle, Pulse Laser
+~4Semi-unique Items:~2 Assault Drop Armor, Flexible Polonium Armor, Ceramax V: Custom, Phase Shift Armor, Sandbags, EM-4 "Vortex" EMP Rifle, Gauss SMG 1/2, Chain Fist, Power Fist, Close Assault Weapon, Ry-Tek LMG2, G-labs PAR4 PGa, PL-1 "Unifier" Plasma Rifle, AR247 Rifle Grenades, Battle Rifle 3/4, Ry-tek AR4 UGL, TS F-80 UBS, Assault Shotgun, Light Sniper Rifle + Scope, Laser Rifle Overload, Laser Rifle Spread-Shot
+
+~4~bPrimary Advantage:~b Defense~2
+Infantry is the only class certified to use the Carapace and Power Armor series of armor, some of the toughest armors in existence. One wearing such armor might be a bit slow, but being able to tank small arms and most rifle-caliber munitions is no small feat. A skilled Power Armor Infantry is near untouchable to many other classes. Carapace and Power armor are the main reasons to use Infantry; unless you're using several of the Infantry-specific weapons at the same time, other classes can offer more if you're using lesser armor.
+
+~4~bSecondary Advantage:~b Versatility~2
+The Infantry has a wide variety of effective slug (all ranges), energy, and melee weapons at their disposal. An Infantry can be outfitted for any situation, while excelling in a few.
+
+~4~bPrimary Disadvantage:~b Speed~2
+Power armor doesn't make one invincible, just nearly so. Machinegun-caliber weaponry and rockets still equates to a world of hurt, and the fact that wearing such heavy armor slows you enough to be hit by them just exacerbates this weakness. One could always go for a lighter armor, but other classes can serve that role better.
+~4[End Addendum]
+
+
+
+
+~6~b38th Heavy Weapons Division:~b "Arsonists"~2
+"Today is a good day to die". Truer words were never spoken. In this division we only care about one thing: Power. Pure, white-hot, bullet/fire/shrapnel-riddling POWER. Those weaklings in Infantry can take it but can't dish it, and those cowardly cloakers forget that REAL MEN look their opponents in the eye when they BLAST THE SHIT out of their brains! A heavy's sole purpose in life is to lay down the LAW OF BALLISTIC TRAJECTORY in form of LEAD and SUPERHEATED energy! You, private! Do you love your chaingun? Do you caress it at night and whisper sweet love to your partner in life and death? No!?!? THEN GET THE HELL OUT OF MY DIVISION! The bigger your gun is, the bigger your d**k is! That's our motto here! DISMISSED!
+
+~6~b38d Demolitions Expert Subdivision:~b ??
+Uh, yeah, what my colleague said. The only difference in the Demo subdivision is that we make things go <boom> instead of <splat-splat-splat> or <sizzle>. After all, exit wounds are so much less satisfying than fine red mist. There's actually a good reason why a bigger gun equals a bigger d**k. Notice where the hole is on a high-caliber weapon? Well, since we all love our weapons so much we make sweet love to them on our off-duty hours... and all of us are so very well endowed... If you know what I mean. *cough* Dismissed.
+
+~4[Analyst's Addendum]
+~4Unique Items:~2 Sonic Cannon
+
+Heavy's- Flamethrower, UV-9 "Pulsar", XP-5 "Broiler", Electron/Gauss/Plasma/Laser/Normal Machineguns, Gauss/Laser/CZ-SPAM42 Miniguns, Grenade Machine Gun, 900x SAW, Ry-Tek LMG2, Sl-4 "Zanbato" AutoCannon, Snub Cannon, Gauss Cannon
+
+Demos- Recoiless Rifle, CZ-F4 GL, Ry-Tek SRM2 Lite, Sl-3 "Tetsubo" GL, MultiMissle Launcher, RPG, Pzf 9
+
+~4Semi-unique Items:~2 Ceramax V: Custom, Flexible Polonium Armor
+
+~4~bPrimary Advantage:~b Power~2
+All heavy and demolition weapons are either rapidfire or hard-hitting, sometimes both. The heavy kinetic weapons are suited for foot soldiers, while the explosive ones are more suited for vehicles and structures while being plenty effective against smaller targets. Demolition experts also have an aspect of ranged shelling, with the Rytek mortar and RR rangefinders available to them.
+
+~4~bPrimary Disadvantage:~b Speed~2
+All heavy and demolition weapons weigh a ton; add to that the ammo and armor weights and most heavy's and demo's sort of shuffle along even at top speed. If caught in an unfavorable situation, there's very little a heavy can do except take as many others down with them as possible.
+~4[End Addendum]
+
+
+
+
+~6~b52nd Commando Division:~b "Vampires"~2
+Boo! Ha ha... I suppose you didn't even see me come in de room. Velcome to... de Commandos Division. Ve commandos are creatures of de dark-ness..... lacking dark-ness, ve are creatures of... invisibility. A visible commando is a -dead- commando, such is de way of life in this... division. Fear, more than any physical gun, is our most -potent- veapon. Let de enemy fear de -doom- hanging eterrnally over them, let them see -phantoms- of past and future deaths converge on de preesent, and vhen de fear is most rripe, -pounce- upon their vaiting flesh like... a panther. Vat? Am I a vampyre, you ask? Silly boy, vampyres are but myths... to frrighten children. (Assistant: but then why do you always hold briefings at night...?) Anyvay, vhile all de foolish over-vorlders are busy vith their... pathetic, meaningless killing, ve do our nefarious vork: reprogramming auto-turrets, vaulting through vindows to set down varp points, stealing bunkers foolishly left empty, disabling de offensive capabilities of tanks, and ambushing rein-forcements. It is our vork that, unlike the random insanity of de other classes, makes de ensuing deaths affect de... tide of battle. Ah, it looks like daybreak is coming soon. Good night, gentlemen. Sleep well.
+
+~4[Analyst's Addendum]
+~4Unique Items:~2 Ry-Tek Thrustboots, Cyberdeck++, Disruptors, oMAF LCa (cloak armor)
+~4Semi-unique Items:~2 G-labs Chameleon Plate, Ry-Tek PCU "Lite", Cyberdeck, Cyberdeck+, Light Recall Pack, Remote Detonator - Area, Remote Explosives, TS SG-19 Machine Pistol (silenced), Sl-2 "Kunoichi" SMG (silenced), Silenced Sniper Rifle
+
+~4~bPrimary Advantage:~b Stealth~2
+After choosing a cloaking armor, most intrepid commandos choose silenced weapons (with near invisible weapon trails) to accompany them. When hiding in trees or using the GLabs cloaking armor, you remain invisible even when you fire, allowing you to kill unsuspecting and lesser-armored soldiers without giving away your position. The oMAF LCa has the lowest decloaking range, allowing you to sneak up on people and bases to do your nefarious work. On the other hand, some commandos choose to use their stealth offensively, charging surprised opponents with a heavy barrage of bullets followed by melee. Recently, however, use of the cyber eye implants and thermographic sensors are on the rise, so aspiring commandos should not take their stealth for granted.
+
+~4~bSecondary Advantage:~b Utility~2
+A commando can reprogram turrets and gates, jump over yellow physics (and low walls), disable tanks, lay hidden detpacks, lay remote explosives, and set up disruptor turrets; giving them a unique role in base assault/defence while being fully cloaked.
+
+~4~bPrimary Disadvantage:~b Defense~2
+The cloaking armors sacrifice armor effectiveness for cloaking, which means even the most resistant armor available is still paper-thin, making any commando caught in the cross-fire a dead one. Only bat-shit insane or egotistical (rightly or not) commandos continue to engage an enemy after being exposed.
+~4[End Addendum]
+
+
+
+
+~6~b104th JumpTrooper division:~b "Cowboys"~2
+Howdy there, pardners. You bambinos signed up with this here mighty fine division 'cause you wanted agility, and that's what you're gonna get. Indoors, outdoors, or tall buildings, nothing's more than a hop'n'skip away. Wall-vaultin' is a universal JumpTrooper past-time, after all. Takin' on another fighter is kinda like how you'd lasso a raging bull: wear'em down while waltzin' the delicate dance of death. Ain't nobody on God's green earth can catch a Mobile Infantry a-skippin' away. Remember this though, pardners: Them fancy boots make you hard to hit, but you bambinos keep in mind your surroundin's, 'less you eat the wrong end of a rocket and end up dreaming the desert dreams of cacti in the harsh glare of sunlight. If you're still wantin' more speed, I'll point you towards gettin' a bright'n'shiny steel steed of your own in the Droptrooper or Hovertrooper subdivisions. Well, that's about all there is to it. Best you head along now. Happy trails, pardners.
+
+~6[Analyst's Addendum]
+~4Unique Items:~2 JT Hop, JT Reverse
+~4Semi-unique Items:~2 Sl-3 "Tetsubo" GL, Gauss SMG 1/2, AR247 Rifle Grenades, Ry-tek AR4 UGL, TS F-80 UBS, Light Sniper Rifle + Scope, Laser Rifle Overload
+
+~4~bPrimary Advantage:~b Manueverability~2
+Hop thrusters means that any place humanly reachable on the map can be reached by you. Reverse thrusters means any range of engagement is entire determined by you. With MI, you can choose your battles as well as outmaneuver the enemy on terrain.
+
+~4~bPrimary Disadvantage:~b ??
+~4[End Addendum]
+
+
+
+~6~b104d DropTrooper Subdivision:~b~2
+(agility of JumpTroopers with the speed of HoverTroopers)
+~4Unique Items:~2 DT Takeoff
+~4Semi-unique Items:~2 TS F-80 UBS, Chain Sword
+~4Unusable Items:~2 Actuator addons/implants, Vehicles
+~4~bPrimary Advantage:~b Agility
+~4~bSecondary Advantage:~b Speed
+~4~bPrimary Disadvantage:~b ??
+
+
+
+~6~b104h HoverTrooper Subdivision:~b "Privateers"~2
+Ahoy, mateys! Nothin' beats the beating-heart RUSH o' a well-timed driveby, eh mate? In this here division ye lads'll learrn how ta fly like a dove-tailed corvette on a spring tide. Every second ye shave off yer flightn' time shortens the world by a second more! An' on such a kingly ship too, ain't she just beautirrRRRrreffic! The curvies, the sleek grace o' a world-class speedster! Shiver me timbers, I could go on an' on about me beauticious ride. But the only thin' better than admirin' a thin' o' beauty be ridin' it! Tharr be booty a-plenty out in there high seas, an' it's up ta us ta avail ourselves o' it! With this power ridin' between our legs, we can run circles arround them landlubbers an' fill them scallywags with bullets in the meanwhile! Aye, crew, it's time ta keelhaul me some scurvy knaves! *Vrrrrmmm* *Whoooosh* Arr, hold yer anchors, one thin' before ye leave: stay farr, far away from them Infantry, Heavy Weapons, an' Demolitions scum. The first, ye can't hurt 'less ye get too close fer comfort, an' the others be likely ta fill the seas with unseemly an' dangerous weaponsfirrre. Tharr be all fer now, all hands, dismissed!
+
+~4[Analyst's Addendum]
+~4Unique Items:~2 HT Slash, HT Afterburner, Vibro Lance
+~4Semi-unique Items:~2 Close Assault Weapon + Brace + LV
+~4Unusable Items:~2 Actuator addons/impants, Vehicles
+
+~4~bPrimary Advantage:~b Speed~2
+The hoverboard is one the fastest vehicles available to a foot soldier, and very few other vehicles (like the skimmers and bikes) can catch a hovertrooper at full speed. That is, unless the hovertrooper is majorly overweight. Its speed makes the class very suited for flyby shooting and hit-and-run attacks.
+
+~4~bSecondary Advantage:~b Melee~2
+The Vibro Lance and HT Slash are good melee weapons made better by being available to Hovertroopers, whose speed can close the distance quickly. HT Slash is lighter and easier to aim (large proximity + just ram the enemy) but deals less damage. Some of the more daring Hovertroopers eschew ranged combat completely in favor of slashing/piercing the enemy to death.
+
+~4~bPrimary Disadvantage:~b Manueverability~2
+The thing about hoverboards is that one is unable to strafe on it. In other words, the only direction you can go are the one you're facing and the one opposite to that. To put it simply, you're a sitting duck; despite travelling at speeds that would blow trees over, a good aim can land more hits on you than on a strafing foot soldier. HT Afterburners is a vital addon to your hoverboard that can help mitigate this weakness.
+
+~4~bSecondary Disadvantage:~b Aim~2
+Trying to aim as a foot soldier is hard enough, but aiming with your strafe keys disabled and zipping at subsonic speeds is a herculean feat. High speed also has novel physics effects on some of the slower-bullet-speed weapons. The main consequence of this disadvantage is lower firepower, as fewer bullets are likely to hit, making combat with some of the more armored classes unfavorable.
+~4[End Addendum]
+
+
+
+
+~6~b73rd Sniper Division:~b "Artisans"~2
+Art iz a BANG, ja? Ve at ze Sniper division prize aesthetics and efficiency abof all else. One bullet, one kill. Who else but us can appreciate ze clean, thorough beauty of a vell-squared bullet-hole in ze head? Vith ze new cloak-ing armours, ve can slip through ze net of enemy patrols and bring death un-seen to any hu-man target. Ze un-civilized brutes can scream all zey vant about "fairness" and "honor", but at ze end of ze day we are ze arteests and zey... are ze canvas upon vhich ve paint. Tanks and bunkers? Pah! Even those vill fall to our larger-calibur munitions. Zere are no exemptions from ze reach of our art, ja? We are arteests of ze highest caliber, craftsmen of ze most beautiful deaths. Ve are ze snipers, first to kill, last to die.
+
+[Analyst's Addendum]
+~4Unique Items:~2 Heavy Sniper Rifle, Particle Accelerator, Sniper Cannon
+~4Semi-unique Items:~2 G-labs Chameleon Plate, Ry-Tek PCU "Lite", Sandbags, Power Fist, Silenced Sniper Rifle, Light Sniper Rifle + Scope
+
+~4~bPrimary Advantage:~b Long-range Power~2
+The Sniper is an unparalleled artisan at bringing death from afar. Most of their weapons can kill in 2-4 shots; even Power Armor Infantry will quickly fall to the more powerful sniper rifles.
+
+~4~bSecondary Advantage:~b Stealth~2
+The G-Labs Chameleon Plate has large decloaking range but zero-delay recloak after firing, good for snipers who wish to preserve their hidden positions but bad for those who get caught by a passing patrol. The oMAF LCa is the opposite to the G-Labs cloaking armor, revealing your position for a second after you fire but hiding you from even the most persistent sensor-less patrols.
+
+~4~bPrimary Disadvantage:~b Defense~2
+Cloaking armors have the worst defensive capabilities. Even the G-Labs armor has, at best, rudimentary protection against weaponfire.
+
+~4~bSecondary Disadvantage:~b Close-range Power~2
+If an enemy closes to within the minimum range of your sniper rifle (PA and Sniper Cannon) and starts showering your stationary position with bullets, you must resort to your secondary firearm, of which the selection is limited and lacking in power. Your other option is to close to melee range to use Power Fist, a risky proposition.
+
+~4[End Addendum]
+
+
+
+
+~6~b116th SciOps division:~b ??
+(A cross between Commando and Heavy Weapons)
+~4[Analyst's Addendum]
+~4Unique Items:~2 Warp Spider Pack, Heavy Recall Pack, Maser Rifle + Overload, Plasma Projector, AEROD-5
+~4Semi-unique Items:~2 G-labs Chameleon Plate, Light Recall Pack, EM-4 "Vortex" EMP Rifle, Gauss SMG 1/2, Power Fist, G-labs PAR4 PGa, PL-1 "Unifier" Plasma Rifle, Plasma Projector, Laser Rifle Overload, Laser Rifle Spread-Shot, Laser Pistol
+
+~4~bPrimary Advantage:~b Versatility~2
+The SciOps has access to a wide variety of energy weapons and gadgetry, making a SciOps useful for just about anything.
+
+~4~bSecondary Advantage:~b Power~2
+In terms of power, the SciOps with their AEROD-5 and Plasma Projector may rival that of Heavy Weapons and Demolition Experts.
+
+~4~bTertiary Advantage:~b Stealth~2
+The SciOps has access to the G-Labs Chamelion Plate, a zero-delay cloaking armor that keeps a SciOps cloaked even while firing.
+
+~4~bPrimary Disdvantage:~b Defense~2
+Their armor selection, however, is worse than that of a Heavy Weapons, and the G-Labs cloak is no better. Use of recall packs can help mitigate this weakness.
+~4[End Addendum]
+
+
+
+
+~6~b3rd Combat Engineer Corps:~b "Architects"~2
+(The backbone of any base or tank squad)
+~4Unique Items:~2 Blueprints, Repair, Base kits, Structures, Sandbags x2
+~4Semi-unique Items:~2 Assault Armor, Remote Detonator - Area, Remote Explosives, EM-4 "Vortex" EMP Rifle, Hedgehog APS launcher, Chain Fist, Assault Shotgun, Cyberdeck, Cyberdeck+, Laser Pistol
+
+~4~bPrimary Advantage:~b Utility~2
+There are actually two roles an Engineer plays: a base-builder side and a vehicle-driver side.
+
+~4~bPrimary Disadvantage:~b ~2
+~bBasers: Speed~b
+It is a sad truth that an effective engineer is almost never less than 25% overweight. With remote explosives, cyberdecks, an explosive-resistant armor, various building materials on hand, and an optional sidearm, the Engineer can be seen slowly crawling from one end of the base to another.
+~bDrivers: Outside a Vehicle~b
+An Engineer suitably geared is far from helpless when deprived of their vehicle, but it is a fact that every other class has unique advantages that bends the outcome to their favor in a on-foot fight.
+
+~4~bSecondary Disadvantage:~b ~2
+~bBasers: Power/Even Less Speed~b
+An Engineer must choose between a heavy but effective primary weapon (Rifle or Assault Shotgun) or a light backup (Pistol or SMG).
+
+
+~4~bTertiary Disadvantage:~b Money~2
+Being an Engineer is not cheap, especially a base-building one. Either you are a successful engineer and your base/tank reaps in enough kills to make a profit, or you are a failure and must switch to a less demanding profession until you can build up the requisite capital.
+
+
+
+
+~6~b5th Field Medic Corps:~b "Clerics"~2
+~4Unique Items:~2 Medikits
+~4Semi-unique Items:~2 Stimpack Kit, Teleport Summoner, oMAF OSM, Battle Rifle 3/4, Laser Pistol
+~4~bPrimary Advantage:~b Team Support~2 (healing, summoning, and omaf osm)
+~4~bPrimary Disadvantage:~b Power or Speed (BR234)~2
+
+
+
+~6~b7th Squad Leader Corps:~b "Commanders"~2
+~4Unique Items:~2 Teleport Disruptor, Warp Summoning, Mega Power Fist
+~4Semi-unique Items:~2 Assault Drop Armor, Phase Shift Armor, Teleport Summoner, oMAF OSM, Hedgehog APS launcher, Laser Pistol, Chain Sword, Chain Fist, CCP-8 "Aldous" HandCannon
+~4~bPrimary Advantage:~b Team Support~2 (summoning and omaf osm)
+~4~bPrimary Disadvantage:~b Ranged Power~2 (no rifles)
+
+
+
+
+~6~b[Classified] BlackOps Division:~b "Ninjas"~2
+*hrrrrrrrr* .... *hwooooooo* .... *hrrrrrrr* ...... You may notice my peculiar *hwooooo* breathing. Such is the sacrifice *hrrrrrr* that one makes in service to this division. *hwooooo* Allow me to turn on my implants for the duration of this *hrrrrr* briefing. *click* *whirrrrrrr* I've had my lungs installed with nanorobotic implants to silence my breathing even at a full run, but the side effect is breathing difficulties when not supplied with energy cells. And quite a many energy cell indeed. That is what this top-secret BlackOps division is all about: close-quarters assassination of anyone on foot, at any cost. Bullets? Bah, we shun such barbaric methods of killing. Unlike the other uncivilized classes we have a code, an honor, so to speak. The only place to give death unto a target is within melee range, where one can whisper the passages of repentance into the ears of the dying. We even shun the use of most grenades; such is the devotion we have to our cause. We structure our lives and fighting style around the monoblade, an unparalleled melee weapon of killing developed by our own R&D department. But within such limitations we are willing to go to any length to eliminate our targets. Every piece of equipment we wear, even our armor, commits us to stealth and speed. As a new convert, there is much that escapes your knowledge, but know that great power awaits within our hallowed vaults for those willing to brave its trials. Death's favor unto you, farewell.
+
+~4[Analyst's Addendum]
+~4Unique Items:~2 Basically everything they can use, with some exceptions (implants/addons)
+~4Semi-unique Items:~2 Stimpack Kit
+
+~4~bPrimary Advantage:~b VS relaxed humans~2
+The monoblade is a gauranteed kill on a gash hit, so the main complications to being a BlackOps is landing a perfect monoblade. Foot soldiers without cloak sensors or adequate situational awareness are easy prey for the skilled BlackOps.
+
+~4~bSecondary Advantage:~b Melee combat~2
+The monoblade is a melee weapon in a class of its own, but the energy cell upkeep limits its usage for long.
+
+~4~bPrimary Disadvantage:~b VS alert humans~2
+If the opponent knows/sees that a BlackOps is on the prowl, chances of a successful assasination are subsequently much lower.
+
+~4~bSecondary Disadvantage:~b Ranged combat~2
+BlackOps have no offensive firepower until they closes to melee range.
+~4[End Addendum]
+
+
+
+
+~6~b[Classified] Kohen Division:~b "Monks"~2
+The gun katas. Through analysis of thousands of recorded gunfights, the Kohen has determined that the ~1geometric distribution~2 of antagonists in any gun battle is a ~1statistically predictable~2 element. The gun kata treats the gun as a ~1total weapon~2, each fluid position representing a ~1maximum~2 kill zone, inflicting ~1maximum~2 damage on the ~1maximum~2 number of opponents while keeping the defender clear of the ~1statistically traditional~2 trajectories of return fire. By the rote mastery of this art, your firing efficiency will rise by ~1no less~2 than 120%. The ~1difference~2 of a 63% increase to ~1lethal proficiency~2 makes the master of the gun katas... an adversary ~1not~2 to be taken ~1lightly~2. [to be continued]
+
+~4[Analyst's Addendum]
+~4Unique Items:~2 Kampf pistols, GunKata Training, GunKata Block
+~4Semi-unique Items:~2 CCP-8 "Aldous" HandCannon
+~4Unusable Items:~2 Armors, Armor Addons, Implants
+
+~4~bPrimary Advantage:~b Power~2
+One Kampf pistol is already better than most rifles and smg's in damage over time. Two Kampf pistols makes a Kohen absolutely deadly in the right hands. The Carbona Katana is second only to the Monoblade in power, making the Kohen effective at any range.
+
+~4~bPrimary Disadvantage:~b Drain, explosive, and electronic damage~2
+Any weapon high in drain damage like CAW, the pistols, and AR247's AP/EX rounds will quickly 'drain' the Kohen of their capacity to continue using Defensive Gun Kata. The Defensive Gun Kata also fails to protect against electronic and explosive damage.
+
+~4~bSecondary Disadvantage:~b Cloakers~2
+Since the Kohen is forbidden to use any implants or armor, the Kohen is defenseless against cloakers outside of their decloaking range.
+
+~4~bTertiary Disadvantage:~b Interface~2
+To fully utilize the Kohen's improved rotational speed, you must be a mouse user. Keyboard users will find aiming with the Kohen difficult, as even the slightest tap will spin your Kohen round.
+~4[End Addendum]
+
+
+
+
+~6~b[Classified] Psionic Division:~b "Mages"
+~1*Welcome*
+~2(Bunch of privates: What was that? Who's there? Where'd that come from? Are we on Candid Camera?)
+~1*Relax your mind... and receive our thoughts*
+*You may think you've chosen to be here, but you are mistaken*
+*We have called you here, uniting our minds and bringing forth your latent psionic power*
+*And you have responded*
+[to be continued]
+
+~4[Analyst's Addendum]
+~4Unique Items:~2 Everything under Psionics, except Psionic Mental Trick and Speed Force
+~4Semi-unique Items:~2
+~4Unusable Items:~2 Armors, Armor Addons, Vehicles
+
+~4~bPrimary Advantage:~b Explosive power~2
+A bane for ceramax users in particular, but most armors wither before the relentless explosive damage of psionic attacks. This is also a disadvantage against carapace/power/impact/blast armors, which are resistant or downright immune to most psionic attacks.
+
+~4~bSecondary Advantage:~b Versatility~2
+A power for each possible situation, psionicists are never caught wanting in the tools of their trade. Be it power greater than a demo (Atimo/Drill), area effect (Crush/Pyrokinesis), melee better than BlackOps (Psi Fist), defense better than Power Armor (Shield/Barrier), cloaker detection (Focus), assassination (Instant transmission) or self-healing (Psionic Heal).
+
+~4~bPrimary Disadvantage:~b Time~2
+Time is the psionicist's greatest enemy. Every single action a psionicist takes saps their defensive capabilities, making them more vulnerable as the battle continues. A Psionicist starts out near-invincible, but as time progresses even at 50 out of 100 energy, a psionicist takes 10 damage from every rifle round and 3-6 damage from every smg round. And when a psionicist inevitably retreats to focus their energies, that is when they are most vulnerable.
+
+~4~bSecondary Disadvantage:~b Drain Damage~2
+Weapons with high drain damage will quickly sap the psionicist of the vital energies they draw on to use their powers, despite the psionicist's high innate energy protection.
+~4[End Addendum]
+
+
+
+
+~6~b[Classified] PsiOps Division:~b~2
+~4Unique Items:~2 Psionic Mental Trick, Speed Force
+~4Semi-unique Items:~2 Sl-2 "Kunoichi" SMG (silenced), Psionic Blast, Psionic Focus, Psi Push, Psionic Sense, Speed Force
+~4Unusable Items:~2 Armors, Implants and Addons pertaining to energy or recharge
+
+~4~bPrimary Advantage:~b Versatility~2
+~4~bSecondary Advantage:~b Stealth~2
+~4~bPrimary Disadvantage:~b Time ~2
+~4~bSecondary Disadvantage:~b Drain Damage~2
+
+
+
+
+~6~b1st Conscript Division:~b "Newbies"~2
+l0l wtf is this shit? all dem other class r retards n no skill =/ SPAMSPAMSPAMDIE lol so lame. teh nly class dat REAL skill is dis one!!1! EZ math 101: conscrpt + leather jackt + RPF + lazors = PWNAGE x 99999nfinity. agrt or STFU n GTFO. n00bs.
+
+~4[Analyst's Addendum]
+~4~bPrimary Advantage:~b None
+~4~bPrimary Disadvantage:~b Explosive and heavy weaponry~2
+Conscripts are average in most areas; their flashlight is decent damage, they can buy a sawed-off shotgun for close range sorties, they can RPF indoors, and their innate is ceramax VI, not a bad armor at all.
+
+~6After Leather Jacket Upgrade:
+~4~bPrimary Advantage:~b Manueverability~2
+Leather Jacket imparts 15% mobility upgrade, and considering most conscripts are 0% overweight due to innate armor, this makes a Leather Jacket Conscript (LJC) one of the most maneuverable foot soldiers in the zone.
+
+~4~bSecondary Advantage:~b VS Kinetic weapons~2
+The Leather Jacket's stacked energy and recharge gives the LJC Power Armor level protection.
+
+~4~bPrimary Disadvantage:~b Explosive and heavy weaponry~2
+Ceramax will always have these weaknesses, which (though lessened) remain despite the leather jacket upgrade.
+~4[End Addendum]

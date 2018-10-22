@@ -1,0 +1,218 @@
+~BHockey Zone!~B
+~4
+~BZone Developers:~B
+Mode
+NANX
+7hm
+~1
+
+Thanks to NANX, and NOD for file help. All the testers who have been of great importance and help.
+Big shout to Military Police and SatoriEnd for allowing this zone to be made.
+
+After a complete overhaul of the graphics and files (mainly due to massive changes in the way certain aspects of the engine work) 
+the zone is now ready to go and give enjoyment to a new era of Hockey Zone fans.
+
+Special mention to VectorBoy and 4U2NV for the creation of the zone back in 2000 and 7hm for his work on it in more recent times.
+
+Play hard, Hit hard and score goals! - Mode
+
+
+~0
+~BUpdates~B
+~BChanges as of 01/09/10 (Mode)~B
+-Reset physic radius of players.
+-Reduced alive time of checks.
+-Reduced radius checks hit.
+-Small changes to the map
+-Spawns will now put players along the goal/icing line.
+-Players when killed drop the puck instead of handing it to killer.
+
+~BChanges as of 15/10/09 (7hm)~B
+-Fixed the reflex goalie for eagles.
+
+~BChanges as of 15/10/09 (Mode)~B
+-Set Speed Forward energy to 260, alittle more than it used to have but not the 300 i trialed.
+-Fixed the reflex goalie being stupidly fast out of crease
+-Evened out all classes for both sides in file. (i'd missed afew things in past)
+
+~BChanges as of 08/10/09 (Mode)~B
+-Made adjustments to reflex goalie, Hyper/thrust is now improved significantly.
+-Reduced alive time on checks from 14 to 12 we shall see how this effects them.
+-Edited Drop Pass to act more like a little back pass.so it is less incliened to follow you.
+
+~BChanges as of 01/10/09 (Mode)~B
+-Adjusted strafe and thrust speed of reflex to be quicker and more manouvourable.
+-Adjusted speed for energy from 250 to 300
+-Increased Speed forward energy regen from 1150 to 1200
+-Adjusted checks very slightly with where the damage hurts.
+
+~BChanges as of 17/09/09 (Mode)~B
+-Adjusted Checks, removed abit of proximity and alive time. Will only adjust it alittle at a time so that i dont go to the other extreme and make them useless again.
+-Still working on player with puck changing color to red.
+-Made the benches area bigger to help avoid players getting stuck.
+-Added HZLeague.net images to map.
+
+~BChanges as of 16/09/09 (Mode)~B
+-Afew alterations to Tick marker
+-Changed afew values on checks
+-Looked at implementing change of color on player with puck Will see if this works.
+
+
+~BChanges as of 31/8/09 (Mode)~B
+-Edited color of teams and sprites. To be more skin like and actual team colors.
+-Reduced distance away a check hits to be similar to SB now 20 from 60. which will help your aim on checks.
+-Trialing checks that only turn red on contact.
+-Decreased energy usage of Power D checks by 50, increased power forward checks from 350 to 450, increased Fin D checks to 400 from 350.
+-Carrier time of Center upped from 5 seconds to 6.
+-As requested afew sounds as you move around the rink.
+-Also fixed a bug in wasps goal as well as a correction to a graphic on map.
+-Added abit of back power to Drop Pass to make it actually drop backwards when used.
+
+~BChanges as of 18/8/09 (Mode)~B
+- Made some adjustments stop which has solved the issue of players using it to thrust backwards.
+-Tried multiple ways to get dive to work, however it just is not possible, the engine adjustments render the old method useless. we will keep trying though.
+
+~BChanges as of 6/4/09 (7hm)~B
+- Fixed key bindings so that they are the same for every class.  1 is check / shoot, 2 is pass, 3 is shoot, 4 is other.
+- Test of reflex dive using explosion recoil instead of negative weapon recoil, which is limited by natural top speed
+- Adjusted back hand to be a drop pass
+- Renamed Blue Liner to Point Shot
+- Changed the player graphics to Ogre's custom models.  Not the greatest, but until we get new ones, at least they have sticks
+
+
+~BChanges as of 12/1/09~B
+- Scramble *SHOULD* work now...
+- Fixed a map bug
+- Longer time in between games in order to organise a goalie
+- Total overhaul of player settings back to traditional values except for carry timers
+
+~BChanges as of 3/1/09~B
+- Queue added
+- Map fixes
+- Cross bar physics cover the whole net 
+
+~BChanges as of 30/12/08~B
+- Only skilled wing has back hand
+- Speed forward has stop instead of skilled wing. It uses full energy to use
+- Center given wrist shot instead of slap shot
+- Speed forward given short shot instead of wrist shot
+- Damage prox slightly decreased on power defenceman check
+
+~BChanges as of 27/12/08~B
+- Changed goal physics to be square. Angled physics don't seem to work predictably
+- Changed goal physics from red to green to make them stand out more
+Use ?showphysics when playing.
+
+~BChanges as of 24/12/08~B
+- Changed goal graphics and physics to make shots more predictable
+- Added a cross bar (this shouldn't affect anything but lob)
+- Removed some pointless graphics and sounds on items
+- Checks now have the classic settings
+
+~BChanges as of 17/11/08 (NANX)~B
+- Queue removed to promote play in other arenas rather than stacking the queue and waiting hours
+- Checks should now work properly
+- New graphics for the crease 'D'
+- Checks no longer go through physics
+- Carry timers decreased by Mode
+
+~BAll updates from here on have been done by NANX unless otherwise stated.~B
+
+~BChanges as of 18/10/08~B
+- Queue returns
+- Checks made to hit, distance on checks reduced to be similar in check distance to SB (but not identicle)
+- Prox reduced on all classes
+- Having a tinker with dive, to see if i can get it to work (this one is very tricky)
+- Reduced death timer
+- Small increase in Speed's energy
+- All players will start with full energy from now on
+- Spec timer reduced to 5 seconds
+- Tinkered with Stop on skilled wing.
+
+Afew other bits and bobs i cant remember off the top of my head.
+
+~BChanges as of 3/10/08~B
+-Made Backpass work on all classes
+-Should of fixed Load issues on shots
+-Reduced natural Prox once again to help lag issues
+-Snap Shot renamed to wrist shot
+-Slap Shot given back to shooting wing, this was an error in first place. Lob removed from all but goalies.
+-Trying a blue ice to see if it's better than Red
+-afew other bits and bobs, lets see if this works ok now.
+
+~BChanges as of 2/10/08~B
+-All classes now available without laddering through another class.
+-All classes now have shots/checks/passes in their inventroy dependant upon which class they are
+-Ice tinted red to ease on the eyes.
+-All lines have been made translucent and stacked in correct order so players run over.
+-Inside of goal graphics brought to the post.
+-Teams set to 6v6 max players.
+-Goalies prevented from entering the middle area past blue lines
+-Hopefully the doors for the benches have been fixed - Stay tuned on this one.
+-Renamed Shots to hockey terms such as Back Hand, Slap Shot, Snap Shot, Blue Liner etc
+-Carry time reduced by afew seconds
+-Friction increased very slightly
+-Natural Prox reduced from 50 to 35
+-Checks Beefed up on all classes
+Sure there are afew more, but i cant remember them right this second.
+
+~2
+~BThe Zone~B
+So this is the new Infantry Hockey Zone, with updated graphics, rounded style corners, the classic infantry player will love this game.
+
+Please try to make games flow with 1 goalkeeper per team. This is important to allow games to be playable. 
+
+Bench Class change available. So you guys dont have to spec to change class you can go to the bench and change class. This area is not to have pucks taken into. Anybody found taking a puck into the bench area will be subject to a lock out of the game, persistant offenders may recieve further punishment.
+
+~BBongs~B
+%1=bong3
+%2=bong4
+%3=drat
+%4=over
+%5=wav00001
+%6=mitymse
+%7=ssoscar
+%8=whistle
+%9=organ
+%10=siren
+%11=victory
+
+%15=dcenter
+%16=dnorth
+%17=dsouth
+%18=Regroup
+%19=TakeItBack
+%20=tballcenter
+%21=tballnorth
+%22=tballsouth
+%23=dUpAhead
+
+~BClasses available~B
+
+~BGoalies:~B
+Positional - These goalies are large and bulky and depend on their positioning to make the save.
+
+Reflex - These goalies are small (small for a goalie), very quick and agile. They rely on their dexterity and acrobatic ability to make saves.
+
+~BDefenders:~B
+Power - Hard hitting defenceman with a powerful slapshot and clear.
+
+Finesse - Fast moving defenceman who dont have that big a check, but make up for that with speed, skill and play.
+
+~BWingers:~B
+Skilled - These are the players who are quick and agile, but not quite to the same degree as the Flashy forward. They have fast skillful abilities to trouble any defence.
+
+Shooting - These players' primary weapon is their blistering slap-shot. They can wind up from anywhere on the ice and goalies will flinch knowing what's coming at them. They tend to be average players in every other physical attribute.
+
+~BForwards:~B
+Center - These are the players who just seem to be able to keep the puck on a string. They have superb puck-handling skills and because of this can find the time to either break through the defence for a shot or pass. Most of these players tend to rely on their superb vision to make their plays rather than physical talent alone but they have the ability to lay it out on the line when neccesary to make the play.
+
+Power - These are the big, strong, powerful forwards that will cycle the puck to get their scoring chances. They can take and dish out hits and rely on their heavy shot rather than nimble moves to score goals.
+
+Speed - These are quick, agile players that can burn you with speed, deke defencemen and goalies out of their skates, and generally give the opposing team's coach headaches trying to come up with ways to stop them. They are, however, weak. It doesn't take much to knock them off the puck, and they either cannot, or do not hit (i.e. they're wusses).
+
+Each class has it's own set of shots to make them unique and have the ability to contribute in different ways to a team.
+
+Enjoy the zone and have fun. Any problems please report them to Mode or Military Police.
+
+-Mode

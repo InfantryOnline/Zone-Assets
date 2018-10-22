@@ -1,0 +1,70 @@
+~B~1 Moderators
+
+Use ?chatadd !911 to reach moderators. Please note that this is not a chat to hang out in
+and when asked to do so by moderators, you are to ?chatdrop !911. You can also use the ?help
+command, ie "?help Someone is hacking in Combined Arms". Sending pointless ?help's will generally
+result in punishment of the individual sending them, so it is not recommended.
+
+
+~0 Head Moderator: The Modfather
+
+
+~B~1 Guides
+
+Guides are players who are knowledgeable in many aspects of the game who have volunteered their time
+to assist new and old players alike with any questions or issues which do not need to be handled by
+a moderator. Anyone with questions about gameplay mechanics, settings issues, etc should not hesitate
+to ask them.
+
+
+~0 Scalesdini
+~0 Pedobear
+~0 Sept-
+~0 Pogo
+
+
+~B~1 Coders
+
+Coders are the people who make the server run. If you have a bug that is not a zone specific bug,
+they are the people to submit it to, either via PM in game, on the forums (found in the weblinks),
+or by posting in the Server Development section of the forums. Please note that they are very busy
+and bothering them with pointless things that they have no control over ("OH NOES MY FAV GUN/CLASS/
+ETC GOT NERFED!!!!") is not only a waste of your time, but theirs, which is extremely valuable.
+
+
+~0 Super-Man
+~0 Jovan
+~0 Fowl
+
+
+~B~1 Zone Developers
+
+Zone developers are the guys who created the zone you're playing right now. They are players who have
+decided to dedicate their time to creating new content for the game. If you find a bug that is zone
+specific, have a question about a particular zone's mechanics, or would like to help test future changes
+to a particular zone, contact the appropriate dev. As with coders, they are very busy and bothering
+them with trivial matters is not suggested.
+
+
+~0 BurntDevil - Eol/Fleet/Combined Arms/Chess
+~0 Symbolite - Fleet
+~0 Skear - Corps Combat/Legacy
+
+
+~B~1 Other Content Developers
+
+
+These are the people who provide things like graphics, sounds, etc for Zone Developers to use. They do
+not have any control over any zone, and cannot help that your favorite class/weapon/armor was nerfed by
+the zone developer.
+
+
+~0 EightBitDragon - Graphics Mastah
+~0 Scalesdini - Sound Engineer
+
+
+~B~1 Please note that this list is not NEARLY everyone who has contributed to the continued success of
+Infantry over the years. Any omissions are not to be perceived as any type of disrespect, this list is 
+only the current team working on the game.
+
+(Updated June 5th, 2012)

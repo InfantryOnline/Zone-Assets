@@ -1,0 +1,100 @@
+~4Updates:~4
+----------------------------------------------------------------------------
+
+~B~2-<---  September 19th [2010] --->-~B 
+
+~B~1Map~B~1
+~0- Vision Update~0
+~0- Fixed broken physics~0
+
+
+~B~1Weapons~B~1
+	~B~6All Spammy Weapons~B~6
+		~0- Trying yet another method of nullifying Disconnect issue.~0
+	~B~6M203 Launchers~B~6
+		~0- Can no longer use the m203 without an m16a2/a4.~0
+		~0- Shrap damage nerfed from 40 to 15~0
+		~0- No more double launchers.~0
+		~0- Max carry on ammo reduced to 4.~0
+	~B~6All SMGs~B~6
+		~0- Reduced clip size to 25 rounds. (less spam please.)~0
+		~0- Silenced versions received considerable damage nerf.~0
+	~B~6All LMGs~B~6
+		~0- Sped up considerably.~0
+	~B~6All Shotguns~B~6
+		~0- Received a considerable beef in damage.~0
+	~B~6Combat Knife~B~6
+		~0- Added lunge and made one hit kill.~0
+	~B~6Flashbang~B~6
+		~0- Damage radius increased to 300 from 200.~0
+		~0- Will trigger on anyone now (you can flashbang teammates or yourself.)~0
+	~B~6Medikit~B~6
+		~0- Gave medikit projectile some more range, aswell as gave all medics a personal medikit.~0
+	~B~6All Grenades/Mines~B~6
+		~0- Greatly shortened fire other delay. lol..~0
+		~0- Removed all mines from the game, sorry. ~0
+
+
+~B~1Rewards~B~1
+	~B~6Apache~B~6
+		~0- Reduced kills required from 25 to 10.~0
+	~B~6Dog Tags~B~6
+		~0- Now give 50 experience instead of 25. Aswell as 25 bounty.~0
+
+
+~B~1Perks~B~1
+	~B~6Cold Blooded~B~6
+		~0- Replaced with Chilled, read description in f11 for more info.~0
+	~B~6Marathon~B~6
+		~0- Nerfed Top Speed/Thrust from 50% to 20%~0
+
+		
+~B~1Vehicles~B~1
+	~B~6Tanks/Humvees/Air~B~6
+		~0- Turret weapons now useable.~0
+		~0- Removed nades and mines from vehicles.~0
+	~B~6All Player Vehicles~B~6
+		~0- Base energy increased from 25 to 100.~0
+	~B~6UAV~B~6
+		~0- UAV's child weapon fire delay increased from 400 to 700 (less framelag hopefully.)~0
+	~B~6Elite Combat Medic~B~6
+		~0- Swapped out its innate weapon (L22) for the Steyr ACR~0
+
+~B~1Other~B~1
+	~B~6Hide Announcements~B~6
+		~0- When a player places a UAV or sentry gun, it is now announced to the arena.~0
+	~B~6Barracks~B~6
+		~0- Added some computer turrets to keep Air vehicles out of opposing team's barracks area.~0
+	~B~6Game Objective~B~6
+		~0- Victory hold time increased from 20 seconds to 60.~0
+		~0- There are now two flags to capture.~0
+	~B~6LOS Adjustments~B~6
+		~0- LOS distance increased from 256 to 450.~0
+	~B~6UAV Red Dot~B~6
+		~0- Alive time increased from 100 to 250.~0
+	~B~6Ammo Reset~B~6
+		~0- Guns are automatically reloaded upon respawn after death or entry of the game.~0
+
+		
+~B~2-</---  End of Update ---/>-~B 
+
+~B~2-<---  September 3rd [2010] --->-~B 
+
+~B~1Map~B~1
+~0- Vision Update~0
+
+~B~1Vehicles~B~1
+	~B~6Player Vehicles~B~6
+		~0- Trigger radius reduced to 12 from 20.~0
+		~0- Max energy increased from 10 to 25.~0
+		~0- Energy recharge rate increased from 30 to 45.~0
+		
+~B~1Other~B~1
+	~B~6D/C Bug~B~6
+		~0- Implementing a new system to try and stop this from occuring.~0
+	~B~6Gametype~B~6
+		~0- Testing out a new game where there is one hidden flag on the map, objective is to bring it back to home base and drop it on drop zone.~0
+	~B~6Item Descriptions~B~6
+		~0- A majority of the weaponry now has text descriptions thanks to BurntDevil. *claps*
+		
+~B~2-</---  End of Update ---/>-~B 

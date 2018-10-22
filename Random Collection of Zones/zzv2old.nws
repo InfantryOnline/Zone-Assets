@@ -1,0 +1,475 @@
+~BNovember 20th, 2012~b (updates by thebobp3) U26
+Human
+  -New class added, still testing
+  -PDB's no longer trigger firewall
+
+~BOctober 19th, 2012~B (updates by Angar) U25
+
+Human
+  -Reworked pulsar.
+  -Fixed a few vision bugs.
+
+~BOctober 18th, 2012~B (updates by Angar) U24
+
+General
+  -Bug fixes (enabled a few portals into and out of DS.
+
+Human
+  -Fixed a few weapons from hitting teammates.
+  -switched APC back.
+  -Enabled  chainsaw drops...
+  
+Zombies
+  -Nerfed Hive Zombie to not slow down players.
+
+~BOctober 17th, 2012~B (updates by Angar) U23
+
+General
+  -Minor map bug fixes.
+
+Please post on forums about bugs that need fixing, thanks.
+
+~BSeptember 30th, 2012~B (updates by Angar) U22
+
+Human
+  -Testing a few things with APC.
+  -Added a limit to healing and maser rets.
+  -Adjusted maser ret.
+
+General
+  -Few map physic and vision fixes.
+
+~BSeptember 28th, 2012~B (updates by Angar) U21
+
+Human
+  -Reworked APC, passangers take damage while inside, and decreased top speed.
+  -Added delay in spawning items/vehicles from command posts, engineering benches, and laboratory. 3 seconds for items, 10 for APC.
+  -Modified build times on basing items.
+  -Increased reload time of 'Self Heal', 'Medkit', 'Sprint', and 'Rush'.
+  -Adjusted '[Sprinting]', and '[Rushing]'.
+
+Zombie
+  -Decreaced duration of 'Fury Sprint', regenerates energy faster.
+  -Increased melee attack slightly.
+
+
+~BSeptember 27th, 2012~B (updates by Angar) U20
+
+General
+  -Rolled back to edited map (removed doors).
+  -Removed some excess items in DS (Q1 area)
+  -Fixed vision physics around map.
+  -Updated physics on a few buildings.
+  -Added Teleporters to crashed DS.
+
+Human
+  -Beefed 'Thermal Lance', and 'Railgun'.
+
+~BSeptember 26th, 2012~B (updates by Angar) U19
+
+General
+  -Lowered damage on a few items.
+
+
+~BSeptember 4th, 2012~B (updates by Angar) U18
+
+Zombies
+  -Zombie players take damage from combat bots and laser turrets.
+  -Ghost spit usage prevent while in wall physics.
+
+~BSeptember 3rd, 2012~B (updates by Angar) U17
+
+General
+  -Rolled back to older map.
+Human
+  -Added a few weapons to store.
+
+~BSeptember 2nd, 2012~B (updates by Angar) U16
+
+General
+  -Fixed a few map errors.
+  -fixed 'Grapeshot'.
+
+~BSeptember 1st, 2012~B (updates by Angar) U15
+
+General
+  -Experimenting with somethings >_>' if it doesnt work out will reroll to previous version.
+  -Added Switches/Doors.
+  -Added Resource Points.
+  -Added Random Drops.
+  -Modified a few basing locations.
+
+
+~BAugust 29th, 2012~B (updates by Angar) U14
+
+Human
+  -Adjusted 'Sprint', 'Rush', and 'Self Heal'.
+
+
+~BAugust 29th, 2012~B (updates by Angar) U13
+
+Humans
+  -Adjusted armor to resist other human players.
+
+Zombies
+  -Split zombie player's and bot's attacks
+  -Increased damage and reload of player's attacks.
+  -Decreased speed of some zombies bots but increased their hp.
+
+~BAugust 28th, 2012~B (updates by Angar) U12
+
+Humans
+  -Added basic self heal and sprint to all human classes.
+  -Gave chem an enhanced self heal and scout an improved sprint.
+  -Scrapped attributes for a bit.
+
+
+~BAugust 27th, 2012~B (updates by Angar) U11
+
+Humans
+  -Lowered 'APC's 'Drive' and 'Reverse' damage, was to unfair for zombie players (but fun).
+  -Increased 'Fuel Cell' expire time to 3 minutes.
+  -Tweaked attribute settings for a bit. Will finish adjust and enable next update.
+
+Zombies
+  -Lowered damage on some zombie skills.
+  -Adjusted physics of Nightmarish Zombie.
+
+~BAugust 25th, 2012~B (updates by Angar) U10
+
+Humans
+  -Modified requirements of items given from 'Command Post', 'Engineering Bench', and 'Laboratory'.
+
+
+~BAugust 25th, 2012~B (updates by Angar) U9
+
+Humans
+  -Prepared things for 'Chainsaw Friday', and 'David Vs Goliath' Events Closed testing phase.
+  -Prepared things for 'Attributes'. Closed testing phase.
+  -Remodeled skills screen.
+
+~BAugust 24th, 2012~B (updates by Angar) U8
+
+Humans  
+  -Increased 'CL5's fire and reload delay, but increased ammo capacity.
+  -Reduced ammo consumption of 'Recoiless Rifle++'.
+  -Decreased 'AP Mine's inactive time to 2 seconds.
+
+Zombies
+  -Adjusted 'Behemoth Zombie', will be playable for test purposes.
+
+Script
+  -Hs will fix this later >_>'... PLZ?
+
+
+~BAugust 18th, 2012~B (updates by Angar) U7
+
+General
+  -Modified APC weapon requirments.
+  -Lowered defense of 'Behemoth Zombie'
+  - Few bug fixes.
+
+~BAugust 17th, 2012~B (updates by Angar) U6
+
+Humans
+  -Reworked specialized compartments.
+  -Increased damage of 'APC LMG'.
+  -Decreased APC driver's 'Drive' and 'Reverse' damage and speed.
+  -Preparing 'Attributes' to spend experience on.
+
+Zombies
+  -Finished Behemoth, working out balance issues. (not playable yet)
+  -Added slight reload to 'Phase' and 'Phase out'.
+
+
+~BAugust 16th, 2012~B (updates by Angar) U5
+
+Humans
+  -Enabled passengers to get in without a driver but disabled all weapons while inside.
+  -Gave APC compartments offensive/defensive weapons.
+  -Gave driver a defenseive weapon.
+  -Fuel Cell expire time set to 2 minutes.
+  -Gave SL warp which uses ammo instead of energy, decreased ammo usage to 50.
+
+Zombies
+  -AZC reworked to Behemoth Zombie. (Functions similar to an APC) Not playable yet
+  -Modified zombie attacks' damage.
+
+
+~BAugust 15th, 2012~B (updates by Angar) U4
+
+Humans
+  -Weapon requirements inside APC have been adjusted.
+  -Modified 'Summon' and 'Summon+'.
+  -'Teleport Beacon' energy usage decreased to 0, portal time set to 5 minutes.
+
+~BAugust 15th, 2012~B (updates by Angar) U3
+
+Humans
+  -'Fuel Cell' expire time set to 1 minute, set limit to 2.
+  -Fixed APC's specialized compartment's restrictions to respective class.
+  -Reduced thrust on 'Drive' and 'Reverse' even further. 
+
+Zombies
+  -Reduced fire delay other to 5 for 'Ambush'.
+  -'Ambushing...' cloak disabled after using a skill.
+
+
+Still working on
+  -Zombies AZC .
+  -Counter APC and AZC Abilities.
+  -Weapon requirements inside APC.
+
+
+
+~BAugust 15th, 2012~B (updates by Angar) U2
+
+Humans
+  -Fuel Cell expire time set to 1 minute 20 seconds, set limit to 1.
+  -Modified which weapons can be fired in APC Passanger.
+  -Added specialized compartments to APC.
+  -Reduced thrust on 'Drive' and 'Reverse'
+
+Working on
+  -Zombies AZC
+  -Counter APC and AZC Abilities
+
+
+~BAugust 14th, 2012~B (updates by Angar) U1
+Zombies
+  -Increased 'Ambush' fire delay other and reload to 15 seconds. 
+  -Set limit of 'Ambushing' to one allowed.
+Humans
+  -Fuel Cell cost reduced to 300 ammo.
+  -Replaced APC's 'Crush' with 'Drive', Foward thrust while dealing damage equal to Crush. (Requires 'Fuel Cell')
+  -Changed 'Drive Backwards' to reverse and added damage equal to 'Crush'. (Requires 'Fuel Cell')
+
+
+~BApril 22nd, 2012~B (updates by Axidus and mastar)
+Zombies
+  -Increased run speed of wraith, hopper. Gave wraith zombified claw.
+  -Decreased King pull effectiveness
+  -Meteor does maximum 7 damage to humans (at 0 energy)
+  -Spawn Zombie spawner attack does actual damage now
+  -TODO: Zombie Queen Tank (emulates APC), Anti-Human APC abilities, revise roles of some types, etc
+Humans
+  -APC costs 10k cash, Fuel cell costs 400 ammo (required to drive APC)
+  -CL5 significantly beefed
+  -Gas projector changed the way upgraded versions work, range/speed reduced
+  -RG significantly increased damage
+Script
+  -Resurrection fixed to give proper ammo amount
+  -Quantity of certain item drops reduced
+  -Lots of other small stuff
+
+
+~BApril 14th, 2012~B
+  -Two new zombie bot types added (infected, zombified humans)
+  -APC added to engy bench (only purchaseable by engineer for 30k cash)
+  -Added bong and ticker to 'You think you hear something' messages/waves
+  -Nightmare zombie no longer has damaging death explosion
+  -Hive Zombie2 has more hp
+  -Added new default zombie type (Ambush Zombie)
+
+
+~BApril 13th, 2012~B
+updates by mastar/Axidus
+  -CL5 given friction (more resilient against repulsor zombies)
+  -Frag grenades purchasable from engineer bay
+  -Grapeshot unaffected by repulsor (this does not include grapeshot's explosion)
+  -Set max carry limit to 10 for all structures (this should avoid overflow cash bug)
+  -Laser turret maxes set to 2 for everyone (except engy, which is max 3)
+  -Each level king gets 1+ point of resistance to laser turrets (lvl 0 starts with 3 resistance)
+
+
+~BApril 12th, 2012~B
+script updates by mastar
+  -?unlearn skillID command added
+  -King levels added: The rate of a leveling king is affected normally by the size of your team, how many times king is killed. Circumstantially, a king level can increase if your team camps for too long.
+
+
+~BApril 08, 2012~B
+  -Maser turret vision set to X-ray
+  -Maser turret set to 4k buy price
+  -Healing Bot projectile set to trigger human only
+  -Hopper zombie set to show hp, halved reload on Hop
+  -Sentient Shell Mode: Lowered some of the protection values slightly, removed stand'n'fire, lowered prefire
+
+
+~BApril 07, 2012~B
+script updates by mastar
+  -40 Ammo given to ammo eater
+  -New wave types for camping
+  -Nightmarish Zombie when (1 player on Zombie Horde)
+other updates by Axidus
+  -Upgrades added for MML, Energy pistol
+  -Maser turret added (Targets only fire zombies, excluding wraiths for the time being)
+  -Energizer turret added (AoE)
+  -Self Heal adjusted on chemist
+  -Supply drop given radar blip for those without sensors
+ Zombies
+  -Added Nightmarish zombie for when there are low player zombie counts
+  -Ammo Eater fixed (each shot drains ammo and 1 point of health, regardless of energy, SG skill logic)
+  -Ammo Eater's highly resistant to kinetic
+  -Hive spit will stop a sprinting motion, then slow down with successive hits.
+  -Meteor only damages turrets (not humans, except energy drain, screen shake added)
+  -Sentient Zombie given small movement speed in shell mode
+  -Sentient Zombie Shell given knockback
+  -Zombie beam attack stops energy recharge
+
+
+
+~BApril 06, 2012~B
+  -several script updates by mastar
+  -Changes to ammo eater
+  -Heal turrets corrected
+  -Hive spit slows you down with an item (TEST)
+  -In the coming week, will add new turrets, zombie types for waves, and other content
+
+
+~BMarch 31, 2012~B
+updates by Axidus
+  -Various skill logics fixed (PDBs, energy pistol, others)
+  -TB ammo cost 150
+  -Increased frag grenade limit to 4, along with blast radius (96>128)
+  -Railgun blast radius (5>3)
+  -Meteor adjusted to be more siege-like
+  -Sellability/Hard limit fixed for weapons that didn't have it before
+  -Shell Mode/Phase Mode given sensors for cloaked teams (no sensors for regular form)
+  -Shell Mode absorbs 97% of explosive damage (90 for others)
+  -Zombie fire attack from (4>3) damage
+  -Thermal lance adjusted
+
+updates by mastar
+  -Ammo generator commands (?geninfo, ?replacegen)
+  -Default weapon setups for class kits
+  -Resurrection gives you minimum amount of ammo
+  -Higher weapon levels no longer overwrite lower version of same weapon
+  -Level up's occur based on bounty (50, 200, 500) for each level
+
+
+
+~BMarch 30, 2012~B
+updates by mastar
+  -New zombie wave added
+  -New ammo generator mechanics
+  -TB consumes ammo properly
+
+updates by Axidus
+  -Spawner Zombie given higher energy regen and warp
+  -Shell mode absorbs 90% damage
+  -AC upgrades modified
+  -If anyone has sensors for zombie still, they won't work
+
+
+~BMarch 26, 2012~B
+  -Experience requirements for class levels severly reduced, weapon upgrades kept high.
+  -script fixes by mastar
+  -Lots of other fixes
+  -Set skill ratings for weapons that didn't have them
+  -Added skill ratings to descriptions of items
+  -Melee: increased damage on chainfist/Pfist
+  -RR prefire 150 (From 200)
+  -Calnad zombie can no longer access PDB, among other items
+  -Calnad zombie given 'mine' with ammo graphic for trickery.
+  -Other various changes to meteor, sniper rifle, and I forget what else.
+
+
+
+~BMarch 25, 2012~B
+  -Scout res/skills fixed (thanks mastar)
+  -Increased laser/heal turret HPs
+  -Laboratory Heal/Energizer less expensive
+  -Chemist given self-heal ability
+  -Summon back to 300 energy, 3 summons before reload
+Weapons
+  -Kuchler ASC MG less effective against humans
+  -Shotgun bullet thickness increased (passes through first target, hits potential second)
+  -Fixed thermal lance inactivity time
+Zombies
+  -ForceField zombie added
+  -Sentient zombie given shell mode
+  -Fire zombie attack less damage, higher energy drain
+  -Fire zombie given Meteor
+  -Wraith Zombie given ghost spit
+  -Spawner zombie summon adjusted (see above)
+
+
+
+
+~BMarch 24, 2012~B
+-Fire zombie stronger, given suicide
+-Scout skills fixed
+-Turrets are now damageable
+-Alien, Acid, Predator, Repulsor zombies reduced rotation speed
+-Other fixes
+
+
+
+
+~BMarch 22, 2012~B
+-Fire/Calnad zombie skills work now (skillID must = vehID)
+-Grapeshot damage/trigger modes fixed
+-A few zombie-related issues fixed
+-Hand Maser quicker velocity
+-Fire effects less graphically intensive
+-Kuchler ASC MG tweaked some more
+-CL5 given poison effect, removed from gas proj++
+-Gas projector upgrades now give extra shot in a clip + increased velocity
+-RR ammo consumption: 20, 25, 30 respectively for each upgrade
+-RR Prefire increased to 200, from 100.
+-Increased MG PDB to 500 hp
+-Increased RPG PDB to 300 hp
+-Decreased Rail PDB to 150 hp
+-Heal turret max: 1 per player, 5 per team
+-Scout upgrades fixed, set prices
+-All zombie skills cost same experience now.
+
+
+
+~BMarch 20, 2012~B
+-Scout kit spawns now
+-HP displayed now
+-Weapon key binds should be 'smarter' now when picking up kits
+
+-RR, AC, Incin upgrades removed from f10 store
+-Hand Maser damage mode fixed, increased damage, moved to store
+-GrapeShot mine tweaked
+-Kuchler ASC MG: added to store
+-Eng given Sprint at lvl 3
+
+
+
+~BMarch 18, 2012~B
+-Added descriptions to skills.
+-Scaled down molotov/RR upgrades projectile count
+-Fixed weird human death explosions.
+-Fixed some graphic settings
+-Reduced AC damage against player controlled zombies.
+-Increased velocity on Phantom, fire delay=0, prefire=75, reload=300
+-Grapeshot mine: less prefire, penetrates up to 3 zombies per projectile
+
+
+
+~BMarch 17, 2012~B
+I want to make traveling from supply to supply a viable strategy, currently basing is the superior method of having a longer game. They should be equally viable strategies. The following updates hope to come closer to that balance:
+-Heal changed to use 20 ammo instead of 1 medicine
+-Area Heal now heals the same amount as Heal, except in an area.
+
+Weapon updates:
+-AutoCannon given upgrades
+-Incinerator given upgrade
+-RR given upgrades, ammo consumption increased
+-Kuchler ASC MG added (heavy weapons)
+-Molotov Cocktail significantly stronger
+-BR upgrades more meaningful, all versions low weaponSwitchTime
+-Railgun width tweaked
+
+Zombie updates:
+-Fire zombie added
+-Ammo-eater zombie added (uses calnad rifle)
+-Spawner zombie given Summon
+
+Misc:
+-Shotgun skill logics fixed
+-Mortar should 1 shot all AI zombies now (except king)

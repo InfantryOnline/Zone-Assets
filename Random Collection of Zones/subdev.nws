@@ -1,0 +1,270 @@
+~b~1Combined Arms~2~b
+---------------------------------------------------------------------------------------------
+~6Developed by Free Imagination Group~2
+You can contact the developers with any comments, questions, suggestions, or critiques on the forum at ~Binfantryarena.com~B
+
+
+~b~1Latest Update~2~b
+---------------------------------------------------------------------------------------------
+~b~4Monday, February 21st, 2011~2~b
+
+~0Mid-Rotation~2
+
+~1Added AFP 'BF' HMG AA Sight for HMG users to whittle down airborne targets. This is a POC that will allow us to quickly add in the remaining AA guns and Flak after we see one in action.
+Check out some new sensor type addons. Feedback is appreciated.
+Please note that all carry weight is now 15kg due to too many complains about OP 0% setups.
+Returned the raider classes back to permanent vehicle mode due to the game being a total bizatch and insisting on dropping connections upon death from within occupied vehicles.~2
+
+	~b~3Zone Features~2~b
+
+		HQ Credits are no longer wiped when joining teams... on the other hand they have a 25% chance of dropping 25% quantity on death.
+		Team Sizes changed to 10 Public 8 Private
+
+	~b~3Map: Airport (Kliest's Ridge)~2~b
+
+		Revamping in progress by volunteer players
+
+	~b~3Map: On The Water~2~b
+
+		(In Progress) Set visions tiles on doors to toggle up switch activation
+
+	~b~3Map: Suburban Warfare~2~b
+
+		(In Progress) Set visions tiles on doors to toggle up switch activation
+
+	~b~3Player Class~2~b
+
+		Enabled selective ammo restore for all basic classes, basic classes no longer wipe equipment on class change or death, only ammo/consummables
+		Descriptions will changed once it's verified to be working 100%
+
+		all classes had their carry weights reduced by 10kg
+		access to armor addons restored to certain classes
+
+		~bDroptrooper~b - loses foot mode and now starts on the droppack
+		~bHovertrooper~b - loses foot mode and now starts on the deathboard
+
+	~b~3Weapons~2~b
+
+		~bCZ-F4 MGL~b - fixed to take correct ammo
+		~bDZ 'EZ' GL-69~b - reload decreased to 2420ms from 3000ms, projectile behaviour cloned from ~bDZGL-69~b
+		~bAFP 'BF' HMG AA Sight~b - newly added, functions exactly like Harness but shoots 45 degrees up
+		~bG-Labs SG5 Slug~b - kinetic damage decreased to 36 from 45, outer kinetic reduced to 24 from 30
+		~bPz9 Wall Piercer~b - fixed inaccuracy in transition to secondary wall piercer mode
+		~bRy-Tek LSR4 Head Shot~b - did some damage reordering so that it actually GGs armor thickness
+
+		added 1 extra drain to all Assault Rifles
+		~bSTC-S4ND11 'Sterilizer' AR~b - armor piercing increased to 13 from 12
+		~bSI-8 'Keibou' AR~b - armor piercing increased to 14 from 13
+		~bTS AG-80~b - armor piercing increased to 15 from 14
+		~bTS AG-80 Optical Sight~b - armor piercing increased to 15 from 14
+		~bRy-Tek AR4~b - armor piercing increased to 16 from 15
+		~bAR247~b - armor piercing increased to 17 from 16
+		~bAR247 API~b - armor piercing increased to 18 from 17
+		~bAR247 EX~b - armor piercing increased to 13 from 12
+		~bAR247 RGFS42~b - lowered fire angle to 6 degrees from 9 degrees
+
+		reduced reload by 150ms for all Battle Rifles
+		~bZlite G1 Battle Rifle~b - reload decreased to 600ms from 750ms
+		~bZlite G2 Battle Rifle~b - reload decreased to 750ms from 900ms
+		~bZlite G3 Battle Rifle~b - reload decreased to 900ms from 1050ms
+		~bZlite G4 Battle Rifle~b - reload decreased to 1050ms from 1200ms
+
+		a seperate buy option added for each of the miniguns
+		so that using ?buy command or having the stabilizer deployed is no longer prerequisite
+		~bMinigun Stabilizer~b - now included in all minigun buy options, is now move and fire
+							rotation penalty removed, takes affect in vehicles
+		~bCZ-5P4MM3R Minigun Gel Fins~b - disabled due to incompatibility with Minigun Stabilizer
+							(we'll bring it back once we fix the issue)
+
+
+	~b~3Armor~2~b
+
+		~bAugmented Motivator Cables~b - increases carry weight by 10kg, newly added, due to lower carry limits
+		~bPassive Sensors~b - renamed to Phased Radar, with updated descriptions, so people can get a clue as to how it works ingame
+		~bTeloscopic Imaging~b - newly added, lets you see 4x farther
+		~bTarget Lock~b - newly added, increases awareness by 4x
+		~bT2 Omni Vision~b - newly added, lets you see 360 degrees
+
+		~bG-Labs Advanced Recon Armor~b - newly added SpecOps exclusive armor featuring aforementioned sensor suites
+		~bSilenTech SymAC~b - added some weaker sensor features
+		~bSloped Armor X~b - kinetic and explosive ignores increased to 3 from 2
+		~bPower Armor SI-9~b - disabled in vehicles
+		~bPower Armor SI-8~b - disabled in vehicles
+		~bPhase Shift Armor~b - energy consumption reduced to 300 from 600
+
+	~b~3Equipment~2~b
+
+		Personal Vector weights reduced by 50%, due to lower carry limits
+		Recharger Cell weights reduced by 50%, due to lower carry limits
+
+		~bJT Hop Thrusters~b - energy cell usage reduced to 90 from 120
+		~bHT Afterburners~b - energy cell usage reduced to 5 from 10
+
+		~bSandbags~b - now buyable in the store for 50 credits
+		~bRazorwire~b - now buyable in the store for 50 credits
+		~bSandbags x2~b - now buyable in the store for 100 credits
+		~bRazorwire x2~b - now buyable in the store for 100 credits
+
+		~bExplosives Cache Standard~b - LAW purchase option correctly provides a LAW disposable weapon instead of LAW 4x weapon
+		~bExplosives Cache Rocket~b - new purchase option "OMB RPG Anti Air  (2)  $100"
+		Workbench $1000 option added to three final tier engineering buildings
+
+	~b~3Vehicles~2~b
+
+		~bAircraft Rocket AA~b - loses 36 proximity
+		Gunship (helis) projectile Alive Time further decreased to 3 seconds from 5 seconds
+
+		~bBuggy Crash~b - kinetic reduced to 18 from 20, drain decreased to 15 from 16
+
+
+For an archived list of previous updates, see the CA Development Log (hit ~BF1~B, and choose ~BCA Development Log~B).
+
+
+
+---------------------------------------------------------------------------------------------
+
+~0~BINTRODUCTION~B
+Like the name implies, if you know the military terminology, Combined arms is a strategy utilizing a variety of units working together to perform more effectively than as standard, similar units. As a result, though the game is a shooter, and has RPG elements, being effective in Combined Arms is often in large part up to your tactical choices.  And with a large diversity of vehicles and equipment, there's plenty of ways to "Combine Arms".  With creativity, intelligence, and a bit of skill, you can quite easily take on a much larger force.  In many ways (though not necessarily in every case), the philosophy that guides balance choices in Combined Arms is that of tradeoffs.
+
+Any vehicle, any weapon, or any item, offers something different, and understanding how to use it specifically to your advantage is where you build a knowledge of the tactics in the game. Your real combat experience, your real skill, is then internalized as much as possible, rather than being arbitrary stats you endured months of painfully boring gameplay for.  In this way, the game is honest, and since it's free, there's no reason to try to lock you into a subscription with exploitative gameplay (like having you grind for levels to achieve a false sense of accomplishment). 
+
+You do unlock things as you gain experience, but this is an expansion factor, as none of the classes are truly "overpowered", some just better at certain things.
+
+The true intent of the game is to be fun and rewarding at any point.  There are no required objectives; you're free to create your own team and bounty in tanks, hold a base and make lots of cash (which you can use to "unlock" the more expensive toys to play with), or compete on the score charts.  It's very sandbox.  And it's the cumulation of years of hard work, so enjoy! And have fun.
+
+---------------------------------------------------------------------------------------------
+
+~4~BMini-FAQ~B
+
+~BQ:What's the difference between basic classes and the rest?~B
+
+	The basic classes are preset configurations meant for new players.
+	Inventory for these classes are restored every time you fall in battle, essentially providing you with free ammuniton.
+	However, keep in mind that these setups will wipe any new equipment that you purchase from the store, wasting your cash.
+	If you want to have a customizable setup, switch to non-basic classes.
+	It is ~Brecommended~B for new players to stick to basic classes until they have gained enough experience and cash to purchase a full equipment build out.
+
+~BQ:How do warps work in this zone?~B
+
+	Every player starts off with the usual set of warp items found in most zones: Team Teleport and Dropship Recall.
+	The former attaches you to a teammate that you have highlighted in your playerlist.
+	The latter sends you back to the dropship so that you may access the store and skill selection.
+
+	If you just want to jump in and fight, take the central main warp from the DropShip. This will always land you on the surface roads of the level.
+	This is usually a good choice; plenty of people to fight, never too many. Just be prepared to spawn directly into a hail of bullets.
+	Depending on the map currently in play, there are directional warps are for getting to specific portions of the battlefield.
+
+	Each team is also capable of fielding a single ~BWarp Point~B structure, which acts like reinforcement beacon.
+	The ~BWP Recall~B is an essential teleport device that will relocate you to your team's ~BWarp Point~B.
+	There is also the ~BHQ Recall~B, the difference being that it will bring your directly to your team's ~BHeadquarters~B.
+	In the event that your team does not possess either item, the recalls will act like a DS Recall and bring you to the dropship.
+
+~BQ:How do I build a vehicle?~B
+
+	Items called ~BBlueprints~B are required to requisition vehicles.
+	There are various spots on the map that have objects called vehicle pads, which will exchange blueprints and cash for vehicles
+	You can buy a blueprint from the store (under Ammunition). One is provided free upon death.
+
+~BQ:Why am I so overweight?~B
+
+	All classes and vehicles can carry up to 25kg worth of inventory before encumberance takes hold. It is normal for average setups to exceed 25kg.
+	Carry weight affects your speed. You begin to suffer 1% decrease in acceleration for every 1kg over 25. Most players can find themselves 10-20% overweight. 
+	You can opt for less firepower or armor for higher mobility. The choice is up to you.
+
+~BQ:Sprint, Jump, Kick?~B
+
+	Sprint will help you cover ground quickly, escape overwhelming odds, or seek cover.
+	Jump gets onto green (and from there yellow) physics. To see the physics of the level, use the ?showphysics command.
+	Kick has knockback which is useful if someone is too close to you, and will momentarily jam weapons fire from your opponent.
+
+~BQ:What's an Energy Cell?~B
+
+	Energy Cell items are the equivalent of suit energy in other zones.
+	It is used to fire weapons and activate certain devices.
+	You will get a free recharge when you die, or you can buy a recharger located under the store category ~BEquipment - Rechargers~B.
+	EMP weaponry will drain Energy Cells and can temporarily prevent you from recharging your energy cells.
+
+~BQ:How much armor can I have?~B
+
+	You can have 1 Armor, 1 Armor Add-on, 1 Activated Generator and 3 Implants.
+	The armors found under Custom and Special tend to be more specialized for specific purposes.
+	All defensive bonuses and speed bonuses are stacked. The benefits are all absolute values, so there is no need to worry about inventory ordering like in other zones.
+
+~BQ:Speaking of Armor, how does it work?~B
+
+	Thickness protects against larger single impacts,.
+	Anti-Multi Hit is helpful for burst fire and reducing consecutive damage.
+	The damage types of Kinetic, Explosive, Energy and etc are pretty obvious.
+
+	Cloaking and Stealth is list as (X/YYY):
+	where X = how many seconds you will Un-Cloak/Un-Stealth for after firing,
+	and YYY = the radius in pixels where your cloak/stealth is useless.
+	Unliked defense and speed bonuses, multiple cloaks and stealth do not stack.
+
+
+For more help getting started with Combined Arms be sure to check out the CA Official Guide (hit ~BF1~B, and choose ~BCA Official Guide~B).
+
+---------------------------------------------------------------------------------------------
+
+~B~6Free Imagination Group~B
+Combined Arms has been developed by an autonomous development collective known as FIG.  We are an experienced group of developers interested in the ~Bart~B of game design.  We treat our creations with respect, and envision the way games would be made without the usual limitations.  We hope you enjoy Combined Arms, and will look for other games by us in the future.
+
+---------------------------------------------------------------------------------------------
+
+~2~BCREDITS~B
+These credits specifically refer to the re-release version for SOE, not including any previous versions.  Developers from older versions are still mentioned in the Special Thanks.
+
+~BLead Designers:~B
+STAS
+ryanbe
+
+~BProducer:~B
+ryanbe
+
+~BContent Programmers:~B
+STAS (Lead)
+LooseCannon
+AllYourBase
+Axidus
+
+~BSuburban Warfare map~B
+Marine (Lead)
+Mode
+ryanbe
+
+~BOn The Water map~B
+ryanbe
+
+~BUrban Chaos map~B
+dz
+
+~BDemotrooper, Buggy, Naga and Heavy Exosuit graphics~B
+kwekly
+
+~BStructure graphics~B
+Marine
+
+~BGunship graphics~B
+EightBitDragon
+
+~BTesters:~B
+Plocks
+1 < a z e
+Animoo
+Cuddly
+Skear
+dolche
+A!tair
+Riff
+Shiphter
+
+~BSpecial Thanks:~B
+BurntDevil
+dz
+Mode
+Octavian
+Syco
+Toriad
+
+~Bfaget:~B
+Squishie!

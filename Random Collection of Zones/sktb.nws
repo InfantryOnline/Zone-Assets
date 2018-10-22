@@ -1,0 +1,4 @@
+sktb.cfg - LOS distance changed from 72 to 4096 (can see farther), flag victory time set to 2 minutes
+sktb.rpg - experience requirements for classes removed
+sktb.veh - all unit weapon physics collision changed to always collide (all classes will block friendly shots instead of only some classes)
+changed by ChrisP

@@ -1,0 +1,94 @@
+~b~1Combined Arms Development Log~2~b
+-------------------------------------
+~b~--June 11th, 2012--~2~b
+~b~--Collaboration Update--~2~b
+
+Added Qiang Main Battle Tank.
+Lowered Levi main hull armor to 42 kinetic. Raised gunner to trident turret armor levels.
+Lowered Beam-X damage to 320
+Gave Goddog normal tank commander over SAM commander.
+Added Sheath/Graft interfaces... lets see how that goes.
+
+
+(Updates done here were of a multiple devs, if you'd like to be apart of future collab's, stay tuned.)
+
+
+~b~--June 10th, 2012--~2~b
+Lowered fire hight and added more gravity to the micro rpg launcher on the levi.
+
+Event ended. Fixed weblinks.
+
+
+~b~--June 9th, 2012--~2~b
+Made Autoturret Autocannon not track foot units. This does not include vehicle mounted raiders.
+
+~b~--June 9th, 2012--~2~b
+Removed turret protections that had been put in place to make turrets on tanks immune. Now if someone hops out of the tank, just pop the ret.
+
+Removed most of the old HQ items.
+
+Background work on some vehicles.
+
+Levi Retrofit enabled. May need rebalancing.
+
+Aircraft rockets shrapnel output raised.
+Aircraft minigun damage increased to 22, drain to 20.
+
+~b~--June 4th, 2012--~2~b
+HQ's should be fixed. Thank Superman.
+Removed hq credits. Might stil have a few instances of them somewhere.
+
+~b~--June 2nd, 2012--~2~b
+Fixed held limits on Psi Saber Dash. Also corrected the item requirements.
+Removed requirements of Awareness to the rest of the D)* tree. Now you can pick those out of order.
+Set AFP HMG to 31 kinetic. Now it can slowly damage vehicles like mechs and tanks again.
+Lowered AMH on Ultrablack from 100 to 80 to help for the 'lag armor'. It was either that or slow them down.
+Lowered angle of AFP HMG AA to 35 from 45. Will increase performance in anti-air unit tasks.
+
+Monoblade usage was increased to 300 cells. Its reload was increased to 175 from 150. Some of you will yell bloody murder over this. Ill go ahead and explain the logic here. Monoblade simply is too much for new players to handle. We are at a point were we dont need leetninjadudes running thru ever new player until they get annoyed and leave. I didnt touch fragiles btw.
+
+~b~--June 2nd, 2012--~2~b
+You may find yourself in jail.
+
+~b~--June 2nd, 2012--~2~b
+Went ahead and just replaced Saber Throw with Saber Dash. Aught be more balanced and useful for psi.
+Fix Psi's Telekinetic Knife throw. It still had the normal knife features. It wasnt supposed to have those.
+Lessened the slowdown on Stablizer to %65 from %95.
+~b~--June 1st, 2012--~2~b
+Added 1x6 psi damage back to Saber Throw
+~b~--May 28th, 2012--~2~b
+Headquarters
+	-- Implemented Pylon structures purchasable under the F10 menu under Engineering, this increases the kill radius in which kills reward HQs.
+	-- HQ Destruction rewards now reward the team's HQ with the bounty instead of the players if an HQ exists.
+	-- Added rewards for vehicle kills. These are increased accordingly.
+G-Labs SG5 Grenade
+	-- Spiced up graphically yet again.
+
+~b~--May 27th, 2012--~2~b
+G-Labs SG5 Grenade
+	-- Lowered Armor Strain. Inner: 45 to 35. Outer: 35 to 20
+	-- Added Shrapnel effects.
+	-- Lowered Capacity to 2 and increased fire delay from 65 to 85
+	-- Played around with the graphics to try and give it some eye candy, also lowered shrap.
+Ry-Tek LSR4 Headshot
+	-- Inner Kinetic restored to 28 damage.
+
+~b~--May 26th, 2012 [Continued]--~2~b
+Ry-Tek LSR4 Leg Shot
+	-- Adjusted debuff to 25% and allowed it to stack up to 75%
+G-Labs SG5 Grenade
+	-- Enabled in the F10 store for $40 a piece.
+	-- Upped Armor strain by 25.
+HeadQuarters
+	-- Added "Humps" at every level which is a multiple a 10.
+	-- Added +25 bounty on top of kills. (HQs should level a tiny bit faster now)
+
+~b~--May 26th, 2012--~2~b
+
+Ry-Tek LSR4 Leg Shot
+	-- Removed 5 second complete stun.
+	-- Added a 3 second 75% movement debuff.
+Pulse Laser Rifle
+	-- Set outer damage back to 2 from 12 (How this got this way I don't know)
+PsiOps
+	-- Held category code fixed (PsiOps stuff should function properly now)

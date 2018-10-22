@@ -1,0 +1,269 @@
+~b~1Combined Arms~2~b
+---------------------------------------------------------------------------------------------
+
+
+~b~1Latest Update~2~b
+---------------------------------------------------------------------------------------------
+~b~Nov 16, 2011~2~b
+Lowered how much speed the saber throw inhiers from you, removed the psi extra 2x8 damage on it.
+Lowered downtime on Psionic Sense.
+stc-a2 clo cloak downgraded slightly to 5/450
+Added more psi items. Upped limit to 4. Redid prices.
+Undid various previous updates that went against planned balance. Alot of the older updates were to be reverted, Im just carrying it out. Too many to note. Most notable is SciOps loses access to PA. The new content SciOps will be getting will make up for this loss, however, for overall balance this needs to change back to the intended settings that the creator devs decided.
+Set HQ to only allow a player to be able to build one, regardless of team. Also attempting a less harsh cell drain and a slighty different hq anti abuse setup (which may cause issues - sorry if it does, its a very complex and odd system)
+
+~b~4Nov 9, 2011~2~b
+Fixed access to ar247 for demo...maybe
+Final fix to the Vehicle spawn system (if it doesnt completely work this time Im undoing it)
+Fixed Drum for pantcore sg. it is also move and fire to reload it now.
+Removed shredder from HT
+Beefed Vibro Lance to 15/8 Inner/outer kin damage 5 bypass, made perfect accurate
+Lowered recoil on Afterburner. Should help the poor hit detection issues. Slight fire delay added to it. 
+Removed Varaiable Armor from DT/HT.
+Returned Hedgehog Grendade to Grenade section in store and set it to follow the other grenade logic.
+Increased Sonic Cannon prefire graphic.
+Attempting a new hq system to prevent people from hacking hq's. Theres a total cell wipe within 120 pixel radius of the HQ. It may be tweaked but it should stop all the stat padding abuse people were doing.
+Pizza base has yet another entry. This is located outside of pizza. Shouldnt be hard to figure out.
+Attempted to fix RPG on buggy not hitting people.
+Gave hoverboard in store its missing pick up item, now you can actually pick it back up.
+TS Base slighty changed.
+Changed Power Armor Vector to the newer Vector system.
+Removed the cell recharge options from Supply Box/HQ.
+
+Went ahead and moved the hq/wp warps from the second level of the DS to somewhere useful in the first level. These are not new. They had been always been enabled, just no one noticed them. I also have attempted to enable the Dueling Arenas. Good for practicing.
+
+Im not going to spend much more attention to balance issues until PsI Ops and Scout are finished. You may see a psi or two this update. 
+
+Airport may come up soon, maybe. Its a risky option, given the map size. I dont want the zone fading because of a bad map choice and having to wait up to a week to fix it.
+
+~b~4Nov 2, 2011~2~b
+Fixed demo access to ar247, also gave access back to ar4 and the gl for it.
+Attempting to fix the Vehicle spawn update, seems I forgot to tell it not spawn on startup.
+Sonic Cannon now has prefire graphic
+Behind the scene work on Psi Ops, Scout, and Assault Trooper - new classes.
+Did some fixing to team sizes. Upped it to 6, fixed the bypass that allowed privates to be 8 man.
+Pantcore SG requires drums to get ammo now. It used to be like this, not sure why it ever stopped being such.
+Fenrir reloads increased. 220 reload for normal mode, 250 for api/exp, bnc left alone because lol bnc
+PA EMP mode for Snipers only added.
+Throwing knife removed from BO.
+Disabled Autocannons at ry-tek base until 25 pop happens.
+Shifter Pack to 400 Cells
+
+~b~4Oct 22, 2011~2~b
+Stop gap update, to keep population steady until later updates by Squishie can be finished. 
+Team limits set to 5 across the board.
+Vehicle spawns are now 20 for Arty/Air/Tanks, 15 for assault, and 10 for buggy/mechs
+Slight nerf to DT/HT. Lost access to Sloping and Drop Light armors and Sterlizer.
+Black Ops loses gen access.
+Enabled CR2019 for Engy and SL classes. Under Pistols.
+KOTH rewards upped, pop req lowered, time between games lowered.
+Increased entry way to pizza basement.
+Shifter Pack to 475 cells. Recall unchanged.
+Increased Sniper Cannon prefire/fire delay to 125. Reload to 250. This was the other option to lowering the damage to the point where it was useless. Still rapes tanks if used correctly.
+Carbine reload to 90
+LMG lifetime to 350
+
+
+~b~4Monday, February 28th, 2011~2~b
+
+~0Bug Fix~2
+
+~1Some more fixes.~2
+
+	~b~3Zone Features~2~b
+
+		None
+
+	~b~3Map: Airport (Kliest's Ridge)~2~b
+
+		Under revamping by volunteer players
+
+	~b~3Map: On The Water~2~b
+
+		(In Progress) Set visions tiles on doors to toggle up switch activation
+
+	~b~3Map: Suburban Warfare~2~b
+
+		(In Progress) Set visions tiles on doors to toggle up switch activation
+
+	~b~3Player Class~2~b
+
+		SpecOps classes regain all anti-cloak armor addons (I'm not touching this aspect ever again)
+
+	~b~3Weapons~2~b
+
+		~bG-Labs SG5 Slug~b - inner kinetic reduced to 33 from 36, outer kinetic increased to 30 from 24
+
+	~b~3Armor~2~b
+
+		None
+
+	~b~3Equipment~2~b
+
+		Engineering items disabled in Dueling Area
+
+		~bDetPack~b - vectorable, disappears if it touches walls
+		~bFlashPack~b - vectorable, disappears if it touches walls
+		~bLasPack~b - vectorable, disappears if it touches walls
+
+	~b~3Vehicles~2~b
+
+		Aircraft can only land/lift off on pad terrain
+		~bBuggy Crash~b - removed vertical repulse
+
+
+For an archived list of previous updates, see the CA Development Log (hit ~BF1~B, and choose ~BCA Development Log~B).
+
+
+
+---------------------------------------------------------------------------------------------
+
+~0~BINTRODUCTION~B
+Like the name implies, if you know the military terminology, Combined arms is a strategy utilizing a variety of units working together to perform more effectively than as standard, similar units. As a result, though the game is a shooter, and has RPG elements, being effective in Combined Arms is often in large part up to your tactical choices.  And with a large diversity of vehicles and equipment, there's plenty of ways to "Combine Arms".  With creativity, intelligence, and a bit of skill, you can quite easily take on a much larger force.  In many ways (though not necessarily in every case), the philosophy that guides balance choices in Combined Arms is that of tradeoffs.
+
+Any vehicle, any weapon, or any item, offers something different, and understanding how to use it specifically to your advantage is where you build a knowledge of the tactics in the game. Your real combat experience, your real skill, is then internalized as much as possible, rather than being arbitrary stats you endured months of painfully boring gameplay for.  In this way, the game is honest, and since it's free, there's no reason to try to lock you into a subscription with exploitative gameplay (like having you grind for levels to achieve a false sense of accomplishment). 
+
+You do unlock things as you gain experience, but this is an expansion factor, as none of the classes are truly "overpowered", some just better at certain things.
+
+The true intent of the game is to be fun and rewarding at any point.  There are no required objectives; you're free to create your own team and bounty in tanks, hold a base and make lots of cash (which you can use to "unlock" the more expensive toys to play with), or compete on the score charts.  It's very sandbox.  And it's the cumulation of years of hard work, so enjoy! And have fun.
+
+---------------------------------------------------------------------------------------------
+
+~4~BMini-FAQ~B
+
+~BQ:What's the difference between basic classes and the rest?~B
+
+	The basic classes are preset configurations meant for new players.
+	Inventory for these classes are restored every time you fall in battle, essentially providing you with free ammuniton.
+	However, keep in mind that these setups will wipe any new equipment that you purchase from the store, wasting your cash.
+	If you want to have a customizable setup, switch to non-basic classes.
+	It is ~Brecommended~B for new players to stick to basic classes until they have gained enough experience and cash to purchase a full equipment build out.
+
+~BQ:How do warps work in this zone?~B
+
+	Every player starts off with the usual set of warp items found in most zones: Team Teleport and Dropship Recall.
+	The former attaches you to a teammate that you have highlighted in your playerlist.
+	The latter sends you back to the dropship so that you may access the store and skill selection.
+
+	If you just want to jump in and fight, take the central main warp from the DropShip. This will always land you on the surface roads of the level.
+	This is usually a good choice; plenty of people to fight, never too many. Just be prepared to spawn directly into a hail of bullets.
+	Depending on the map currently in play, there are directional warps are for getting to specific portions of the battlefield.
+
+	Each team is also capable of fielding a single ~BWarp Point~B structure, which acts like reinforcement beacon.
+	The ~BWP Recall~B is an essential teleport device that will relocate you to your team's ~BWarp Point~B.
+	There is also the ~BHQ Recall~B, the difference being that it will bring your directly to your team's ~BHeadquarters~B.
+	In the event that your team does not possess either item, the recalls will act like a DS Recall and bring you to the dropship.
+
+~BQ:How do I build a vehicle?~B
+
+	Items called ~BBlueprints~B are required to requisition vehicles.
+	There are various spots on the map that have objects called vehicle pads, which will exchange blueprints and cash for vehicles
+	You can buy a blueprint from the store (under Ammunition). One is provided free upon death.
+
+~BQ:Why am I so overweight?~B
+
+	All classes and vehicles can carry up to 25kg worth of inventory before encumberance takes hold. It is normal for average setups to exceed 25kg.
+	Carry weight affects your speed. You begin to suffer 1% decrease in acceleration for every 1kg over 25. Most players can find themselves 10-20% overweight. 
+	You can opt for less firepower or armor for higher mobility. The choice is up to you.
+
+~BQ:Sprint, Jump, Kick?~B
+
+	Sprint will help you cover ground quickly, escape overwhelming odds, or seek cover.
+	Jump gets onto green (and from there yellow) physics. To see the physics of the level, use the ?showphysics command.
+	Kick has knockback which is useful if someone is too close to you, and will momentarily jam weapons fire from your opponent.
+
+~BQ:What's an Energy Cell?~B
+
+	Energy Cell items are the equivalent of suit energy in other zones.
+	It is used to fire weapons and activate certain devices.
+	You will get a free recharge when you die, or you can buy a recharger located under the store category ~BEquipment - Rechargers~B.
+	EMP weaponry will drain Energy Cells and can temporarily prevent you from recharging your energy cells.
+
+~BQ:How much armor can I have?~B
+
+	You can have 1 Armor, 1 Armor Add-on, 1 Activated Generator and 3 Implants.
+	The armors found under Custom and Special tend to be more specialized for specific purposes.
+	All defensive bonuses and speed bonuses are stacked. The benefits are all absolute values, so there is no need to worry about inventory ordering like in other zones.
+
+~BQ:Speaking of Armor, how does it work?~B
+
+	Thickness protects against larger single impacts,.
+	Anti-Multi Hit is helpful for burst fire and reducing consecutive damage.
+	The damage types of Kinetic, Explosive, Energy and etc are pretty obvious.
+
+	Cloaking and Stealth is list as (X/YYY):
+	where X = how many seconds you will Un-Cloak/Un-Stealth for after firing,
+	and YYY = the radius in pixels where your cloak/stealth is useless.
+	Unliked defense and speed bonuses, multiple cloaks and stealth do not stack.
+
+
+For more help getting started with Combined Arms be sure to check out the CA Official Guide (hit ~BF1~B, and choose ~BCA Official Guide~B).
+
+---------------------------------------------------------------------------------------------
+
+~B~6Free Imagination Group~B
+Combined Arms has been developed by an autonomous development collective known as FIG.  We are an experienced group of developers interested in the ~Bart~B of game design.  We treat our creations with respect, and envision the way games would be made without the usual limitations.  We hope you enjoy Combined Arms, and will look for other games by us in the future.
+
+---------------------------------------------------------------------------------------------
+
+~2~BCREDITS~B
+These credits specifically refer to the re-release version for SOE, not including any previous versions.  Developers from older versions are still mentioned in the Special Thanks.
+
+~BLead Designers:~B
+STAS
+ryanbe
+
+~BProducer:~B
+ryanbe
+
+~BContent Programmers:~B
+STAS (Lead)
+LooseCannon
+AllYourBase
+Axidus
+
+~BSuburban Warfare map~B
+Marine (Lead)
+Mode
+ryanbe
+
+~BOn The Water map~B
+ryanbe
+
+~BUrban Chaos map~B
+dz
+
+~BDemotrooper, Buggy, Naga and Heavy Exosuit graphics~B
+kwekly
+
+~BStructure graphics~B
+Marine
+
+~BGunship graphics~B
+EightBitDragon
+
+~BTesters:~B
+Plocks
+1 < a z e
+Animoo
+Cuddly
+Skear
+dolche
+A!tair
+Riff
+Shiphter
+
+~BSpecial Thanks:~B
+BurntDevil
+dz
+Mode
+Octavian
+Syco
+Toriad
+
+~Bfaget:~B
+Squishie!
+
+
+
+Newest updates are at the top of this document, please scroll up.

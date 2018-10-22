@@ -1,0 +1,13 @@
+v6,1,0,100,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Marine","Unknown","","Collective Marine or Titan Regular.",  ,,0,0,0,0,0,0
+v6,3,-2,101,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sergeant","Unknown","","Collective Sergeant or Titan Sergeant.",  ,,0,0,0,0,0,0
+v6,5,0,103,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Medic","Unknown","","Collective Medic or Titan Medic",  ,,0,0,0,0,0,0
+v6,6,0,104,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Ripper Gunner","Unknown","","Collective Ripper Gunner or Titan Ripper Gunner.",  ,,0,0,0,0,0,0
+v6,7,0,105,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Grenadier","Unknown","","Collective Grenadier or Titan Grenadier.",  ,,0,0,0,0,0,0
+v6,2,0,111,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sniper","Unknown","@100000","Collective Sniper or Titan Sniper.",  ,,0,0,0,0,0,0
+v6,4,0,116,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Light Machinegunner","Unknown","","Collective Light Machingunner or Titan Light Machinegunner.",  ,,0,0,0,0,0,0
+v6,8,0,119,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Squad Leader","Unknown","","Collective Squad Leader or Titan Squad Leader.",  ,,0,0,0,0,0,0
+v6,13,-2,120,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Scout","Unknown","","Lightly armed soldier equipped with enhanced vision gear.",  ,,0,0,0,0,0,0
+v6,9,0,121,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sapper","Unknown","","Collective Sapper or Titan Sapper.",  ,,0,0,0,0,0,0
+v6,11,-2,123,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Elite","Unknown","","Collective Elite or Titan Inferno Trooper.",  ,,0,0,0,0,0,0
+v6,12,0,124,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Engineer","Unknown","","Collective Engineer or Titan GearHead.",  ,,0,0,0,0,0,0
+v6,14,-2,128,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Assault Trooper","Unknown","","Trooper specially trained and equipped for close assault.",  ,,0,0,0,0,0,0

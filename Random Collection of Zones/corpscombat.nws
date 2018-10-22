@@ -1,0 +1,347 @@
+~BCorps Combat~B
+
+Welcome to Corps Combat! 
+
+Corps Combat envolves a team of unique roles striving for control of the map.
+
+
+~BClasses!~B
+
+Outlaw - Exceptionally agile and favors the Shotgun.
+
+Rocketeer - Explosive ace specializing in RPGs.
+
+Arson - Scorch enemies with your Flamethrower.
+
+Officer - Lay down the law with the Grenade Launcher.
+
+Hefty - Carries the destructive Gatling Gun.
+
+Technician - Fortifies the battlefield with his turrets and other gagets
+
+Surgeon - The medic, healer, lifesaver every team needs.
+
+Marksman - Sniping expert
+
+Assassin - Clings to the shadows and handles the very deadly blade.
+
+~B* Metal Fragments spawn NW, SE and within the fort. Ammo spawns within the fort. Energy Pack spawns @ one spot in the fort.
+ALL can be purchased from the Store!~B
+
+~BNovember 10-12th~B
+Alot've small changes to the map (More Sniping Spots)
+Max turrets allowed increased. Go nuts.
+Turret Scipio - Added small damage increase and push effect.
+Time to hold flag increased by 10 seconds...
+Warps are still being adjusted.
+Metal Fragments cost more.
+Proximity on weapons decreased...
+Rocket Launcher - Blast Radius increased 20 to 30.
+Flamethrower - Burn Damage increased by 2. 
+Flag rewards decreased, Jackpot reward added.
+
+ALSO! Expect the next rotation to feature Corps Combat in the arcade slot! WOOT!
+
+~BNovember 8th~B
+Hey sorry its been awhile :O
+Sawed-Off muzzle velocity nerf. 2700 to 2300.
+Max number of turrets active reduced.
+Tweaked flagging games. Expecting new games to respawn teams...
+Assassin - Max allowed Toxin Nades adjusted.
+Flamethrower burn effect. -5 to -6
+Needler damage nerf. 5 to 4.
+
+~BOctober 26th~B
+Procks Prague is poisoning the world! Corps Combat residents are forced to take refuge within the Fort -The battlefield has been reduced significantly.
+The Assassin has taken advantage of the poisonous plague - Toxin Grenade damage beef 50 to 60.
+
+~BOctober 17-18th~B
+Sheep Research Labs is working on new weapons of mass destruction...
+Rock! Weapons Manufacturing has upgraded the Revolver - Muzzle Velocity increased 4800 to 5000.
+Corps Combat's economy has improved! - Metal Fragments price cut 150 to 75. Ammo price cut by 2.
+The Arson - Radar Stealth Added.
+The Assassin has infiltrated supply lines - Max Allowed Ammo for ALL classes decreased.
+
+~BOctober 14th~B
+Crown games require 8 to start.
+Will spawn correctly after every game.
+
+~BOctober 13th~B
+A lot of small changes to things...Medigun,Needler,Jump,Toxin Nade,Energy Pack,Disguise...
+I believe I've finally fixed Surgeon, If not, Im just going to scrap it.
+
+~BOctober 6th-11th~B
+
+Energy Pack added. Spawns on map or buyable from store.
+LOL WOW. Needler officially fixed. Had nothing to do with vehicles and more to do with the child item.
+Medigun - Heal effect nerf. Capacity dropped 125 to 100. 3 Energy Requirement a pop.
+Tazer - Fire delay other increased 30 to 60. Rotate effect decreased 600 to 500.
+Sawed-Off - Muzzle velocity increased 2000 to 2700. 
+Flamethrower & Shotgun - Fire delay other(Swith Delay) increased slightly. Recoil decreased slightly.
+Revolver - Fire Delay increased 20 to 30 and Recoil increased 50 to 60. Damage nerf 25 to 20.
+Jump energy requirement increased 95 to 125.
+Summon accuracy corrected.
+
+-CFG-
+Testing some CFG settings (Crowning, Game starts/end, Rewards ect...)
+
+-Map-
+Small vision and Smart Trans changes..
+
+
+Thanks Dope Boy Magic, Demonthrall, Why_do_you_need_to_know, dead, titan16170 and everyone else who stopped by!
+
+~BSeptember 29-30~B
+
+Assassin's Blade damage reduced from 295 to 200.
+Summon energy requirement now 350.
+Metal Fragments cost 200.
+Tazer damage increased from (50 ~ 70). Reload Delay increased (500 ~ 620) and Anti Fire effect increased.
+Revolver damage increased (22 ~ 25)
+Removed experience req from Lalop. QQ MORE ANIMOO
+Assasin's top speed increased.
+
+~BSeptember 25-27~B
+
+Disguise enhanced in cloaking.
+Gatling Gun pushback reduced.
+Revolver damage decreased from 35 to 22.
+Sawed-Off switch weapon delay increased.
+Sniper Rifle damage decreased from 150 to 100 and Capacity reduced from 3 to 2.
+SMG damage increased from 8 to 10.
+Now carry 100 Fragments Max.
+Medigun changes..
+Added Summon to Officer.
+Map changes....Sewer access removed for now.
+All classes spawn with more ammo.
+Turrets no longer detect Assassin. Pay close attention to your Turrets Technicians :]
+EMP Laser renamed to Tazer and damage reduced significantly. (Still very effective vs. Turrets)
+Toxin Nade bounces reduced (3->2), Blade radius increased, Damage increased.
+
+Thanks 2 JediMaster96, Illusion Labs, CremisiSteam, Jacuzzi Splot and The Device, these changes were possible. Thx you guys.
+
+
+~BO hey another Update!~B
+
+Scraps renamed to Fragments.
+Turrets no longer produces Scraps.
+Ammo spawns spread out.
+Team's turret limit reduced from 6 to 4.
+Revolver damage nerf.
+Meele weapons adjusted.
+Assassin's Blade reload delay dropped from 200 to 150.
+
+
+~BUpdate Semptember 17th!~B
+
+Turret Hades Rocket min range reduced and Prox increased.
+Turrets Hades and Ares produce 1 instead of 2 Scraps every 75 (ticks)
+Disguise cloak distance reduced.
+
+~BUpdate Semptember 15th!~B
+
+Adjusting fire delay others.
+H-GL small beef in damage.
+Turret Hades beef in damage.
+Wrench no longer uses energy.
+Turret Scipio damage beef.
+Turret Ares now requires 35 Scraps to build.
+Fixed the wipeinv event on death.
+Expecting Portals/Warp to work correctly. (Finally)
+
+~BUpdate September 14th!~B
+Flamethrower reload delay increased.
+Fire Delay Other increased on a few weapons.
+Rocket Launcher Fire Delay 5 to 6 and reload delay from 200 to 210.
+Needler ammo capacity decreased 40 to 25 and reload delay reduced 100 to 85.
+Medigun ammo capacity dropped to 125 reload delay reduced from 350 to 320.
+More Ammo Spawns.
+Hitboxes are officially fixed. Lol
+Map Changes....meh...
+Disguise updated.
+Repair Turret added to Technician.
+
+Technician's final turret added...
+
+Turret Hades
+-------------
+300 Hp
+Larger detection range
+Much more destructive
+Requires 80 Scraps
+
+~BUpdate September 11-13th!~B
+
+Fixed Max Allowed values
+Medigun no longer uses energy and heals for 1 every shot, Capacity decreased to 175.
+Gatling Gun push nerfed more.
+Surgeon's graphic changed (If this is a success I should have all the other hitboxes right easily)
+Shotgun damage nerf.
+Flamethrower ammo capacity decreased from 200 to 30 and Reload Delay reduced.
+No build zone added to both DropShips.
+Scraps spawn quantity decreased from 30 to 3, Scraps cost is 700 each, More Scraps spawn around the map.
+Map changes.
+Fun suit fixed lllllmao.
+
+~BUpdate September 9th!~B
+
+Smart Trans is being removed from alot've areas.
+Terrain issues fixed.
+Turret Ares rocket pushback toned down.
+Medigun heals reduced from 5 to 2, Energy Cost increased from 10 to 15 but, still as spammy. ^_^
+Sawed-Off visual change.
+Sniper Rifle visual change.
+Shotgun outer damage beef.
+Scraps price reduced.
+Scraps spawns added.
+Turret Ares MG damage beefed and Delta placement changed.
+Lalop class is born. (For tz only)
+
+~BUpdate September 5th-7th!~B
+
+Added Medigun to the Surgeon. Heals friendlies.
+Added Turret Ares (2nd Tier) to the Technician. Requires 25 Scraps to create.
+Adjusted Inner/Outer Damages on a few weapons.
+Removed Trigger Weight from a number of weapons.
+Added more Ammo spawns.
+Small map changes.
+Expecting Shell Casings to drop properly.
+Sniper Rifle - Ammo Capacity decreased from 5 to 3 and Reload Delay Increased from 400 to 500.
+Rocket Launcher - Inner Damage (55 to 65) Outer Damage (40 to 45)
+Gatling Gun - Push effect nerfed down. You'll see a version of that weapon down the road.
+Disguise, Cloak Distance increased.
+Turret Scipio now drains enemies energy when hit.
+Threw in a few lol sounds for weapons. :D
+Buyable Ammo.
+
+& MORE TO COME! 
+
+~BUpdate September 2nd!~B
+
+Not alot needed to be done at this time...
+
+Still fixing these darn Hitboxes.
+Added 2 God Weapons :p
+Shouldn't spawn with 2x ammo now.
+Repair no longer of use.
+Disguise cloak changes.
+DropShip Recall requires 300 energy instead of all.
+
+To do list....Surgeon - Medigun, Technician - Full Turret System, Adjust Hixboxes
+
+After I feel all the classes play as it should...the NEW weapons and skills will be inserted.
+
+~BUpdate September 1st!~B
+
+Beef SMG Damage
+Beef Gatling Gun Damage and Pushback effect added.
+Hitboxes once again adjusted.
+DropShip physics moved around.
+
+ Change to Turret
+-----------------
+Using a normal Turret head graphic.
+Name changed to Scipio.
+Protection removed.
+Limit of Turrets (May or may not =/)
+Health nerfed from 275 to 220.
+
+Ammo spawns being played with.
+Sniper Rifle outer damage beef and removed energy drain.
+EMP Lasers rotation effect decreased but, weapon jam increased.
+Revolver small damage nerf.
+All ammo is droppable.
+All meele weapons outer damage increased.
+Added a Repair effect to the Wrench.
+Shotgun Color Change
+Testing spawning with ammo after death.
+
+*To do List:
+Keep everything FUN & EXCITING!
+
+~BUpdate 8/28/10 - 8/30/10!~B
+
+Flamethrower officially fixed  zzz
+Needler more pew pew
+Gatling Gun more pew pew
+Fixed the .lio (Portal/Warps still being adjusted) *testing ammo spawns
+Inherits adjusted for all weapons
+Outlaw's Jump increased delay
+Both GL's damage beefed
+More ammo added to all classes *testing spawning w/ ammo
+Slight Sawed-Off damage nerf, Color change
+Disguise still being tweaked =/
+Hitbox changes ^_^
+Outlaw no longer missing DropShip Recall
+Technician can no longer use Pistol
+Welcome Technician, can now use Turret: Mars     *I'm skeared of the issues that might occur
+
+Made changes to the map for a more artsy and believable look
+
+
+~BUpdate 8/25/10!~B
+
+Flamethrower no longer shoots across map + other small changes
+Balancing meele weapons
+Shotgun lifetime nerfed
+Gatling Gun beefed all overall
+Pistol Clip downed to 16
+Needler - Increased Reload Delay, Beefed Fire Delay (less pewpew) Nerf Lifetime
+Toxin Nade - Now allowed 3, Angle nerfed
+Disguise - Cloak nerfed
+Sniper Rifle - Added reload delay, Decreased lifetime (Should work now)
+
+Small Map Changes...
+
+Assassin class equipment now requires appropriate energy to use, will be adjusted..
+Also beefed Assassin's Energy Regen..
+
+Outlaw's Jump now requires 95 energy a pop
+Sawed-Off has been updated, will resemble CM's shotgun for now
+
+Added High-GL and Low/Bouncy-GL to Officer
+
+~BThings to do..~B
+
+Fix portals/warps
+Add Turret to the Technician
+More balancing
+New gear to purchase
+
+
+~BUpdates!~B
+
+My first or second update x_x :
+
+Added reload delays on weapons missing.
+Weapons act properly (SG,Gatling Gun,Blade,Meele weapons)
+Map adjusted
+DropShip Recall works properly
+
+Added Jump to Outlaw
+Sawed-Off added to Outlaw
+Flamethrower Changes
+GL gets a bounce
+Revolver now requires the right ammo.
+Vehicle stand graphic changed.
+Assassin may now dissappear with Disguise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

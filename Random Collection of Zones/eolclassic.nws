@@ -1,0 +1,363 @@
+~B~2Chaos on Eol~2~B
+
+"Welcome to Pioneer Station. Please be advised; Pioneer Station's current groundside Teleportal Exit Location is in the middle of a war zone. Due to the current Military Situation Groundside travel is currently quite hazourdous. Pioneer Station takes no responsibility in the case of the death of a traveller regardless of reasons accidental, intentional or otherwise....."
+
+Eol is one of the larger cities on Titan. It is located in a large crater 500 kilometers to the east of Kaiser City. 
+
+The Eol Crater protects the city, and is equipped with large Pressor Fields at the rim. This allows a near Terran normal atmosphere and atmospheric pressure. Eol is partially terraformed and there are many genengineered trees and other foliage.
+
+In the wake of the Collective invasion, all civilian government has broken down.  There are currently no civil services and no police force.  The city itself has been overrun by militia units, deserters, and a small number of Collective military units.  Small groups of men roam the area fighting, looting and pilaging. Those that are not strong enuf to fight, or ruthless enuf to scavenge are swallowed up.
+
+Eol is serviced during peacetime by Pioneer Station.  Pioneer Station is a logistical support satellite and one of the points of entry to Titan for emigre's and colonists. Normally, Pioneer Station does brisk business in foodstuffs and engineering/mining machinery.  Currently Pioneer Station is making a large profit supplying arms and ammunition to the various forces groundside.
+
+
+
+**************************************************
+This zone will use the CTF:X item set.
+
+There are no flags, this zone is player versus player only.
+
+Be advised there will probably be many small changes to the zone over time.
+
+For now, this zone will be using an experience exception to determine what
+classes are available to you for play.
+
+~F~BBasic Training Classes (0 Exp)~B
+
+Infantry
+Field Medic
+Heavy Weapons
+
+~BVeteran Classes (15,000 Exp)~B
+
+Jump Trooper
+Combat Engineer
+BioChem Trooper
+
+~BElite Classes (75,000 Exp)~B
+
+Infiltrator
+SciOps
+
+~BCommand Classes~B 
+
+Squad Leader (25,000 Exp)
+Sergeant     (100,000 Exp)
+Captain      (525,000 Exp)~P
+
+**************************************************
+
+
+Infantry Team
+
+4/24/2002
+
+Map Update
+
+Team Sizes set to 8 players max.
+
+
+2/27/2002
+
+Redid the team radar colouring.  Command classes show up in green, Medics/Bios show up in yellow, ppl on 
+packs/boards show up grey and all other classes show up as a light blue. Enemies still show up as red.
+
+Added new Item: Chain Sword
+Added new Item: PowerSword
+Added new Item: Combat Sword
+
+Chain Fist had it's weight raised and strikes lowered to 2 before recovery. Damage was increased to offset the 
+decrease.
+
+Combat Axe had it's weight raised and strikes lowered to 2 before recovery. Damage was increased to offset the 
+decrease.
+
+Combat Knife now has 4 strikes before recovery (reload). 
+
+2/26/2002
+
+Each brand of Rifle grenade does a different damage type. Kuchler is Explosive, Maklov is plasma and Titan Arms
+is Kinetic with Schrapnel.
+
+Buffed up the needler a little bit.
+
+Teammates are colour coded by class on Radar.
+
+Raised the recovery time (reload) on the Combat axe.
+
+2/25/2002
+
+Increased all normal reverse movement speeds a small amount.
+
+Increased reverse HyperThrust to equal forward running speed.
+
+Decreased energy usage for HyperThrust on all classes. For most classes the energy expenditure is twice recharge.
+SciOps uses the least amount of energy for HyperThrust. Infiltrator uses the most.
+
+
+2/23/2002
+
+Using the ?wipecharacter command will now completely wipe your character, EXP included.
+Change classes, dont ?wipe.
+
+Redid the weight carrying capacities. The stop weight remains the same, but the normal weight limit was lowered
+5 KG across the board.
+
+All units now have HyperThrust if they choose to use it. Shift+up/down is default.
+
+Added new Item: Blackout Field
+Added new Item: Kuchler PPA
+
+Decreased the chance of dropping Sensors to 4.5%
+
+Decreased the stun time of SR2002.
+
+
+2/19/2002
+
+Items lost due to death now drop at the place of death.
+Fixed Stealth Generator.
+Powercell's weight was reduced.
+
+2/17/2002
+
+Completely redid armor values from top to bottom, including field generators. It is worth noting that, although
+armor values are not cumulative and dont add together, they do work in the order displayed on your Inventory list 
+from top to bottom. I know this is somewhat counter-intuitive, but that is the way utility items work.
+
+Completely redid the damage check values. I was assigning improper values based upon a incorrect understanding
+of the parameters. Item loss do to battle damage should increase. Fields and sensors are more likely to be 
+destroyed, armor items less likely. We'll see how it goes.
+
+-The highest chance of battle damage effecting anything is 5% the lowest is 1.5% depending on the item.
+-Primary armors and field generators are exempt from battle damage.
+
+Redid the weight values of the packs and boards to reflect this zone, not CTF. Some ppl will look at this as 
+a major nerf. However it was never intended that players be able to circumvent weight restrictions AND gain a
+maneuver advantage. A JT should not be able to carry full armor and 6 weapons on a drop pack, for instance.
+
+Added new Item: Stealth Field Generator. Any class can use this. It acts like a stealth coating at the cost of
+energy.
+
+Heavy Weapons Troopers can now use partial carapace.
+
+2/14/2002
+
+All stunning weapons are now stand and fire only.
+Viral DOT (Damage over Time) damage was boosted a small amount.
+
+2/13/2002
+
+Adjusted weight triggers on PA so walls stop them.
+Adjusted SW2002 to not push the target so hard.
+Adjusted the Gravitron's radius of effect.
+Reduced the energy drain of sensors.
+Increased the energy drain of cloak and improved cloak.
+
+
+
+2/9/2002
+
+Recalculated the armor values for the secondary armors.
+Redid the system for battle damage of utility and secondary armors.
+
+As stated before there are 2 checks performedto see if an item is destroyed. The first check I use to
+simulate the potential chance that an item is destroyed in the process of dying. The second check is 
+against the items simulated toughness. This essentially the arbitrarily determined resistance to destruction
+of the item. A sort of a "saving throw" if you will. A better system would include a modifier from the weapon
+that killed the player. Unfortunately we dont have this ability at the present, so we make the best of what is
+possible...
+
+Increased all normal and stop weights by 5 kilo's.
+Temporarily removed Disruptor.
+Temporarily reduced HP back to their pre 1/9 levels except for JT which has 55 HP.
+
+2/4/2002
+
+This is a big update. Expect some things to be tweaked.
+
+Most utilities now have a potential chance to be destroyed and removed from Inventory when you die.
+The base chance is 5% that a piece of equipment was damaged. If the check indicates an Item was damaged
+there is a 25% chance that it will be completely destroyed and removed from Inventory. If an item is not
+destroyed (ie removed) then it is assumed it was repaired. Primary suit armor is uneffected, but secondary
+armors (gauntlets/etc.) can be destroyed. No basic equipment items (Items you start with) are effected 
+nor are weapons effected (yet muhahahah).
+
+Added new Item: Conversion Generator
+Added new Item: Energy Sensors
+Added new Item: Enhanced Combat Sensors
+Added new Item: Mineral Sensors
+Added new Item: Gauntlets
+Added new Item: Heavy Gauntlets
+Added new Item: Vambrace
+Added new Item: Armored Boots
+Added new Item: Harsh Environment Boots
+Added new Item: Enhanced Greaves
+Added new Item: Heavy Greaves
+Added new Item: Partial Carapace
+Added new Item: Enhanced Actuators
+Added new Item: Superior Actuators
+
+Maser now does Plasma Damage.
+Decreased energy use amounts for Sonic Rifle.
+
+Minerals no longer show up on radar unless you have mineral sensors. This is not so important now
+but will be in the future.
+
+Utility slots have been increased to 8.
+Walls now require 10 units of titox to create.
+
+PDB's take longer to create. The net end effect is you will be required to stand still longer to 
+place them.
+
+Increased ES (Anti Cloak) radius.
+Increased SciOps thrust.
+Engineers can now use CMP6 and Partial Carapace.
+
+
+
+2/1/2002
+
+Walls require 15 titox to make as opposed to 5.
+Adjusted VehicleGetInDistance to match ItemPickupDistance, which is 64 pixels.
+
+1/31/2002
+
+Made HP on child vehicles and autoturrets visible to all since there is a bug that precludes team only
+display of child vehicle and autoturret HP.
+Cloak is disabled on packs/boards
+Exoskeleton does not work on packs/boards.
+
+1/30/2002
+
+Adjusted all the structure and wall armours to roughly match the capabilites of the heavier HW and Infantry Weapons.
+Lowered weight on the LAW to 1.2kg
+Titox is spawning at 1/6th it's old rate.
+Temporarily removed the blink generator.
+Further adjusted plasma weapons outer damage (rolloff) amounts.
+Reduced the death timer to 8 seconds.
+Adjusted Walls so that they cannot be walked through. Remember to leave a door to your base.
+Adjusted plasma projector so that it's 3 shot burst is treated as 1 shot.
+Removed projectiles on radar.
+
+1/29/2002
+
+Adjusted turret and vehicle weights so that only things as heavy or heavier than autoturrets will trigger weight
+sensitive weapons like the LAW and the Disruptor.
+
+You now have to sit in place for 4 seconds when you place a blink generator marker.
+Adjusted damage rollof amounts for all the plasma weapons.
+Added PDB and Wall Kits. Wall limits are 12 per engineer, 36 total per team.
+Team sizes were changed 10 players for public, 8 players for private.
+
+1/28/2002
+
+Removed stun ability from gas projector.
+Added new weapon: Acid Projector.
+Added new weapon: SW2002 subsonic wave projector.
+Added new item: Exo-Skeleton, for Combat Engineers.
+Added new armor type: Ablat
+Added new armor type: Blast
+Updated Ceramax armor
+Updated Shock Armor
+Updated Drop Armor
+Updated Cmp4 and CMP6 armors
+
+
+All plasma weapons use their own category as far as damage types are concerned.
+
+
+
+1/22/2002
+
+Assist kills are now rewarded 5% of the targets bounty to their bounty.
+Base cash reward was raised to 200 credits.
+Base EXP reward was raised to 50 points.
+
+1/19/2002
+
+Increased Shotgun pellet inner damage by one point.
+Close Combat Shotgun was adjusted to shoot 2 Assault Shotgun blasts as opposed to 2 Shotgun blasts.
+Per kill bounty exp reward was adjusted to give you 3% of your bounty as a reward.
+
+
+1/19/2002
+
+Adjusted Blink Generator/Teleport Beacon to not work in a Satellite.
+Shortened pistol and SMG ranges a bit.
+Adjusted bounty system, raising the per kill increase, while removing assist bounty reward.
+Adjusted kill cash share reward raising it to 35% of targets bounty.
+Adjusted experience by increasing per kill reward, increasing target bounty reward percentage, and removing experience sharing. No more
+leeched exp, gotta make the kill.
+
+1/10/2002
+
+Lowered death Timer to 10 seconds from 15 seconds.
+
+Steron Injections now cost 2 units of Pandora to make.
+
+Stim Packs now cost 2 units of Tsolvy to make.
+
+Energizers now cost 2 units of Unilenium to make.
+
+Armour can no longer be dropped. Armour can be sold, however.
+
+********Stats were wiped. This was done because some ppl have inflated stats due to cheats that have been overcome.
+
+1/9/2002
+
+Removed reprogramming kit until a specific parameter is enabled.
+
+Reduced RPG proximity a small amount
+
+CAW now uses 5 energy per shot ( fighting suit powers the weapon)
+
+Made an adjustment to Suit Teleport. When you respawn after death, it takes 20 seconds for the Teleport Locator to re-calibrate.
+During this period you will be unable to teleport.  You can still be summoned as normal.
+
+AutoTurrets will give their team 10% of points/cash reward for kills they make. You have to make the kill to get EXP. Sorry. :)
+
+1/4/2002
+
+Increased the inactive time for Shrapnel
+
+Gave the CAW some outer damage.
+
+Decreased the caw's primary firing time.
+
+Increased the primary firing time for all the battle rifles a very small amount.
+
+Primary firing time increased slightly on RPG.
+
+Reload time increased slightly on RPG.
+
+1/1/2002
+
+SMG's inner damage raised to model pistols. Outer damage is still lower than the pistol equiv. This reflects the
+the fact that their ammunition is similar.
+
+SMG's alive time is closer to pistols. Again to reflect the fact they use similar ammo.
+
+Stunner is now stand and fire.
+
+The ChangeWeapon timing for stunner and Tranq has been increased.
+
+g9 damage was raised to 30 inner 0 outer.
+
+
+12/28/2001
+
+G9 sniper rifle has been modified.
+
+All explosive weapons with a blast radius will now hurt everyone. You cant team kill, but you can hurt your team.
+
+When you kill a player, if you kill him again in a short period of time, you will get no cash/exp for the kill.
+
+Pub teams are 12 players, private teams are 10.
+
+12/24/2001
+
+Welcome to "Chaos on EOL"
+
+Exp from bounty has been changed to 5+15% of targets bounty + 5% of your bounty.
+Exp is shared in a 320 pixel radius of killing player. Share amount is 25%

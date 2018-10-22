@@ -1,0 +1,489 @@
+~B~2~PFLEET! 
+~B
+
+~B~6Scroll down for Release Notes!~B
+
+
+~B~2Table of Contents:~B
+- Release Notes
+- Game Overview
+- Base Class descriptions
+- Ship costs and short descriptions
+- Voice Macros
+
+
+
+
+
+~B~4Release Notes:
+
+~6xx/xx/xxxx
+
+~2- Titan Command Carrier
+Modified Titan Command Carrier speed and armor (faster and weaker).
+Titan Command Carrier recieved a new graphic.
+Fighter Berths have been upgraded to Fighter Launch Berths. 
+Fighters can dock with the Carrier and redeploy using the launchramp, giving them a mobility boost at the cost of rotation ability for 90 seconds.
+
+- Cash has been enabled.
+
+- Added a new satellite called the Logistics Satellite. From here you will be able to change class to some of the Mk2 base class ships. From here you can also order some of the more common Capital Ships using your personal cash instead of the teams Build Points.
+
+- If you've amassed a nice fortune of Cash, why not spend it at the "Insert name here" and get yourself a base class ship with the color of your choice!
+
+- Basis for Heavy Cruiser created.
+- Basis for Titan Rail Frigate created.
+
+- Both Missile Cruiser and EWAR Frigate had a reduce in speed.
+
+- Some more test ships added.
+
+~611/12/2009
+
+~2- Some Base spawns got tweaked again, also game start BP drop should drop closer to bases now.
+
+- Tweaked Meteor Showers spawn again.
+
+~611/10/2009
+
+~2-Bomber's Bombs nerfed a little bit, instead of firing 3 bombs at a time you can now only fire 2. The energy drain for firing bombs was increased from 400 to 500. We'll see if this makes Bombers a little less over powered.
+
+- Some new graphics are being tested out.
+
+- A New Base class for Titan is being tested out called the Gunship Mk2.
+
+- Blocade Runner got a little speed boost.
+
+- Scout got a little speed boost.
+
+- EMP Mine Feild got a small beef with an extra mine.
+
+- A Meteorshower has been re-implemented as a test.
+
+~611/6/2009
+
+~2- Radar view distance increased a little more.
+
+- Tweaked bounty system a little more.
+
+- Bomber price increased to 300 Build Points.
+
+- After fixing the problem with Titan Destroyers DFH turret i realized it was a little more Over Powered than i had anticipated. So ive changed out the Dual Megawatt for a single that fires in bursts of 5 instead of 3 like it's Frigate counterpart.
+
+- Moved some base spawns slightly closer to each other.
+
+- Missile Cruisers crew seats all got a little beef, Weapons control has a few more Hit Points, and turret positions had 1/1/1 increase to their armor. Missile Cruiser itself got a small speed nerf.
+
+~611/4/2009
+
+~2- Radar View Distance increased.
+
+- Titan Destroyer DFH turret fixed.
+
+- Tweaked Base locations and Mineral spawns a tiny bit.
+
+- Tweaked bounty system a little, we'll see how it goes.
+
+- Tweaked end game reward slightly.
+
+~611/3/2009
+
+~2- Fleet Play Test Time!
+
+~610/30/2009
+
+~2- Fixed some last minor bugs.
+
+~610/29/2009
+
+~2- Tweaked ore spawns more.
+
+- Forward Base warp now properly works!
+
+- Some sounds were changed when building things.
+
+- Command Posts at game start spawn in different locations now based on population levels.
+
+~610/5/2009
+
+~2- Increased the Max Eljaycium in an Area from 6 to 8.
+
+- Increased the Max Eljaycium in Arena from 48 to 64.
+
+- Added new smaller ore spawns to both colly and titan sides in addition to the old ones.
+
+- Created a new experimental missile. Damage inbetween Warshrike and Firehawk missles.
+
+- Created Flak Burst Missile, this missile has a 2 second life span, when it explodes it releases a spray of Flak on its victim. Not sure if this weapon will go public.
+
+~610/1/2009
+
+~2- Created Dual Megawatt Plasma Cannon for Titan Dessy.
+
+- Titan Dessy driver can now load up and fire 5 FH and 5 DF missiles.
+
+- Nerfed Colly Dessy Spinal from 40/20 Inner/Outer to 30/15.
+
+- Created Emp Mine Field for Blocade Runner.
+
+~69/30/2009
+
+~2- Build Points are now Manual pick-up.
+
+- Increased the Max Eljaycium in an Area from 4 to 6.
+
+- Increased the Max Eljaycium in Arena from 36 to 48.
+
+- Added 2 warshrikes to Missile Frigates Warshrike Battery.
+
+~69/28/2009
+
+~2- Created Portal item that warps you to your teams Forward Base. (Still in testing)
+
+- Reduced chained turret radius for all Forward Base Sats from 768 to 512 pixels.
+
+- Changed the wording of a few things on computer vehicle produce menu's.
+
+
+~69/26/2009
+
+~2- Took off 50 from all hyper cost for base class to get the hyper costs back to what they once were.
+
+- Reduced chained turret radius for all Forward Base Sats from 1024 to 768 pixels.
+
+- Changed BP drop radius from 50 to 40 on Capital Ships.
+
+- Created game start BP drop. When the game starts you will find 1000BP randomly spawned somewhere on your teams side of the map.
+
+
+~6Summer 2009
+
+~2-Fixed Bomber back to the way it was
+
+- Fixed base class rate of fire back to the way it was
+
+- Fixed various weapons from all different ships back to the way they were.
+
+- Added a new way for a team to earn Build Points. All players will now drop 25 BP on death. All ships when destroyed will drop BP based on how expensive the ship originally was. Even with this new system there will be some need to mine Eljaycium but you won't need to commit to mining all game like we used to.
+
+- Added in some experimental new Sats. 
+FlakSat - Just like the Flak Battery on a Destroyer but with no pause. Its a medium range sat.
+IonSat - Uses a brand new weapon called Computer Ion Plasma Cannon, when hit by a projectile from this sat you will lose control of movement and firing for 1/2 a second. Same range as the GunSats weapon.
+
+- Added a new experimental base structure called a Forward Base. With this you can build a base closer to your enemies base and be able to resupply and repair closer to the battle but for a larger BP price. This sat comes with its own set of Defense Sats also for a slightly increased price.
+
+
+~62003 - 2007
+
+~2- Random updates were made that hurt Fleet
+
+~610/4/2002
+
+~2- Missile Frigate cost raised to 1000 BP
+
+- Warshrike Battery energy cost per shot increased.
+
+- GW/MW had their inner damage raised 2 points.
+
+- Plasma Bombs now require 550 energy per bomb.
+
+- Bombers now have 3/2/2 armour.
+
+- Blockade Runner added.  The Emp mine graphic is just a place holder till a real one is completed.
+
+- Eventually, titan will need to upgrade their fab sat to get to use BR. Collective will need to upgrade Spacedock to get MF.
+
+
+
+~610/2/2002
+
+~2- Some new ships were added-
+
+Collective Cutter/Titan Strike corvette.  Basically a large, well armoured shuttle craft, it is capable of atmospheric flight and can be equipped with boosters to attain orbit. Cutter/SCRV are not quite interplanetary, but either could easily make several trips from Earth orbit to her moon's orbit and back.
+
+Titan has captured large numbers and refitted them with MW Plasma cannon and Mass Drivers.
+
+Collective Missile Frigate. Similar to standard Collective Tempest class frigate, the Gladius has 2 external missile pods that fire a wave of 8 Warshrike missiles in a spread pattern to the bow of the ship.
+
+- All projectile weapons have a fixed shot interval time. Now all weapons fire in consistent predictable vollies.
+
+- Changed the way the MF missiles fired. They inherit less ship momentum then before.
+
+
+
+
+~69/25/2002
+
+~2- Particle Beam weapons have been renamed Plasma Cannon.  I want to use the label for weapons that are more like Particle Beams.
+
+- Time between shots in a volley lowered for all Plasma Cannon.
+
+- Missile Corvette exchanged MW PC for Dual KW PC.
+
+- Corvette class ships can no longer load Death Fist missiles.  They can use Firehawks as normal.
+
+- Bomber Afterburner top speed increased.
+
+- Gunship normal and afterburner top speeds increased a small amount.
+
+
+~69/23/2002
+
+~2- Gigawatt Pbeams now have a 2 shot volley with a pause.
+
+~69/21/2002
+
+~2- Due to excessive whining, I have re-implemented the firing pause in the weapons. Basically:
+
+Light weapons shoot 5 shots then pause.
+Med weapons shoot 3 shots then pause.
+Heavy weapons shoot as per normal.
+
+This does not apply to missile systems
+
+- Added Damage Control to all Weapons Control stations. Basically allows the WC to heal small amounts of damage.
+
+~69/19/2002
+
+~2- KillSat's no longer track fighter class ships. They need to be protected by drones or CAP.
+
+- Bomber Top Speed was lowered.  With such a high top speed, Bombers, especially in the early game, were too powerful.
+
+- Capital ship weapons had their damage reduced a small degree across the board. This should make cap ship combat a bit more tactical.
+
+- All the missiles have their own unique graphic now.
+
+~69/12/2002
+
+~2- Frigates WC position now has a Dual Megawatt Particle Beam. -Thanks HCallaghanSBC
+
+- Bomber now has a Flak Gun in the turret gunner position.
+
+- Transport was had it's HP raised to 80.  It is really hard to justify up armoring Transports when they are supposed to be vulnerable.
+
+~69/10/2002
+
+~2- New Graphics for WarShrike and FireHawk missiles.
+
+- Bomber armour was increased.
+
+- Transport armour was decreased. (get an escort)
+
+- Frigates now have a weapons control station like the Destroyers.
+
+- Gunship rotation rate was increased a small amount.
+
+~69/2/2002
+
+~2- Gunships rotation, top speed, and hyper thrust were reduced.  THis is part of the ongoing tuning.
+
+- DeathFist missiles and Firehawks are weight triggered to detonate on cap ships/sats.
+
+- Missile Corvette's rotation and thrust were reduced slightly due to it's increased weight over the normal Corvette.
+
+- Torpedo damage was reduced. It is still the strongest missile.
+
+~67/30/2002
+
+~2- Plasma Bomb's alive time was reduced to 10 seconds.
+
+- Plasma Torpedo's have an arming time of 1 second.
+
+~67/26/2002
+
+~2- Corvettes and Missile Corvettes are no longer able to launch torpedos. 
+
+~67/18/2002
+
+~2- It now requires a player to have 5k exp for a banner.  When a player has earned the EXP to show a banner, they also earn
+the privelage to play as a Fabricator.
+
+- Kills now reward you with 5 EXP.  All friendlies on your screen will get an assist score of 2.
+
+- All capital ships larger than Corvettes will have most of their non turret offensive weapons moved to a Weapons Control or
+Operations crew position.  This crew position will only be active if there is a pilot at the Helm.
+
+- Added a new Destroyer for Titan. It is a heavily upgunned and modified Hunley class frigate.
+
+~67/7/2002
+
+~2- Fighters and Scouts are auto equipped with Warshirke launchers. You will no longer need to equip them.
+
+- Command carrier now gives out firehawks to gunships at no BP cost.
+
+- Destroyers BP cost was increased.
+
+~67/2/2002
+
+~2- DefSats no longer auto repair.
+
+- Drone BP Cost increased to 50
+
+- GUNSAT price increased to 100, now available from FabSat, not Command Post.
+
+- KILLSAT price increased to 200, now available from SpaceDock, not SupplySat.
+
+- Corvette is now armed with dual KW Particle Beams in place of Dual Med. Massdrivers.
+
+- Fabricator repair now uses energy only, not LJCM
+
+- Eljaycium Ore is picked up manually now.
+
+
+********Due to a bug, we cant do this yet, in the meantime collect ore as per normal.
+
+- Changed mining procedures:
+
+Miners and Fabs now have an EMT mining unit.  LJCM now appears as large asteroids.  Miners and Fabs shoot large asteroids with
+mining unit till they explode.  When they explode they will drop 8 bits of LJCM ore. Miners can only carry 4 bits, fabs 3, and the
+rest 1 (cept scout).  Each bit is worth 50 BP at Command Post, 75 at Refinery.
+
+
+~66/26/2002
+
+~2- Adjusted things so that you dont pick up LJCM when in a Corvette turret.
+
+- Adjusted Frigate rotation and top speed upwards.
+
+- Frigate spnsons can rotate all the way forward. There is a still a gap to the rear.
+
+- Increased bomber HP to 100.
+
+~66/25/2002
+
+~2- Added buffer zones to all defsats and base sats with exception of drones to combat dense groupings.
+
+- Fixed some assorted issues.
+
+~66/24/2002
+
+~2- Added small minimum range for placement of base sats to combat dense grouping.
+
+- Transports no longer have a light massdriver.
+
+- Defensive sats were weekend a bit.
+
+- When Base sats are Hull Points are in the red, they no longer function till repaired.
+
+- Drones now fire on corvettes and missile corvettes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Game Overview:
+
+Fleet! is an RTS game.  You harvest ~B~6Eljaycium~B~2 that is spawned on the map or pick up ~B~6Build Points~B~2 that you pick up after killing an enemy and you bring it back to your ~BCommand Post Satellite~B or ~BRefinery~B to be converted into ~B~6Build Points~B~2.  Each team starts with (1) ~BCommand Post Satellite~B. When a team destroys the enemies Command Post Satellite, they win.  Destroying the enemies Command Post Satellite will require a Capital Ship be built. Capital Ships cannot be built until a ~BFabrication Satellite~B (FabSat) or a ~BSpace Dock~B are built.
+
+~B~6Eljaycium ~B~2spawns in regular amounts in fixed locations that are changed each game.  Players must pick up the ~B~6Eljaycium ~B~2and bring it
+back to the ~BCommand Post Satellite~B or ~BRefinery~B. ~B~5Fabricators~B~2 will then utilize the resulting ~B~6Build Points~B~2 to build up the teams base or to build more ships.
+
+Satellite Build Order
+Start With: ~BCommand Post Sattelite~B > ~BSupply Sat~B > ~BFab Sat~B > ~BSpace Dock~B > ~BForward Base
+                                                          ~B> ~BRefinery                    
+
+~B~P
+
+Players can play as one of 5 classes. Each class has their own unique small ship. Small ships are referred to as Base Class Ships.
+
+The 5 classes are:
+
+Name:              Code:   Description:
+
+~B~5Fighter~B~2            ~B~4W~B~2/~B~41~B~2     Good against other Base Class Ships, and small Capital Ships.
+~B~5Scout~B              ~B~4W~B~2/~B~4-~B~2     Really fast and has sensors to detect stealthed enemies.
+~B~5Gunship           ~4W~B~2/~B~41~B~2     Missile firing Base Class Ship capable of taking on small Capital Ships and putting the hurt on the large ones.
+~B~5Miner              ~4-~B~2/~B~44~B~2     Harvests Eljaycium and uses Eljaycium to create Mine fields.
+~B~5Fabricator         ~4-~B~2/~B~43  ~B~2   Harvests Eljaycium and repairs Ships. Fabricators are the only class that can build additional sats or Capital Ships.
+
+~PFighter Class matrix key:
+
+~B~4W~B~2=can carry ~B~1WarShrike ~B~2missiles.
+~B~4/#~B~2=How many units of  ~B~6Eljaycium ~B~2the this ship can carry.
+
+You can change classes by selecting the class you want from the ~BSupply Sat~B menu.
+
+The Fusion powerplant on your fighter develops a very strong magnetic field. When specially channelled and attenuated it provides a form of
+shield or barrier to damage.  Consequently as long as you have energy, you will not take damage.
+
+Using HyperThrust takes energy, and slows recharge. Be careful with using hyper when being shot at.
+
+Base Class Ships are most effective against drones and other Base Class Ships. They are ineffective against Capital Ships and
+Base Sats.
+
+
+
+Ship Costs in Build Points:
+
+~B~6~F+~4*~B~2 ~B~5Bomber                   ~4200 BP
+~B~2 Attacks enemy base with Plasma Bombs. Strong offense, weak defense.
+
+~B~6+~B~2  ~B~5Corvette                 ~4200 BP       
+~B~2 Strong vs. Base Class Ships. Weak against Capital Ships.
+
+~B~6+~4*~B~2 ~B~5Missile Corvette~B~2         ~B~4400 BP       
+~B~2 Strong vs. Bases, Capital Ships, and Fighters. Weak vs. Larger Capital Ships.
+
+~B~6+~4*~B~2 ~B~5Strike Corvette~B~2          ~4200 BP           
+~B~2 Decent against light Capital Ships and Base Class Ships. Weak against large Capital Ships.
+
+~B~6+~4*~B~2 ~B~5Blocade Runner~B~2           ~4150 BP           
+~B~2 Decent against Base Class Ships. Weak against Capital Ships. Can carry 8 Eljaycium.
+
+~B~6+~4*~B~2 ~B~5Cutter~B~2                   ~4200 BP           
+~B~2 Decent against light Capital Ships and Base Class Ships. Weak against large Capital Ships.
+
+~B~6#~4*~B~2 ~B~5Missile Frigate~B~2          ~41000 BP           
+~B~2 Strong vs Capital Ships and Bases. Weak Against Base Class ships.
+
+~B~6#~B~2  ~B~5Frigate                  ~4600 BP       
+~B~2 Very Fast. Strong vs. Capital Ships and Bases. Can Carry 2 torpedos. Weak vs. Base Class Ships.
+
+~B~6#~B~2  ~B~5Destroyer                ~41200 BP      
+~B~2 VERY strong versus all other ships. Can carry 5 torpedos.
+
+~B~6#~B~2  ~B~5Command Carrier~B~2          ~B~4500 BP       
+~B~2 Carries Fighters. Fighters can get free warshrikes in fighter berths. Can summon fighters.
+
+~B~6#~B~2  ~B~5KILLSAT                  ~4200 BP       
+~B~2 Strong against Capital Ships.
+
+~B~6+~B~2  ~B~5GUNSAT                   ~4100 BP       
+~B~2 Good against Capital Ships and Base Class Ships.  
+       
+~B~6-~B~2   ~B~5Defense Drone           ~450 BP        
+~B~2 Strong against Base Class Ships, especially in groups of 3.
+
+~B~6-~B~2  ~B~5Transport                ~450 BP        
+~B~2 Weak vs Everything, Can carry 8 Eljaycium.
+
+
+
+~B~4~P*~B~2 Only Titan can build the Missile Corvette, Strike Corevette and Blocade Runner. Only Collective can build Bomber, Missile Frigate and Cutter.
+~B~6+~B~2 Requires Fab Sat
+~B~6#~B~2 Requires Space Dock
+~B~6-~B~2 Requires Supply Sat
+
+
+Voice % macros are available %5-%13
+
+~B5~B   ~B~6Bogies Inbound
+~26~B  ~B~5 ~6Bogies on Scope   
+~27   ~6MayDay
+~28   ~6Roger That
+~29   ~6Sector Clear
+~210 ~6 Roger
+~211  ~6Minerals Detected
+~212  ~6Request Escort
+~213  ~6Report In
+~B~2
+

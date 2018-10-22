@@ -1,0 +1,289 @@
+~B~1.:CTFPL Rules:.~0~B
+~B~0Below are the current list of rules as of 11/19/06. For official and up-to-date rules , visit our CTFPL website (http://ctfpl.goblin1.com). [List last updated on 11/19/06.]~0~B
+
+~B~4A.~0~B Squad Admission, Removal, Rename, and Merger Rules 
+~B~4B.~0~B Roster, Ineligibility, and Permission Rules 
+~B~4C.~0~B Captaincy Rules 
+~B~4D.~0~B Scheduling Rules 
+~B~4E.~0~B Arena Rules 
+~B~4F.~0~B Match Rules 
+~B~4G.~0~B Known Mis-Use of Game Mechanics and/or Bug Abuse 
+~B~4H.~0~B Lag Rules 
+~B~4I.~0~B Appeal Rules 
+~B~4J.~0~B Scoring Rules 
+~B~4K.~0~B Suspension Rules 
+~B~4L.~0~B Referees: Rules, Guidelines, Pre-Match Procedure 
+~B~4M.~0~B Racism Rules
+
+
+
+~B~4A.~0~B Squad Admission, Removal, Rename, and Merger Rules 
+
+1) Players may create squads at any time using the CTFPL player database located at http://ctfpl.goblin1.com. 
+2) By registering a squad at the CTFPL player database (http://ctfpl.goblin1.com), that squad agrees to adhere to the league rule set. 
+3) A squad will be automatically admitted into the league under the following conditions: 
+	a) There are at least 10 different players on the squad roster. 
+	b) There are at least two weeks remaining in the regular season.
+4) The league admin(s) may limit the number of squads in the league to any number during the season, as long as there is room for all actively participating squads. 
+5) The league admin(s) reserves the right to refuse any squad admission into the league. 
+6) Squads will be removed from the league only if they disband. 
+7) Squad mergers will not be recognized by the league. 
+8) A disbanded squad will be removed from the standings, and thus will have their score reset. 
+8) An "active" squad participating in a season will be declared "disbanded" if the captain declares it disbanded or if they player amount on the database drops to 10 or lower. 
+9) Squads may request a name change by either posting on the forums (http://ctfpl.goblin1.com) or personally contacting the league admin(s). The league is not responsible for in-game name changes or ownership transfers. 
+10) Squad names must not be offensive or show any sign of racism. 
+11) The in-game squad names must match the squad name on the CTFPL website.
+
+~B~4B.~0~B Roster, Ineligibility, and Permission Rules 
+
+1) There is a limit of one CTFPL player database account per Station account. Players will be given a one week warning if/when they are found to have multiple accounts registered to multiple squads, and will be ineligible for play during that time. 
+2) Any one person is allowed to have only ONE registered account and be on ONE competitive squad at a time with only ONE alias.
+3) Only players registered in the CTFPL player database are allowed to be unspecced in an official CTFPL match. 
+4) Any person(s) joining a CTFPL squad will serve a period of "ineligibility" time in which they are not allowed to play for their squad yet. The amount of days, currently 10 days, remaining for a player to become eligible is displayed on the team roster. 
+5) Players can be permitremoved from the zone by an admin for conduct reasons. 
+6) No ~Guest users are allowed in the zone even if they registered within the CTFPL player database. 
+7) ~Guest users will only be allowed for special league days such as playoffs, championship, or an open league day for guests. Special league days are determined by CTFPL Admins and SOE staff.
+
+~B~4C.~0~B Captaincy Rules 
+
+1) A squad may have no more than one Captain and two Asst. Captains, as registered on the CTFPL player database. 
+2) Captains and Asst. Captains are responsible for maintaining their roster and scheduling matches. 
+3) No more than 3 Captains/Asst. Captains from each squad will be permitted in a chat for communication in a match between the referee and the participating squads. Referees can choose to lower this amount if they see fit, however, both squads must be allowed the same amount of players in chat (this is not the same as having the same amount of players playing or in arena). If the referee decides that such a chat is necessary to match communication, at least one player must join the chat. If in the case that there is an insufficient amount of Captains and Asst. Captains for a squad, non-Captain players will be allowed to represent their squad in the chat. 
+4) The league is not responsible for roster management. 
+5) Captains are responsible for the actions of their squad members in a match. 
+6) The league admin may remove captaincy privileges from a player at any time and for any reason.  
+
+~B~4D.~0~B Scheduling Rules 
+
+1) Scheduling of scrimmages and practices will not be the staff's responsibility. The captain of each CTFPL team needs to be responsible for each team's schedule. 
+2) There are two types of matches, league-assigned matches and free-scheduled matches. 
+3) League-Assigned matches are created by the league administrators and/or league scheduler. 
+4) Free-scheduled matches are created by captains, who choose their own opponent and playing time. 
+5) No squad will be permitted to play more than 3 matches per week. 
+6) League-assigned matches and free-scheduled matches should be confirmed by both sides by Thursday night, the week before (keep in mind that the weeks start on Mondays), to have their scheduled match date and time be considered "confirmed" and a priority for the CTFPL staff. 
+7) There are fifteen time slots every day during the week. Each week starts on a Sunday and ends on a Saturday. Match slots are every half hour starting from 4:00 to 11:00 PM Eastern Time. 
+8) All time slots will be limited to one match per slot. 
+9) Should a squad not attend a free-scheduled match only confirmed by their opponent, they will not be obligated to forfeit. 
+10) Squads cannot participate in free-scheduled matches only confirmed by their opponent(s) in consecutive weeks. 
+12) A squad captain can cancel free-scheduled matches they've previously confirmed with at least 18 hours of public notice.  
+
+~B~4E.~0~B Arena Rules 
+
+1) Games are to be held in public arenas unless both captains request they be held in a private arena. Referees are not allowed to disclose the location of private arenas. 
+2) The standard arena limit will be 10 less than the full non-moderated capacity (currently 350). A request from either captain in a match can lower this limit. This limit is established to allow for players from participating sides a chance to enter the arena in the situation that they have been disconnected or just arrived. 
+	a) When the amount of players in the arena reaches 5 under the "arena 			limit" a warning will be issued arena-wide warning that when the limit is 		reached, players will start being blocked from the arena. 
+	b) When the arena limit is reached, referees will block players until the 		amount of players in the arena is equal to or less than 10 under the arena 		limit. Referees not actively refereeing a match will be requested to do 		this job so that the match referees may concentrate on the game itself. 		Referees, players on the participating squads, and reporters will be exempt 	from being blocked. 
+	c) If a situation arises that the arena reaches 5 under the arena limit a 		second time, only one reporter from each site will be allowed to continue 		in the arena. The remaining reporters will be asked to leave or be blocked. 	If this does not affect the arena total enough so that the arena reaches 10 	under the arena limit, another warning will be issued, and when the arena 		limit is reached, players will be blocked again. 
+	d) If a third occurrence happens, a referee (if available) will be assigned 	to the game for the sole purpose of maintaining arena size. Additionally, 		players on participating squads that are no longer eligible to enter the 		game (such as those receiving three lagouts) will be susceptible to block.
+3) Captains may only request the blocking of specific players from the arena if there is a mutual agreement between captains of both squads. If the arena is private, then only one captain has to request the blocking of a player. Captains may not request the blocking of referees or eligible players unless they are behaving in a disruptive way. 
+4) The use of private arena ownership during a match is prohibited. 
+5) Any disruptive player not eligible to enter the game will be warned. If the player is disruptive any time after the warning, he/she will be removed from the gaming arena. 
+6) Any eligible players disruptive in either public, team, squad, or captain chat will also face punishment. 
+	a) The first violation of this rule will result in a warning. 
+	b) The second violation of this rule will result in a 5-minute *shutup. 
+	c) The third violation of this rule will result in a 10-minute *shutup. 
+	d) At the referee's discretion, any further violations can result in 5 more 	minutes added of time from the previous violation (15-minute *shutup) time 		or a *block from the arena. 
+	e) Referees are obligated to PM the disruptive player and inform his/her 		captain before all punishments (warnings, *blocks, etc) are inflicted when 		the violation occurs. 
+	f) Captains or asst. captains may also be *shutup or *blocked for violating 	the disruptive behavior rule. 
+	g) Referees must report any disciplinary actions taken against either 			captains or asst. captains to administrators and post on the staff forums 		following the game, as well as any eligible players being blocked from the 		arena.
+
+~B~4F.~0~B Match Rules 
+
+1) 10 minutes of "pre-game" time (before the scheduled match time) is given to captains before the assigned match time by the host referee to have their squad ready for the CTFPL match. 
+	a) Should one squad be prepared and not both, the prepared squad captain 		has the choice of taking the win by forfeit, or continue to wait for as 		much as 5 more minutes. 
+	b) Referees will make the arena 10-15 minutes before the match time. 
+	c) The 10 minute pregame timer will begin 10 minutes before the match.
+2) Should the zone be unfit for playing matches (the zone being in stand-alone mode, or being down) the match will be postponed a maximum of 30 minutes. 
+3) These rules will also apply to matches in which all players in the CTFPL zone have ping above 300 ms, one form of packetloss above 3.0%, and/or combined of 5.0% 
+4) If a squad has interfering match times due to the postponement, they will have the option to cancel or postpone a match at the time of the match, however, at least one match must be played. 
+5) If a league-assigned match is unable to be played after a 30 minute postponing, they will be forced to reschedule at another time. -The league admin will be given the decision to extend the week. 
+6) Captains may request a different host referee run a match only if both captains agree and have a valid reason should one ref be available and willing to referee the match. This change cannot be made once minerals have been distributed to both sides. If the original host referee does not referee the match due to both captains agreeing on a different host referee, that referee will not be penalized any points if he/she shows up. 
+7) To be eligible for play in a match, a player must be both eligible on the league roster and under the lag limits. 
+8) Each squad will be required to have 7 roster-eligible players at the start of a match. If they do not get 7 eligible players before the ending of the pre-game time period, they will forfeit the match. 
+9) Squads will determine the number of "slots" to play the game with before a match starts. 
+	a) Squads can have no less than 10 slots and no more than 14 slots in a 		game. 
+	b) Squads must start a match with an equal amount of slots. They do not 		have to start a match with an equal number of filled slots, however. 
+	c) If a squad has less than 11 eligible players online, it must start a 		game with 10 slots. 
+	d) If a squad has between 11 and 13 (inclusive) eligible players online, it 	cannot start a game with more slots than the number of roster-eligible 			players they have online. 
+	e) If a squad has 10 players eligible on the league roster but not 10 under 	the lag limit, both teams must start with 10 slots. The squad can start 		with empty slots as long as they have players that would go in those slots 		if lag was discounted. 
+	f) Players can be substituted into empty slots at any time. 
+	g) There is no penalty for having an empty slot. 
+	h) If a squad's number of filled slots drops to zero at any time during the 	match, they will forfeit the match. 
+	i) The number of slots cannot be changed after the match has started.
+10) During the pre-game preparation time, the players will be required to drop all minerals and pre-made items. Failure to drop these results in a team not being prepared (Read rule 1a). 
+11) Premades are defined as items not purchasable from stores and not spawning on the map. This includes child weapons, sentrys, etc. 
+12) Each squad will be given a total of 250 minerals, with a limit of 150 of any given mineral type, by the host referee before the start of a match. The captain of the squad will have full choice over the number of each mineral type as long as they do not exceed these limits. 
+13) No extra minerals or pre-made items are allowed at the start of a match. 
+14) Teams with at least 40 extra minerals in excess of the amount given at the start of the match or pre-made turrets within 1-2 seconds after the game-timer has started will lose instantly by default. 
+15) Any lesser quantity will be removed by the referee using *prize; it is the referee's discretion which type of minerals to remove, although the quantity removed will be equal to the excess, and no mineral quantity can exceed 150. 
+16) Players cannot be substituted into a match in-progress with minerals or premades. 
+17) Players are allowed to mine minerals and create turrets at any time after the match has started. 
+18) Quieting spectators using the *specquiet command will be at the referee's discretion, although it also must be done if either captain requests it. 
+19) Captains may substitute eligible players anytime during the game an unlimited amount of times, provided they do not already have 3 lagouts. 
+20) Squads' in-game players may consist of any mix of any classes. 
+21) Any player abusing a known bug or mis-using game mechanics will be warned first depending on the abuse and then immediately removed from the game and will become ineligible for the rest of the match. At the referee's discretion, this player may be blocked from the match arena. 
+22) Multiple bug abuses by a squad will result in them forfeitting the game. This may be used as long as it has occurred in multiple instances, a player from the team does not specifically have to be removed from the game. 
+23) Using any programs or modifications to the game that give the player any in-game advantages (such as extra health, dexterity, more powerful weapons, etc.) that are not provided by the default CTFPL item set, outside of communication, is defined as cheating and thus prohibited. The minimum punishment for cheating is the immediate and permanent removal from the match. 
+24) A match will end after one squad holds all objectives for 90 consecutive seconds. There is no set timer for the match. 
+25) In the situation that a match is interrupted by a mass disconnect, the match will be voided. However, if the referee is still present and one squad is within 60 seconds of victory, the match will not be voided. League-Assigned matches will be postponed instead of voided. 
+26) Optionally, at the end of a match, the victorious captain or team representative can choose a MVP (most valuable player). This one player must have played in the game. 
+
+~B~4G.~0~B Known Mis-Use of Game Mechanics and/or Bug Abuse 
+
+1) Attempting to destroy/harm a turret/individual through solid rock or walls (seen with ?showphysics) by means of melee combat or a projectile-firing weapon. 
+2) Using the effects of land-mines, demo-packs, grenades (not including repulsor charges [i.e. no haywires through walls]) and sunspots through walls. 
+3) Using vehicles outside intended purpose, to move while stunned by entering/exiting the vehicle(s) around the individual player. 
+4) No direct vehicle to vehicle hops. 
+5) No entering or exiting a vehicle to override a stun. (Ex: Getting stunned while in the vehicle and then exiting the vehicle to appear in another spot.) 
+6) Repeatedly using a vehicle to mini-spawn to gain the small amount of time of invulnerability. 
+7) Having multiple station accounts open and logged into other servers to gain visible lag and confusing the turret AI. 
+8) Downloading/Uploading to other internet-users or intra-net users to gain packetloss and/or visible lag. 
+9) Laying multiple items that may be carried around, within a small environment (Ex: 1 ammo pistol drop many times in a spread area causing multiple piles of just 1 ammo pistol). This includes intentionally doing it anywhere on the map. Minerals and ammunition should be consolidated into piles. It should also be away from the immediate proximity of flags (the items must be out of reach of the flags). 
+10) Hiding sentries/turrets in walls so they cannot be detected due to vision/map bugs. 
+11) Hiding yourself in walls so you cannot be detected due to vision/map bugs. 
+
+~B~4H.~0~B Lag Rules 
+
+1) Players with their latency higher than their average ping will not be allowed to play. 
+2) Players are required to meet the current, last, and average ping limit of 300 ms. ( 301 ms. or greater would be over the limit) 
+3) Players are required to meet the latency limit of 250 c2s. (251 ms. or greater would be over the limit) 
+4) Players are required to meet the packetloss from the server limit of 3.0%. (3.1% or greater would be over the limit) 
+5) Players are required to meet the packetloss to the server limit of 3.0%. (3.1% or greater would be over the limit) 
+6) Players are required to meet the combined packetloss (from and to server) of 4.0%. (4.1% or greater would be over the limit). 
+7) Players cannot be put into the game with ping undetermined by the server (displayed as 0 ms, usually during the first minute of player being in-game). 
+8) Should a player lag out 3 times during a match, they will become ineligible to play in the rest of the match. 
+9) A "lag out" is defined as any time a player is sent to spectator mode (referred to as "spectated") without prior notice from the squad's captain. 
+	a) Any time a player is spectated in an arena without immediate advance 		notice from the squad's captain, it will be assumed that the player has 		lagged out. 
+	b) If a player is found to be above lag limits any time immediately after 		being spectated, they will be credited with a lag out. This includes if 		notice is given by the squad captain or if the player is spectated as part 		of a substitution. 
+	c) When referees *spec players who are above lag limits, it will be counted 	as a lag out. 
+	d) If a lagged player is unspectated but is spectated by the server in less 	than 10 seconds, it will not be considered an additional lag out. (Ex: You 		get unspeced then sent back to spec within 10 seconds because the server 		specs you, than you will not be accounted for a lag out.) 
+	e) Lag outs will not be officially tracked or counted until the match 			begins, and tallies for different matches should be tracked independently. 
+	f) Clock violations will be treated the same as lag outs. 
+	g) If found, client warnings will be treated as lag outs, but players will 		not be spectated unless they have reached the 3 lag out limit. 
+	h) Players who are spectated during the match due to the "30-second rule" 		will be considered lagged out. The "30-second rule" is when you stay in 		drop ship for a long period of time and receive a 30 second warning until 		you get speced.
+10) The referee is not responsible for AFK players. 
+11) Captains may request "visual lag checks" to watch players who are suspected of visually lagging (read Lag Rule 12 for a description of visual lag). Visual lag checks may be done anytime without any limit in a game. The max time to check a player for visual lag should be no longer than 10 minutes. The referee will be requested to spend idle time spectating the player in question. During a "visual lag check" referees are obligated to check the player(s) statistical lag as well as the visual lag. 
+12) Visual lag includes but is not limited to the following: 
+	a) Abnormal projectile movement (ie: shooting lasers). 
+	b) Abnormal player movement (ie: hopping around, or sticking to walls). 
+	c) Abnormal response to game physics (ie: walking through walls; sticking 		to walls while packing). 
+	d) Immunity to energy drain. 
+	e) Immunity to tranquilizers/stuns. 
+	f) Player causing severe turret misdirection (ie: turrets firing in a 			completely odd direction with respect to the player nearest those turrets).
+13) A player spectated for visual lag will be forced to remain in spectator mode for five minutes of play. At this time, a five minute timer will be put up. If another player is spectated for visual lag during this timer, the referee should then use a seperate clock or in-game clock to estimate the five minutes. 
+14) Visual lag offenses are recorded as lag outs. 
+15) A mass disconnection will be treated as 10 or more participants (players and referees) being disconnected from the server nearly simultaneously. At least two players from both sides must disconnect for this to be treated legitimately (so a match is not being "thrown" by one side). Should a mass disconnection happen, the match will immediately stop and the result will not be counted. The match may either be postponed for 30 minutes, postponed to another day (captains would then have to schedule at that time or on the ctfpl website), or restart shortly after both captains have gathered 10 or more players from their respective squads. Any other mass disconnections afterwards will result in the match being postponed indefinitely for another day. 
+16) Any player found to be manipulating their connection by disrupting their connection or any other means will be penalized. The least punishment given will be that the player is sent to spec. Further punishment will be determined by the admin(s). 
+17) Player's with a negative packet loss will not be allowed to play until they they have a positive packetloss that is within the ctfpl limit.
+ 
+
+~B~4I.~0~B Appeal Rules 
+
+1) Matches may be appealed by a squad captain or asst. captain should he or she believe that the match was not played appropriately according to CTFPL rules. 
+2) Should an asst. captain file an appeal but the captain request it be dropped, the appeal will be dropped. 
+3) Matches must be appealed within 72 hours of match completion to be honored. 
+4) Captains who express an intent to appeal within these 72 hours will be given an additional 24 hours (for a total of 96 following match completion) to file their appeal. 
+5) Failure to file an appeal within this 96 hour period will result in the match result being honored. 
+6) Appeals will be honored through the forums (public or private) or web site private message to the administrator(s). 
+7) Decisions on appeals will be announced within 72 hours of the appeal being received.
+
+~B~4J.~0~B Scoring Rules 
+
+1) Upon entering the league, every squad will begin with a score of 0. 
+2) When a league-assigned match is won, 14 points will be awarded to the winning squad. 
+3) When a free scheduled match is won, 12 points will be awarded to the winning squad. 
+6) When a league-assigned match is lost, 4 points will be awarded to the losing squad. 
+7) When a free scheduled match is lost, 2 points will be awarded to the losing squad. 
+8) When a match is lost by means of forfeit, 0 points will be awarded to the losing squad. 
+9) Squads will lose their score after disbanding. 
+
+~B~4K.~0~B Suspension Rules 
+
+1) The league administrators reserve the right to remove any person(s) from the league from the remainder of the season OR permanently (meaning all seasons). 
+2) Suspension will be the immediate punishment for double squadding, using private arena owner commands during a match, harassing/impersonating Infantry staff, impersonating CTFPL staff, or using CTFPL staff communications (squadjoining CTFPL refs or entering the chat) without being on the staff. 
+3) Suspension will be the punishment following one warning for harassing CTFPL staff, squad captains intentionally having double squadders/suspended players on their squad, and having more than 6 racism bans. 
+4) Suspended players will have the right to appeal their suspension by submitting a formal written appeal to the suspension coordinator (usually an admin) after a specific amount of time, determined by the league administrators, has elapsed. 
+5) Players who do not appeal their suspension or lose their suspension appeal will remain suspended indefinitely. 
+6) Suspended players will have their Station ID and linked Station IDs tracked - using linked Station accounts will be considered a violation of the suspension. 
+7) Players violating their suspensions will be permanently removed from the league for all seasons and can have their squads affected. 
+
+~B~4L.~0~B Referee Rules 
+
+1) Referees will not be permitted to *prize "child weapons" (weapons unavailable in stores or from premades) without expressed consent from the league administrators. The only exceptions are "Deathboard Slash", "DropPack Blaster", and "Plasma". 
+2) Additional permission must be acquired for *prizing child weapons in the presence of players who are not referees or moderators. 
+3) Referees must report disciplinary action taken for disruptive chat behavior against any captains or asst. captains, and also must report if a player was blocked for disruptive chat behavior. 
+4) Referees may never use the following commands: *stealth, *report, *reportlist 
+5) Referees not actively refereeing a match will not be permitted to use the following commands in a match currently being refereed by somebody else: *arena, *unlock, *wipe, *unspec, *spec, *specquiet, *teamname. This includes the pre-game period. No referee will be permitted to use any of the following commands after a match has started: *spec all, *experience, *scramble, *endgame. 
+6) Referees should not use the following commands during a match unless necessary: *prize, *restart. 
+7) No referee will be permitted to use any of the following commands during a match or the setup of a match: *warp, *summon, *goto. 
+8) Powered players currently on one of the participating squads will not be permitted to use their moderator powers during a match. See exception below. 
+9) Referees will only be allowed to control a game in which their squad is participating in the case that the original referee is no longer capable of refereeing the match and no other referees are immediately available. 
+10) Referees will not be allowed to start a match involving the squad which s/he is a member of unless s/he is the only ref available to referee that match. If there is ctfpl staff member on the opposing squad, it is only fair that s/he is able to get on his/her ctfpl staff name if s/he choose to do so. Once a referee is available that is not on either squad, the referees playing must either exit and re-enter on their non-modded eligible alias or use the *watchmod command to eliminate them from seeing mod commands.
+11) Matches scheduled and confirmed on the CTFPL site have priority over all practices or unofficial scrimmages currently underway or planned. 
+12) League-Assigned matches have priority over Free-scheduled matches. 
+13) Referees may not use the *permitadd command (during the season) or *history. Administrators will be in charge of *permitadds (during the season) and checking the *history. The only time a referee can use the *permitadd command is during the offseason. 
+14) Referee activity will be tracked by a point system. 
+	a) 10 points will be awarded for refereeing a match reserved in advance 		(weekend matches - by Saturday 6:00 AM Eastern time, weekday matches - 30 		hours before game start). 
+	b) 9 points will be awarded for refereeing a forfeit match reserved in 			advance (weekend matches - by Saturday 6:00 AM Eastern time, weekday 			matches - 30 hours before game start). 
+	c) 6 points will be awarded for refereeing a match not reserved in advance. 
+	d) 5 points will be awarded for refereeing a forfeit match not reserved in 		advance. 
+	e) 4 points will be awarded for co-refereeing a match. If the match that is 	forfeited or not played, no points will be deducted or added for 			co-referees. 
+	f) 2 points will be deducted for cancelling a reservation at least 18 hours 	in advance. 
+	g) 4 points will be deducted for not showing to a reserved match or 			cancelling a reservation with less than 18 hours of notice. 
+	h) 5 points will be deducted if the result of a match is successfully 			appealed due to misinterpretation or incorrect execution of the rules. 
+	i) Referees who declare themselves as inactive ("on vacation") will not 		have points deducted, but will have their in-zone powers removed until they 	return from the declared inactivity. 
+	j) An inactive penalty will be deducted every week after three weeks of 		inactivity. This penalty will start at 2 points and increase by 2 points 		every two weeks. (e.g. 3 weeks -2, 4 weeks -2, 5 weeks -4, 7 weeks -6, 		etc.)
+15) The five referees with the most points will be automatically retained on the staff onto the next season, providing that they have not violated any referee rules. 
+16) Referees who drop below -10 points or inactive for 2 weeks will be put on probation. 
+17) Referees on probation will have their in-zone powers removed unless they are refereeing a match. 
+18) Referees on probation will be assigned a certain number of either points (usually 11) or games (usually 2) they must accumulate to be restored to active duty. 
+19) Referees on probation with less than -15 points must have a positive number of points to be restored to active duty. 
+
+
+Referee Guidelines 
+
+1) Refrain from using commands in Public1 and other "lobby" arenas unless necessary. This includes the *arena command. 
+2) You are a player, not an employee of the game, the players are just like you, treat them with respect. Use the ?ignore if needed, but be aware that a player that is playing might pm you for assistance regarding information or concerns about CTFPL. Use /*shutup only if necessary. See arena rules for dealing with disruptive players in a match. 
+3) Check every player's lag statistics with /*info and check their inventory with /*profile before unspectating them in an official match that is in progress. Also, use /*prize Titanium Oxide:-150 , /*prize Tsolvy Crystals:-150, and your /*prize premades:-# macros prior to unspeccing the players to avoid unneccessary and unwanted mineral and premade issues. 
+4) Try to help squad's practice when not busy. It's not required, but considered good character. 
+5) Try to be at least 15 minutes early for every scrimmage/match, organizing the event ahead-of-time will save you many headaches. 
+6) Provide a fast, efficient, perfect start for every game. 
+7) Use the /*teamprofile command to see an entire unspecced team's summarized inventory. Please pay close attention to the amount of minerals before /*prizing minerals or starting the game-timer. You should do a /*teamprofile especially before prizing minerals and every so often until the game starts. Also do a /*teamprofile right when the game starts to ensure that no minerals were obtained between the pre-game and the start of the game. It is recommended that /*teamprofile and *arena Game On! macros be near by. 
+8) Remain impartial 100% of the time, everytime you are on your powered alias. 
+9) Don't use the *arena command too much. Your voice while on a powered alias overrides the *specquiet command. People will see your ordinary public blue chat, even while you're in spectator mode. 
+10) Make sure you *lock the arena before the match and also once all requested eligible players have been put in during the pre-game. 
+11) Do not go away from the keyboard at any time for however long you are obligated to referee the match. Meaning don't leave during the pre game-timer, OR for any game-timer. It is your responsibility to ref the full match. 
+12) Do not start a match you cannot finish. Ask another referee to help out or step-in if you cannot handle it. 
+13) Do not attempt to take over a match unless you have been invited to do so. One complaint with enough evidence of doing so will result in loss of referee powers indefinitely. 
+14) Make sure you *unlock the arena before leaving the game arena. 
+15) It is up to the main referee to record the statistics for every game and also record who the co-refs for the match were on the ctfpl site via the match/referee menu's. 
+16) Each time that a player is speced for stat/visual lag, you must *timer 5. If more than one player is speced at the time of timer being active, you can use your infantry/computer clock to count the five minutes.
+
+
+Referee Guidelines: Suggested Pre-Match Procedure 
+
+-15:00 before match: Enter Infantry and prepare to get your macros ready (?loadmacro ___). Make sure you are settled at your computer and have everything you need just in case there is a long match (Ex: Bathroom breaks, etc.). Prepare your macros and open the full roster of eligible players for both teams from the CTFPL site. Make sure you know who is the home squad and who is the away squad for the match. 
+-10:00 before match: Referee creates arena and starts timer (*timer 10). Create referee chat. You may choose to :#Squad: message the squads to let them know that their arena is up/ask the acting captain to pm you for the CTFPL chat. 
+-7:00 before match: Official teams, preliminary player # negotiations decided on by this point 
+-7:00 before match: Arena open for players to unspec or lineups provided to referees
+* note that an extra 5 minutes should be inserted here if one team has less than 4 eligible players 
+-6:30 before match: Lineups checked - if a captain has not provided a lineup by this time the referee will unspectate starters in alphabetical order. If a squad is under the player "minimum" of 10 then all their players will be unspectated. 
+-5:00 before match: Players are analyzed for minerals. Arena is reset (*restart) 
+-4:30 before match: Mineral requests submitted 
+-3:00 before match: Minerals dropped at each teams drop ship (do not drop on physics). 
+-2:00 before match: Ask if both captains are ready to start the game. If both captains are ready within 1-2 minutes before the game start, you may reset the timer to 30-45 seconds (Ex: *timer :45). 
+0:00 elapsed: game start. *arena Game On! You must /*teamprofile each team afterwards.
+
+
+~B~4M.~0~B Racism Rules
+1) Anything deemed racist by the CTFPL staff will result in punishment (zone ban). 
+	a) All racism bans will be a *kill 240 (4 hours) from the zone. 
+	b) All bans (*kill's) from the zone (racism, harassment, etc.) must be 			recorded on the CTFPL website via the Ban Manager by the staff member who 		banned the player. 
+	b) If a player has had a days worth of racism bans (6 bans for a total of 		1440min./24h) an administrator will then warn the player the next time the 		player is logged on. 
+	c) If the player is then banned by any referee again (7th time total) the 		administrator will ban the player without warning for a set amount of time 		determined by the administrator).
+2) Racism is not allowed in the CTFPL zone just like any other zone in Infantry. 
+3) Racism will not be tolerated in any public or private arena. 
+4) Only players with mod powers AND CTFPL tags in their aliases are obligated to ban players for racism. This includes event refs. 
+5) CTFPL tagged players are not obligated to ban players in game chats (:#squad: or ;#; chat) except for league-assigned chats (Ex: Ref Chat, Captains Chat, etc.). 
+6) If a player starts to be a problem, the administrators will have the choice to suspend the player for the time that they see fit. 
+7) MA_ aliases are not obligated to ban for racism, but can choose do so with a *block 240 command.

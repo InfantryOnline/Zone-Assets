@@ -1,0 +1,64 @@
+~BMay 5th, 2012~B
+	-Reverted back to 2 desired frequencies (teams)
+	-Max of 20 players per team.
+	-Engineer and Medic respawn with 45 tox/tsolvy on death.
+	-Engineer and Medic receive max resources on gameStart, unspec, and class change.
+	-Removed references to o_mapfont.blo to fix the issue with players not getting ingame.
+
+~BApril 24th, 2012~B
+    -Added default warp points to bases
+	-Added warp pad in dropship designated to 'defensive warp point'
+	-Disabled private teams for the time being.
+	-Adjusted spawn location of 3rd team to North-Western position.
+
+~BApril 20th, 2012~B
+    -Actually changed team limit to 12 this time
+    -Private teams limit set to 5 (thanks to Super-Man for implementing)
+	-Added WARP POINTS to the store (thanks fowl). These will anchor a location (ideal to put next to flags indoors)
+	-More sensible class default setups
+	-Titanium Oxide/Tsolvy Crystals prize directly in your inventory upon game restart
+	-Set Desired public team number to 3
+	
+	
+~BApril 18th, 2012~B
+    -Sci given IRFG (light version of ERFG), changed energy back to 600
+	-Changed team limit to 12.
+	-Fixed 3rd team from not respawning upon death
+	-Kuchler/Maklov GR set to have 3/0 'bypass' damage on bypass instead of hit point damage (this means damage regardless of energy, was not working this way before)
+
+
+~BApril 12th, 2012~B
+    -Expanded blue/brown buildings, better spawns. Added switches/doors.
+    -Rep Charge set to 1kg weight
+	-Haywire set to proper inner/outer jams (from PL settings)
+	-GL's no longer TK
+	-Mineral spawnrate increased (from 500 to 400 ticks)
+	-Changed some flag sight settings
+	-Separated Colly/Titan in DS once again
+
+~BApril 11th, 2012~B
+    -Spawns fixed
+	-Team limits set to 20
+	-RR set to not TK
+	-SG set to 7/3.5 from 6/3
+
+
+~BApril 10th, 2012~B
+    -Team limit set to 2 again, going to see if this encourages the flagging objective more.
+    -Cash rewards increased, game restarts = setcash=999999 (cash is inconsequential)
+	-TB limit set to -2 (can't go over)
+	-?buy Basic includes 2 stim packs now
+	-Change class in dropship enabled
+	-Next week will work on a different map/better spawns
+    -Fixed SL warping bug
+	-Minerals spawn regardless of proximity to spawning location
+
+~BApril 8th, 2012~B
+    -Maklov G2 ACW kinetic damage changed from 8/4 to 6/3 (with 9 projectiles, this is 72/36 to 54/27)
+    -Captain/Sargeant summon reduced to 1 summon per reload (this retains SL's importance)
+    -Sci given 100 more base energy
+    -BuyMacro/ClassPrize abbreviations imported from PL (death, confused as well)
+    -PL version of Gravitron, Haywire grenade imported
+    -Map retiled, dropships merged, spawn points changed.
+    -Imported (North Brown, East Blue) bases from original CTFX map
+    -Team limit set to 8, desired team amount set to 4.

@@ -1,0 +1,625 @@
+qo=mbarvq
+Zone Type/Settings: Conquest
+Map: Faydon Lake
+
+~B [I:CQ] Faydon Lake~B
+
+
+** NEW DEV: BurntDevil**
+** Please read the update listing below for the new changes **
+
+~6 ~B Map System ~B
+	
+	~B General ~B
+		Faydon Lake is the first zone to feature dynamic map selection based upon the population. Faydon Lake is actually two completetly seperate playable maps referred to as the cavern and the lake.
+	
+	~B The Cavern ~B
+		
+		Faydon Cavern is utilized when there 30 or less players unspecced at the start of the game (15vs15). Aircraft are not allowed in the Cavern, however ground vehicles are. There are 3 outposts in the cavern playable at all times.
+	
+	~B The Lake ~B
+		Faydon Lake becomes the playable map when their are 30 or more players unspecced at start of the game. This map has full vehicle access ,and the playable Outposts depend upon the population.
+		
+		~B Lake Outpost availability ~B
+			~B 31-50 ~B playing: Outpost 3 (Hill), 4 (Trench) ,and 5 (Island)
+			~B 60-79 ~B playing: Outpost 2 (Complex), 3 (Hill), 4 (Trench), 5 (Island) ,and 6 (Factory)	
+			~B 80-120 ~B playing: Outpost 1 (Storage), 2 (Complex), 3 (Hill), 4 (Trench), 5 (Island), 6 (Factory), and 7 (Storage)	
+
+
+~4 ~B Zone Objective:~B
+
+	~B General ~B
+		Titan Militia and Collective Military must fully capture every outhpost in play on the Faydon Lake territory of Europa 
+
+	~B Capture System ~B
+		In every outpost that is in play there is either 2 (cavern) or 4 (lake) Forcefield control switches and 1 main flag. The actual control of the outpost is solely dependent upon on the main flag, however all Forcefield Control Switches must be fully captured first(takes 15 seconds each).
+		
+
+~B New Concepts:~B
+
+        ~B Damage Types~B        
+                The weapon damages have been renovated, there are now 6 types of damage(Kinetic, Explosive/sound, Energy/electric, plasma/heat,shield drain, and Vechicle)
+
+        ~B Specializations~B 
+                There is now a new specialization feature in place. Players now have options to "specialize" in a combat suit type, or in a weapon type. Specialization in the combat suits allows players to modify their current armor to be more resilient to certain damage types, but less to others. There are four total different combat suit modifications that can be applied to any combat suit if the specialization for that suit is obtained. Specialization in a Weapon type grants players the ability to purchase new attatchments or modifications to upgrade certain weapons that fall under the category of their specialization.
+
+        ~B Outpost Warp System~B
+		There are Outpost Warp portals in each home base and every outpost with a flag. Upon walking on these, a player will teleport to the next Outpost that is under their control. If you attempt to warp without owning the next flag, you will warped back to portal.
+
+	~B Classes~B
+		Classes function much like they do in the Skirmish series of zones. They contain pre-defined equipment setups with an unchangable combat suit. Classes are not able to change their gear.
+
+	~B Combat Suits~B
+		Combat Suits are like classes with pre-equipped armors except no other gear. They are inclusive of your protection, carry weight, and speed. Some Combat Suits have special utilities installed on them, such as a Improved Cloaking Unit for Commando Suit and Captain Teleport and Summon for Captain Combat Suit.
+
+	~B Training~B
+		Every item in Conquest requires a corresponding training to use it. Training is the only limiting factor (besides weight) to how you set up your character.
+
+	~B Garage/Hangar~B
+		Vehicles are created via menu at a Garage/Hangar terminal, these are located close to each team's base. You must have the vehicle training for the vehicle you wish to make or control.	
+
+~B Vehicle Creation Guide:~B
+
+	1) Make sure you have the Driver class selected or a Combat Suit with less than 15 kg's of weight carried.
+	2) Make sure you buy the Vehicle Training corresponding to what you  want to drive through F11 screen.
+	3) Locate the Garage or Hangar closeby each spawn area and purchase your vehicle. (Vehicles options will not display if you do not have the cash or training for them.)
+
+~B~6
+~BQuestions or Comments ~B
+
+Please direct your questions or comments about this zone to the forums at www.freeinfantry.org CQ subforum.
+If you offer suggestions in this manner I will be able to give them more thorough consideration.
+
+~BZone Rules~B
+
+	1) Shooting through (not over) walls with tanks (Rail Cannon) or aircraft is consider illegal and will be moderated.
+	
+	2) Placing bunkers very close to the entrance of an outpost is illegal.
+	M 
+
+~BZone Developers:~B
+BurntDevil (past devs: Oct and Dino)
+
+~2 Zone Updates
+
+~B 10/15/1672 ~B
+Intentionally nerfed certain players in a conspiracy against them. Really.
+Lowered cost on boots to 1 fuel and 1.5 engery.
+Enabled Rail Discharge, railgun addon.
+Beefed Pistol whip lifetime and damage.
+Moved Enable options to their own area in f11.
+Enabled Assault Mech
+Enabled Wasp Bomber
+
+
+~B 3/24/11 ~B
+Removed Suit addons for now.
+Added a tiny bit of extra armor to armors. c1's get .25 ignore, c2 .50, c3 .75 and c4 1.
+Lowered autoturret armor a bit, roughly 20%
+Messed with firebomb's trigger again, now it doesnt until first bounce.
+Changed how bags/walls work again. Now bags are much weaker, but can go indoors, walls are stonger than bags but weaker overall and cant go indoors. did some spacing work on walls too, you cant build them as close
+Lowered cave/lake spawn requirements. 14 players and more go topside.
+Edited Combat Suit descriptions.
+Lowered useage costs of TD to .3 kjs, use this to counter running captains and the such.
+Beefed dmg on sonic smg to 8
+Lowered energy cost on Pulse Carbine/Rifle, HEL Rifles modes
+Slight increase on wieght and 1 energy use cost on Eraser
+Slight AC burst firerate buff
+Slight CAW firerate buff
+SLight nerf to booster boots, now it needs fuel. Not much of nerf but makes boots less spammed and more limited use.
+Nerf to mech carries. Now Light/Medium/Heavy carry 30. This is to limit the "second Life" tactics.
+Messed with SKAR some, trying to make it more useful. The reload is lower, the aim tighter.
+Naplam at 16 dmg
+Set Fusion/Powered melee back to the older energy costs (2/1)
+XM12ss rate of fire in sniper stock mode is now slighty faster, and the QR mode no longer inhiers movement
+Voltaic made a tiny bit more useful. .2kjs regen now.
+Gave dermal implant its energy armor to make it more useful too.
+Slight rate of fire buff to LMG
+Slight nerf to shockcore, lowered the jam time.
+Nerf to ASL, for ammounts to an energy free PC with bio puddles, it should atleast take 5 ammo. Its also a tiny bit slower on the fire rate.
+Nerf to GR. Upped the wieght to 14.
+Nerf to Gauss Pistol too, .5 engery cost per shot (this pistol shouldnt be on par with AR's, sorry)
+Added WARNING to Enable Classes to move it to the bottom of the list. WATCH WHAT YOU CLICK, it will prevent you from losing your gear on accident.
+Added Buff "Ready Up" to APC Passenger slots. APC/Slick/Caddie/GMV all can give this buff.
+Changed the energy costs on teleports for commands again. no more free warps.
+Lowered Blast Radius on Heat nade
+Lowered damage on combuster shrap (it was at 30+ per, so dont qq this was massively unbalanced)
+
+Behind the scenes is New mechs, Buggies, and tanks in testing. 
+
+~B 3/16/11 ~B
+Lowered Inhier on GMV rockets
+Lower wieght and increased range of Power Sword
+Matched Skithzar smg damage to other smg types (it still has the 2 hp dot per hit)
+Fixed TriSg settings that let you shoot it backwards
+Did some work on Caddie and Slick, now they bring in much more firepower.
+Adjusted C4 a tiny bit
+Sped up Jugs into something less gimped-turtle like.
+Beefed up the Pulse Rifle lifetime
+Lowered normal TCO PR dmg by 2.
+Made RPG firebomb a tiny bit more useful.
+Enabled CAW v3
+Gave Trident a general speed increase. Also strafe. It kinda needs it.
+
+
+
+~B 12/27/10 ~B
+	
+	Reduced ammo wieght in general
+	Anything using SMG ammo now uses pistol ammo
+	Both Recharge Kits have been beefed; the overall range was increased
+	Sandbags and Walls now specialize in the damage they protect against. Bags are Kin/Elec and walls are Exp/Plas. Both are 150 HP, the same wieght, cost, etc. 
+	Wire now costs no energy to make.
+	NeuroShrap's main attack no longer has any stun effect, and the dot is limited to a thrid of the projectiles it fires. Its grenade secondary was nerfed somewhat. The grenade itself does less damage when it hits you given the fact that it also puts out shrapnel when it explodes, direct hits were a tiny bit OP. Will adjust accordingly if it effects the usefulness of the gun too much.
+	GL Concussion rounds were nerfed in blast radius and overall stuninessnessness. Also does less vs tanks (lol).
+	RPG's bad aim was lowered some. It used to have 8 degrees it would randomly take, now its 4
+	EMP Cannon RS is now more accurate
+	MG G42a now reloads a tiny bit faster
+	Mine Layer rounds now last longer, with the statics lasting nearly one full minute. Normal fire mode can now bounce off of walls a tiny bit for more overall usefullness
+	Quickfire SMG recoil removed, made slighty more accurate in normal mode, more so in RS mode.
+	Chaingun prefire lowered some, now it fires overall faster. Its also a tiny itty bitty bit more accurate, might not even notice.
+	Mach 20 made more accurate and lifetime increased.
+	Autocannon minrange lowered from 40 to 20
+	Raised PC modes minrange to 40 from 20. Lowered the prefire on the charge mode to 100 from 150. Gave the normal mode a prefire of 50.
+	C4 has a wall bounce and the life time was upped to 5 seconds.
+	Increaded the reload and fire delays on Repulsor to limit the spam of it.
+	Lowered rotation stun on Vortex.
+Increased damaged on Ripper to 24 overall. Increased rate of fire on secondary rounds.	
+Enabled Compact- Sonic SMG
+	Enabled Sniper- XM12vSS QR (close range carbine mode for the rifle)
+	Set Combat Knife to half of its old min range. Also half the weight.
+	Halved the wall bounces on sonic cannon to 10 from 20.
+	Removed the shell casings from the PAs. Should be more stealthy for snipers to use now.
+Also increased pa damage slightly. now its 80 and 100 for the different modes.
+	Increased fire delay on RR and ASL to help lower the vector laming.
+	Increaded fire delay on Combuster SHC to lower the effectiveness of comboing it with the normal shot mode.
+	Lowered fire delay on SK AR some, might need to lower it more after testing.
+	Lowered wieght on Light SG to 6 from 7kg.
+	Increaded accuracy on move and fire sniper addon modes slightly.
+	Lowered EAAW rotation and thrust stuns slightly, increased carry wieght to 1kg.
+	Lowered reload time on Plasma Bolt sniper mode.
+	Lowered inherit speed and raised the projectile speed of SG Slug.
+	Enabled CQC mode for HEL Rifle, also gave HEL rifle and cannon one more wall bounce.
+	Enabled RPG Firebomb Mode
+	Gave Plamsa Carbine a bayonet mode (emp users need some poking)
+	Increaded whistler (and AA mode) clip size to 12 and slightly lowered reload.
+	Renamed Fusion Pincer to Fusion Blades. Also lowered the engery cost and added the damage it does to the discription. Oh, and it does plasma damage and electric too for added measure.
+	Added Powered Combat Sword too, for a kin/plasma combo sword attack.
+	As part as a on going rifle update, I enabled the Pulse Rifle, a larger verison of the Pulse Carbine. Expect to see more rifles over time.
+	Added a slight engery cost to chainfist. Its only .15.
+	Armor's changed a tiny bit. First of all, the shield mode was changed back to the old style. This means you no longer have to full drain someone to kill them. Ive changed exelon to reflect this change, it no longer does -armor stats but instead protects half of what comp armor does while providing shield protection. Think of it as using PF in TP or something like that. If this doesnt work out, Ill change it back but remember that with this shield settting most weapons are useful again.
+	
+~B 7/12/10 ~B
+	
+	G42 MG Incin rounds added.
+	Ripper Hollow Tip rounds added.
+	ASL and Acid Rifle beefed.
+	Sonic Cannon burst beefed.
+	G42 LMG beefed slightly.
+	Several laser/energy/plasma weapons changed specialization categories/names.
+	All laser weapons now require more energy usage but deal higher damage.
+	Gauss Rifle Burst fires a bit slower in bursts.
+	Shockcore's behavior changed.
+	SK-AR GC lost energy requirement.
+	SK-AR switch time raised.
+	HEL Rifle lost a bounce.
+	HEL guns changed color.
+	Rapid Healing Kits weight lowered.
+	Recharge Kits fixed.
+	Darklight Optics and Sup. Acts gained more energy drain.
+	EAAW gained a little more reload.
+
+~B 7/8/10 ~B
+	
+	Gaunts/Greaves weights upped .5 kg.
+	Medikits/Rechargers tweaked.
+	Flamethrower min range lowered.
+	Implants made unsellable and max 1 of each type.
+
+~B 7/7/10 ~B
+	
+	Exelon Armor type added, made of superconductive synthesized component similar to glass.
+	EMP Particle Cannon RS buffed.
+	Sonic Blaster buffed.
+	XM60 buffed.
+	TCOv2 PR CC loses a little more stun.
+	Stub Cannon received more outer.
+	Fusion Bolt Rifle PFM reload lowered.
+	Filtering... effect lasts 60 seconds instead of 30.
+	EMP Maser Rifle buffed.
+	Trident speed raised.
+	Salamander hp raised.
+	
+
+~B 7/6/10 ~B
+
+	TCOxPR and CC have been adjusted, including less stun time.
+	Nerve Gas CL6 has had its fire delay increased but clip size doubled.
+	Rapid heal systems had their weight lowered.
+	Medikit and Deluxe Medikit had their weight increased but range doubled.
+	Explosion sound added to Railgun.
+	EMP Particle Pistol weight lowered.
+	100k Experience given to every new and old player upon unspec.
+
+~B 7/5/10 ~B
+	
+	Booster Boots reload increased.
+	Generators removed, skill be made useful shortly.
+	Armor Secondary's added in. These are not mandatory at all.
+	Energizer and Med Pack's nerfed in reload but made buyable.
+	Fuhrer wins.
+
+~B 2/24/10 ~B
+
+	9mm Incin. rounds got a lil bit of a nerfy werfy.
+	RGs and PKvAR got a little tweaked.
+	Squad vests fixed up a bit, and added ability for them to be wiped via mod command.
+	Accidently selecting enable combat suits shouldn't work now.
+
+~B 2/22/10 ~B
+	
+	Base Recall and Team Teleport changed up to work better with new energy shields.
+	Enhanced Filters have been changed to Active Filters under Utility Active.
+	RPG inner damage raised.
+	Fusion Bolt Rifle beefed.
+	Sonic Cannon Burst beefed.
+	NeuroTech Scrap Cannon adjusted.
+	PKvAR 606 RGs added in, requires Medium Kinetic Specialization.
+	S-AR mk2 RGs added in, requires Medium Kinetic Specialization.
+	EMP Particle Cannon RS added in, requires Energy Specialization.
+	SK-ARv35 GC added in, requires Medium Kinetic Specialization.
+	HVRL AA added in, requires Rocket Specialization.
+	Squads POJ and Asian Pop Stars have taken over Unversed and We Up To No Good.
+	Acid Thrower beefed.
+	Cash rate, share included, increased.
+	Specializations now required for the special armors. SORRY GUYS >:]
+
+~B 2/18/10 ~B
+	
+	YOU MUST BUY THE TRAININGS TO USE SHIELDS/ARMORS.
+
+	Shields can now be used in ExoSuits and Tanks.
+	Roxo, Sorz, and Trono Shields are now in. They vary in shield strength and shield regen.
+	Rechargers and PowerCells have all alot of work to fit them with the new shields.
+	BioGun r57 SH now requires energy to shoot.
+	NeuroTech Scrap Cannon regular pattern tightened up and grenade only explodes on ground impact.
+	Pulse Carbine given more lifetime.
+	Energizer and Stim Pack have been given a higher fire rate.
+	Small inactive time added to UCLR rockets, and spread to reg bug fixed.	
+	Passenger slots added to Slick, Cadillac, and GMV.
+	Generators have had a bit of alteration.
+	Cash share percent doubled.
+
+~B 2/17/10 ~B
+
+	Rapid Healing Systems added in.
+	Gauss Rifle Burst received a bit of a nerf, nothing major.
+	EMP weapons changed to no longer jam non-vehicles, but stop recharge for longer.
+	The "Ammo - Pistol" bug has been fixed.
+	Neuro Scrap CG can no longer be PBed.
+	Adjusted LMG on vechs to not go over yellow/one-way physics as easily.
+	Island change made.
+	Trainings for Armors and Shields added in, so start buying before you don't have the experience.
+	
+
+~B 2/16/10 ~B
+
+	BIG CHANGE: READ BELOW
+
+	All armor and energy protection has been removed from combat suits.
+	All energy recharger and maxes have been removed from combat suit class types.
+	Armor and Shield Systems have been added in to compensate.
+	Weight added to each Combat Suit to carry armor/shields similar to what they previously had.
+	All skill logic has been removed from these for time being to allow people to adjust more easily.
+	**Trainings WILL be required for armors/shield systems so start saving up experience for next update**
+	This update will allow for much more variety in setups and new shield system expansions.
+	
+	Trench outpost has been removed and replaced with a little creation of mine.
+	More map changes to come next update as well.
+
+~B 11/8/09 ~B
+	
+	Concussion GLs fixed.
+	EMP Particle Cannon jam nerfed.
+	Combuster SHC adjusted.
+	Pulse Carbine beefed.
+	Raze machinegun beefed.
+	Killy adjusted.
+
+~B 11/6/09 ~B
+
+	Several additional map changes.
+	The "big" turret amount has been trimmed down on some bases.
+	Auto-prizing of LAWs for classes fixed.
+	New modes for the S-AR, Combuster, and GL added in.
+	Partial Paralysis nerfed.
+	EMP Maser buffed.
+	Plasma Core PC prefire time lowered.
+	Many energy/plasma type weapons reloads changed to async.
+	EMP Particle Cannon buffed a tiny little itty witty bit.
+	Agile Combat Suit got a speed buff.
+	AutoTurret AT reload increased.
+	LAW's prefires taken down slightly.
+	Increased the starting jackpot amount. (Rewards)
+	Increased amount of cash per kill.	
+	
+
+~B 11/4/09 ~B
+	
+	The "big" turrets have had quite a few adjustments to make them weaker.
+	Engineer Center bug should be fixed.
+	You may have all implants active on your character now. Switching to a class will currently erase your implants. I am working on a fix for that.
+	LAW Rocket renamed LAW.
+	Several map changes made.
+	Emp Particle Cannon buffed.
+	BioGun r57 SH received a little nerf.
+	Tranq and Immobilizer should no longer stun vehicles.
+	Combat Knife received a bit of improvement.
+	Mine Gun blast reduced.
+	Mortar buffed.
+	Minigun clip size increased.
+	Micro Repair Kit added in.
+
+~B 10/31/09 ~B
+	
+	Several large map changes were made.
+	Scrambles changed to if a team wins twice in a row.
+	Bounty System has been changed to a different style. Try it out.
+	Tox Spawns removed and replaced with Ore spawns on top map.
+	Engineer Centers added in each base, they allow you to change Ore into tox + cash, as well as make premade turrets.
+	Unkillable turrets added in at the bases up top. These will go red at 200 hp and lower and are controlled by having onwership of the base.
+	Capture Messages have been added in through hides. You may filter these from public chat by filtering system messages.
+	Ripper HMG received a beef in Anti-Vehicle damage.
+	Whistler received a beef in explosive damage, but loss some AV damage.
+	TCO energy costs reduced.
+	Light Shotgun Slug fixed.
+	Gauss Pistol damage increased.
+	Gauss Rifle and Pistol Burst modes added.
+	9mm AP Incin Rounds added.
+	C4 Buffed.
+	Mach 20 damage increased.
+	Incinerator damage increased.
+	RPG damage increased.
+	Repulsor Field beefed.
+
+~B 8/28/09 ~B
+	
+	Light and Medium ExoSuits allowed indoors.
+	ExoSuits HP increased.
+	Phoenix HP decreased and disappear time lowered.
+	Raven speed increased.
+	Partial Paralsyis altered.
+	Several compact and basic weapons altered to adjust for new energy system.
+	Point system changed up a bit, your targets bounty has a great effect on the kill rewards you receive.
+	Bounty system changed up some, should allow for easier bountying to compensate for scramble effect.
+	Raven and Heavy ExoSuit dual weapons turn inwards now.
+	Atlas HP lowered.
+	AA ret limit changed to allow 2 in the same area.
+	Innate teleport unit added. ONLY WORKS IN BASES OR WARP ROOMS OF OUTPOSTS.
+	Teleport Disruptor added in.
+	Energizers and Med Packs added in.
+	BF Generator altered.
+	
+	
+
+~B 8/25/09 ~B
+
+	Fixed flag bug.
+	Hazard Disburser balanced.
+	Pounder GL changed a bit.
+	Celcius received a stun nerf.
+	Testing out a new method for shields to function. --This may only be temporary, don't freak out.
+	Reward system adjusted a bit.
+	Vortex Rifle AIDS RMD fixed.
+	
+~B 8/24/09 ~B
+	
+	Decent amount of map changes made to improve gameplay.
+	Yellow and directional physics now block turret and tank fire.
+	Several weapon modes for specializations added in.
+	PlasmaCore received a nerf.
+	Nerve Gas effects changed a bit.
+	
+~B 8/18/09 ~B
+
+	Map and flag location changes made to improve gameplay.
+	Victory changed to reward just MVP %.
+	Game timer of 1 hour added.
+	
+~B 7/28/09 ~B
+	
+	Map should be completely ready for public testing.
+	HEL Cannon received a weapon bounce reduction.
+	F10 and F11 screens received a bit of reorganization.
+	Frag Grenade limit changed from 3 to 2.
+	HEAT Grenade limit changed from 4 to 3.
+	Stubb Cannon and AutoCannon weights lowered.
+	AutoCannon received more explosive damage.
+	LMG got increased reload and increased fire delay.
+	Several changes were made to Class setups.
+	Utiltiy - Sensor category added with corresponding training. More sensors will be coming soon.
+	Enhanced Sensors added to Utility - Sensor and Sensors added to Utility - Basic.
+	Commando Combat Suit now has a mid range automatic cloak.
+	Improved Cloak changed a bit as well to add on to the combat suit.
+
+~B 6/25/09 ~B
+	
+	Map has been changed to a dual map called Faydon Lake created  by the new conquest assistant dev, Dinousaur.
+	Secondary cavern map and lio system are now being tested and will be fully functional within the next 2 weeks.
+	Blood effects have been added for all applicable weapons. Gore!!
+	Implants have been added in, they require you to get a sanction from a general before you can undergo the process. Implants have only positive effects on your character with 1 max at a time.
+	Preset Classes are now in. These are optional and will not effect your existing characters. They are also not allowed to use vehicles. Select NO PRESET CLASS if you would like the customization option of Conquest.
+
+~B 4/16/09 ~B
+	
+	Testing out non-vehicle combat for a few days... Garages and Hangars have been temporarily removed.
+	PlasmaCore Launcher added for Heavy Assault weapons.
+	Fusion Bolt Rifle added for Assault weapons.
+	EMP Maser Rifle added for Standard weapons.
+	EMP Particle Pistol added for Basic weapons.
+	EMP Particle Cannon added for Support weapons.
+	More weapons to come as time allows, also a new map has been created and is currently being tested.
+	New Artillery Shield graphic is in and HP has been reduced.
+
+~B 3/31/09 ~B
+	
+	Celcius's weapon has been nerfed.
+	Salamander no longer hits air.
+	Phoenix AA Missiles disappear at end of lifetime.
+	Napalm Projector given explosive damage.
+	UCLR 25 explosive damage lowered.
+	Gauss Rifle outer damage increased.
+	ShockCore jamming effect increased.
+	RPG tweaked a bit.
+	Rail Gun's received a little tweak.
+	MMVL has been adjusted.
+	C4's damage has been increased.
+	MLRS HP has been reduced.
+	EP-362 given a reload.
+	9mm AP fire rate increased.
+	Nova Pulse energy required decreased.
+	Fixed new tanks shared kills/team weapon blocking.
+	Generators adjusted.
+	Enhanced Sensors weight decreased.
+	LAW/LAAW prefire decreased.
+	Frag Grenade schrapnel explosion fixed.
+	Augmentor description changed.
+	All suit energy capacity increasing items have received a 5 kj bonus.
+	Enhanced Filters adjusted.
+	NeuroTech Schrap given slight min range.
+	Attempted to fix a bug that caused scramble to be disabled.
+	Inactivity time doubled.
+	EAAW reload time increased.
+	New squads vests.
+	Artillery Shield has been adjusted a little bit more.
+	Added in frame work for some new things next update.
+	
+	
+~B 3/24/09 ~B
+
+	Cavern terrain now allows vehicles to go faster.
+	Health and Repair regen enabled.
+	Inactivity Timer set to 120 seconds.
+	More cover added to map to facilate better balance.
+	Increased default recharge rate.
+	Introduced C4.
+	Increased NeuroTech's weight.
+	Decreased MLRS's schrap damage.
+	Added sounds to law.
+	Changed schrapnel explosion graphic.
+	New squad vests.
+	Artillery Shield Kit added.
+	Added in Support Tanks, the Juggernaut and MLRS.
+	Beefed up the Raze a bit.
+	Time between games increased.
+	Spawn turreting fixed for most part.
+	Vehicle reenter time increased.
+	Mine Thrower does not explode on walls anymore.
+	Added in Frag Grenade.
+	Added in Recharge kits.
+	Added in First Aid Kits. (heals other players hp and move and use)
+	
+~B 3/19/09 ~B
+
+	Flank paths have been added in some sections of the mountains to help prevent bottle necking.
+	Artillery Shield Kits are in testing phase.
+	Killy Avenger has received a damage nerf and now requires Heavy Sniper ammo.
+	Plasma Bunker's Hellbore PC has received a nerf.
+	MMVL Turret's firing angles has been fixed.
+	Ammo - MG carrying limit increased and weight lowered.
+	G42a LMG now uses Ammo - Rifle ammunition and damage increased.
+	SK-ARv35 has had its damage increased.
+	RazorTech Slasher rate of fire decreased slightly.
+	Weapons under Compact and Basic categories are now able to be used much quicker than other weapons when switching between. Ex. You can switch to using a pistol .5 of a second after firing an RR while it may take 2 seconds to switch to Assault weapon.
+
+~B 1/16/09 ~B
+	
+	Creating walls required 10 energy instead of 5.
+	Distance from turret group to turret group has been increased.
+	Turret energy requirement changed.
+	Titanium Oxide cost increased. (There is a such thing as mining)
+	Bunkers now show health to enemies.
+	Added 3 new tanks, Juggernaut, MRLS, and Salamander. These are in test phases and not available for purchase yet.
+	Cyro Cannon fires at a higher velocity and now sends out a sub-zero blast.
+	Repair Kit energy lowered.
+	Added overdose effect system to stim pakcks. A player may only use one stim pack every 30 seconds or they will deducted 5 health for every one in between that time.
+	
+~B 1/13/09 ~B
+
+	Killy .67 Sniper has received received double the prefire and a longer reload and longer min range.
+	BioGun r57 now has a min range and cannot be used as a melee type.
+	Found potential cause for turret creation problem and hopefully fixed it.
+	APCs and all tanks have received an even greater speed boost on dirt paths.
+	Aircraft no longer are able to "stick" other aircraft when bailed out.
+
+~B 1/9/09 ~B
+	
+	Bio has been fixed.
+	Many, many weapons have received adjustments for better balance.
+	Fixed team switching mid game.
+	Increased share radius.
+	Enabled teams to be rewarded for their progress at end of the game.
+	New sniper rifle is in.
+	New force field graphic should be working. (Much thanks to Bomb)
+	Many other updates as well, sorry to leave out the documenting.. but hey, suprises don't hurt.
+
+~B 12/30/08 ~B
+	
+	New anti-hacker measure is in.
+	Most Bio and Neuro weapons have received a bit of a boost.
+	Filters have been boosted as well.
+	Haymaker RR has been beefed.
+	Adjusted several other weapons.
+
+~B 12/29/08 ~B
+	
+	Most Outposts have undergone a bit of construction.
+	Flag locations in Outposts have been adjusted as well.
+	Light and Medium ExoSuits can be summoned.
+	Several vehicle speeds have been adjusted.
+	MMVL has had a change.
+	AA Turrets have had a new weapon put on them.
+	Walls/Sandbags/Barbwire are now stronger.
+	Canister ammunition has been seperated into Fuel or Bio.
+	Several weapon tweaks have been made.
+	Phoenix should actually work now.
+	Mortar lost some explosive damage.
+	Many other changes as well.
+	
+	All the other bugs are being worked on, only so much time in a day.
+	Please report any bugs/balance issues to the forums so that I can actually read them.
+	
+
+~B 12/28/08 ~B
+	
+	Lag limits have been corrected.
+	Team size bug causing Europan and Morgan to show up has been fixed.
+	Mortar has been nerfed.
+	Morphine/Steron Injections can now be seen on the ground.
+	Phoenix's reloader has been fixed.
+	Players can no longer gun tanks without drivers.
+	Collective can now capture flags intially. They are still not allowed to recapture.
+	All ExoSuits can now be summoned.
+	All teleport device's reloads have been fixed.
+	Fusion Pincer now works indoors.
+	Base Teleport Charge has been made innate,
+	The turret limit per team has been increased.
+	Vehicle kills and flag captures now have higher MVP points, which translates into better end game rewards.
+	Flag victory hold time lowered.
+	Several map bugs fixed and new Garage/Hangar at H10 Base.
+	Pulse Carbine's range lowered.
+	Fixed vehicles disappearing.
+	Vehicle drivers will now get credit for gunner's kills.
+	Reward system changed a bit.
+	Atlas and APC can carry up to 8 passengers now.
+	Enabled some force team options to try to get scramble working.
+	Vehicles now require drivers to be gunned.
+	Lowered Trident RC3 tank's armor.
+	Raze has received a speed boost.
+	Numerous small bugs fixed as well.
+
+[I:CQ] Kleos Conquest	
+~B Background: ~B
+	Titan and Collective forces wage war against each other for control of the planet Kleos. After large mineral deposits had been discovered on a small, remote Collective inhabited planet (Kleos), Titan Militia made a claim to this planet since they had discovered it nearly a decade ago. When several diplomatic attempts at a peaceful compromise failed, Titan's secretary of war Jake Syco offered the idea of a controlled small-scale war in a secluded valley of the planet as a solution to minimize the massive bloodshed that had been so common in previous conflicts. Collective's General Naivatco concurred and began drafting up terms that included the selection of weapons, equipments, tanks, and aircrafts the soldiers could use as well as the conditions of victory. After several months of heated debates over these issues, a complete agreement was reached. Only one question remains: Do you have what it takes to compete against the best in this ~B Ultimate Conquest~B?
+
+	

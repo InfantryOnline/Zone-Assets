@@ -1,0 +1,60 @@
+v6,26,1200,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Chemist Lv2","Humans","","",  ,,0,0,0,0,0,0
+v6,27,9000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Chemist Lv3","Humans","26","Pheramone Grenade added, which draws zombies to the targeted destination.",  ,,0,0,0,0,0,0
+v6,28,22500,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Chemist Lv4","Humans","27","Added stunner, which only works against player-controlled zombies.",  ,,0,0,0,0,0,0
+v6,12,9000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Marine Lv3","Humans","11","",  ,,0,0,0,0,0,0
+v6,11,1200,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Marine Lv2","Humans","","",  ,,0,0,0,0,0,0
+v6,33,22500,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Squad Leader Lv4","Humans","32","",  ,,0,0,0,0,0,0
+v6,32,9000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Squad Leader Lv3","Humans","31","",  ,,0,0,0,0,0,0
+v6,31,1200,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Squad Leader Lv2","Humans","","",  ,,0,0,0,0,0,0
+v6,13,22500,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Marine Lv4","Humans","12","",  ,,0,0,0,0,0,0
+v6,21,1200,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Heavy Weapons Lv2","Humans","","",  ,,0,0,0,0,0,0
+v6,22,9000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Heavy Weapons Lv3","Humans","21","The Mini-Nuke is a timed explosion that clears a large area of zombies.",  ,,0,0,0,0,0,0
+v6,23,22500,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Heavy Weapons Lv4","Humans","22","",  ,,0,0,0,0,0,0
+v6,16,1200,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Engineer Lv2","Humans","","AP mine added.",  ,,0,0,0,0,0,0
+v6,17,9000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Engineer Lv3","Humans","16","Combat Bot added.",  ,,0,0,0,0,0,0
+v6,18,22500,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Engineer Lv4","Humans","17","",  ,,0,0,0,0,0,0
+v6,640,5000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Wraith Zombie","Zombies","","A zombie which can phase through physical matter and remain invisible to any marines.  Type ?unlearn 640 to get rid of this skill.",  ,,0,0,0,0,0,0
+v6,630,5000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Spawner Zombie","Zombies","","A zombie which can spawn lesser zombies in an attempt to kill marines, and also summon other zombies.  Type ?unlearn 630 to get rid of this skill.",  ,,0,0,0,0,0,0
+v6,1,25000,-1,0,  0,56,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Assault Rifle","[Upgrade Weapon]","","Extra bullet before reload",  ,,0,0,0,0,0,0
+v6,2,50000,-1,0,  0,57,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Assault Rifle+","[Upgrade Weapon]","1","66 percent quicker ROF, more damage",  ,,0,0,0,0,0,0
+v6,3,5000,-1,0,  0,66,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Battle Rifle","[Upgrade Weapon]","","Increased rate of fire, Decreased weapon switch time, extra bullet",  ,,0,0,0,0,0,0
+v6,4,10000,-1,0,  0,67,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Battle Rifle+","[Upgrade Weapon]","3","Increased rate of fire, Decreased weapon switch time, extra bullet",  ,,0,0,0,0,0,0
+v6,5,5000,-1,0,  0,58,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Machine Pistol","[Upgrade Weapon]","","Quicker reload",  ,,0,0,0,0,0,0
+v6,6,10000,-1,0,  0,59,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Machine Pistol+","[Upgrade Weapon]","5","More bullets in a clip",  ,,0,0,0,0,0,0
+v6,7,10000,-1,0,  0,62,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Gas Projector","[Upgrade Weapon]","","Increased velocity",  ,,0,0,0,0,0,0
+v6,8,20000,-1,0,  0,63,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Gas Projector+","[Upgrade Weapon]","7","Increased velocity, targets poisoned.",  ,,0,0,0,0,0,0
+v6,9,5000,-1,0,  0,60,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Maklov G2 ACW","[Upgrade Weapon]","","Less ammo consumption, quicker rate of fire",  ,,0,0,0,0,0,0
+v6,10,10000,-1,0,  0,61,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Maklov G2 ACW+","[Upgrade Weapon]","9","Quicker rate of fire, wider spread, more point blank damage",  ,,0,0,0,0,0,0
+v6,14,25000,-1,0,  0,65,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade RPG","[Upgrade Weapon]","","Increased velocity, clip size, and damage",  ,,0,0,0,0,0,0
+v6,15,50000,-1,0,  0,64,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade RPG+","[Upgrade Weapon]","14","Increased velocity, clip size, and damage",  ,,0,0,0,0,0,0
+v6,19,30000,-1,0,  0,69,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Rifle Grenade","[Upgrade Weapon]","","Incendiary round.",  ,,0,0,0,0,0,0
+v6,635,5000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Teleporter Zombie","Zombies","","A zombie which can dictate where it goes with projectiles.  Type ?unlearn 635 to get rid of this skill.",  ,,0,0,0,0,0,0
+v6,35,1200,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Scout Lv2","Humans","","",  ,,0,0,0,0,0,0
+v6,36,9000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Scout Lv3","Humans","35","",  ,,0,0,0,0,0,0
+v6,37,22500,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Scout Lv4","Humans","36","",  ,,0,0,0,0,0,0
+v6,20,30000,-1,0,  0,80,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Incinerator","[Upgrade Weapon]","","Targets now catch on fire.",  ,,0,0,0,0,0,0
+v6,24,25000,-1,0,  0,76,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade AutoCannon","[Upgrade Weapon]","","2 bullets fired for every shot.",  ,,0,0,0,0,0,0
+v6,25,50000,-1,0,  0,77,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade AutoCannon+","[Upgrade Weapon]","24","3 extra bullets.",  ,,0,0,0,0,0,0
+v6,29,50000,-1,0,  0,78,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade RR","[Upgrade Weapon]","","Added area of effect fire.",  ,,0,0,0,0,0,0
+v6,30,100000,-1,0,  0,79,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade RR+","[Upgrade Weapon]","29","Added area of effect fire + repulsion.",  ,,0,0,0,0,0,0
+v6,610,5000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Ammo Eater Zombie","Zombies","","Zombie that consumes and uses ammo to attack.  Type ?unlearn 610 to get rid of this skill.",  ,,0,0,0,0,0,0
+v6,615,5000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Fire Zombie","Zombies","","A zombie that is equipped with fire attacks.  Type ?unlearn 615 to get rid of this skill.",  ,,0,0,0,0,0,0
+v6,39,25000,-1,0,  0,22,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Phantom MK47","[Upgrade Weapon]","","Increased velocity",  ,,0,0,0,0,0,0
+v6,40,50000,-1,0,  0,74,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Phantom MK47+","[Upgrade Weapon]","39","Increased velocity",  ,,0,0,0,0,0,0
+v6,620,5000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "ForceField Zombie","Zombies","","Adept at repelling incoming projectiles.  Type ?unlearn 620 to get rid of this skill.",  ,,0,0,0,0,0,0
+v6,150,-2,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Nightmarish Zombie","Zombies","","Appears when only 1 player is on the Zombie Horde.",  ,,0,0,0,0,0,0
+v6,625,5000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Hopper Zombie","Zombies","","Super fast, hopping zombie which spits goo that slows down humans.  Type ?unlearn 625 to get rid of this skill.",  ,,0,0,0,0,0,0
+v6,34,50000,-1,0,  0,96,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade MML","[Upgrade Weapon]","","Increased velocity",  ,,0,0,0,0,0,0
+v6,38,20000,-1,0,  0,97,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Energy Pistol","[Upgrade Weapon]","","Bullet more damaging, less bullet in a clip",  ,,0,0,0,0,0,0
+v6,645,5000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Infected Zombie","Zombies","","A very fast, but fragile zombie with deadly attack power.  Type ?unlearn 645 to get rid of this skill.",  ,,0,0,0,0,0,0
+v6,-1,500,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Armor","[Attributes]","%20&(!-1100)","Increases HP by 1 per level.",  ,,0,0,0,0,0,0
+v6,-2,1000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Power","[Attributes]","%20&(!-2050)","Increases Energy by 5 per level.",  ,,0,0,0,0,0,0
+v6,-3,1000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Actuators","[Attributes]","%20&(!-3050)","Increases thrust by .05 per level.",  ,,0,0,0,0,0,0
+v6,-4,1000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Boosters","[Attributes]","ERROR&(!-4050)","Increases top speed by .4 per level.",  ,,0,0,0,0,0,0
+v6,41,-2,116,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Behemoth Zombie","[Event]","","Evolved zombie that gets stronger the more zombies merge with it.",  ,,0,0,0,0,0,0
+v6,42,-2,118,0,  0,119,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Chainsaw Massacrer","[Event]","","",  ,,0,0,0,0,0,0
+v6,43,1337,-1,0,  0,135,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Upgrade Sword","[Upgrade Weapon]","","choppy choppy",  ,,0,0,0,0,0,0
+v6,44,1337,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Swordsman Lv2","Humans","","ill cut u",  ,,0,0,0,0,0,0
+v6,45,9000,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Swordsman Lv3","Humans","44","ill cut u",  ,,0,0,0,0,0,0
+v6,46,22500,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Swordsman Lv4","Humans","45","ill cut u",  ,,0,0,0,0,0,0
+v6,47,1337,121,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Swordsman  test","Humans","","ill cut u",  ,,0,0,0,0,0,0

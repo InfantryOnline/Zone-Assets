@@ -1,0 +1,141 @@
+Discipline Info
+Rockets - Bigger Radius, Longer Range
+Psi - Bypass Damage
+Energy - Bounce Twice
+Projectile - Faster velocity
+
+
+~1Overview~2
+This zone is simple. Kill people to gain experience. Use your experience to buy the attributes you need to upgrade your weapons. The best way to gain experience is to get on a flagging team.
+
+~1Introduction~2
+The very first thing you need to do is pick a weapon class/type. Press F11 to get to the skills screen. On the left side is a list of categories, --Attributes--, Discipline, Master Discipline, Staff. Click on Discipline. Then click on one of the disciplines, either Energy, Projectile, Psionic or Rocket. 
+
+Now enter the game, by pressing F12, and begin upgrading your character. You will start with an autopistol only. It's not very powerful. :)  See the table at the end of this helpfile for info on which specific attributes you should upgrade in order to "level up."
+
+When you first enter the game you will randomly appear somewhere on the map.  Look for the yellow mineral called "Noobium" and pick it up.
+
+Locate one of the yellow Experience Producers located here and right-click on it with your mouse. Select the first item in the list "Make 75 Experience Points", in 5 seconds you will see a message that lets you know that experience has been added to your account. You will need 1000 experience points to upgrade to a level 2 weapon. Get collecting until you have 1000 experience. ~BYou will die very often, do not give up.~B
+
+The next thing to do after you have 1000 experience is to upgrade your autopistol to the second level weapon. Look at the tables below to determine which attributes you need to purchase to get to the second level weapon for your discipline. 
+
+Example: You chose Energy as your starting discipline. To get the first level energy weapon you need to purchase 2 Discipline and 2 Willpower attributes.  When you have the correct attributes, you need to level up. Find an upgrade item for your discipline and pick it up. There are two locations for the upgrades, A5 and B2. Be careful that you buy the correct attributes, follow the tables closely.  ~1~BCAUTION:~B~2 Once you buy an attribute, you cannot change it!
+
+With a level 1 weapon, you will need ammo.  In order to get ammo, you will have to pick up the gray "DiYaz" mineral and take it to the gray machines.
+
+~1Changing Teams~2
+If you want to change to a different public or private team, you'll need to know the name of the team and the password (if there is one).  To change teams, wait until you have at least 50% of your energy and type:  ?team namehere:passwordhere
+
+~6Example:~2 ?team Marauders:WeRule
+
+If there is no password, then type:  ?team namehere
+
+~6Example:~2 ?team Public1
+
+Then hit enter, and if there's any space on the team, you'll be placed on that team.  
+
+~BNOTE:~B You may only change teams at one location, that is in the outside area. (The area with grass and trees at the bottom of the map).  Team changes are not permitted anywhere else.
+
+~1Flagging:~2
+The best way to gain experience is to "flag."  That is, capture the red flag on the map and hold onto it for 59 seconds.  A few seconds after each game is over, the flag will automatically spawn somewhere on the factory compound (though not in the outdoor area).  If you see the flag, go and pick it up.  If someone else gets it, kill them, to take control of the flag.  Hold onto it for 60 seconds without dying and your team wins the game.  You will be rewarded with cash, points, and experience.
+
+~1The Vending Machines:~2
+The most innovative feature of TheArena are the "vending machines."  These are located throughout the map and exchange one object for another.  First you must collect something (like Noobium Minerals) then you have to go to the specific vending machine.  You right-click on the machine and select what you'd like, or you can move near the machine and hit space-space.  A list of the machines, what they accept, and what they give is as follows:
+
+~6Color                Accepts      Returns~2
+Yellow Machine    - 1 Noobium   75 experience points
+Blue Machine      - 2 Torpide   Small energy charge
+                      - 5 Torpide   Large energy charge
+Beige Machine     - 2 Culpa      Small medicine potion
+                      - 5 Culpa      Large medicine potion
+Gray Machine     - 1 DiYaz      200 Ammo
+
+~1Master Disciplines:~2
+For those players who want an extra challenge, those who achieve Level 10 can strive to become a Master Discipline. There's a catch. If you choose to do this, which is your option, you lose all your attributes, exp, and inventory. The idea of this is to give those who reach Level 10 quickly more of a challenge. Master Weapon Classes have the stats of the regular weapon one level stronger. All four classes start with a stronger version of Auto Pistol at level 1.
+
+~6Example:~2 Master Rocket 5 is comparable strength to Rocket 6.
+
+~1Notes on Master Disciplines:~2 
+This does indeed mean that people who achieve Master Level 10 will have weapons comparable to a Level 11 weapon, adding a bit of a boost. Also, all attributes below are the same for master level weapons of that number (e.g. You need the same attributes for Rocket 5 as you do for Master Rocket 5).
+
+~1Tips:~2
+~0-~2 You will always gain more experience from kills when carrying the flag.
+~0-~2 Getting on a team and winning the flag game is the fastest way to progress.
+~0-~2 When you're being outgunned, don't rush the other player head on.
+~0-~2 It's easier to kill someone when you have a teammate helping you.
+~0-~2 Be careful not to kill yourself by standing too close to a barrel or a grenade that you set off.
+~0-~2 Use frag grenades to put distance between you and your persuers.
+
+~1Attributes and their affects:~2
+Attribute~F       ~PEffect
+
+~FAgility      ~PIncreases your thrust.
+~FDexterity    ~PIncreases your top speed.
+~FHealth       ~PIncreases your hit points.
+~FStrength     ~PIncreases your weight carrying ability.
+~FWillpower    ~PIncreases your max energy.
+~FDiscipline   ~PNo effect on your character. Only used for weapon limits.
+
+~6REMINDER:~2 The below attributes are also true of Master Weapons.
+
+~P
+~5Energy Class~2
+~FWeapon        Agil Dex  Disc Hlth Str  Will
+~4Energy 1       0    0    0    0    0    0~2
+Energy 2       0    0    2    0    0    2
+~4Energy 3       1    0    4    0    0    4~2
+Energy 4       3    0    6    1    0    6
+~4Energy 5       5    1    8    2    0    8~2
+Energy 6       7    2   10    3    1   10
+~4Energy 7       9    3   12    4    2   12~2
+Energy 8      11    4   14    5    3   14
+~4Energy 9      13    5   16    6    4   16~2
+Energy 10     15    6   18    7    5   18
+~P
+~5Projectile Class~2
+~FWeapon        Agil Dex  Disc Hlth Str  Will
+~4Projectile 1   0    0    0    0    0    0~2
+Projectile 2   0    2    2    0    0    0
+~4Projectile 3   0    4    4    0    1    0~2
+Projectile 4   1    6    6    0    3    0
+~4Projectile 5   2    8    8    0    5    1~2
+Projectile 6   3   10   10    1    7    2
+~4Projectile 7   4   12   12    2    9    3~2
+Projectile 8   5   14   14    3   11    4
+~4Projectile 9   6   16   16    4   13    5~2
+Projectile 10  7   18   18    5   15    6
+~P
+~5Psionic Class~2
+~FWeapon        Agil Dex  Disc Hlth Str  Will
+~4Psionic 1      0    0    0    0    0    0~2
+Psionic 2      2    0    2    0    0    0
+~4Psionic 3      4    0    4    1    0    0~2
+Psionic 4      6    0    6    3    0    1
+~4Psionic 5      8    1    8    5    0    2~2
+Psionic 6     10    2   10    7    1    3
+~4Psionic 7     12    3   12    9    2    4~2
+Psionic 8     14    4   14   11    3    5
+~4Psionic 9     16    5   16   13    4    6~2
+Psionic 10    18    6   18   15    5    7
+~P
+~5Rocket Class~2
+~FWeapon        Agil Dex  Disc Hlth Str  Will
+~4Rocket 1       0    0    0    0    0    0~2
+Rocket 2       0    0    2    0    2    0
+~4Rocket 3       0    0    4    0    4    1~2
+Rocket 4       0    1    6    0    6    3
+~4Rocket 5       1    2    8    0    8    5~2
+Rocket 6       2    3   10    1   10    7
+~4Rocket 7       3    4   12    2   12    9~2
+Rocket 8       4    5   14    3   14   11
+~4Rocket 9       5    6   16    4   16   13~2
+Rocket 10      6    7   18    5   18   15
+
+~5Vehicles~2      Agil Dex  Disc Hlth Str  Will
+~4FlightPack     3    3    0    1    4    4~2
+JumpPack       4    4    0    2    4    4
+~4Hoverboard     5    5    0    3    4    4~2
+~P
+
+Edited by Greenrolo.com (docmarcel@aol.com) 14, August 2000
+Last Edited by Ultrafoo 20, February 2009

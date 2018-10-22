@@ -1,0 +1,73 @@
+~B~2I:Arcade "[Zone name to be announced]"~B
+
+Welcome to LaserTag!
+
+You know the drill. Kill every single red dot you see. As for the flags, capture the enemy flags by stealing them from their base and return them to one of your three flagposts. The first team to capture three flags wins. Get to it.
+
+*** Background Story ***
+Gone are the vintage guns that require constant barraging and draining to do damage. These new shipments from rival Titan Arms and Kuchler inc. kill in one shot, and at most two (for those bastards that are hard to die... you know the type). The fight for bragging rights is on in this capture the flag sport, LaserTag style.
+
+
+
+***********************************************
+
+-----
+Update Notes:
+
+~b~2Update, January 7, 2013
+-Added lasPack for heavies, and h2h for Marine
+-Moved around the forcefields
+-Added repulsor charge and laws
+
+~b~2Update, January 6, 2013
+OVERALL CHANGES (since last news)
+-Map changed...
+-Added shuttles/jets for space combat
+-Added/balanced new weapons
+SPECIFIC CHANGES
+-Weakened laser grenade by 2 dmg
+-Added forcefields to prevent spawn rape
+-Decreased proximity on plasma cannon
+-Fixed indoor terrain so vechs can't get in
+TODO:
+-Add:Repulsor charge, Laws, H2H, flashpack, gates, Rusher class (shield drop) and nova pulse
+THIS IS A BAD NEWS UPDATE BUT STARTING TODAY I WILL BE MORE CURRENT!
+
+~b~2Update, October 26, 2012
+-Changed vehicle weights/weapon weights
+-Going to change map (jumping/physics)
+-Adding pdbs on each side
+
+~b~2Update, October 25, 2012
+-Changed the reloads for cloak/stealth/sensors
+-Cloak no longer 100%
+-lightsabers still a bit iffy, feels op (will ponder)
+
+~b~2Update, October 19, 2012
+-Added Captain, DropTrooper and skirmisher
+-Map still needs more fluff
+-Added plasma/laser weapons
+-Medic can heal now
+-Players have 100 hp now
+
+~b~2Update, October 8, 2012
+-Map expanded...ok, completely changed
+-Added store...knock yourselves out
+-Changed flag gameplay
+
+~b~2Update, August 22, 2012
+-Changed the looks for many weapons and classes
+-Handcuffs can be picked up on the floor and are one time use, 60 sec expiration items
+-'Blink' and 'Wink' reload delays increased to equal the LP's but inbetween delays lessened
+
+~b~2Update, August 10, 2012
+-Blood disappearing time decreased to avoid laggy/messy floors
+-Bounty rate increased
+-Increased damage to Titan and Kuchler LP (that's laser pointer guys)
+-Changed flag game play, only two flags now (read zone news above)
+-Added slow debuff on lava/sludge
+-Fixed up handcuff's prox radius
+-You can no longer walk on enemy flag drop points
+
+~b~2Update, August 7, 2012
+-This is the beginning of FlashPoint Cross.

@@ -1,0 +1,342 @@
+~BGuide to being a Combat Engineer v.1.00~B
+~Bby EngineerSean and Decker~B
+
+
+Table of Contents
+----------------------------------------------------------------------------------------------
+I) Introduction
+II) Getting started
+a) Buying the right Engineer equipment
+b) Weapons and armour
+III) Building Turrets
+IV) Mining
+V) Fighting as an Engineer
+a) Helping the team defend
+b) Aiding the attack on the enemy
+VI) Miscellaneous tips and tricks
+----------------------------------------------------------------------------------------------
+I) Introduction
+
+Sean:  When I first downloaded Capture the Flag, the map was Twin Peaks.  About a week later it turned into Heinrich's 
+Point,which is where it stayed for some time.  This is where I learned to play Engineer.  I started out on the alias 
+MedicSean, but couldn't figure out how to heal.  I didn't know what weapons were good to use for medic, so I used PSMG 
+and got about 3 kills and 20 deaths.  Later that night I logged back on and made the alias EngineerSean, BUT I HAD TO 
+WAIT 15 MINUTES TO USE IT!  From the next day on, I played Engineer almost exclusively.
+
+Decker: When I started playing CTF with actual passion to get better and help the team, it was post-Sony.  I had experience
+from the class pre-Sony in the Harmless Games era, but they showed such little similarities it was a whole new ball game.  
+I, unlike Sean, had the oppertunity to play either CTF map; Heinrich's Point or Twin Peaks. For the first year or so, I 
+enjoyed playing Engineer in Heinrich's Point.  Later I would join a CTFPL squad and the entirely different gameplay from 
+public play begun another required learning process. To this day, all but one of the CTFPL scrimmages I've played in has 
+been as Engineer exclusively.
+----------------------------------------------------------------------------------------------
+
+II) Getting Started
+
+First of all, there will be a time in the beginning of your Engineer career where you will die a lot.  Don't worry about 
+it!  Engineer isn't really a class that is supposed to stand toe-to-toe to other players.  What matters in the beginning 
+is that you can make Turrets to support your team's defense.  What's a Turret, you ask?  A Turret is a computer-controlled 
+structure that will fire on any enemy within it's sight.  Without this, a base is never very well defended.  Keep thorough 
+communication with your team, and if there's a medic, always remember to bring him or her tranqs.  It is also common for 
+the Engineer to pick up Rifle Grenades or other ammo for their other teammates.
+
+To make the auto-Turrets you'll need to assist your team, you will need to buy some items:
+
+a) Buying the right Engineer equipment
+
+To buy equipment, press F10 anywhere in the dropship or in spectator mode.  Under Engineer Equipment, you will find the 
+following items:
+
+
+[Note before we begin discussing Turrets:  Currently, the game is set so that it is ideal to place Sentrys last.  
+Apparently a bug prevents you from making 4 Turrets with a Sentry is up, so unless you place your Sentrys last, you'll be 
+restricted to 2 or 3 normal Turrets.  If a Turret is brought down, you are ready to replace it with another, and you're 
+certain your base will be fine in doing so. I suggest you Turret dismantle the Sentry or Sentrys and quickly replace the 
+Turret.  After the Turret is up, go ahead and put up another Sentry.  On that note, always insist that your defensive 
+partners supply you with consistant Sentrys.]
+
+
+AutoGun Plasma Kit:
+Sean: This Turret kit is the least expensive but least effective.  The Turrets that it makes fire 5 little red balls of 
+plasma that do little damage, but are decent at draining energy.  It also has a super-short minimum-range (distance until 
+it can hit a target) and it's projectiles bounce off walls.  This Turret has 180 hp.  A Turret from this kit takes 15
+titanium oxide (henceforth known as "titox") to make.
+
+Decker: My opinion of these is quite different from Sean's.  In recent public and league play, Infiltrators have become a 
+huge part of play.  These cloaked beasts can send you flying with their powerful repulsor and drain your suit to the point 
+where a couple AR bullets or other powerful weapon is gonna pimp smack you and your teammates around.  Always keep these 
+near your flags if used in singles for the most part.  This is more risky, but with more strange and varied Turret setups, 
+having these out to protect your Rocket or MG Turret positioned carefully can not only defend them, but they will strongly 
+lower the effectiveness of Infiltrators who try to "storm" by repulsing and having teammates attach deep in the base, past 
+defenders.
+
+
+AutoGun MG Kit:  Machine gun Turrets are the most effective when used in pairs.  They pound an enemy with it's 5 shots.  
+It's more effective than the Rocket Turrets due to having 5 seperate shots and medium minimum-range.  This Turret takes 25 
+titox to make and has 200 hp.  At the present time, the AI, or artificial intelligence, in the game for these Turrets is 
+quite poor.  They often miss, miscalculate speeds of players and miss many of the bullets.  I do suggest you use these 
+however, just keep in mind they are certainly not as good at aiming as your above-average heavy weapons.
+
+
+AutoGun Rocket Kit:  Rocket Turrets fire one big rocket with explosive results.  It does a lot of damage, but it's major 
+setback is that it only fires one rocket before having to reload.  Also, if you get anywhere close to it, it can't hit you,
+due to it's long minimum range.  A good Turret to put in the back of your base.  Takes 50 titox to make and has 200 hp.
+
+
+Engineer Repair Kit:  Essential to any Engineer that makes Turrets, this kit uses 5 titox to repair a nearby Turret by 75 
+hp. It is much cheaper to repair Turrets than to have to make new ones.
+
+
+Energizer Kit:  This kit allows you to convert 5 unillenium into an energizer.  This kit has become obsolete since the 
+ability to buy energizers was implemented.
+
+
+Reprogramming Kit:  This kit allows you to permanently take control of an enemy's Turret unless he re-reprograms it.   It 
+is difficult to use, as it takes half of your energy and you're usually under fire by the Turrets and enemy when you're trying to use it.
+
+
+Hoverboard Kit:  This kit allows you to construct a hoverboard for 200 credits.  It is essential whenever you are carry 
+Titanium Oxide unless you intend on being overweight or dropping some of your equipment.  The reason it's essential for 
+carrying Titanium Oxide is that rather than the original 60 KG of weight maximum, you are able to carry 80 KG before being 
+overweight.  At the start of the game with a full load of Titanium Oxide, as well as all your supplies and utilities, do not be surprised to be overweight even on the board.
+
+
+Sentry:  
+Sean: Essential for any base, this specialized Turrets will creat a teleport disruption field in the area of the Sentry.  
+2 are allowed per team, and they cost 100 credits a piece.
+
+Decker: As of the year 2003, the Sentry limit has been altered, unfortunatly though the bug still exists.  Rather than a 
+limit of two Sentrys in one area,  regardless of team are allowed, as it was in previous years, you are now limited to 2 Sentrys per team, regardless of area.  I have found that in Heinrich's Point, which is map for CTFPL at the time of the publishing of this guide, an offensive Sentry can be extremely crippling to a team.  The teleport disruptor effect from theseworks through walls, and the distance is enough to screw up a medic, or push him/her out into a less useful area for his team so that he or she is able to summon defenders.  By disabling or crippling summons, generally your team will have a noticably easier time getting the last push they need to get in and out with the flags.  Note to setup an offensive Turret that you *will* need to sacrifice the additional Sentry at home, which is generally only used to block a Turret anyway.
+
+
+Extra Basic Starting Information:
+
+Sean: Of these, the most useful to start out with are the "AutoGun MG Kit" and "Engineer Repair Kit".  Myself, I sell the 
+shotgun that I start out with and use it towards the purchase of these items, but your strategy may differ.  I don't worry 
+about getting kills as a starting out Engineer, as it is quite difficult.  From there I get the rest in this order:  
+"AutoGun Rocket Kit", "HoverBoard Kit", "AutoGun Plasma Kit", "Reprogramming Kit".  If you want to start as an offensive 
+Engineer, "Reprogramming Kit" may be a good one to start out with.
+
+Decker: I agree with almost all of that, but I would personally not be in a rush to get an offensive Engineer setup.  Make 
+sure you buy your Turrets, Engineer kit, Kevlite/Shock, PF/IDF, Suit Supercharge/HPC [I don't recommend HPC] and electron 
+beamer as your primary weapons.  After 2-4 games, you should be able to afford most if not all of your equipment, and 
+you'll be all good to go.
+
+
+b) Weapons and Armor
+
+So you want to kill some people and help out with the overall destruction?  Here's some items that will make it easier.
+
+Weapons:
+
+Electron Beamer:  
+Sean: This weapon does no damage to an enemy, but cripples their energy, and that's what you want when they go against your Turrets.  An essential weapon for Engineers.
+
+Decker:  This weapon is god's gift to a defense.  Your teammates will be begging you for hot steamy se...errr thanking you for your assistance, as they clean up the lesser-energy'd enemy.  Remember, you don't need the kill, if your partners can get it, it's best to support them in their efforts with this weapon.
+
+
+Gravitron:  Use this for moderate energy drain, and knocking JT rushers away from your flag room.  2 gravitron users can defend a base for a long time against JT rushers.
+
+
+AP Mine:  Massive damage, this is probably the second best mine.
+
+
+Bullet Mine:  Moderate damage, but you can carry 20 of them, which is good.  They are also very light, so carrying 20 of them is hardly a bad thing.
+
+
+EMP Mine:  
+Sean: Decent, I don't use this mine too much so I don't know how well it does.
+
+Decker:  I love these mines.  Not only do they do plasma damage, which isn't protected by armor, but they weigh half as much as AP and Plasma mines and they drop without a load, like bullet mines.  If you have these and bullet mines, you can lay ten mines in about 15 seconds flat.
+
+
+Plasma Mine:  The best mine ever, usually kills any class but JT and Infantry in one hit, and weakens those two pretty well.
+
+
+Grapeshot Mine:  
+Sean: Worthless.  Completely worthless.  Moderate energy drain and that's it.
+
+Decker:  Although I agree for the most part due to the CTF map not being friendly to these because they detonate off of everything and anything, which is generally behind them making them useless, you CAN strategically place these behind walls or in corners in large groups.  Don't expect it to work, chances are it won't, but if it does it'll pay off.
+
+
+Repulsor Mine:  Good against rushing JTs, disorients people. Unfortunatly a low energy drain and no actual damage, but these can really mess someone up.
+
+
+Haywire Grenade:  "Jams" enemies and friends alike within it's blast radius.  Easily the most effective when used effectively.  "Jamming" a player makes him unable to fire weapons or regain energy.  "Jamming" a Turret will make that Turret unable to fire, but it will still aim at an enemy.  Use this for reprogramming pesky Rocket Turrets.
+
+
+EMP Grenade:  Does a lot of damage, I get 2/3 of my kills with these grenades...then again I don't get many kills.
+
+
+WP Grenade:  I would opt for EMP Grenades over these.
+
+
+Frag Grenade:  Again, use EMP Grenades, and then WP Grenades, before using these.
+
+[Note from Decker:  I use all 16 types of grenades.  I seperate the keys for hawyires and the rest, but I stack EMP, Frag and then WP grenades in that order.  To "stack", you assign more than one grenade to the same key, when the in-use stack of grenades runs out, you'll have the next 4 of the next type of grenade ready to go.]
+Repulsor Charge:  Drains energy a bit, disorients people, gets mines out of your way, an overall must for any Engineer or any class that uses a vehicle for that matter.
+
+
+Kamenev AP mk2:  Either in single or double, there really are better weapons for Engineer.
+
+
+Maklov CR mk IV:  Decent, but again, better weapons for Engineer.
+
+
+Flechette Rifle:  
+Sean: Good against medics and other Engineers.  
+
+Decker: A good drainer weapon and noticably higher than SMG/AP damage. It isn't worth sacrificing another weapon for, however, because there are better pure drainer weapons and power weapons. This one doesn't pack a punch enough to get past Carapace or CMP6 armors effectively.
+
+
+Kamenev AKS BR:  
+Sean: My favorite of the Battle Rifles, this fires 10 shots that are slightly less damaging than the Unitech BR2000.  My 2nd favorite main weapon.
+
+Decker:  I dislike BR on both offense and defense.  This requires more aim than it's worth, and the load is annoying because you must allow EVERYTHING to sit for approximatly 10 seconds before it loads.  I strongly insist you use Incinerator over this, or even Fletchette for weak armored people if you don't like Incinerator.
+
+
+Titan Arms 9mm Carbine:  I've seen some good done with this on defense.  Makes a cute little star when it hits its target or a wall. :-)
+
+
+Titan Arms BR01:  My least favorite of the battle rifles.  It doesn't seem to do much damage at all.  It fires in bursts of 8.
+
+
+Unittech BR2000:  This does the most damage per shot, but only does 5 shots per burst.  Slower firing rate as well.
+
+
+Titan Arms Shotguns:  These just do energy drain pretty much, I don't like them.
+
+
+Incinerator:  
+Sean: My favorite main weapon (other than EB), this kills anything from Infils to Infantry.  Short range, but high damage.
+
+Decker:  This is the king of Engineer weapons.  It does only 5 damage less than an Assault Rifle, it requires little aim [bonus] and it shoots in a steam of 10 flames.  The only downside is that you have to get in close to your target to use it, and if they've got no other distractions, chances are they'll take out your inferior armor.  Against Infantrys, who tend to like Carapace and PF or IDF these days, unfortunatly it doesn't do much damage.  I strongly suggest if you avoid fighting the Infantry class 1v1 unless they're weakened and you know you can kill him.  On that topic, make sure to use electron beamer on the Infantry class, if your opponent is using Carapace, they'll feel the effects of it and your partners can clean them up.
+
+
+PSMGs:  I don't like the energy drain on you, so I prefer not to use any of these.
+
+
+Needler:  Medics usually use this, I don't.  Decent damage though.  Again, there are better weapons available.
+
+
+Steiner SMG:  Not as good as Unittech
+
+
+Unittech Tech 09 SMG:  Single or double, this used to be my favorite weapon.  I still use it sometimes, but it's recoil has gone way down and thus it's usefulness.  Also lowered usefulness due to high amount of Carapace'd Infantry running around, who are essentially immune to the weapon.
+
+
+Utilities:
+
+Teleport Beacon: See section on mining for some reference to these.  
+
+Decker: Something to note about teleport beacons is that this is certainly not the only situation to use them in.  90% of the time I die, I am out of teleport beacons because I use them so often.  I recommend using them at the back if your base if you intend on attacking the enemy on defense and giving a good push with Incinerator and Electron Beamer.  If you opt to do this, especailly at the D7 base on Twin Peaks and C2 on Heinrich's Point, I suggest you stay clear from the enemy squad leader if there is one.  Chances are he or she will have teleport disruptor on, leaving you unable to beacon away.  Also, these are good for using at the enemy.  If their TD is not long and allows you to, place a teleport beacon if your offense is getting a nice push as deep as you can, and then either dropship recall or ask for a summon/attach to the medic or a defender.  Inform your team you have this teleport beacon if they die off, and to select you and to get ready to attach.  If you pushed deep enough and you wait long enough, but not too long, chances are you'll be BEHIND the enemy defenders if they didn't see you lay the beacon.  This is quite useful for attacking enemy Turrets if there is any, or pushing into a TD'less base and snatching the flags
+
+
+Armor:
+
+Ceramax Combat Armor:  Don't bother, I don't even know why they still offer this worthless piece of armor.
+
+
+CMP4 Combat Armor:  Good protection against kinetic projectiles (i.e. assault rifle bullets)
+
+
+Kevlite Combat Armor: 
+Sean: Good protection against energy.  Use this if you find yourself reprogramming Turrets more than you're defending home.
+
+Decker: 75-80% of the time I'm playing, this is my armor of choice.  In public games I pair this with PF and I have quite nice energy protection, shileding me from the heavy effects of rifles.  Make sure to assign this to a key below the PF Generator if you use it, this, opposite to Shock armor, has an actual number defense rather than per-cent, a bug in the game makes it most effective to have on the bottom.  You may not notice the difference, but it helps a moderate amount, especially against CAW and Shotgun weapons.
+
+
+Shock Armor:  
+Sean: Don't think that this isn't a good armor just because it's so cheap!  I use this almost all the time, due to it's high explosive protection.  Generally when I'm healing Turrets, I get hit by the explosives that they use to destroy them, so it's useful.
+
+Decker: Sean's crazy and likes to go rush people, I play a little more safe and hide behind Turrets when they're being attacked, attempting to constantly heal them.  If you find yourself a victim to grenades and rifle grenades often, I suggest pairing this with a PF generator, with an IDF you have nearly no energy protection, not fun stuff.  Very good armor in my opinion, make sure you assign it to a key then stack over it so that it's above the generator due to the fact it does pure per-cent damage rather than an actual number, a bug in the game makes this more useful.
+
+
+PF Generator:  
+
+Sean: This helps more against energy, so again, use this if you're going to be reprogramming a lot.
+
+Decker:  I've used this in every single game for the most part, I've found it to be far more effective in keeping my alive longer both on defense and offense, and it allows me to keep my energy for important things like shooting EB and healing Turrets.
+
+
+IDF Generator:  
+Sean: I use this because when I'm healing Turrets, I get hit by projectiles and it has superior explosive protection.
+
+Decker:  Blah I hate this generator with the way I play.  Use it if you don't care about energy or if you play like Sean.
+
+----------------------------------------------------------------------------------------------
+III) Building Turrets
+
+The majority of being an Engineer is the ability to make Turrets to defend home or to aid the attack.  These steps outline how a setup should be made:
+
+1) Gather Titanium Oxide
+
+see section IV) Mining
+
+2) Construction of the Turrets
+
+When you buy the kit, you have the choice of keys to set it at.  Mine are currently set at Tab for "AutoGun MG Kit", shift+tab for "AutoGun Plasma Kit", and Shift+control for "AutoGun Rocket Kit".  When you have gathered enough titox, and you press the button that you have assigned for the kit, you will gain an "AutoGun MG" or "AutoGun Plasma" or "AutoGun Rocket" depending on what kit you used.  Once this item is made, assign it a key.  I use the same key as I used for the kit, as I usually don't need to make more than one kit at a time.  So for example I use Tab for "AutoGun MG Kit" and Tab for "AutoGun MG" also.  When you hit the key for the new AutoGun, a new Turret will pop up.  This Turret will begin firing within 1 or 2 seconds.  It takes 200 energy to make the new AutoGun and 300 energy to deploy the Turret.  The energy is taken from you when you are finished making the Turret or AutoGun.
+
+3) Placement of the Turrets
+
+A Turret is effective only when placed in a spot that will maximize it's firing area while minimizing it's chances of being smacked with grenades or damaging AC fire.  You'll want to keep most of your Turrets in or near the flag room so that they can attack people as they are grabbing the flags.  If you don't put them near the flag room, you'll find that people on vehicles can get past them quite easily, and that your team will keep backing up past the Turrets to leave them to be slaughtered.  Keeping the Turrets in the flag room kind of creates a choke point that you can defend a little easier than wide open spaces.  4 Turrets + 2 sentries can fit in any base, unless you are in an especially large base, such as several in Eol or CTFx, and then you can usually put a second set of Turrets in your base spread far apart.  You usually want to place a Rocket Turret as far back in your flag room as possible, except for in really long bases, as you want it to fire on a player as soon as he rounds the last corner.  2 MG Turrets work well in any situation, sometimes protecting the Rocket Turret, sometimes catching the enemy in a deadly crossfire as he enters the flag room.  Plasma Turrets are a last ditch effort, killing commies and draining energy of anyone that gets too close to the flags.  Sentries can be used to create a TD field or to block other Turrets from getting under fire.  If a Rocket Turret has a Sentry between it and the entrance, an enemy cannot fire past the Sentry without destroying the Sentry first, so it gives the Turret quite a bit of time to tear the enemy apart. In certain situations you may wish to opt for a second Plasma Turret instead of the second MG Turret.  The only time I used this was when there was a particularily vicious team made up of all commies in CTFx.  It worked well, but it is not used very often.
+
+Decker:  About that last sentance in Sean's discussion, I've used two Rocket Turrets in a couple CTFPL games where the squad was heavily reliant on getting the Infiltrator in the base to repulse or anchor for partners.  Two Rocket Turrets strategically placed absolutely tear the pesky Infil apart if he dares get deep.  This also works quite well on Twin Peaks at the bases C7 and G7 if the enemy is using two or more Infiltrators.
+
+4) Repairing Turrets
+
+A Turret must be kept at a decent percentage of it's health in order to function.  Repairing a Turret takes 5 titox and repairs 75 hp, not exceeding the maximum hp of a Turret.  Repairing is sometimes gutsy, as you have to go into the enemy's line of fire and sometimes take a few bullets and even die to make sure they're not destroyed.  I usually carry energizers on me for this very purpose, as they will extend your life and allow you to repair in the midst of a heavy battle.  Repairing takes 100 energy, not too much unless you just attached to a sieged base.
+
+5) Offensive Turrets
+
+see V) b) Aiding the attack on the enemy
+
+And there you have the process of building and maintaining Turrets.
+
+----------------------------------------------------------------------------------------------
+
+IV) Mining
+
+Mining is essential to making and repairing Turrets and maintaining a good relationship with your medic.  Your medic is literally unable to leave home to mine as s/he has to heal the defense and summon flaggers and other allies home.  Therefore, you as Engineer must mine for him/her.  The most important thing is to find a good mining spot.  The thing I look most often for in a mining spot is proximity to another mining spot.  In Twin Peaks, the G2-I2 mining spots are ideal, as they are quite close to one another and you can constantly mine.  In Heinrich's Point, G3-H3 are ideal for the same reason.  Any mining spot in CTFx is equally good.  If you're not on a hoverboard, you will find your mining very difficult very quickly, as Titanium Oxide is HEAVY.  Make sure you get a summon from your medic when you are done mining.  Tsolvy Crystals are pretty light, so the extra weight won't bog you down too much.  I usually carry 50 titox when I'm not planning on being on a board for a while and about 100 when I plan to stay on my board for a while.  If you find that you can't mine fast enough, you may want to use Teleport Beacons to get from one mining spot to another.  Simply go to a mining spot, mine all available titox, lay a teleport beacon by pressing the button that you have assigned to it, go to another mining spot, pick up the titox, and teleport back using the same key that you used to lay the teleport beacon.  Or if you're having trouble with a medic that won't summon you, you can use a teleport beacon in your own base the same way.  I personally don't use this method very often but many Engineers do and I have been known to use it from time to time when there are evil medics in Public8 or Public9.
+
+----------------------------------------------------------------------------------------------
+
+V) Fighting as an Engineer
+
+a) Defending home
+
+Electron beamer is most important to utilize for home defense, as you can bounce it off of up to 2 walls.  This allows your mines or other people's bullets to kill the enemy effectively.  Using Plasma or AP Mines at home is good too, and Repulsor Mines are a must against JT rushers.  An occasional haywire grenade into a group of enemies will generally make them scatter and use repulses, but make sure not to haywire your allies!  The occasional hit with a haywire will more than make up for the ones that you miss, as that enemy is unable to fight and is undefended for about 3 and a half seconds.  EMP Grenades are useful as they are just coming into your base, as it is likely to hit someone who is not ready.  Use Incinerator when people are making rushes for your flags or when they have gotten your flags.  Use your hoverboard's superior speed and repulsor charge to run down flaggers.
+
+b) Attacking the enemy base
+
+An Engineer won't generally attack with the offense unless base is calm and secure, or if the Engineer is especially good at it.  MAKE SURE YOU ARE ON YOUR HOVERBOARD BEFORE GOING IN.  Go into the enemy's base about 2 seconds after the rest of the offense has gone in and use your repulsor charge if there are any mines left on the ground.  Suicide haywire grenade rushes are generally ineffective, so stay back with the bulk of your attack group until right before they get to the Turrets.  Run ahead, use your repulsor charge if you still have it, and throw a haywire grenade at the nearest Turret and group of people.  Get on top of the Turret and start tapping your reprogram button like mad.  Generally on my 3rd or 4th hit, the reprogram works.  If you find yourself out of energy, use an energizer.  Once it's reprogrammed, your reprogram kit will have the red (load) sign next to it, and the Turret will be yellow on your map.  Generally, your team's offense will continue firing on it for a time, but even though their projectiles can't hit it directly, you should do something like "//RT reprogrammed" to make sure that they know.  Electron Beamer is pretty much worthless on offense unless your offense is using a lot of Assault Rifle, which isn't common if your offense knows what they're doing.
+
+----------------------------------------------------------------------------------------------
+
+VI) Tips & Tricks
+
+Decker: 
+
+1) Always, and I mean ALWAYS have a buy macro.  These is made by typing "?buy <item:quantity>,<item:quantity>, etc" and 
+assigning it to a Shift + F1-12 or Shift + A-J key by default.  For more on macros, read Gambit's Command guide in the 
+in-game help section.  I recommend in the buy macro you put fuel canisters, [or ammo rifle if you use a rifle, ammo pistol if you use an SMG or pistol, and ammo shotgun if you use Fletchette Rifle or a shotgun] grenades, teleport beacons, energizers, a Sentry, repulsor coils, a repulsor charge, mines and whatever else you need for your personal Engineer.  In addition to the buy macro, I strongly urge you to create at least 3 seperate other macros.  An "At home", "Home under attack" and "Attacking enemy" macro are essential for you to succeed.  I personally also have set a macro letting the team know I am mining, what coord I am currently at, and how much Titanium Oxide and Tsolvy Crystals I have at the time.
+
+2) Stacking keys is very important.  You are only limited to 16 keys right now, and although that sounds like a lot, it isn't enough for basically any type of Engineer.  By using Sean's method of stacking a Turret on top of the Turret kit itself, you save yourself 3 keys. By stacking Turrets, grenades and mines, you may be still stuck with a weapon unable to be assigned to a key.  Fortunatly, the programmers made a key for the ability to use an item that is ticked under your inventory list.  Simply click the item with your mouse [or by scrolling with Alt + Up/Down by default] and hit the Delete Key [by default] on your keyboard.  You can choose to reassign this key if Delete is out of reach in the main menu of Infantry or in the in-game keyboard configuration under Interface Keys.
+
+3) Something I find useful doing in a CTFPL game where cash doesn't matter, or when I have an insane amount of money in Twin Peaks/Heinrich's Point is to actually sell my Turret Kits.  This is done after the base has been completely setup with Turrets and I have time to dropship recall.  If you decide to do this make sure your base is quite secure and you're in no immediate danger of a Turret going down.  Something to also remember when selling them is that after you sell them, they are *not* loaded, so I strongly recommend letting them load, especially the MG Kit before you sell them.  By selling all 3 kits, you now have 15 extra KG, as each kit weighs 5 KG.  With my full setup including Tranqs and Rifle Grenades for teammates, I can carry 90 Titanium Oxide on foot while being exactly 60 KG.  Any extra Titanium Oxide making me overweight is hidden behind a wall in the base, or is left in the Dropship so I have easy access to it, should I need it later.
+
+4) While on the subject of playing on foot, I am a strong believe in that the Engineer should be more than a Turret maker, Turret heal and mineral miner.  Although it is very possible to provide support fire with Electron Beamer and add in a couple backstabs or assists with Incinerator, the Engineer is worth so much more than that.  
+
+Work on your fighting skills with Incinerator and Electron Beamer coupled together, and always keep your grenade aim up to snuff.  If you're good enough, and you are always helping, you can be just as valuable as an additional defensive Infantry.  Work with the fellow Infantrymen, they are meatshields and their armors are a lot stronger than yours.  
+
+If possible, take out the squad leader, but keep in mind he DOES have better armor than you, and if you focus on fighting off with a flank, a lot of times your absense on the main defense for a mere 10 seconds while you position yourself can give the enemy a much easier time in getting into your base.  Mine the base frequently, spam EB around corners, use your Incinerator if you think it'll help without putting you at too much risk, and always, ALWAYS work with your team.  
+
+You are arguably the most position on your team and you are the backbone of your defense.  Practice, practice practice, and stick with Engineer.  If it's the class for you, you should have a blast playing it.  I've played Engineer for nearly 2 years for three different squads, and EVERY game is a different experience, sometimes the offense needs the extra man the entire game and sometimes the defense needs the Engineer the entire game.  
+
+Make yourself versatile, ALWAYS stay on the ball, and NEVER sit at home doing nothing.  The medic is the class that sits at home, if you're not needed to help attacking or defending, go mine or setup a flank with grenades.
+
+----------------------------------------------------------------------------------------------
+
+TERMS OF USE
+
+Feel free to put this on any website as long as you email seandoubleo7@yahoo.com or decker@nmebase.net saying that you are going to.  Don't bother waiting for a response, we're not exactly going to turn you down.

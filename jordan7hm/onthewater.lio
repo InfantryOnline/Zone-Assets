@@ -1,0 +1,574 @@
+8,v12,2,"TextStudio",3520,3216,    3,-1,150,This unfurnished studio apartment is for rent.
+8,v12,3,"UndergroundAccident",1984,12080,    0,-1,300,These drivers appear to have gotten into an accident.  The police have arrived but are no where to be found.
+8,v12,4,"Airship",2480,18464,    2,-1,1100,Welcome to the Ry-Tek Mobile Command Airship.  Stock up on supplies or exit through the main hatch.
+6,v12,5,"StairsFactory",160,752,    25,-1,352,8896,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,6,"StairsPantsDiner",560,8896,    25,-1,272,656,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+8,v12,7,"PantsDiner",432,9072,    2,-1,300,Welcome to Pant's Diner!  Enjoy a cup of coffee or a chili dog.  Everything at Pant's is home made.
+7,v12,8,"PoliceCar",1872,12304,    -1,1000,250,-1, 1,ambient2,howl,0,0
+6,v12,9,"StairsoMAFRightDown",1624,3016,    25,-1,2640,10768,100, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,10,"StairsoMAFLeftDown",1320,2456,    25,-1,2208,10608,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,11,"StairsDormsDown",152,3976,    25,-1,336,12640,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,12,"StairsDormsUp",344,12888,    25,-1,160,4384,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+8,v12,13,"FactoryControls",528,272,    1,-1,75,There's a set of controls here.  The one on the left seems to be locked.
+7,v12,15,"AirshipControls",1488,18464,    -1,325,150,500, 0,ambient2,beep2,0,0
+7,v12,16,"AirshipControls2",3328,18448,    -1,500,100,900, 0,ambient2,beep,0,0
+7,v12,17,"AirshipControls3",1824,18224,    -1,500,100,1000, 0,ambient2,beep6,0,0
+7,v12,18,"AirshipEngines",2448,18464,    -1,0,1100,0, -20,ambient,SHIPAMB,0,0
+7,v12,19,"AirshipEnginesTelebay",2800,20128,    -1,0,880,0, -100,ambient,SHIPAMB,0,0
+4,v12,20,"viewer",2064,18448,  0,0,0, 0,0,0,
+6,v12,21,"LadderSewerNorthWestDown",400,2352,    20,-1,912,11136,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,22,"LadderSewerSouthWestDown",1032,6696,    20,-1,496,13424,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,23,"LadderSewerSouthEastDown",4168,7208,    20,-1,4160,13936,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,24,"LadderSewerNorthEastDown",3736,1736,    20,-1,4432,10352,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,25,"LadderSewerSouthWestUp",312,13432,    20,-1,1264,6688,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,26,"LadderSewerSouthEastUp",4152,14184,    20,-1,4320,7328,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,27,"LadderSewerNorthWestUp",664,11128,    20,-1,192,2368,60, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,28,"LadderSewerNorthEastUp",4424,10056,    20,-1,3744,1920,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+4,v12,0,"MainEntry",1856,18528,  0,350,0, 0,0,180,
+6,v12,30,"StairsAirshipUp",3184,18464,    25,-1,3056,20112,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,31,"StairsAirshipDown",3216,20128,    25,-1,2976,18448,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,32,"PortalDuelArenas",1728,18208,    20,-1,6832,18864,80, 0,0,None,None,0,0,0,0,0,ambient2,beamup,0,0
+6,v12,33,"PortalAirshipLeft",5744,18848,    20,-1,2848,18592,80, 0,0,None,None,0,0,0,0,0,ambient2,beamup,0,0
+6,v12,34,"PortalAirshipRight",7920,18848,    20,-1,2848,18304,80, 0,0,None,None,0,0,0,0,0,ambient2,beamup,0,0
+4,v12,29,"MarketRecall",2896,18448,  0,350,1, 0,0,150,
+6,v12,35,"StairsHouseDown",4240,3136,    25,-1,5200,11312,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,36,"StairsHouseUp",5024,11216,    25,-1,4080,3168,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,37,"StairsGarageDown",1728,6976,    25,-1,1568,15472,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,38,"StairsGarageUp",1568,15648,    25,-1,1856,6992,60, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,43,"LiftRytekNorthWestDown",2099,1315,    60,-1,2672,9232,60, 0,0,Door,None,0,0,0,0,0,ambient,Smallfan,0,0
+6,v12,44,"LiftRytekSouthWestDown",2112,1888,    60,-1,2688,9744,60, 0,0,None,None,0,0,0,0,0,ambient,Smallfan,0,0
+6,v12,45,"LiftRytekEastDown",3744,1600,    60,-1,4320,9488,60, 0,0,None,None,0,0,0,0,0,ambient,Smallfan,0,0
+6,v12,46,"LiftRytekEastUp",4515,9507,    60,-1,3536,1600,60, 0,0,None,None,0,0,0,0,0,ambient,Smallfan,0,0
+6,v12,47,"LiftRytekNorthWestUp",2464,9200,    60,-1,2336,1328,60, 0,0,None,None,0,0,0,0,0,ambient,Smallfan,0,0
+6,v12,48,"LiftRytekSouthWestUp",2464,9776,    60,-1,2336,1904,60, 0,0,None,None,0,0,0,0,0,ambient,Smallfan,0,0
+6,v12,49,"StairsoMAFLeftUp",2160,10384,    25,-1,1328,2592,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,50,"StairsoMAFRightUp",2688,10960,    25,-1,1616,2880,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,51,"HighwayNorthLeft",1376,32,    150,-1,176,8224,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,52,"HighwayNorthRight",1600,32,    150,-1,320,8224,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,54,"HighwaySouthBottom",248,8464,    150,-1,1632,272,80, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,55,"GraveyardDrop",1408,4368,    15,-1,2896,11920,80, 0,0,None,None,0,0,0,0,0,ManSounds,OomphA,0,0
+6,v12,56,"LiftBigEastDown",3920,4000,    70,-1,6384,12064,60, 0,0,None,None,0,0,0,0,0,ambient,Smallfan,0,0
+6,v12,57,"LiftBigWestDown",304,2032,    70,-1,560,10576,60, 0,0,None,None,0,0,0,0,0,ambient,Smallfan,0,0
+6,v12,58,"LiftBigEastUp",6560,12080,    70,-1,4144,4000,60, 0,0,None,None,0,0,0,0,0,ambient,Smallfan,0,0
+6,v12,59,"LiftBigWestUp",560,10720,    70,-1,304,2176,60, 0,0,None,None,0,0,0,0,0,ambient,Smallfan,0,0
+2,v12,80,"TombsPizzaIN",116,3076,    0, 81,62,63,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,81,"TombsPizzaA1",336,2832,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,62,"TombsPizzaA2",368,2832,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,63,"TombsPizzaA3",384,2832,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,61,"TombsPizzaB1",224,2736,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,64,"TombsPizzaB2",240,2736,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,65,"TombsPizzaOUT",468,2788,    0, 81,62,63,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,66,"TombsPizzaSide",260,2644,    0, 61,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,350, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,67,"FactoryA1",224,560,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,68,"FactoryA2",256,560,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,69,"FactoryA3",288,560,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,70,"FactoryA4",320,560,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,71,"FactoryA5",336,560,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,72,"GarageC1",2096,7072,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,73,"FactoryStairsIN",532,244,    0, 67,68,69,70,71,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,74,"FactoryStairsOUT",164,596,    0, 67,68,69,70,71,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,75,"FactoryB1",816,384,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,76,"FactoryB2",816,352,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,77,"FactorySideOUT",596,244,    0, 75,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,78,"FactorySideIN",852,308,    0, 75,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,79,"FactoryC1",368,224,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,82,"FactoryC2",368,256,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,83,"FactoryGenIN",468,244,    0, 79,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 800,0,0,0,700, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,84,"FactoryD1",864,848,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,85,"FactoryD2",896,848,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,86,"FactoryD3",928,848,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,87,"FactoryD4",960,848,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,88,"FactoryD5",992,848,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,89,"FactoryD6",1024,848,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,90,"FactoryD7",1056,848,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,91,"FactoryD8",1088,848,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,92,"FactoryGarageOUT",1092,500,    0, 84,85,86,87,88,89,90,91,0,0,0,0,0,0,0,0, 100,0,0,0,800, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,93,"FactoryE1",1216,848,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,94,"FactoryE2",1248,848,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,95,"FactoryExit",1172,820,    0, 93,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,300, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,96,"FactoryLocked",1156,868,    0, 75,76,93,94,0,0,0,0,0,0,0,0,0,0,0,0, 1500,0,0,0,1000, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,97,"RyTekA1",3440,1504,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,98,"RyTekA2",3472,1504,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,99,"RyTekA3",3504,1504,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,100,"RyTekA4",3536,1504,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,101,"RyTekA5",3568,1504,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,102,"RyTekCloset",3396,1748,    0, 97,98,99,100,101,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,103,"RyTekB1",2720,1264,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,104,"RyTekB2",2720,1296,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,105,"RyTekB3",2720,1328,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,106,"RyTekC1",2720,1872,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,107,"RyTekC2",2720,1904,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,108,"RyTekC3",2720,1936,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,109,"RyTekLiftNorth",2596,1268,    0, 103,104,105,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,300, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,110,"RyTekLiftSouth",2596,1956,    0, 106,107,108,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,300, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,111,"RyTekD1",3648,1552,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,112,"RyTekD2",3648,1584,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,113,"RyTekD3",3648,1616,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,114,"RyTekD4",3648,1648,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,115,"RyTekLiftEast",3604,1412,    0, 111,112,113,114,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,600, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,116,"LiftWestA1",592,2192,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,117,"LiftWestA2",592,2224,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,118,"LiftWestA3",592,2256,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,119,"LiftWestA4",592,2288,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,120,"LiftWestA5",592,2320,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,122,"LiftWest",564,2148,    0, 116,117,118,119,120,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,1500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,123,"AutoShopA1",1184,3280,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,124,"AutoShopA2",1184,3312,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,125,"AutoShopA3",1184,3344,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,126,"AutoShopB1",1184,3696,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,127,"AutoShopB2",1184,3728,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,128,"AutoShopB3",1184,3760,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,129,"AutoshopNorth",1220,3380,    0, 123,124,125,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,800, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,130,"AutoshopSouth",1220,3636,    0, 126,127,128,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,800, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,131,"HangerA1",2656,2560,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,132,"HangerA2",2656,2592,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,133,"HangerA3",2656,2624,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,134,"HangerB1",2656,2816,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,135,"HangerB2",2656,2848,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,136,"HangerB3",2656,2880,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,137,"HangerB4",2656,2912,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,138,"HangerB5",2656,2944,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,139,"HangerB6",2656,2976,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,140,"HangerB7",2656,3008,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,141,"HangerB8",2656,3040,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,142,"HangerB9",2656,3072,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,143,"HangerBB1",2656,3104,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,144,"HangerBB2",2656,3136,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,145,"HangerBB3",2656,3152,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,146,"HangerDoorOUT",2612,2692,    0, 131,132,133,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,147,"HangerDoorIN",2692,2676,    0, 131,132,133,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,148,"HangerLargeDoor",2628,3284,    0, 134,135,136,137,138,139,140,141,142,143,144,145,0,0,0,0, 1000,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,149,"HACKHangerBreaker",2020,3460,    0, 39,40,407,408,409,0,0,0,0,0,0,0,0,0,0,0, 1500,2031,0,0,1000, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,150,"GLabsA1",1056,5760,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,151,"GLabsB1",944,6016,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,152,"GLabsB2",976,6016,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,153,"GLabsC1",1936,6240,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,154,"GLabsC2",1968,6240,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,155,"GLabsC3",2000,6240,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,156,"GLabsC4",2032,6240,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,157,"GLabsC5",2064,6240,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,158,"GLabsD1",816,6608,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,159,"GLabsD2",848,6608,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,160,"GLabsD3",880,6608,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,161,"GLabsD4",912,6608,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,162,"GLabsWallDoors",228,6228,    0, 150,151,152,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,163,"GLabsMainOUT",1860,6324,    0, 153,154,155,156,157,0,0,0,0,0,0,0,0,0,0,0, 1000,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,164,"GLabsMainIN",1844,6148,    0, 153,154,155,156,157,0,0,0,0,0,0,0,0,0,0,0, 1000,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,165,"GLabsSideOUT",980,6516,    0, 158,159,160,161,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,166,"GLabsSideIN",772,6820,    0, 158,159,160,161,0,0,0,0,0,0,0,0,0,0,0,0, 500,2015,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,167,"MilBaseA1",3088,4560,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,168,"MilBaseA2",3088,4592,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,169,"MilBaseA3",3088,4624,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,171,"MilBaseC1",2864,4976,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,172,"MilBaseC2",2896,4976,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,173,"MilBaseC3",2928,4976,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,174,"MilBaseC4",2944,4976,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,176,"MilBaseControlOUT",2980,5012,    0, 171,172,173,174,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,177,"MilBaseControlIN",3060,4948,    0, 171,172,173,174,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,180,"DormA1",128,4144,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,181,"DormA2",160,4144,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,182,"DormA3",176,4144,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,183,"DormStairs",148,4564,    0, 180,181,182,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,184,"GarageA1",1984,7056,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,185,"GarageA2",2016,7056,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,186,"GarageB1",1984,6928,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,187,"GarageB2",2016,6928,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,188,"GarageC2",2096,7104,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,189,"GarageC3",2096,7136,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,190,"GarageC4",2096,7168,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,191,"GarageD1",2096,6800,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,192,"GarageD2",2096,6832,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,193,"GarageD3",2096,6864,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,194,"GarageD4",2096,6896,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,195,"GarageSide",2036,6980,    0, 184,185,186,187,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,300, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,196,"GarageE1",1936,6944,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,197,"GarageE2",1936,6976,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,198,"GarageStairs",1908,7012,    0, 196,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,300, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,199,"GarageDoors",3780,15588,    0, 72,188,189,190,191,192,193,194,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,200,"TildaStudiosA1",2944,6704,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,201,"TildaStudiosA2",2976,6704,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,202,"TildaStudiosA3",3008,6704,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,203,"TildaStudiosA4",3024,6704,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,204,"TildaStudiosB1",3440,6704,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,205,"TildaStudiosB2",3472,6704,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,206,"TildaStudiosB3",3504,6704,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,207,"TildaStudiosB4",3520,6704,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,208,"TildaStudiosLeft",3172,6548,    0, 200,201,202,203,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,209,"TildaStudiosRight",3300,6548,    0, 204,205,206,207,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,210,"BikeShopA1",5152,6176,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,211,"BikeShopA2",5152,6208,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,212,"BikeShopA3",5152,6240,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,213,"BikeShopB1",4624,6624,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,214,"BikeShopB2",4656,6624,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,215,"BikeShopB3",4688,6624,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,216,"BikeShopB4",4720,6624,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,217,"BikeShopB5",4752,6624,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,218,"BikeShopB6",4784,6624,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,219,"BikeShopB7",4816,6624,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,220,"BikeShopC1",4400,6624,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,221,"BikeShopC2",4432,6624,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,222,"BikeShopC3",4464,6624,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,223,"BikeShopC4",4480,6624,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,224,"BikeShopGarage",4900,6756,    0, 213,214,215,216,217,218,219,0,0,0,0,0,0,0,0,0, 100,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,225,"BikeShopShowroom",4916,6196,    0, 220,221,222,223,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,226,"PrivateGateA1",3536,3936,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,227,"PrivateGateA2",3568,3936,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,228,"PrivateGateA3",3600,3936,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,229,"PrivateGate",3492,3908,    0, 226,227,228,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,750, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,230,"BikeShopLiftIN",5124,6308,    0, 210,211,212,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,350, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,231,"BikeShopLiftOUT",5188,6308,    0, 210,211,212,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,350, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,232,"RangerA1",5168,5088,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,233,"RangerA2",5200,5088,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,234,"RangerA3",5216,5088,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,235,"RangerB1",5312,5088,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,236,"RangerB2",5344,5088,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,237,"RangerB3",5360,5088,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,238,"RangerC1",5232,4960,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,239,"RangerC2",5264,4960,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,240,"RangerC3",5296,4960,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,241,"RangerStation",4980,4388,    0, 232,233,234,235,236,237,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,242,"RangerQuarters",5364,4996,    0, 238,239,240,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,243,"PantsDinerA1",400,9328,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,244,"PantsDinerA2",432,9328,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,245,"PantsDinerA3",464,9328,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,246,"PantsDiner",628,9028,    0, 243,244,245,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+6,v12,247,"0NorthWest1",96,19568,    50,-1,336,1584,300, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,248,"0NorthWest2",192,19568,    50,-1,2880,848,300, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,249,"0NorthCenter",288,19568,    50,-1,1808,4192,300, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,250,"0NorthEast1",384,19568,    50,-1,4160,1680,300, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,251,"0NorthEast2",480,19568,    50,-1,4656,2512,250, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,252,"0MidWest",96,19664,    50,-1,896,3712,250, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,253,"0MidCenter1",192,19664,    50,-1,4432,4592,250, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,254,"0MidCenter2",288,19664,    50,-1,1728,4928,250, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,255,"0MidEast1",384,19664,    50,-1,4368,5376,250, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,256,"0MidEast2",480,19664,    50,-1,5904,4944,250, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,257,"0SouthWest1",96,19760,    50,-1,2320,5664,230, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,258,"0SouthWest2",192,19760,    50,-1,2608,6992,230, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,259,"0SouthWest3",288,19760,    50,-1,3184,7728,200, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,260,"0SouthMid",384,19760,    50,-1,3360,5872,250, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,261,"0SouthEast",480,19760,    50,-1,4976,7184,180, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,262,"0UnderNorth1",96,19856,    50,-1,1392,7696,180, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,263,"0UnderNorth2",192,19856,    50,-1,3840,7248,180, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,264,"0UnderNorth3",280,19848,    50,-1,4432,5888,180, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,265,"0UnderNorth4",384,19856,    50,-1,5856,6000,180, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,266,"0UnderNorth5",480,19856,    50,-1,3568,3712,180, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,267,"0UnderSouth1",96,19952,    50,-1,4160,7728,150, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,268,"0UnderSouth2",192,19952,    50,-1,1552,5536,150, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,269,"0UnderSouth3",288,19952,    50,-1,864,4480,150, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,270,"0UnderSouth4",384,19952,    50,-1,2272,2176,150, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,271,"0UnderSouth5",480,19952,    50,-1,3184,2192,150, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,272,"0MAINDSEXIT",2448,18496,    180,-1,288,19760,240, 200,0,None,None,0,0,0,0,0,None,None,0,0
+5,v12,273,"EnergyCubes1",400,96,     1,2000,2000,1, 0,300,0,99999, 2,5,141,75, 5,0
+5,v12,274,"AmmoRifle1",688,592,     1,6000,6000,1, 0,300,0,99999, 100,20000,2000,0, 100,0
+5,v12,275,"LAW",1264,640,     1,3000,3000,1, 0,300,0,99999, 4,20,3008,25, 4,0
+5,v12,276,"Stims1",320,5776,     1,6000,6000,1, 0,300,0,99999, 2,150,565,70, 5,0
+5,v12,277,"Stims2",464,2528,     1,6000,6000,1, 0,300,0,99999, 2,150,565,80, 5,0
+5,v12,278,"Stims3",352,8896,     1,6000,6000,1, 0,300,0,99999, 2,150,565,80, 5,0
+5,v12,279,"Stims4",208,12048,     1,6000,6000,1, 0,300,0,99999, 5,150,565,70, 5,0
+5,v12,280,"Stims5",5248,11424,     1,6000,6000,1, 0,300,0,99999, 2,150,565,80, 5,0
+5,v12,281,"Stims6",4272,3376,     1,6000,6000,1, 0,300,0,99999, 2,150,565,80, 5,0
+5,v12,282,"AmmoRifle2",3152,1280,     1,6000,6000,1, 0,300,0,99999, 100,20000,2000,25, 100,0
+5,v12,283,"AmmoRifle3",2160,2976,     1,6000,6000,1, 0,300,0,99999, 100,20000,2000,25, 100,0
+5,v12,284,"AmmoRifle4",1232,2752,     1,6000,6000,1, 0,300,0,99999, 100,20000,2000,25, 100,0
+5,v12,285,"AmmoRifle5",1104,6240,     1,6000,6000,1, 0,300,0,99999, 100,20000,2000,25, 100,0
+5,v12,286,"AmmoRifle6",3184,6432,     1,6000,6000,1, 0,300,0,99999, 100,20000,2000,25, 100,0
+5,v12,287,"AmmoRifle7",4544,12000,     1,6000,6000,1, 0,300,0,99999, 100,20000,2000,25, 100,0
+5,v12,288,"LAW2",3152,1920,     1,3000,3000,1, 0,300,0,99999, 4,20,3008,25, 4,0
+5,v12,289,"LAW3",4992,14752,     1,3000,3000,1, 0,300,0,99999, 4,20,3008,25, 4,0
+5,v12,290,"AVM1",4416,12000,     1,6000,6000,1, 0,300,0,99999, 2,20,3079,25, 2,0
+5,v12,291,"AVM2",5360,11232,     1,6000,6000,1, 0,300,0,99999, 2,20,3079,25, 2,0
+5,v12,292,"ExplosivesBox1",3264,6448,     1,3000,3000,1, 0,300,0,99999, 1,150,-416,0, -1,0
+5,v12,293,"ExplosivesBox2",2720,1568,     1,3000,3000,1, 0,300,0,99999, 1,150,-416,0, -1,0
+5,v12,294,"ExplosivesBox3",2576,2448,     1,3000,3000,1, 0,300,0,99999, 1,150,-416,0, -1,0
+5,v12,295,"ExplosivesBox4",4080,2768,     1,3000,3000,1, 0,300,0,99999, 1,150,-416,0, -1,0
+5,v12,296,"ExplosivesBox5",528,2352,     1,3000,3000,1, 0,300,0,99999, 1,150,-416,0, -1,0
+5,v12,297,"ExplosivesBox6",1296,6064,     1,3000,3000,1, 0,300,0,99999, 1,150,-416,0, -1,0
+5,v12,299,"ExplosivesBox8",2800,9328,     1,3000,3000,1, 0,300,0,99999, 1,150,-416,0, -1,0
+5,v12,300,"Frag Grenades",144,3360,     1,1000,1000,1, 0,300,0,99999, 4,20,1001,25, 10,0
+5,v12,301,"AmmoBox1",2208,1440,     1,3000,3000,1, 0,300,0,99999, 1,150,-413,0, -1,0
+5,v12,302,"AmmoBox2",3264,6384,     1,3000,3000,1, 0,300,0,99999, 1,150,-413,0, -1,0
+5,v12,303,"AmmoBox3",2800,9680,     1,3000,3000,1, 0,300,0,99999, 1,150,-413,0, -1,0
+5,v12,304,"Ry-TekCannonTurret1",1920,1280,     1,36000,36000,1, 0,300,0,99999, 1,-1,-455,1, -1,1
+5,v12,305,"Ry-TekCannonTurret2",1920,1920,     1,36000,36000,1, 0,300,0,99999, 1,-1,-455,1, -1,1
+5,v12,306,"Ry-TekLaserTurret",2400,1600,     1,36000,36000,1, 0,300,0,99999, 1,-1,-700,1, -1,1
+1,v12,309,"DormUB1",1072,12672,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,310,"DormUB2",1104,12672,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,311,"DormUB3",1136,12672,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,312,"MilBaseUA1",4160,12512,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,313,"MilBaseUA2",4128,12512,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,314,"HACKDormBreaker",1108,12356,    0, 309,310,311,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,2031,0,0,2000, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,315,"HACKMilBasePanel",3652,12292,    0, 312,313,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,2031,0,0,1500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,316,"DormGenRoomOUT",1220,12708,    0, 309,310,311,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,350, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,317,"DormBathroomOUT",932,12644,    0, 307,308,430,431,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,318,"MilBaseSideOUT",4212,12484,    0, 312,313,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,350, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,319,"RyTekTurretControl",2628,1604,    1, 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1000,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,320,"LeftEastA1",4368,4112,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,321,"LeftEastA2",4368,4144,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,322,"LeftEastA3",4368,4176,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,323,"LeftEastA4",4368,4208,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,324,"LeftEastA5",4368,4240,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,325,"RyTekOfficeA1",2544,9440,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,326,"RyTekOfficeA2",2544,9472,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,327,"RyTekOfficeA3",2544,9504,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,328,"RyTekOfficeA4",2544,9536,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,329,"RyTekE1",3584,9232,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,330,"RyTekE2",3584,9264,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,331,"RyTekE3",3584,9296,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,332,"RyTekE4",3584,9312,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,333,"RyTekF1",3584,9456,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,334,"RyTekF2",3584,9488,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,335,"RyTekF3",3584,9520,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,336,"RyTekF4",3584,9536,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,337,"RyTekG1",3584,9680,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,338,"RyTekG2",3584,9712,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,339,"RyTekG3",3584,9744,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,340,"RyTekG4",3584,9760,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,341,"RyTekH1",3824,9376,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,342,"RyTekH2",3824,9408,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,343,"RyTekH3",3824,9440,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,344,"RyTekH4",3824,9472,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,345,"RyTekH5",3824,9504,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,346,"RyTekH6",3824,9536,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,347,"RyTekH7",3824,9568,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,348,"RyTekH8",3824,9600,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,352,"FreewayGateA1",3376,928,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,353,"FreewayGateA2",3408,928,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,354,"FreewayGateA3",3440,928,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,355,"FreewayGateA4",3472,928,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,356,"FreewayGate",3332,964,    0, 352,353,354,355,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,350, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,357,"RyTekBarrier",3284,9508,    0, 329,330,331,332,333,334,335,336,337,338,339,340,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,358,"RyTekULiftOUT",3860,9348,    0, 341,342,343,344,345,346,347,348,0,0,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,359,"RyTekULiftIN",3796,9636,    0, 341,342,343,344,345,346,347,348,0,0,0,0,0,0,0,0, 1000,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,360,"HACKUnderAdminDoor",5412,14452,    0, 349,350,351,468,469,0,0,0,0,0,0,0,0,0,0,0, 500,2031,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,361,"STASHouseA1",4880,11536,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,362,"STASHouseA2",4912,11536,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,363,"STASHouseA3",4944,11536,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,364,"STASHouseA4",4976,11536,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,365,"STASHouseA5",5008,11536,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,366,"STASHouseA6",5040,11536,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,367,"STASHouseB1",5376,11392,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,368,"STASHouseB2",5408,11392,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,369,"STASHouseB3",5440,11392,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,370,"STASHouseB4",5456,11392,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,371,"STASHouseExit",5332,11364,    0, 367,368,369,370,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,350, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,372,"STASGarage",5108,11508,    0, 361,362,363,364,365,366,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,800, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+5,v12,373,"STASHouseMini1",4880,11568,     1,36000,36000,1, 0,300,0,99999, 1,-1,-410,1, -1,2
+5,v12,374,"STASHouseMini2",5568,11360,     1,36000,36000,1, 0,300,0,99999, 1,-1,-410,1, -1,2
+2,v12,375,"STASTurretControl",5124,11380,    1, 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1000,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+8,v12,377,"FactoryHack",1152,896,    1,-1,50,This door module seems to be locked.  It might be able to be hacked.
+8,v12,378,"TombstonePizza",336,3216,    2,-1,240,Welcome to Tombstone's Pizzaria!  Check out our full service bar.
+8,v12,379,"DormEntrance",320,3952,    2,-1,50,Welcome to INFTech Dormitories!  The INFTech campus is in the other city district.
+8,v12,380,"DormManager",320,4672,    2,-1,70,Please check in before proceding.
+8,v12,381,"GLabsEntrance",2000,6176,    2,-1,70,G-Labs Warning: You are entering a Radioactive Area
+8,v12,382,"TildaStudios",3232,6320,    2,-1,150,Welcome to TildaStudios.
+5,v12,383,"JetBikeSpawnR",4224,6752,     1,3000,3000,1, 0,300,0,99999, 1,150,-100,0, 1,0
+2,v12,389,"LiftEastOUT",4324,4084,    0, 320,321,322,323,324,0,0,0,0,0,0,0,0,0,0,0, 1500,0,0,0,1500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,390,"RyTekOfficeIN",2580,9380,    0, 325,326,327,328,0,0,0,0,0,0,0,0,0,0,0,0, 1000,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,391,"HACKRyTekSecurityPanel",3380,9492,    0, 103,104,105,333,334,335,336,0,0,0,0,0,0,0,0,0, 12000,2031,0,0,1000, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+6,v12,392,"GarageAccessDOWN",1072,7488,    60,-1,3376,15408,120, 0,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,393,"GarageAccessUP",3760,15424,    60,-1,1072,7264,60, 0,0,None,None,0,0,0,0,0,None,None,0,0
+1,v12,394,"DuelArenaB1",7120,18592,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,395,"DuelArenaB2",7120,18624,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,396,"DuelArenaB3",7120,18656,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,397,"DuelArenaB4",7120,18688,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,398,"DuelArenaA1",7376,17632,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,399,"DuelArenaA2",7376,17664,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,400,"DuelArenaA3",7376,17696,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,401,"DuelArenaA4",7376,17728,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,402,"DuelArenaA1",7412,17748,    0, 398,399,400,401,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,403,"DuelArenaA2",7332,17748,    0, 398,399,400,401,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,404,"DuelArenaB1",7092,18564,    0, 394,395,396,397,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,405,"DuelArenaB2",7156,18564,    0, 394,395,396,397,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+5,v12,406,"Dueling Station",7104,18832,     1,300,300,1, 0,300,0,99999, 1,1,-426,0, -1,0
+1,v12,39,"HangerC1",2256,3392,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,40,"HangerC2",2288,3392,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,407,"HangerC3",2320,3392,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,408,"HangerC4",2352,3392,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,409,"HangerC5",2384,3392,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,410,"RangerD1",4752,5520,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,411,"RangerD2",4752,5552,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,412,"RangerD3",4752,5584,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,413,"RangerD4",4752,5616,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,414,"RangerD5",4752,5648,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,415,"RangerD6",4752,5680,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,416,"RangerD7",4752,5712,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,417,"RangerD8",4752,5744,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,418,"RangerD9",4752,5776,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,419,"RangerDoor",4788,5524,    0, 410,411,412,413,414,415,416,417,418,0,0,0,0,0,0,0, 300,0,0,0,800, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,420,"HACKCivilianPanel",4020,4132,    0, 410,411,412,413,414,415,416,417,418,0,0,0,0,0,0,0, 300,2031,0,0,1500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,421,"HangerSideDoor",2420,3364,    0, 39,40,407,408,409,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,422,"HangerD1",2176,3200,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,423,"HangerD2",2176,3232,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,424,"HangerD3",2176,3264,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,425,"HangerControlRoomIN",2212,3124,    0, 422,423,424,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,426,"HangerControlRoomOUT",2132,3300,    0, 422,423,424,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,41,"MilBaseClosetIN",2724,5140,    0, 167,168,169,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,1500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,42,"MilBaseClosetOUT",3124,4532,    0, 167,168,169,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,60,"HACKGarageStairs",1428,15380,    0, 184,185,186,187,196,197,0,0,0,0,0,0,0,0,0,0, 500,2031,0,0,3000, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,170,"GarageUA1",1088,15856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,175,"GarageUA2",1120,15856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,178,"GarageUA3",1152,15856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,384,"GarageUA4",1184,15856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,385,"GarageUA5",1216,15856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,386,"GarageUA6",1248,15856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,387,"GarageUA7",1280,15856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,388,"GarageUA8",1312,15856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,427,"GarageUA9",1344,15856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,428,"GarageUAA1",1376,15856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,429,"GarageUDoor",3828,15588,    0, 170,175,178,384,385,386,387,388,427,428,0,0,0,0,0,0, 500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,434,"DormUD1",160,12736,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,435,"DormUD2",192,12736,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,438,"DormUF1",432,12592,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,439,"DormUF2",432,12624,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,440,"DormUF3",432,12656,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,441,"DormUF4",432,12688,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,442,"DormUF5",432,12720,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,445,"HACKDormEmergency",148,12564,    0, 434,435,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,2031,0,0,2000, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,446,"DormStairOUT",404,12564,    0, 438,439,440,441,442,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+8,v12,447,"GLabs Hack",240,6192,    1,-1,50,This security panel gives access to the interior of the walls
+8,v12,448,"GLabsDoorHack",784,6816,    1,-1,50,This door switch seems to be locked.  It can probably be hacked
+8,v12,449,"DormStairDoor",160,4560,    1,-1,50,This Security Panel opens a door to the stairs.
+8,v12,450,"DormUEmergency",160,12576,    1,-1,50,This seems to be a switch for an emergency exit.  It is locked but can probably be hacked with a multitool.
+8,v12,451,"DormUBreakerHack",1104,12384,    1,-1,50,This breaker can be hacked with a multitool.
+8,v12,452,"GarageStairHack",1424,15392,    1,-1,50,This can be hacked with a multitool to open the doors on ground level that provide access to the stairs inside.
+8,v12,453,"GarageDoors",3808,15584,    1,-1,50,The switch on the left opens the garage doors on ground level
+8,v12,454,"MilBaseUHack",3648,12304,    1,-1,50,This panel will open the door to the west temporarily
+8,v12,456,"RyTek Hack",3408,9488,    1,-1,50,This security panel can be hacked with a multitool to open one of the doors to the lifts on ground level
+8,v12,458,"CivilianPanelHack",4000,4144,    1,-1,50,This small civilian traffic monitor has access to the Ranger Station door but must be hacked with a multitool.
+8,v12,459,"RangerStationDoor",4640,5616,    1,-1,100,There's a traffic computer to the north that may be able to open this door if you can hack it.
+1,v12,460,"DormB1",224,4320,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,461,"DormB2",224,4352,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,462,"DormStairEXIT",148,4324,    0, 180,181,182,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,463,"RyTekI1",3872,9008,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,464,"RyTekI2",3904,9008,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,465,"RyTekI3",3936,9008,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,466,"RyTekBackdoorOUT",3972,9044,    0, 463,464,465,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,467,"RyTekBackdoorIN",3844,8980,    0, 463,464,465,0,0,0,0,0,0,0,0,0,0,0,0,0, 1500,2031,0,0,1000, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,349,"BikeShopUA1",5248,14432,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,350,"BikeShopUA2",5280,14432,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,351,"BikeShopUA3",5312,14432,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,468,"BikeShopUA4",5344,14432,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,469,"BikeShopUA5",5376,14432,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,470,"UnderAdminDoor",5204,14404,    0, 349,350,351,468,469,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+7,v12,472,"WorldAMB",2448,4720,    -1,100,3600,6000, -20,ambient,Avalanch,0,0
+7,v12,471,"WorldAMB2",2448,4720,    -1,50,3600,6000, -20,ambient,Thunder1,0,0
+6,v12,179,"StairsDormsDownS",147,4451,    25,-1,336,13008,50, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+6,v12,298,"StairsDormsUpS",339,12803,    25,-1,160,4080,40, 0,0,None,None,0,0,0,0,0,ambient,Walk13,0,0
+1,v12,14,"MilBaseUA3",4432,12256,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,376,"MilBaseUA4",4464,12256,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,473,"MilBaseUA5",4496,12256,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,457,"MilBaseUModelIN",4388,12212,    0, 14,376,473,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,474,"MilBaseUModelOUT",4388,12276,    0, 14,376,473,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+5,v12,475,"AirAmmoBox",2560,2848,     1,3000,3000,1, 0,300,0,99999, 1,150,-449,0, -1,0
+2,v12,476,"RyTekOfficeOUT",2516,9588,    0, 325,326,327,328,0,0,0,0,0,0,0,0,0,0,0,0, 1500,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockD256,0,0,0,0,0,ambient2,beep7,0,0
+8,v12,477,"Airship2",2480,18464,    2,-1,1100,You can enter the duel arena on the platform near the control deck
+1,v12,478,"RyTekJ1",2112,1568,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,479,"RyTekJ2",2112,1600,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,480,"RyTekJ3",2112,1632,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,481,"RyTekFrontDoorIN",2068,1684,    0, 478,479,480,0,0,0,0,0,0,0,0,0,0,0,0,0, 1000,0,0,0,1000, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,482,"RyTekFrontDoorOUT",2212,1684,    0, 478,479,480,0,0,0,0,0,0,0,0,0,0,0,0,0, 1000,0,0,0,1000, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+6,v12,121,"Portal Track Pit",2024,20064,    20,-1,1248,24320,50, 0,0,None,None,0,0,0,0,0,ambient2,beamup,0,0
+5,v12,307,"JetBikeSpawnP",4224,6864,     1,3000,3000,1, 0,300,0,99999, 1,150,-157,0, 1,0
+5,v12,308,"JetBikeSpawnV",4224,6976,     1,3000,3000,1, 0,300,0,99999, 1,150,-156,0, 1,0
+5,v12,430,"JetBikeSpawnLB",4320,6752,     1,3000,3000,1, 0,300,0,99999, 1,150,-149,0, 1,0
+5,v12,432,"JetBikeSpawnG",4320,6976,     1,3000,3000,1, 0,300,0,99999, 1,150,-136,0, 1,0
+5,v12,433,"JetBikeSpawnY",4416,6752,     1,3000,3000,1, 0,300,0,99999, 1,150,-132,0, 1,0
+5,v12,53,"Stims7",5008,6592,     1,6000,6000,1, 0,300,0,99999, 2,150,565,80, 5,0
+2,v12,436,"LiftEastIN",4404,4276,    0, 320,321,322,323,324,0,0,0,0,0,0,0,0,0,0,0, 1500,0,0,0,1500, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,437,"EventA1",6624,22208,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,443,"EventA2",6656,22208,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,444,"EventA3",6688,22208,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,483,"EventA4",6720,22208,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,484,"EventB1",6832,22080,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,485,"EventB2",6832,22112,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,486,"EventC1",7200,22560,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,487,"EventC2",7232,22560,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,488,"EventC3",7264,22560,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,489,"EventC4",7296,22560,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,490,"EventD1",7168,22544,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,491,"EventD2",7168,22512,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,492,"EventD3",7168,22480,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,493,"EventD4",7168,22448,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,494,"EventE1",7200,22432,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,495,"EventE2",7232,22432,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,496,"EventE3",7264,22432,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,497,"EventE4",7296,22432,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,498,"EventF1",7328,22448,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,499,"EventF2",7328,22480,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,500,"EventF3",7328,22512,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,501,"EventF4",7328,22544,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,502,"EventG1",6960,23104,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,503,"EventG2",6992,23104,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,504,"EventG3",7024,23104,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,505,"EventG4",7056,23104,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,506,"EventG5",7088,23104,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,507,"EventG6",7120,23104,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,508,"EventG7",7152,23104,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,509,"EventG8",7184,23104,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,510,"EventH1",6864,23664,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,511,"EventH2",6864,23696,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,512,"EventH3",6864,23728,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,513,"EventI1",7312,23664,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,514,"EventI2",7312,23696,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,515,"EventI3",7312,23728,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,516,"EventJ1",7040,23856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,517,"EventJ2",7072,23856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,518,"EventJ3",7104,23856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,519,"EventJ4",7136,23856,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,520,"EventNorthL",7924,22676,    0, 437,443,444,483,0,0,0,0,0,0,0,0,0,0,0,0, 50,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,521,"EventNorthR",7972,22644,    0, 484,485,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 50,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,522,"EventHoleDoor",8148,22660,    0, 486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501, 50,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,523,"EventMiddle",8052,22692,    0, 502,503,504,505,506,507,508,509,0,0,0,0,0,0,0,0, 50,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,524,"EventSouthR",8100,22772,    0, 513,514,515,0,0,0,0,0,0,0,0,0,0,0,0,0, 50,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,525,"EventSouthL",8004,22772,    0, 510,511,512,0,0,0,0,0,0,0,0,0,0,0,0,0, 50,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,526,"EventSouthD",8052,22820,    0, 516,517,518,519,0,0,0,0,0,0,0,0,0,0,0,0, 50,0,0,0,0, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+1,v12,455,"TombsPizzaC1",432,3472,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,527,"TombsPizzaC2",464,3472,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,528,"TombsPizzaC3",496,3472,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,529,"MilBaseB1",2784,4752,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,530,"MilBaseB2",2784,4784,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,531,"MilBaseB3",2784,4880,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,532,"MilBaseB4",2784,4912,    -1,-1,2,2, 0,0, DOORS,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,533,"TombsPizzaFrontIN",548,3492,    0, 455,527,528,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,1000, ,-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,534,"TombsPizzaFrontOUT",372,3444,    0, 455,527,528,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,1000, ,-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,ambient2,beep7,0,0
+2,v12,535,"MilBaseDockOUT",2820,4820,    0, 529,530,531,532,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,1000, ,-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,ambient2,beep7,0,0
+5,v12,1,"ExplosivesBox7",5664,13072,     1,3000,3000,1, 0,300,0,99999, 1,150,-416,0, -1,0
+5,v12,536,"EnergyCubes2",2656,1920,     1,2000,2000,1, 0,300,0,99999, 2,5,141,40, 5,0
+5,v12,537,"EnergyCubes3",496,4112,     1,2000,2000,1, 0,300,0,99999, 2,5,141,80, 5,0
+5,v12,538,"EnergyCubes4",512,5312,     1,2000,2000,1, 0,300,0,99999, 2,5,141,75, 5,0
+5,v12,539,"EnergyCubes5",272,9648,     1,2000,2000,1, 0,300,0,99999, 2,5,141,75, 5,0
+6,v12,540,"Pit2Track",896,23872,    20,0,2432,23408,80, 0,0,wzauc_01,warp_small,0,0,0,0,0,None,None,0,0
+6,v12,541,"Pit2DS",1600,23872,    20,0,2832,18464,80, 0,0,wzauc_01,warp_small,0,0,0,0,0,None,None,0,0
+5,v12,431,"JetBikeSpawnDB",4320,6864,     1,3000,3000,1, 0,300,0,99999, 1,150,-150,0, 1,0
+5,v12,542,"JetBikeSpawnDB Pit",960,24160,     1,3000,3000,1, 0,300,0,99999, 1,150,-150,0, 1,0
+5,v12,543,"JetBikeSpawnG Pit",960,24032,     1,3000,3000,1, 0,300,0,99999, 1,150,-136,0, 1,0
+5,v12,544,"JetBikeSpawnLB Pit",1568,24160,     1,3000,3000,1, 0,300,0,99999, 1,150,-149,0, 1,0
+5,v12,546,"JetBikeSpawnR Pit",1280,24032,     1,3000,3000,1, 0,300,0,99999, 1,150,-100,0, 1,0
+5,v12,547,"JetBikeSpawnV Pit",1280,24160,     1,3000,3000,1, 0,300,0,99999, 1,150,-156,0, 1,0
+5,v12,548,"JetBikeSpawnY Pit",1568,24032,     1,3000,3000,1, 0,300,0,99999, 1,150,-132,0, 1,0
+5,v12,545,"OTW_AirPad",2768,2864,     1,3000,3000,1, 0,300,0,99999, 1,150,-466,0, -1,0
+5,v12,549,"OTW_TankPad1",1024,496,     1,3000,3000,1, 0,300,0,99999, 1,150,-465,0, -1,0
+5,v12,550,"OTW_AssaultPad1",928,496,     1,3000,3000,1, 0,300,0,99999, 1,150,-467,0, -1,0
+5,v12,551,"OTW_MechPad1",976,496,     1,3000,3000,1, 0,300,0,99999, 1,150,-469,0, -1,0
+5,v12,552,"OTW_ArtyPad1",4048,2704,     1,3000,3000,1, 0,300,0,99999, 1,150,-468,0, -1,0
+5,v12,553,"OTW_TankPad2",4112,2704,     1,3000,3000,1, 0,300,0,99999, 1,150,-478,0, -1,0
+5,v12,554,"OTW_AssaultPad2",4224,2592,     1,3000,3000,1, 0,300,0,99999, 1,150,-472,0, -1,0
+5,v12,555,"OTW_AssaultPad3",2560,4736,     1,3000,3000,1, 0,300,0,99999, 1,150,-473,0, -1,0
+5,v12,556,"OTW_TankPad3",2176,4656,     1,3000,3000,1, 0,300,0,99999, 1,150,-479,0, -1,0
+5,v12,557,"OTW_ArtyPad2",1968,4656,     1,3000,3000,1, 0,300,0,99999, 1,150,-470,0, -1,0
+5,v12,558,"OTW_MechPad2",2176,4816,     1,3000,3000,1, 0,300,0,99999, 1,150,-476,0, -1,0
+5,v12,559,"OTW_ArtyPad3",4624,6528,     1,3000,3000,1, 0,300,0,99999, 1,150,-471,0, -1,0
+5,v12,560,"OTW_MechPad3",4816,6528,     1,3000,3000,1, 0,300,0,99999, 1,150,-477,0, -1,0
+5,v12,563,"OTW_BikePad1",4720,6448,     1,3000,3000,1, 0,300,0,99999, 1,150,-464,0, -1,0
+5,v12,561,"OTW_BikePad2",2560,4896,     1,3000,3000,1, 0,300,0,99999, 1,150,-474,0, -1,0
+5,v12,562,"OTW_BikePad3",4864,11424,     1,3000,3000,1, 0,300,0,99999, 1,150,-475,0, -1,0
+1,v12,564,"UGFix",3616,15375,    -1,-1,2,12, 1000,0, None,None,0,0,0,0,0,None,None,0,0,None,None,0,0
+5,v12,565,"OTW_BuggyPad1",4768,6448,     1,3000,3000,1, 0,300,0,99999, 1,150,-483,0, -1,0
+5,v12,566,"OTW_BuggyPad2",4224,2544,     1,3000,3000,1, 0,300,0,99999, 1,150,-484,0, -1,0
+5,v12,567,"OTW_BuggyPad3",1376,3232,     1,3000,3000,1, 0,300,0,99999, 1,150,-485,0, -1,0
+5,v12,568,"OTW_BuggyPad4",1376,3648,     1,3000,3000,1, 0,300,0,99999, 1,150,-486,0, -1,0
+1,v12,569,"FactoryFix1",464,655,    -1,-1,6,13, 1000,0, None,None,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,570,"FactoryFix2",656,655,    -1,-1,6,13, 1000,0, None,None,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,571,"FactoryFix3",1184,1295,    -1,-1,12,20, 1000,0, None,None,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,572,"FactoryFix4",1184,1600,    -1,-1,12,20, 1000,0, None,None,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,573,"FactoryFix5",1184,1920,    -1,-1,12,6, 1000,0, None,None,0,0,0,0,0,None,None,0,0,None,None,0,0

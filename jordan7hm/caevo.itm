@@ -1,0 +1,731 @@
+4,v34,5000,  "Multi Projectiles dont face in direction of user!! Fix SMALL LASERS","","Estimated Max Damage Reduction","45/0%,50/0%,20/0%,30/0%,15/25%",  0,0,0,0,0,  0,0,0,0,1,  none,none,0,0,0,0,0,0
+
+
+
+13,v34,1,  "  -Flak Jacket","1:Under Armor","","Jacket laced with metal plates to prevent shrapnel from doing serious harm.",  4000,100,0,0,0,  0,-1,0,10,0,  icons,gfx00001,0,0,0,0,0,0,    1, 1 ,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  1000,0,0,0,0,0,0,0,1000,0,0,0
+
+13,v34,2,  "  -Bulletproof Vest","1:Under Armor","","Light vest woven from fibers to prevent projectiles from penetrating into the body.",  3000,400,0,0,0,  0,-1,0,40,0,  icons,gfx00001,0,0,0,0,0,0,    1, 1 ,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  1000,50,0,0,0,0,0,0,1000,50,0,0
+
+13,v34,3,  "  -Kevlar Vest","1:Under Armor","","'Bulletproof Vest' made with kevlar fibers which are stronger and more effectively woven.",  3500,5000,0,0,0,  0,-1,0,500,0,  icons,gfx00001,0,0,0,0,0,0,    1, 1 ,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  1000,50,0,0,0,0,0,0,1000,100,0,0
+
+13,v34,4,  "  -Battle Suit","1:Under Armor","","Body suit created with kevlar fibers and flexible metal plates.",  3500,8000,0,0,0,  0,-1,0,800,0,  icons,gfx00001,0,0,0,0,0,0,    1, 1 ,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  2000,100,0,0,0,0,0,0,2000,100,0,0
+
+
+
+13,v34,5,  "-Impact Half-Plate Armor","1:Armor-Light","","Armor made of heat dissapating metal that absorbs shockwaves.",  5500,15000,0,0,0,  0,-1,0,3000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,40,100,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  3000,200,2000,200,0,0,0,0,1000,100,0,0
+
+13,v34,6,  "-Impact Full-Plate Armor","1:Armor-Light","","Armor made of heat dissapating metal that absorbs shockwaves.",  11000,21000,0,0,0,  0,-1,0,4200,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,40,200,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  3000,200,2000,200,0,0,0,0,1000,100,0,0
+
+13,v34,7,  "-Ceramax Half-Plate Armor","1:Armor-Light","","Armor made of ceramatic plates which are light and deflect small projectiles.",  5000,17000,0,0,0,  0,-1,0,3400,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,40,100,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  2000,200,1000,100,0,0,0,0,3000,200,0,0
+
+13,v34,8,  "-Ceramax Full-Plate Armor","1:Armor-Light","","Armor made of ceramatic plates which are light and deflect small projectiles.",  10000,25000,0,0,0,  0,-1,0,5000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,40,200,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  2000,200,1000,100,0,0,0,0,3000,200,0,0
+
+13,v34,9,  "-Blitz Partial Armor","1:Armor-Light","","Armor made of metallic plates and rubber insulators.",  8000,30000,0,0,0,  0,-1,0,6000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,40,100,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  2000,200,0,0,3000,200,0,0,1000,100,0,0
+
+13,v34,10,  "-Blitz Full Armor","1:Armor-Light","","",  12000,40000,0,0,0,  0,-1,0,8000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,40,200,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  2000,200,0,0,3000,200,0,0,1000,100,0,0
+
+
+13,v34,11,  "-Combat Armor","1:Armor-Medium","","Armor consisting of ceramatic plates woven together with kevlar fibers.",  15000,50000,0,0,0,  0,-1,0,25000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,60,200,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  6000,200,5000,200,0,0,0,0,4000,100,0,0
+
+13,v34,12,  "-Improved Combat Armor","1:Armor-Medium","","'Combat Armor' with added plates for better protection against multiple hits.",  16500,64000,0,0,0,  0,-1,0,32000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,60,300,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  6000,200,5000,200,0,0,0,0,4000,100,0,0
+
+13,v34,13,  "-Composite Armor","1:Armor-Medium","","Armor consisting of ceramatic plates, plastics, and various light metals.",  17000,54000,0,0,0,  0,-1,0,27000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,60,200,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  6000,200,4000,100,0,0,0,0,5000,200,0,0
+
+13,v34,14,  "-Improved Composite Armor","1:Armor-Medium","","'Composit Armor' with reactive core which can absorb greater impacts.",  18500,66000,0,0,0,  0,-1,0,33000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,80,200,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  6000,200,4000,100,0,0,0,0,5000,200,0,0
+
+13,v34,15,  "-Assault Armor","1:Armor-Medium","","Armor consisting of reflective plates.",  18000,59000,0,0,0,  0,-1,0,29500,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,60,200,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  3000,100,3000,100,5000,150,0,0,4000,150,0,0
+
+13,v34,16,  "-Improved Assault Armor","1:Armor-Medium","","'Assault Armor' with a reinforced core and plating.",  19500,69000,0,0,0,  0,-1,0,34500,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,70,250,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  3000,100,3000,100,5000,150,0,0,4000,150,0,0
+
+13,v34,17,  "-Carapace Micro Armor","1:Armor-Medium","","Armor plates that cover and protect the body from strong impacts.",  21000,73000,0,0,0,  0,-1,0,36500,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,100,200,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  7000,100,7000,100,0,0,0,0,6000,50,0,0
+
+13,v34,18,  "-Carapace Partial Armor","1:Armor-Medium","","Armor plates that cover and protect the body from strong impacts.",  22000,73000,0,0,0,  0,-1,0,36500,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,100,250,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  7000,100,7000,100,0,0,0,0,6000,50,0,0
+
+13,v34,19,  "-Drop Micro Armor","1:Armor-Medium","","Armor created to endure the pressure, heat, and other elements while fighting in the atmosphere.",  23000,79000,0,0,0,  0,-1,0,39500,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,80,160,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  5000,150,5000,150,5000,150,0,0,5000,150,0,0
+
+13,v34,20,  "-Drop Partial Armor","1:Armor-Medium","","Armor created to endure the pressure, heat, and other elements while fighting in the atmosphere.",  24000,79000,0,0,0,  0,-1,0,39500,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,80,200,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  5000,150,5000,150,5000,150,0,0,5000,150,0,0
+
+
+13,v34,21,  "-Heavy Combat Armor","1:Armor-Heavy","","Heavier version of the 'Improved Combat Armor'.",  26500,82000,0,0,0,  0,-1,0,61500,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,80,200,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,    6000,300,5000,300,0,0,0,0,4000,150,0,0
+
+13,v34,22,  "-Heavy Composite Armor","1:Armor-Heavy","","Heavier version of the 'Improved Composite Armor'.",  28500,86000,0,0,0,  0,-1,0,64500,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,60,120,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  6000,300,4000,150,0,0,0,0,5000,300,0,0
+
+13,v34,23,  "-Heavy Assault Armor","1:Armor-Heavy","","Heavier version of the 'Improved Assault Armor'.",  29500,88000,0,0,0,  0,-1,0,66000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,70,250,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  3000,150,3000,250,5000,250,0,0,4000,150,0,0
+
+13,v34,24,  "-Carapace Half Armor","1:Armor-Heavy","","Armor plates that cover and protect the body from strong impacts.",  27000,94000,0,0,0,  0,-1,0,70500,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,100,500,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  7000,200,7000,200,0,0,0,0,6000,100,0,0
+
+13,v34,25,  "-Drop Half Armor","1:Armor-Heavy","","Armor created to endure the pressure, heat, and other elements while fighting in the atmosphere.",  29000,98000,0,0,0,  0,-1,0,73500,0,  icons,gfx00001,0,0,0,0,0,0,      1, 2 ,80,400,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  5000,300,5000,300,5000,300,0,0,5000,300,0,0
+
+13,v34,26,  "-Carapace Full Armor","1:Armor-Heavy","","Armor plates that cover and protect the body from strong impacts.",  31000,103000,0,0,0,  0,-1,0,77250,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,100,600,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  7000,200,7000,200,0,0,0,0,6000,100,0,0
+
+13,v34,27,  "-Drop Full Armor","1:Armor-Heavy","","Armor created to endure the pressure, heat, and other elements while fighting in the atmosphere.",  33000,106000,0,0,0,  0,-1,0,79500,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,80,600,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  5000,300,5000,300,5000,300,0,0,5000,300,0,0
+
+13,v34,28,  "-Blast Half Armor","1:Armor-Heavy","","Comprised of metalic plates and strong fibers woven into 'Impact Armor'.",  25000,84000,0,0,0,  0,-1,0,39500,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,80,400,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  6000,250,10000,350,0,0,0,0,3000,100,0,0
+
+13,v34,29,  "-Blast Full Armor","1:Armor-Heavy","","Comprised of metalic plates and strong fibers woven into 'Impact Armor'.",  50000,87000,0,0,0,  0,-1,0,65250,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,80,600,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  6000,250,10000,350,0,0,0,0,3000,100,0,0
+
+13,v34,30,  "-Raider Partial Armor","1:Armor-Heavy","","Comprised of metalic plates and strong fibers woven into 'Blitz Armor'.",  26000,120000,0,0,0,  0,-1,0,90000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,100,300,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  7000,300,0,0,9000,300,0,0,3000,200,0,0
+
+13,v34,31,  "-Raider Half Armor","1:Armor-Heavy","","Comprised of metalic plates and strong fibers woven into 'Blitz Armor'.",  28000,128000,0,0,0,  0,-1,0,96000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,40,500,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  7000,300,0,0,9000,300,0,0,3000,200,0,0
+
+13,v34,32,  "-Raider Full Armor","1:Armor-Heavy","","Comprised of metalic plates and strong fibers woven into 'Blitz Armor'.",  56000,132000,0,0,0,  0,-1,0,99000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,40,800,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  7000,300,0,0,9000,300,0,0,3000,200,0,0
+
+13,v34,33,  "-Strike Raider Armor","1:Armor-Heavy","","Armor made from strong composites and woven fibers to enable great protection and manueverability.",  56000,150000,0,0,0,  0,-1,0,112500,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,60,300,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  10000,250,10000,250,8000,300,0,0,8000,400,0,0
+
+
+13,v34,34,  "-Advanced Combat Armor","1:Power Armor-Heavy","","'' with a power unit enabling the armor to reduce the damage even further",  35000,500000,0,0,0,  0,-1,0,500000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,140,400,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,    6000,400,5000,400,0,0,0,0,4000,250,0,0
+
+13,v34,35,  "-Advanced Composite Armor","1:Power Armor-Heavy","","",  37000,540000,0,0,0,  0,-1,0,540000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,120,300,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  6000,400,4000,250,0,0,0,0,5000,400,0,0
+
+13,v34,36,  "-Advanced Assault Armor","1:Power Armor-Heavy","","",  38000,590000,0,0,0,  0,-1,0,590000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,140,500,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  3000,250,3000,350,5000,350,0,0,4000,250,0,0
+
+13,v34,37,  "-Reactive Carapace Armor","1:Power Armor-Heavy","","",  40000,700000,0,0,0,  0,-1,0,700000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,160,1000,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  7000,300,7000,300,0,0,0,0,6000,200,0,0
+
+13,v34,38,  "-Reactive Drop Armor","1:Power Armor-Heavy","","",  42000,760000,0,0,0,  0,-1,0,760000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,140,700,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  5000,400,5000,400,5000,400,0,0,5000,400,0,0
+
+13,v34,39,  "-Force Armor","1:Power Armor-Heavy","","",  60000,800000,0,0,0,  0,-1,0,800000,0,  icons,gfx00001,0,0,0,0,0,0,    1, 2 ,120,600,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  10000,250,10000,250,8000,300,0,0,8000,400,0,0
+
+
+13,v34,40,  "-Assassin Armor","1:Power Armor-Light","","Special power armor equipped with small but efficient hydraulic system enhancing the users physical performance.",  22000,76000,0,0,0,  0,-1,0,38000,0,  None,None,0,0,0,0,0,0,    1,2,60,150,  0,-1,0,0,  0,0,0,  200,200,200,200,0,1,  None,None,0,0,  5000,300,6000,200,0,0,0,0,2000,200,0,0
+
+13,v34,41,  "-Espionage Armor","1:Power Armor-Light","","Assassin armor with a basic cloaking unit and stealth unit installed.", 26000,88000,0,0,0,  1,-1,0,44000,0,  icons,gfx00001,0,0,0,0,0,0,    1,2,60,150,  100,150,0,0,  0,0,0, 200,200,200,200,0,1,  sounds,Spell2,0,0,  3000,300,6000,200,0,0,0,0,4000,300,0,0
+
+13,v34,42,  "-Chameleon Plate","1:Power Armor-Light","","Combat armor with a basic cloaking unit and stealth unit installed. Firing weapons or excess movement interferes and disables cloaking field for a short period.",  27000,92000,0,0,0,  1,-1,0,46000,0,  icons,gfx00001,0,0,0,0,0,0,    1,2,60,150,  100,50,0,0,  0,0,200, 0,0,0,0,0,1,  sounds,Spell2,0,0,  3000,300,7000,100,0,0,0,0,3000,200,0,0
+
+13,v34,43,  "-Infiltrator Suit","1:Power Armor-Special","","Body suit equipped with a special layer that cloaks the user.",  8000,14000,0,0,0,  1,-1,0,7000,0,  icons,gfx00001,0,0,0,0,0,0,    1,1,30,60,  -1,100,0,0,  0,0,0,  0,0,0,0,0,1,  sounds,Spell2,0,0,  2000,400,1000,200,0,0,0,0,0,0,0,0
+
+13,v34,44,  "-Jammer Suit","1:Power Armor-Special","","Body suit equipped with special equipment including a stealth unit and an anti-warp device.",  8500,18000,0,0,0,  1,-1,0,9000,0,  icons,gfx00001,0,0,0,0,0,0,    1,1,30,60,  50,-1,0,0,  100,0,0, 0,0,0,0,0,1,  sounds,Spell2,0,0,  1000,400,1000,200,0,0,0,0,0,0,0,0
+
+13,v34,45,  "-Spy Suit","1:Power Armor-Special","","Combat suit with a basic cloaking unit and stealth unit installed. Firing weapons or excess movement interferes and disables cloaking field for a short period.",  9500,18000,0,0,0,  1,-1,0,9000,0,  icons,gfx00001,0,0,0,0,0,0,    1,1,30,60,  100,50,0,0,  0,0,200, 0,0,0,0,0,1,  sounds,Spell2,0,0,  2000,500,1000,200,0,0,0,0,0,0,0,0
+
+13,v34,46,  "-Commando Suit","1:Power Armor-Special","","Combat suit with a cloaking unit, an anti-warp device, Firing weapons or excess movement interferes and disables cloaking field for a short period.",  10000,36000,0,0,0,  1,-1,0,18000,0,  icons,gfx00001,0,1,40,0,60,0,    1,1,30,60,  -1,25,0,0,  400,0,150,  0,0,0,0,0,1,  sounds,Spell2,0,0,  1000,400,2000,300,0,0,0,0,0,0,0,0
+
+13,v34,47,  "-Mirage Suit","1:Power Armor-Special","","Body suit equipped with a special layer that absorbs light to make the user semi-invisible and also converts it into energy to power the suit.",  2000,10000,0,0,0,  1,-1,0,5000,0,  icons,gfx00001,0,0,0,0,0,0,    1,1,30,60,  -1,4000,0,0,  0,0,0,  0,0,0,0,0,1,  sounds,Spell2,0,0,  1000,200,1000,200,0,0,0,0,0,0,0,0
+
+13,v34,48,  "Power Armor Sheilding Generator","1:Power Armor-Fields","","Special shield generator that can augment power armors.",  10000,30000,0,0,0,  1,-1,0,15000,0,  icons,gfx00002,0,0,0,0,0,0,    1,3,30,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,49,  "Advanced P.A.S. Generator","1:Power Armor-Fields","","Special shield generator that can augment power armors.",  15000,60000,0,0,0,  1,-1,0,30000,0,  icons,gfx00002,0,0,0,0,0,0,    1,3,60,20,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+
+14,v34,50,  "IDF Generator","1:Power Armor-Fields","","The inertial dampening field generator creates a barrier around the user that has startling effects upon projectiles.  It either slows them down to speeds where they do not cause damage, or stops them outright. This unit uses a great deal of energy, so only use it sparingly. Lasts 20 seconds. (Kinetic: 3/25%, Explosive: 0/0%, Electronic: 0/0%, Bypass: 3/20%, Drain: 0/0%)",  1000,20000,0,0,5,  0,-1,0,3800,0,  None,None,0,0,0,0,0,0,    3000,600,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  1000,0,0,0,0,0,  0,0,10,  weapons,gfx00221,48,0,0,0,0,10,Sound_Pack_1,emp1,0,0,0,1,  0,1,1,  0,0,0,0,0,    51,-1
+
+13,v34,51,  " -(Dampening Field)","1:Power Armor-Fields","","The inertial dampening field generator creates a barrier around the user that has startling effects upon projectiles.  It either slows them down to speeds where they do not cause damage, or stops them outright.  It also has some protection against explosives.  This unit uses a great deal of energy, so only use it sparingly.",  0,0,0,0,0,  1,-1,0,0,2000,  icons,gfx00002,0,0,0,0,0,0,    1,3,0,-100,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  3000,250,0,0,0,0,0,0,3000,200,0,0
+
+14,v34,52,  "PF Generator","1:Power Armor-Fields","","The plasma field generator creates an energy barrier around the user that absorbs energy weapons and dampens the shield energy loss effects of weapons. (Kinetic: 0/0%, Explosive: 1/5%, Electronic: 3/25%, Bypass: 1/5%, Drain: 1/5%)",   10000,26000,0,0,0,  1,-1,0,13000,0,  None,None,0,0,0,0,0,0,    3000,600,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  1000,0,0,0,0,0,  0,0,10,  weapons,gfx00221,48,0,0,0,0,10,Sound_Pack_1,emp1,0,0,0,1,  0,1,1,  0,0,0,0,0,    53,-1
+
+13,v34,53,  " -(Plasma Field)","1:Power Armor-Fields","","The plasma field generator creates an energy barrier around the user that absorbs plasma weapons and dampens the shield energy loss effects of weapons.",  0,0,0,0,0,  1,-1,0,0,2000,  icons,gfx00002,0,0,0,0,0,0,    1,3,0,-100,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  0,0,1000,50,3000,250,0,0,0,0,1000,50
+
+14,v34,54,  "SF Generator","1:Power Armor-Fields","","The shock field generator dampens shockwaves and other pressure related phenomena within the field. (Kinetic: 2/30%, Explosive: 4/15%, Electronic: 0/0%, Bypass: 0/0%, Drain: 0/0%)",   10000,24000,0,0,0,  1,-1,0,12000,0,  None,None,0,0,0,0,0,0,    3000,600,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  1000,0,0,0,0,0,  0,0,10,  weapons,gfx00221,48,0,0,0,0,10,Sound_Pack_1,emp1,0,0,0,1,  0,1,1,  0,0,0,0,0,    55,-1
+
+13,v34,55,  " -(Shock Field)","1:Power Armor-Fields","","The shock field generator dampens shockwaves and other pressure related phenomena within the field.",  0,0,0,0,0,  1,-1,0,0,2000,  icons,gfx00002,0,0,0,0,0,0,    1,3,0,-100,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  2000,300,4000,150,0,0,0,0,0,0,0,0
+
+14,v34,56,  "LF Generator","1:Power Armor-Fields","","The laser field generator reflects and absorbs lasers and some other electronics off of the armor and dampens the shield energy loss effects of weapons. (Kinetic: 0/0%, Explosive: 0/0%, Electronic: 3/25%, Bypass: 2/15%, Drain: 1/5%)",   10000,28000,0,0,0,  1,-1,0,14000,0,  None,None,0,0,0,0,0,0,    3000,600,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  1000,0,0,0,0,0,  0,0,10,  weapons,gfx00221,48,0,0,0,0,10,Sound_Pack_1,emp1,0,0,0,1,  0,1,1,  0,0,0,0,0,    57,-1
+
+13,v34,57,  " -(Laser Field)","1:Power Armor-Fields","","The laser field generator reflects and absorbs lasers and some other electronics off of the armor and dampens the shield energy loss effects of weapons.",  0,0,0,0,0,  1,-1,0,0,2000,  icons,gfx00002,0,0,0,0,0,0,    1,3,0,-100,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  0,0,0,0,3000,250,0,0,2000,150,1000,50
+
+8,v34,58,  "Vector Field-Narrow, Weak","1:Power Armor-Fields","","This vector field generator consists of 2 low level ionization fields.  Hard projectiles entering one level are negatively charged and when they pass through the second field, they are deflected from the user. Requires 'IDF Generator'.",  5000,20000,0,0,0,  0,-1,0,10000,0,  icons,gfx00003,0,0,0,0,0,0,    3000,3,50,50,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  10,0,300,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    None,None,5,0,  2000,0,0,0,0,0,2000,0,0,0,0,0,2001,0,0,0,0,0
+
+8,v34,59,  "Vector Field-Wide, Weak","1:Power Armor-Fields","","This vector field generator consists of 2 low level ionization fields.  Hard projectiles entering one level are negatively charged and when they pass through the second field, they are deflected from the user. Requires 'IDF Generator'.",  5000,40000,0,0,0,  0,-1,0,20000,0,  icons,gfx00003,0,0,0,0,0,0,    3000,4,50,50,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  10,0,300,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    None,None,5,0,  2000,0,0,0,0,0,2000,0,0,0,0,0,  2001,0,0,0,0,0,2001,0,0,0,0,0,2002,0,0,0,0,0,2002,0,0,0,0,0
+
+8,v34,60,  "Vector Field-Narrow, Strong","1:Power Armor-Fields","","This vector field generator consists of 2 high level ionization fields.  Hard projectiles entering one level are negatively charged and when they pass through the second field, they are deflected from the user. Requires 'IDF Generator'.",  5000,35000,0,0,0,  0,-1,0,17500,0,  icons,gfx00003,0,0,0,0,0,0,    3000,9,50,50,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  10,0,300,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    None,None,5,0,  2000,0,0,0,0,0,2000,0,0,0,0,0,  2000,0,0,0,0,0,2001,0,0,0,0,0,2001,0,0,0,0,0
+
+8,v34,61,  "Vector Field-Wide, Strong","1:Power Armor-Fields","","This vector field generator consists of 2 high level ionization fields.  Hard projectiles entering one level are negatively charged and when they pass through the second field, they are deflected from the user. Requires 'IDF Generator'.",  5000,55000,0,0,0,  0,-1,0,27500,0,  icons,gfx00003,0,0,0,0,0,0,    3000,12,50,50,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  10,0,300,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    None,None,5,0,  2001,0,0,0,0,0,2001,0,0,0,0,0,  2001,0,0,0,0,0,2001,0,0,0,0,0,2001,0,0,0,0,0,2002,0,0,0,0,0,2002,0,0,0,0,0,2002,0,0,0,0,0,2003,0,0,0,0,0,2003,0,0,0,0,0
+
+6,v34,62,  "Plasma Pulse Generator","1:Power Armor-Fields","","This generator sends a burst of energy into the plasma field creating a wall of energy. Requires 'PF Generator'.",  5000,30000,0,0,0,  0,-1,0,15000,0,  None,None,0,0,80,0,-20,0,    3000,100,1,52,1,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  0,0,500,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,10,0,0, 0,0,0,-1,1000, 0,1000,1000,0,0,    0,-50,0,0,0, 0,0,1,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,150,15000,10000,150,30000,25000,0,0,0,0,0,0,150,30000,20000,  plasma3,none,24,0,0,0,0,0,plasma3,plasma2,24,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,24,0,0,0,0,0,  None,None,0,0,None,None,0,0,None,None,0,0
+
+6,v34,63,  "Repulsar Wave Generator","1:Power Armor-Fields","","This generator sends a burst of energy into the shock field creating a wave of energy. Requires 'SF Generator'.",  5000,30000,0,0,0,  0,-1,0,15000,0,  None,None,0,0,80,0,-20,0,    3000,100,1,54,1,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  0,0,500,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,10,0,0, 0,0,0,-1,1000, 0,1000,1000,0,0,    0,-50,0,0,0, 0,0,1,0,150, 2000,0,400,1000,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  150,50000,45000,0,0,0,0,0,0,0,0,0,0,0,0,150,40000,30000, plasma3,plasma,0,0,0,0,0,0,None,None,0,0,80,0,-10,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,24,0,0,0,0,0,  None,None,0,0,None,None,0,0,None,None,0,0
+
+6,v34,64,  "Laser Burst Generator","1:Power Armor-Fields","","This generator sends a burst of energy into the laser field creating a concentrated beam of energy. Requires 'SF Generator'.",  5000,30000,0,0,0,  0,-1,0,15000,0,  None,None,0,0,80,0,-20,0,    3000,100,1,56,1,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  0,0,500,32000,32000,0,  0,0,60,  None,None,0,0,0,0,0,0,Sound_Pack_1,appear1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,0,1000, -1,0,0,0,4,    0,1000,1,1000,0, 0,0,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2004,  0,0,0,0,0,0,4,35000,30000,0,0,0,4,15000,10000,4,30000,30000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,Pbeam,0,0,31,0,0,40,weapons,gfx00230,0,0,0,0,0,130,  Sound_Pack_2,railgun,5,0,Sound_Pack_3,Metal_Laser1,5,0,None,None,0,0
+
+
+13,v34,65,  "  -Battle Boots","1:Armor-Boots","","Pair of sturdy and comfortable boots that protects the user.",  1000,2400,0,0,0,  1,-1,0,1200,0,  icons,gfx00002,0,0,0,0,0,0,    1,4,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  0,30,0,30,0,30,0,0,0,30,0,0
+
+13,v34,66,  "  -Thermax Boots","1:Armor-Boots","","Pair of sturdy and comfortable boots made of a fire and electrical resistant material.",  1000,3200,0,0,0,  1,-1,0,1600,0,  icons,gfx00002,0,0,0,0,0,0,    1,4,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  0,30,0,50,0,50,0,0,0,30,0,0
+
+13,v34,67,  "  -Armored Boots","1:Armor-Boots","","Pair of sturdy and comfortable boots made of flexable metals.",  1000,4000,0,0,0,  1,-1,0,2000,0,  icons,gfx00002,0,0,0,0,0,0,    1,4,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  0,50,0,30,0,30,0,0,0,50,0,0
+
+13,v34,68,  " -Battle Greaves","1:Armor-Boots","","Battle greaves for boots.",  1000,1200,0,0,0,  1,-1,0,600,0,  icons,gfx00002,0,0,0,0,0,0,    1,5,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  1000,10,1000,10,1000,10,0,0,1000,10,0,0
+
+13,v34,69,  " -Thermax Greaves","1:Armor-Boots","","Thermax greaves for boots.",  1000,1600,0,0,0,  1,-1,0,800,0,  icons,gfx00002,0,0,0,0,0,0,    1,5,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  1000,10,2000,30,2000,30,0,0,1000,10,0,0
+
+13,v34,70,  " -Armored Greaves","1:Armor-Boots","","Armored greaves for boots.",  1000,2000,0,0,0,  1,-1,0,1000,0,  icons,gfx00002,0,0,0,0,0,0,    1,5,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  2000,30,1000,10,1000,10,0,0,2000,30,0,0
+
+13,v34,71,  " -Jet Boots","1:Armor-Boots","","Pair of improved boots with thrusters enabling the user to move faster. Two external slots available for extra thrusters.",  2000,48000,0,0,0,  1,-1,0,24000,0,  icons,gfx00002,0,0,0,0,0,0,    1,4,0,0,  -1,-1,0,0,  0,0,0,  100,0,100,0,0,1,  None,None,0,0,  1000,20,1000,20,1000,20,0,0,1000,20,0,0
+
+6,v34,72,  "JB:Jump Jets","1:Armor-Boots","","Jet boots upgrade. Installed in the back of the heels of each boot enabling user to jump up and foward. Requires 'Jet Boots'.",  1500,25600,0,0,0,  0,-1,0,19200,0,  None,None,0,0,0,0,0,0,    3009,5,4,71,1,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  0,0,500,0,0,0,  -410,580,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,0,0,0,0,0, 0,0,0,0,1000, 0,0,0,0,0,    0,0,0,0,0, 0,0,0,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,  None,None,0,0,None,None,0,0,None,None,0,0
+
+6,v34,73,  "JB:Thrust Jets","1:Armor-Boots","","Jet boots upgrade. Installed in the side of each boot enabling user to preform high speed kicks. Requires 'Jet Boots'.",  1400,15350,0,0,0,  0,-1,0,8650,0,  None,None,0,0,0,0,0,0,    3009,2,4,71,1,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  0,0,250,0,0,0,  -700,280,0,  None,None,24,0,0,0,0,0,None,None,4,0,0,1,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 0,0,50,0,800, 0,0,0,0,30,    -11000,-50,0,0,0, 0,0,1,0,35, 3000,500,100,0,1000,0,    0,0,0,0,0,  35,0,80,0,0,0,0,  0,0,  35,5000,5000,0,0,0,0,0,0,0,0,0,0,0,0,35,15000,15000,  None,None,24,0,0,0,0,0,None,None,24,0,0,0,0,0,weapons,gfx00509,20,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,24,1,0,0,0,0,  sounds,wav00609,4,0,craft,uhit3,4,0,None,None,4,0
+
+
+13,v34,74,  "  -Battle Helmet","1:Armor-Helmet","","Sturdy helmet that protects the head.",  1000,2400,0,0,0,  1,-1,0,1200,0,  icons,gfx00002,0,0,0,0,0,0,    1,6,10,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  0,30,0,30,0,30,0,0,0,30,0,0
+
+13,v34,75,  "  -Thermax Helmet","1:Armor-Helmet","","Sturdy helmet made of a fire and electrical resistant material.",  1000,3200,0,0,0,  1,-1,0,1600,0,  icons,gfx00002,0,0,0,0,0,0,    1,6,10,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  0,30,0,50,0,50,0,0,0,30,0,0
+
+13,v34,76,  "  -Armored Helmet","1:Armor-Helmet","","Sturdy helmet made of flexable metals.",  1000,4000,0,0,0,  1,-1,0,2000,0,  icons,gfx00002,0,0,0,0,0,0,    1,6,10,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  0,50,0,30,0,30,0,0,0,50,0,0
+
+13,v34,77,  "  -Analyst Helmet","1:Armor-Helmet","","Special helmet with upgradable components. ",  300,34000,0,0,0,  1,-1,0,32000,0,  icons,gfx00002,0,0,0,0,0,0,    1,5,0,0,  -1,-1,600,300,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,30,0,30,0,30,0,0,0,30,0,0
+
+14,v34,78,  "Passive Sensors","1:Armor-Helmet","","A passive sensor suite incorporated into the visor of the helmet that detects energy signatures of enemies electronics at close range. Lasts one minute. Requires 'Analyst Helmet'. (Stealth Detection:800).",  4000,15000,0,1,0,  0,-1,0,7500,0,  None,None,0,0,0,0,0,0,    3000,100,1,77,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,30,2000,0,0,0,  0,0,150,  None,None,0,0,0,0,0,0,sounds,Wav00403,0,0,1,0,  0,1,1,  0,0,0,0,0,    79,-1
+
+13,v34,79,  "(Scanning)","","","A passive sensor suite incorporated into the visor of the helmet that detects energy signatures of enemies electronics at close range.",  0,0,0,0,0,  0,-1,0,0,6000,  icons,gfx00008,0,0,0,0,0,0,    2,7,0,0,  -1,-1,800,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+14,v34,80,  "Active Sensors","1:Armor-Helmet","","An active sensor suite incorporated into the visor of the helmet that detects energy signatures of enemies electronics. Lasts 30 seconds. Requires 'Analyst Helmet'. (Stealth Detection:1600).",  1000,53000,0,0,0,  0,-1,0,26500,0,  None,None,0,0,0,0,0,0,    3000,200,1,77,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,30,2000,0,0,0,  0,0,150,  None,None,0,0,0,0,0,0,sounds,Wav00403,0,0,1,0,  0,1,1,  0,0,0,0,0,    81,-1
+
+13,v34,81,  "(Scanning)","","","A Active sensor suite incorporated into the visor of the helmet that detects energy signatures of enemies electronics.",  0,0,0,0,0,  0,-1,0,0,3000,  icons,gfx00008,0,0,0,0,0,0,    0,0,0,0,  -1,-1,1600,0,  2,7,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+14,v34,82,  "Thermo Sights","1:Armor-Helmet","","A basic thermographic imaging helmet attachment. Requires 150 energy cells per use. Lasts 20 seconds. Requires 'Analyst Helmet'. (Cloak Detection:500).",  1000,33000,0,0,0,  0,-1,0,16500,0,  None,None,0,0,0,0,0,0,    3000,200,1,64,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,30,2000,0,0,0,  0,0,150,  None,None,0,0,0,0,0,0,sounds,Wav00403,0,0,1,0,  0,1,1,  0,0,0,0,0,    83,-1
+
+13,v34,83,  "(Seeking)","","","A basic thermographic imaging helmet attachment.",  0,0,0,0,0,  0,-1,0,0,2000,  icons,gfx00008,0,0,0,0,0,0,    2,7,77,1,  -1,-1,0,300,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+14,v34,84,  "Advanced Thermo Sights","1:Armor-Helmet","","A basic thermographic imaging helmet attachment. Requires 150 energy cells per use. Lasts 20 seconds. Requires 'Analyst Helmet'. (Cloak Detection:1000).",  1000,66000,0,0,0,  0,-1,0,33000,0,  None,None,0,0,0,0,0,0,    3000,200,1,77,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,30,2000,0,0,0,  0,0,150,  None,None,0,0,0,0,0,0,sounds,Wav00403,0,0,1,0,  0,1,1,  0,0,0,0,0,    85,-1
+
+13,v34,85,  "(Seeking)","","","An improved thermographic imaging unit.",  0,0,0,0,0,  0,-1,0,0,2000,  icons,gfx00008,0,0,0,0,0,0,    2,7,0,0,  -1,-1,0,1000,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+
+13,v34,86,  "Armor Skirts (Light)","1:Power Armor-Addons","","Add-on armor for use around joints.  Helps protect against multiple hits.",  2000,15000,0,0,0,  0,-1,0,7500,0,  None,None,0,0,0,0,0,0,    1,8,0,50,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,250
+
+13,v34,87,  "Armor Skirts (Medium)","1:Power Armor-Addons","","Add-on armor for use around joints.  Helps protect against multiple hits.",  4000,18000,0,0,0,  0,-1,0,9000,0,  None,None,0,0,0,0,0,0,    1,8,0,100,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,250
+
+13,v34,88,  "Armor Skirts (Heavy)","1:Power Armor-Addons","","Add-on armor for use around joints.  Helps protect against multiple hits.",  6000,26000,0,0,0,  0,-1,0,13000,0,  None,None,0,0,0,0,0,0,    1,8,0,150,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,250
+
+13,v34,89,  "Armor Coating (Small)","1:Power Armor-Addons","","A layer of armor-gel.  Increases survivability against single hits.  This is useful for the thinner armors.",  2000,15000,0,0,0,  0,-1,0,7500,0,  icons,gfx00008,0,0,0,0,0,0,    1,8,10,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,1000,0
+
+13,v34,90,  "Armor Coating (Medium)","1:Power Armor-Addons","","A layer of armor-gel.  Increases survivability against single hits.  This is useful for the thinner armors.",  4000,18000,0,0,0,  0,-1,0,9000,0,  icons,gfx00008,0,0,0,0,0,0,    1,8,20,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,2000,0
+
+13,v34,91,  "Armor Coating (Large)","1:Power Armor-Addons","","A layer of armor-gel.  Increases survivability against single hits.  This is useful for the thinner armors.",  6000,26000,0,0,0,  0,-1,0,13000,0,  icons,gfx00008,0,0,0,0,0,0,    1,8,30,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,3000,0
+
+13,v34,92,  "Armor Plating (Light)","1:Power Armor-Addons","","An amorphous metallic alloy plate set that can be used to reinforce the main protection areas on the fighting suit.  Best used with heavy armor suits.",  2000,15000,0,0,0,  0,-1,0,7500,0,  icons,gfx00008,0,0,0,0,0,0,    1,8,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  1000,0,0,0,0,0,0,0,1000,0,0,0
+
+13,v34,93,  "Armor Plating (Medium)","1:Power Armor-Addons","","An amorphous metallic alloy plate set that can be used to reinforce the main protection areas on the fighting suit.  Best used with heavy armor suits.",  4000,18000,0,0,0,  0,-1,0,9000,0,  icons,gfx00008,0,0,0,0,0,0,    1,8,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  2000,0,0,0,0,0,0,0,2000,0,0,0
+
+13,v34,94,  "Armor Plating (Heavy)","1:Power Armor-Addons","","An amorphous metallic alloy plate set that can be used to reinforce the main protection areas on the fighting suit.  Best used with heavy armor suits.",  6000,26000,0,0,0,  0,-1,0,13000,0,  icons,gfx00008,0,0,0,0,0,0,    1,8,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  3000,0,0,0,0,0,0,0,3000,0,0,0
+
+13,v34,95,  "Armor Combing (Small)","1:Power Armor-Addons","","A layer of shockwave dissipating gel.  Great for counteracting the effects of shockwave blasts.",  2000,15000,0,0,0,  0,-1,0,7500,0,  icons,gfx00008,0,0,0,0,0,0,    1,8,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  1000,0,2000,0,0,0,0,0,0,0,0,0
+
+13,v34,96,  "Armor Combing (Medium)","1:Power Armor-Addons","","A layer of shockwave dissipating gel.  Great for counteracting the effects of shockwave blasts.",  4000,18000,0,0,0,  0,-1,0,9000,0,  icons,gfx00008,0,0,0,0,0,0,    1,8,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  2000,0,3000,0,0,0,0,0,0,0,0,0
+
+13,v34,97,  "Armor Combing (Large)","1:Power Armor-Addons","","A layer of shockwave dissipating gel.  Great for counteracting the effects of shockwave blasts.",  6000,26000,0,0,0,  0,-1,0,13000,0,  icons,gfx00008,0,0,0,0,0,0,    1,8,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  3000,0,4000,0,0,0,0,0,0,0,0,0
+
+13,v34,98,  "Armor Grounding (Small)","1:Power Armor-Addons","","A layer of magnetized spikes spread all over the armor.  It helps protect against small caliber energy weapons.",  2000,15000,0,0,0,  0,-1,0,7500,0,  icons,gfx00008,0,0,0,0,0,0,    1,7,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,1000,0,0,0,0,0,0,0
+
+13,v34,99,  "Armor Grounding (Medium)","1:Power Armor-Addons","","A layer of magnetized spikes spread all over the armor.  It helps protect against small caliber energy weapons.",  4000,18000,0,0,0,  0,-1,0,9000,0,  icons,gfx00008,0,0,0,0,0,0,    1,7,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,2000,0,0,0,0,0,0,0
+
+13,v34,217,  "Armor Grounding (Large)","1:Power Armor-Addons","","A layer of magnetized spikes spread all over the armor.  It helps protect against small caliber energy weapons.",  6000,26000,0,0,0,  0,-1,0,13000,0,  icons,gfx00008,0,0,0,0,0,0,    1,7,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,3000,0,0,0,0,0,0,0
+
+
+13,v34,100,  "  -Steel Gauntlets","1:Armor-Gauntlets","","Sturdy gauntlets that protect the forearm and hands.",  1000,2400,0,0,0,  1,-1,0,1200,0,  icons,gfx00002,0,0,0,0,0,0,    1,8,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  0,30,0,30,0,30,0,0,0,30,0,0
+
+13,v34,101,  "  -Thermax Gauntlets","1:Armor-Gauntlets","","Sturdy gauntlets made of a fire and electrical resistant material.",  1000,3200,0,0,0,  1,-1,0,1600,0,  icons,gfx00002,0,0,0,0,0,0,    1,8,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  0,30,0,50,0,50,0,0,0,30,0,0
+
+13,v34,102,  "  -Armored Gauntlets","1:Armor-Gauntlets","","Sturdy gauntlets made of flexable metals.",  1000,4000,0,0,0,  1,-1,0,2000,0,  icons,gfx00002,0,0,0,0,0,0,    1,8,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  0,50,0,30,0,30,0,0,0,50,0,0
+
+13,v34,103,  " -Steel Vambrace","1:Armor-Gauntlets","","Attaches to gauntlets to protect from the hands to the shoulder.",  1000,1200,0,0,0,  1,-1,0,600,0,  icons,gfx00002,0,0,0,0,0,0,    1,9,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  1000,20,1000,20,1000,20,0,0,1000,20,0,0
+
+13,v34,104,  " -Thermax Vambrace","1:Armor-Gauntlets","","Attaches to gauntlets to protect from the hands to the shoulder.",  1000,1600,0,0,0,  1,-1,0,800,0,  icons,gfx00002,0,0,0,0,0,0,    1,9,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  2000,10,2000,30,2000,30,0,0,1000,10,0,0
+
+13,v34,105,  " -Armored Vambrace","1:Armor-Gauntlets","","Attaches to gauntlets to protect from the hands to the shoulder.",  1000,2000,0,0,0,  1,-1,0,1000,0,  icons,gfx00002,0,0,0,0,0,0,    1,9,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  None,None,0,0,  2000,30,1000,10,1000,10,0,0,2000,30,0,0
+
+6,v34,106,  "Power Fist","1:Armor-Gauntlets","","Special 'Thermax Gauntlets' attachment powered by energy cells to electrify the enemy.",  2000,12500,0,0,0,  1,-1,0,8750,0,  icons,gfx00002,0,0,0,0,0,0,    3000,20,3,101,1,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  30,80,150,0,200,0,  0,0,40,  None,None,0,0,0,0,0,0,sounds,wav00605,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 0,0,50,-1,0, 0,0,0,0,10,    0,50,0,0,0, 0,0,2,10,14, 1500,0,100,0,1000,0,    0,0,0,0,0,  14,0,80,0,0,0,0,  0,0,  10,10000,10000,0,0,0,10,20000,20000,0,0,0,0,0,0,10,20000,20000,  melee,MeleeGraphicTiny_v4,24,3,0,0,0,0,melee,MeleeGraphicTiny_v4,24,3,0,0,0,0,Weapons,gfx00506,24,0,0,0,0,0,None,None,0,0,0,0,0,0,energyexplosions_v4,SparkHitSm,24,0,30,15,-4,0,  sounds,Wav00405,0,0,sounds,wav00504,0,0,None,wav00000,0,0
+
+6,v34,107,  "Mega Power Fist","1:Armor-Gauntlets","","Special 'Thermax Gauntlets' attachment with upgraded power servos for increased strength. Powered by energy cells.",  2500,45500,0,0,0,  1,-1,0,34000,0,  icons,gfx00002,0,0,0,0,0,0,    3000,40,3,101,1,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  30,80,200,0,200,0,  0,0,40,  None,None,0,0,0,0,0,0,sounds,wav00605,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 0,0,50,-1,0, 0,0,0,0,10,    0,50,0,0,0, 0,0,2,10,14, 1500,0,100,0,1000,0,    0,0,0,0,10,  14,0,80,0,0,0,0,  0,0,  10,15000,15000,0,0,0,10,25000,25000,0,0,0,0,0,0,10,30000,30000,  melee,MeleeGraphicTiny_v4,48,3,0,0,0,0,melee,MeleeGraphicTiny_v4,48,3,0,0,0,0,Weapons,gfx00506,48,0,0,0,0,0,None,None,0,0,0,0,0,0,energyexplosions_v4,SparkHitSm,48,0,60,15,-4,0,  sounds,Wav00405,0,0,sounds,wav00504,0,0,None,wav00000,0,0
+
+6,v34,108,  "Chain Fist","1:Armor-Gauntlets","","Special 'Steel Gauntlets' attachment powered by energy cells that shred enemies apart.",  2000,30000,0,0,0,  1,-1,0,15000,0,  None,None,0,0,0,0,0,0,    3000,10,3,100,1,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  30,10,150,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 0,0,50,-1,0, 0,0,0,0,10,    0,50,0,0,0, 0,0,2,10,14, -500,0,100,0,0,0,    0,0,0,0,0,  14,0,80,0,0,0,0,  0,0,  10,25000,25000,0,0,0,0,0,0,0,0,0,0,0,0,10,30000,30000,  melee,MeleeGraphicTiny_v4,0,0,0,0,0,0,melee,MeleeGraphicTiny_v4,0,0,0,0,0,0,Weapons,gfx00506,0,0,0,0,0,0,None,None,0,0,0,0,0,0,weapons,gfx00202,0,0,0,0,0,0,  mordred,chain,3,0,sounds,wav00600,3,0,None,wav00000,0,0
+
+6,v34,109,  "Advanced Chain Fist","1:Armor-Gauntlets","","Special 'Steel Gauntlets' attachment with upgraded power servos for increased strength.",  2000,30000,0,0,0,  1,-1,0,15000,0,  None,None,0,0,0,0,0,0,    3000,10,3,100,1,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  30,10,200,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 0,0,50,-1,0, 0,0,0,0,10,    0,50,0,0,0, 0,0,2,10,14, -500,0,100,0,0,0,    0,0,0,0,0,  14,0,80,0,0,0,0,  0,0,  10,35000,35000,0,0,0,0,0,0,0,0,0,0,0,0,10,50000,50000,  melee,MeleeGraphicTiny_v4,0,0,0,0,0,0,melee,MeleeGraphicTiny_v4,0,0,0,0,0,0,Weapons,gfx00506,0,0,0,0,0,0,None,None,0,0,0,0,0,0,weapons,gfx00202,0,0,0,0,0,0,  mordred,chain,3,0,sounds,wav00600,3,0,None,wav00000,0,0
+
+6,v34,110,  "Shredder","1:Armor-Gauntlets","","Special sharp claws attach to 'Armored Gauntlets' allowing user to slash through enemies armor.",  1000,65000,0,0,0,  1,-1,0,45000,0,  None,None,0,0,0,0,0,0,    0,0,3,102,0,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  0,10,150,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 0,0,50,-1,0, 0,0,0,0,10,    0,50,0,0,0, 0,0,2,10,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  10,20000,20000,0,0,0,0,0,0,0,0,0,10,20000,20000,10,30000,30000,  melee,MeleeGraphicTiny_v4,0,0,0,0,0,10,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,weaponeffects,rt_proj_flame_trail,0,0,87,0,0,1,  Sound_Pack_3,club3,4,0,bughuntsounds,KnifeHit,3,0,sworddraw,4,0,0
+
+6,v34,111,  "Super Shredder","1:Armor-Gauntlets","","Special 'Armored Gauntlets' attachment with razor sharp blades.",  1000,65000,0,0,0,  1,-1,0,45000,0,  None,None,0,0,0,0,0,0,    0,0,3,102,0,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  0,10,200,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 0,0,50,-1,0, 0,0,0,0,10,    0,50,0,0,0, 0,0,2,10,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  10,25000,25000,0,0,0,0,0,0,0,0,0,10,25000,25000,10,40000,40000,  melee,MeleeGraphicTiny_v4,0,0,0,0,0,10,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,weaponeffects,rt_proj_flame_trail,0,0,87,0,0,1,  Sound_Pack_3,club3,4,0,bughuntsounds,KnifeHit,3,0,sworddraw,4,0,0
+
+
+13,v34,112,  "Energy Pack (Small)","2:Equipment-Suit Energy","","Energy augmentor connects directly into the armor. (The energy pack adds 20 more energy).",  5000,10000,0,0,0,  1,-1,0,5000,0,  icons,gfx00002,0,0,0,0,0,0,    1,10,20,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  sounds,wav00300,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,113,  "Energy Pack (Medium)","2:Equipment-Suit Energy","!(16|17|18|19|20|21)","Energy augmentor connects directly into the armor. (The energy pack adds 30 more energy).",  10000,20000,0,0,0,  0,-1,0,10000,0,  icons,gfx00002,0,0,0,0,0,0,    1,10,30,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  sounds,wav00300,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,114,  "Energy Pack (Large)","2:Equipment-Suit Energy","","Energy augmentor connects directly into the armor. (The energy pack adds 40 more energy).",  15000,30000,0,0,0,  0,-1,0,15000,0,  icons,gfx00002,0,0,0,0,0,0,    1,10,40,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  sounds,wav00300,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,115,  "Power Recharger","2:Equipment-Suit Energy","","Accelerates the speed of which your suit recharges energy.",  3000,4500,0,0,6,  1,-1,1,2000,0,  icons,gfx00002,0,0,0,0,0,0,    1,10,0,10,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  sounds,wav00300,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,116,  "Super Charger","2:Equipment-Suit Energy","","Accelerates the speed of which your suit recharges energy.",  3000,18000,0,0,6,  1,-1,1,18000,0,  icons,gfx00002,0,0,0,0,0,0,    1,10,0,20,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  sounds,wav00300,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,117,  "Ultra Charger","2:Equipment-Suit Energy","","Accelerates the speed of which your suit recharges energy.",  3000,26000,0,0,6,  1,-1,1,26000,0,  icons,gfx00002,0,0,0,0,0,0,    1,10,0,30,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  sounds,wav00300,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,118,  "Suit Light Generator","2:Equipment-Suit Energy","","Accelerates the speed of which your suit recharges energy and augments it a little.",  10000,100000,0,0,6,  1,-1,1,50000,0,  icons,gfx00002,0,0,0,0,0,0,    1,10,20,10,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  sounds,wav00300,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,119,  "Suit Heavy Generator","2:Equipment-Suit Energy","","Accelerates the speed of which your suit recharges energy and augments it alot.",  20000,200000,0,0,0,  1,-1,1,100000,0,  icons,gfx00002,0,0,0,0,0,0,    1,10,30,20,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  sounds,wav00300,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+
+
+14,v34,120,  "Light Cell","2:Equipment-Chargers","","Creates 30 energy cells for firing energy and plasma weapons.",  2000,5000,0,0,0,  0,-1,0,2500,0,  None,None,0,0,52,0,0,0,    0,1,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  200,0,0,0,0,0,  0,0,120,  effects,gfx00302,0,0,37,16,15,0,Sound_Pack_3,pistolEMPReload,0,0,0,0,  0,1,1,  0,0,0,0,0,    3000,-30
+
+14,v34,121,  "Medium Cell","2:Equipment-Chargers","","Creates 60 energy cells for firing energy and plasma weapons.",  5000,10000,0,0,0,  0,-1,0,5000,0,  icons,gfx00008,0,0,52,0,0,0,    0,1,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  200,0,0,0,0,0,  0,0,150,  None,None,0,0,37,16,15,0,Sound_Pack_3,pistolPlasmaReload,0,0,0,0,  0,1,1,  0,0,0,0,0,    3000,-60
+
+14,v34,122,  "Heavy Cell","2:Equipment-Chargers","","Creates 120 energy cells for firing energy and plasma weapons.",  11000,15000,0,0,0,  0,-1,0,7500,0,  icons,gfx00008,0,0,52,0,0,0,    0,1,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  200,0,0,0,0,0,  0,0,150,  None,None,0,0,37,16,15,0,Sound_Pack_3,pistolLaserReload,0,0,0,0,  0,1,1,  0,0,0,0,0,    3000,-120
+
+14,v34,123,  "Fission Cell","2:Equipment-Chargers","","Creates 240 Energy Cells for firing energy and plasma weapons using vector fields and activating phase shift armor.",  18000,50000,0,0,0,  0,-1,0,25000,0,  icons,gfx00008,0,0,80,0,0,0,    0,1,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  200,0,0,0,0,0,  0,0,150,  None,None,0,0,37,16,15,0,Sound_Pack_3,pistolLaserReload,0,0,0,0,  0,1,1,  0,0,0,0,0,    3000,-240
+
+14,v34,124,  "Fusion Cell","2:Equipment-Chargers","","Creates 400 Energy Cells for firing energy and plasma weapons, using vector fields and activating phase shift armor.",  22000,100000,0,0,0,  0,-1,0,50000,0,  icons,gfx00008,0,0,80,0,0,0,    0,1,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  200,0,0,0,0,0,  0,0,150,  None,None,0,0,37,16,15,0,Sound_Pack_3,minigunlaserreload,0,0,0,0,  0,1,1,  0,0,0,0,0,    3000,-400
+
+
+17,v34,125,  "Summoning Device","2:Equipment-Teleport","","Summons team mates. Select the team member you wish to summon by highlighting his/her name in the name list, then activate the device. Requires 300 energy cells per use.",  3000,12000,0,0,0,  0,-1,0,3000,0,  None,None,0,0,0,0,0,0,    3000,300,1,0,0,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  0,100,500,0,0,0,  0,0,50,  None,None,0,0,0,0,0,0,sounds,wav00611,0,0,0,0,  0,1,1,  0,0,0,0,0,   3,0,512,50,0, None,None,0,0,59,-30,50,0,Sound_Pack_1,00-i038,1,0
+
+17,v34,126,  "Improved Summoner","2:Equipment-Teleport","","Summons team mates with less energy and more efficiently. Select the team member you wish to summon by highlighting his/her name in the name list, then activate the device. Requires 150 energy cells per use.",  3000,28000,0,0,0,  0,-1,0,7000,0,  None,None,0,0,0,0,0,0,    3000,150,2,0,0,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  100,100,300,0,0,0,  0,0,50,  None,None,0,0,0,0,0,0,sounds,wav00611,0,0,0,0,  0,1,1,  0,0,0,0,0,   3,0,512,50,0, None,None,0,0,59,-30,50,0,Sound_Pack_1,00-i038,1,0
+
+17,v34,127,  "Advanced Summon","2:Equipment-Teleport","","Summons team mates with less energy and more efficiently. Select the team member you wish to summon by highlighting his/her name in the name list, then activate the device. Requires 50 energy cells per use.",  3000,28000,0,0,0,  0,-1,0,7000,0,  None,None,0,0,0,0,0,0,    3000,50,4,0,0,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  100,100,300,0,0,0,  0,0,50,  None,None,0,0,0,0,0,0,sounds,wav00611,0,0,0,0,  0,1,1,  0,0,0,0,0,   3,0,512,50,0, None,None,0,0,59,-30,50,0,Sound_Pack_1,00-i038,1,0
+
+17,v34,128,  "Tele-Beacon","2:Equipment-Teleport","","A device which drops a small beacon when first activated. When activated a second time, the person is instantly warped to the location of the beacon. Good for one use only and lasts only a minute when activated. To activate the second time use the insert key.",  1000,400,0,1,0,  3,-2,0,0,0,  icons,gfx00002,0,0,0,0,0,0,    128,1,0,0,0,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  100,0,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,sounds,Spell2,0,0,0,0,  0,1,1,  0,0,0,0,0,   5,0,0,1,6000, None,None,0,0,0,0,0,0,sounds,Spell2,0,0
+
+17,v34,129,  "Assassin Teleport","2:Equipment-Teleport","","Teleport to anyone. Perfect to hunt down people. Requires ten seconds of no movement to charge and teleport. Good for one use only.",  1000,1000,0,0,0,  3,-2,0,500,0,  icons,gfx00002,0,0,0,0,0,0,    129,1,0,0,0, 0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  700,0,0,0,0,0,  0,0,1000,  None,None,0,0,0,0,0,0,None,None,0,0,1,0,  0,1,1,  0,0,0,0,0,   2,0,0,1000,600, None,None,0,0,0,0,0,0,sounds,Spell2,0,0
+
+17,v34,130,  "Advanced Assassin Teleport","2:Equipment-Teleport","","Teleport to anyone. Perfect to hunt down people. Requires ten seconds of no movement to charge and teleport. More accurate than basic assassin teleporter. Good for one use only.",  1000,5000,0,0,0,  3,-2,0,500,0,  icons,gfx00002,0,0,0,0,0,0,    130,1,0,0,0, 0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  700,0,0,0,0,0,  0,0,1000,  None,None,0,0,0,0,0,0,None,None,0,0,1,0,  0,1,1,  0,0,0,0,0,   2,0,0,100,600, None,None,0,0,0,0,0,0,sounds,Spell2,0,0
+
+17,v34,131,  "Assault Warp","2:Equipment-Teleport","","Warps the user and all nearby friendly units to the player of choice. Requires 600 energy cells per use.",  3000,400000,0,0,0,  0,-1,0,200000,0,  None,None,0,0,0,0,0,0,    3000,600,1,0,0,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,   2,0,500,100,0, None,None,0,0,0,0,0,0,None,None,0,0
+
+13,v34,132,  "Anti-warp","2:Equipment-Teleport","","Disable the ability to warp around your immediate vicinity.",  2000,10000,0,0,7,  1,-1,0,5000,0,  icons,gfx00002,0,0,0,0,20,0,    1,11,0,-50,  -1,-1,0,0,  300,0,0,  0,0,0,0,0,0,  sounds,wav00603,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,133,  "Tele-Disrupter","2:Equipment-Teleport","","Disable the ability to warp around your immediate vicinity.",  5000,50000,0,0,7,  1,-1,0,25000,0,  icons,gfx00002,0,0,0,0,20,0,    1,11,0,-50,  -1,-1,0,0,  1200,0,0,  0,0,0,0,0,0,  sounds,wav00603,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+17,v34,134,  "Recall Pack (Heavy)","2:Equipment-Teleport","","A large heavy backpack unit that allows the user to recall to a previous location.  Can hold a recall posistion for up to five minutes.  You must stop for a second to place the coordinate in its map system.",  3500,100000,0,0,0,  1,-1,0,50000,0,  icons,gfx00008,0,0,68,100,-7,0,    3000,200,1,0,0,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  30000,50,0,0,0,0,  0,0,50,  None,None,0,0,0,0,0,0,Sound_Pack_7,cru_siren1,0,0,1,0,  0,1,1,  0,0,0,0,0,   5,0,500,50,30000, None,None,0,0,59,-30,50,0,None,None,1,0
+
+17,v34,135,  "Recall Pack (Lite)","2:Equipment-Teleport","","A smaller unit that allows the user to recall to a previous location.  Can hold a recall posistion for a minute.  It isn't quite as accurate as the larger pack.",  2000,10000,0,1,0,  1,-1,0,3000,0,  icons,gfx00008,0,0,68,-11,-10,0,    3000,100,1,0,0,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  6000,50,0,0,0,0,  0,0,10,  None,None,0,0,0,0,0,0,Sound_Pack_7,cru_siren1,0,0,0,0,  0,1,1,  0,0,0,0,0,   5,0,100,300,6000, None,None,0,0,59,-30,50,0,None,None,1,0
+
+11,v34,136,  "Medikit","2:Equipment-Medical","","This can be used by the medic to heal a teammate close to him by 30hp.  Uses 20 'Herbs' per use.",  6000,6000,0,0,0,  0,-1,0,3000,0,  None,None,0,0,0,0,0,0,    3100,20,1,0,0,  -2,-2,-2,-2,0,0,0,0,0,0,0,0,0,0,0,0,  0,300,200,0,0,0,  0,0,100,  effects,gfx00300,0,0,0,0,0,0,sounds,Wav00403,0,0,0,1,  0,1,1,  0,0,0,0,0,    0,-30,128,750,0,  effects,gfx00300,0,0,0,0,0,0,Sound_Pack_1,healer1,0,0
+
+11,v34,138,  "Surgeon's Kit","2:Equipment-Medical","","For intensive care on the battlefield.  This kit will even sew limbs back on. Uses 30 'Herbs' per use.",  8000,14000,0,0,0,  0,-1,0,7000,0,  None,None,0,0,0,0,0,0,    3100,30,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,200,0,0,0,  0,0,100,  effects,gfx00300,0,0,64,0,0,0,sounds,Wav00403,0,0,0,1,  0,1,1,  0,0,0,0,0,    0,-60,128,1000,0,  None,None,0,0,0,0,0,0,Sound_Pack_1,healer1,0,0
+
+14,v34,139,  "MediSpray Kit","2:Equipment-Medical","","Kit mixes herbs and medicinal liquids to create two healing sprays. Loses potency within 3 minutes. Uses 50 'Herbs' per use.",  10000,18000,0,0,0,  0,-1,0,9000,0,  None,None,0,0,0,0,0,0,    3100,50,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,200,0,0,0,  0,0,200,  None,None,0,0,0,0,0,0,sounds,wav00607,0,0,0,1,  0,1,1,  0,0,0,0,0,    140,-2
+
+11,v34,140,  "Healing Spray","2:Equipment-Medical","","This can be used by the medic to heal himself and those close to him by 75%.  Uses 50 'Herbs' per use.",  1000,0,0,0,0,  0,-4,0,0,18000,  None,None,0,0,0,0,0,0,    140,1,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,300,200,0,0,0,  0,0,100,  effects,gfx00300,0,0,0,0,0,0,sounds,Wav00403,0,0,0,1,  0,1,1,  0,0,0,0,0,    0,75,-600,750,1,  effects,gfx00300,0,0,0,0,0,0,Sound_Pack_1,healer1,0,0
+
+14,v34,141,  "Stimpack Kit","2:Equipment-Medical","","Used by the Medic to create a few stimpacks at a time. Uses 300 'Herbs' per use. Requires 'Medikit'.",  4000,5000,0,0,0,  0,-1,0,2500,0,  None,None,0,0,0,0,0,0,    3100,300,1,136,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,30,150,0,0,0,  0,0,150,  None,None,0,0,0,0,0,0,sounds,Wav00403,0,0,1,0,  0,1,1,  0,0,0,0,0,    142,-4
+
+11,v34,142,  "Stimpack","2:Equipment-Supplies","","Restores 50hp.",  500,250,0,1,0,  0,-4,0,0,0,  icons,gfx00007,0,0,6,37,31,0,    142,1,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,100,500,0,0,0,  0,0,300,  effects,gfx00300,0,0,0,0,0,0,sounds,Wav00403,0,0,1,1,  0,1,1,  0,0,0,0,0,    0,-50,0,500,1,  effects,gfx00300,0,0,0,0,0,0,CTFSounds,SteronInject,0,0
+
+11,v34,143,  "Deluxe Medikit","2:Equipment-Medical","","This can be used by the medic to heal himself and those close to him by 40hp. Uses 30 'Herbs' per use.",  7000,15000,0,0,0,  0,-1,0,8600,0,  None,None,0,0,0,0,0,0,    3100,30,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,300,350,0,0,0,  0,0,30,  effects,gfx00300,0,0,0,0,0,0,sounds,Wav00403,0,0,0,1,  0,1,1,  0,0,0,0,0,    0,-40,-150,400,1,  effects,gfx00300,0,0,0,0,0,0,Sound_Pack_1,healer1,0,0
+
+11,v34,144,  "WAHm","2:Equipment-Medical","","The Wide Area Heal module is a single use unit. It allows the Combat Medic to heal 40hp of friendly units within 7x the normal area. You must stand still for a third of a second to use it. Requires 'Deluxe Medikit'.",  1000,100,0,0,0,  0,0,0,100,0,  None,None,0,0,0,0,0,0,    144,1,1,143,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,300,450,0,0,0,  0,0,30,  effects,gfx00300,0,0,0,0,0,0,sounds,Wav00403,0,0,1,1,  0,1,1,  0,0,0,0,0,    0,-40,-700,400,1,  effects,gfx00300,0,0,0,0,0,0,Sound_Pack_1,healer1,0,0
+
+14,v34,145,  "C.C. Kit","2:Equipment-Medical","","Nullifies the pain and enables the soldier to absorb more injures. Uses 150 'Herbs' per use.",  400,7000,0,0,0,  1,-1,0,3500,0,  icons,gfx00004,0,0,0,-100,0,0,    3100,150,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,30,400,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,sounds,wav00607,0,0,0,0,  0,1,1,  0,0,0,0,0,    146,-1
+
+14,v34,146,  "Combat Cocktail","2:Equipment-Supplies","","Nullifies the pain and enables the soldier to absorb more injures.",  400,600,0,1,0,  1,-3,0,0,0,  icons,gfx00004,0,0,0,-100,0,0,    146,1,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,30,400,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,sounds,wav00607,0,0,0,0,  0,1,1,  0,0,0,0,0,    147,-1
+
+13,v34,147,  "(Endure Pain)","","","",  0,0,0,0,0,  0,-1,0,0,1000,  None,None,0,0,0,0,0,0,    0,0,0,0,  0,0,0,0,  0,0,100,  0,0,0,0,0,2,  None,None,0,0,  0,250,0,250,0,0,0,0,0,0,0,0
+
+14,v34,148,  "Steroid Kit","2:Equipment-Medical","","Boosts the users over all strength and speed for a short time. Uses 100 'Herbs' per use.",  500,6600,0,0,0,  0,-1,0,3300,0,  icons,gfx00004,0,0,0,0,0,0,    3100,100,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,30,400,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,sounds,wav00607,0,0,0,0,  0,1,1,  0,0,0,0,0,    149,-1
+
+14,v34,149,  "Steroid","2:Equipment-Supplies","","Boosts the users over all strength and speed for a short time.",  500,500,0,1,0,  0,-1,0,0,0,  icons,gfx00004,0,0,0,0,0,0,    163,1,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,30,400,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,sounds,wav00607,0,0,0,0,  0,1,1,  0,0,0,0,0,    150,-1
+
+13,v34,150,  "(Steroid Frenzy)","","","",  -5000,0,0,0,0,  0,-1,0,0,5000,  None,None,0,0,0,0,0,0,    0,0,0,0,  -1,-1,0,0,  0,0,0,  1000,1000,1500,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+
+6,v34,151,  "Cyberdeck V1.0","2:Equipment-Electronics","","Cyberdeck V1.0 allows you to hack into an autoGun's fire control system and disable it temporarily.  You need to connect the jack to the port on the autoGun's fire control panel and then overload its firewall. Takes 100 'Energy Cells' per use.  This should not take longer than 3 seconds.",  5000,8000,0,0,0,  0,-1,0,2000,0,  icons,gfx00008,0,0,0,0,0,0,    3000,100,1,0,0,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  50,150,300,0,0,0,  0,0,300,  None,None,0,0,0,0,0,0,Sound_Pack_1,commup1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 0,0,3000,0,1000, 0,0,0,0,12,    100000,300,0,0,0, 0,0,2,5,0, 0,0,0,0,0,0,    0,0,0,0,0,  24,0,800,0,800,0,0,  0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  None,None,24,0,0,0,0,0,None,None,24,0,0,0,0,0,None,None,24,0,0,0,0,0,None,None,24,0,37,65,-30,0,None,None,24,1,37,65,-30,0,  None,None,0,0,None,None,0,0,None,None,0,0
+
+6,v34,152,  "Cyberdeck V1.6","2:Equipment-Electronics","","Cyberdeck V1.6 allows you to hack into an autoGun's fire control system and disable it. Takes 200 'Energy Cells' per use.  This should not take longer than 5 seconds.",  5000,8000,0,0,0,  0,-1,0,2000,0,  icons,gfx00008,0,0,0,0,0,0,    3000,100,1,0,0, 0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  50,150,300,0,0,0,  0,0,500,  None,None,0,0,0,0,0,0,Sound_Pack_1,commup1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 0,0,3000,0,1000, 0,0,0,0,12,    100000,300,0,0,0, 0,0,2,5,0, 0,0,0,0,0,0,    0,0,0,0,0,  48,0,100000,0,100000,0,0,  0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  None,None,24,0,0,0,0,0,None,None,24,0,0,0,0,0,None,None,24,0,0,0,0,0,None,None,24,0,37,65,-30,0,None,None,24,1,37,65,-30,0,  None,None,0,0,None,None,0,0,None,None,0,0
+
+12,v34,153,  "Cyberdeck V2.0","2:Equipment-Electronics","","Cyberdeck V2.0 lets you jack in and take over disabled or disrupted autoGuns for a period of time.  You need to connect the jack to the port on the autoGun's fire control panel and then overload its firewall. Takes 600 'Energy Cells' per use.  This should not take longer than 5 seconds.",  5000,18000,0,0,0,  0,-1,0,4500,0,  icons,gfx00008,0,0,90,30,0,0,    3000,600,1,0,0,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  50,150,300,0,0,0,  0,0,500,  effects,gfx00302,0,0,55,15,0,0,Sound_Pack_1,comcntr1,0,0,0,1,  0,1,1,  0,0,0,0,0,    64,24000,  effects,gfx00302,0,0,42,15,0,0,Sound_Pack_1,00-i056,0,0
+
+12,v34,154,  "Cyberdeck V2.8","2:Equipment-Electronics","","Advanced personal computer that takes less energy. Takes 300 'Energy Cells' per use.  This should not take longer than 2 seconds.",  5000,26000,0,0,0,  0,-1,0,13000,0,  icons,gfx00008,0,0,86,30,0,0,    3000,300,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  50,150,300,0,0,0,  0,0,200,  effects,gfx00302,0,0,55,15,0,0,Sound_Pack_1,comcntr1,0,0,0,1,  0,1,1,  0,0,0,0,0,    192,24000,  effects,gfx00302,0,0,42,15,0,0,Sound_Pack_1,00-i056,0,0
+
+6,v34,155,  "EMP Generator MKI","2:Equipment-Electronics","","EMP Generator MKI lets you damage and disable autoguns in the area. Takes 300 'Energy Cells' per use.",  6000,32000,0,0,2,  1,-1,0,16000,0,  None,None,0,0,0,0,0,0,    0,0,1,0,0,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  150,10,0,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,10,0,0, 0,0,0,-1,1000, 0,1000,1000,0,0,    0,-50,0,0,0, 0,0,1,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  150,0,400,0,400,0,0,  0,0,  0,0,0,0,0,0,150,25000,25000,0,0,0,0,0,0,0,0,0,  plasma3,plasma2,72,0,0,0,0,0,plasma3,none,72,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,24,0,0,0,0,0,  None,None,0,0,None,None,0,0,None,None,0,0
+
+6,v34,156,  "EMP Generator MKII","2:Equipment-Electronics","","EMP Generator MKII lets you damage and disable  autoguns in the area. Takes 600 'Energy Cells' per use.",  6000,48000,0,0,2,  1,-1,0,24000,0,  None,None,0,0,0,0,0,0,    0,0,1,0,0,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  150,10,0,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,10,0,0, 0,0,0,-1,1000, 0,1000,1000,0,0,    0,-50,0,0,0, 0,0,1,0,0, 0,0,0,0,0,0,    0,0,0,0,0, 150,0,600,0,600,0,0,  0,0,  0,0,0,0,0,0,150,50000,50000,0,0,0,0,0,0,0,0,0,  plasma3,plasma2,72,0,0,0,0,0,plasma3,none,72,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,24,0,0,0,0,0,  None,None,0,0,None,None,0,0,None,None,0,0
+
+
+14,v34,157,  "Hydraulics","2:Equipment-Supplies","","Hydraulic system enabling suit to carry more weight. +5kg for 1 minute.",  0,34000,0,0,0,  0,-1,0,17000,0,  icons,gfx00004,0,0,0,0,0,0,    163,1,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,30,400,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,sounds,wav00607,0,0,0,0,  0,1,1,  0,0,0,0,0,    158,-1
+
+13,v34,158,  "(Strength)","","","Hydraulic system enabling suit to carry more weight. +5kg.",  -5000,0,0,0,0,  0,-1,0,0,6000,  None,None,0,0,0,0,0,0,    0,0,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+14,v34,159,  "Enhanced Hydraulics","2:Equipment-Supplies","","Improves hydraulic system enabling suit to carry more weight. +5kg. Requires use of 'Hydraulics' and that it is working.",  0,56000,0,0,0,  0,-1,0,28000,0,  icons,gfx00004,0,0,0,0,0,0,    160,1,1,158,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,30,400,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,sounds,wav00607,0,0,0,0,  0,1,1,  0,0,0,0,0,    160,-1
+
+13,v34,160,  "(Strength)","","","Hydraulic system enabling suit to carry more weight. +5kg. Requires use of 'Hydraulics' and that it is working.",  -5000,0,0,0,0,  0,-1,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+14,v34,161,  "Advanced Hydraulics","2:Equipment-Supplies","","Advanced hydraulic system enabling suit to carry more weight. +10kg.",  0,94000,0,0,0,  0,-1,0,47000,0,  icons,gfx00004,0,0,0,0,0,0,    160,1,1,0,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,30,400,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,sounds,wav00607,0,0,0,0,  0,1,1,  0,0,0,0,0,    162,-1
+
+13,v34,162,  "(Strength)","","","Improves suit's hydraulic system enabling it to carry more weight. +10kg.",  -10000,0,0,0,0,  0,-1,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+14,v34,163,  "SIS","2:Implants-Armor","","Steron injection system. Injects directly into body from pack. Requires 'Assassin Armor'. Lasts 10 seconds.",  1000,48000,0,0,0,  0,-1,0,24000,0,  None,None,0,0,0,0,0,0,    3000,200,1,40,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  50,0,500,0,0,0,  0,0,0,  None,None,0,0,46,90,-10,0,sounds,wav00603,0,0,0,0,  0,1,1,  0,0,0,0,0,    128,-1
+
+13,v34,164,  "(Discharging)","","","",  0,0,0,0,0,  0,-1,0,0,1000,  None,None,0,0,0,0,0,0,    0,0,0,0,  -1,-1,0,0,  0,0,0,  10000,10000,15000,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+14,v34,165,  "SCU","2:Implants-Armor","","Suit cloaking unit. Cloaks the user for a short time. Requires 'Assassin Armor'. Lasts 10 seconds.",  1000,28000,0,0,0,  0,-1,0,22575,0,  None,None,0,0,0,0,0,0,   3000,200,1,40,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,100,0,0,0,  0,0,0,  None,None,0,0,46,90,-10,0,sounds,wav00603,0,0,0,0,  0,1,1,  0,0,0,0,0,    166,-1
+
+13,v34,166,  "(Cloaking)","2:Implants-Armor","","",  0,0,0,0,0,  0,-1,0,0,1000,  None,None,0,0,0,0,0,0,    0,0,0,0,  0,0,0,0,  0,0,100,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+11,v34,167,  "EBT Receiver","2:Equipment-Electronics","","Energy is sent directly into the users suit via satellite and and to nearby units for 2 minutes.",  10000,67000,0,0,0,  0,-1,0,33500,0,  None,None,0,0,0,0,0,0,    3000,600,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,2300,0,0,0,  0,0,0,  effects,gfx00306,72,0,0,0,0,1,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    2,20000,-1200,12000,1,  AngarDA,Angarguage,0,0,0,0,0,12000000,None,None,0,0
+
+11,v34,168,  "Shield Stabilizer","2:Equipment-Electronics","","This will provide the user the ability to keep their teammates and his/her armor at full charge for a short time.  While engaged, the user cannot fire any other weapons and must hold down his shield stabilizer button. It is effective for preventing or reducing most damage from successive hits, thus it will render most of your team invulnerable to small armaments.",  10000,40000,0,0,2,  1,-1,0,20000,0,  None,None,0,0,0,0,0,0,    3000,30,20,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  100,0,300,0,0,0,  0,0,0,  none,none,0,0,0,0,0,0,None,None,0,0,0,1,  0,1,1,  0,0,0,0,0,    2,200,-1200,100,1,  AngarDA,Angarguage,0,0,0,0,0,100,None,None,0,0
+
+
+13,v34,169,  "D.R.A.G.O.O.N.","2:Implants-Armor","","Disconnected rapid armament group overlook operation network. Backpack and shoulder assembly that conrols D.R.A.G.O.O.N. bits.",  15000,50000,0,0,0,  1,-1,0,5000,0,  icons,gfx00002,0,0,0,0,0,0,    1,12,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,1,  sounds,wav00300,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,170,  "Stealth Coating (Heavy)","2:Implants-Armor","","A coat of radar absorbing material that prevents detection at a distance.  You are invisible on radar at all but the closest range.",  4000,20000,0,0,0,  0,-1,0,1000,0,  icons,gfx00008,0,0,0,0,0,0,    1,12,0,0,  0,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,171,  "Stealth Coating (Light)","2:Implants-Armor","","A coat of radar absorbing material that prevents detection at a distance.  This may let you flank somebody easier.",  2000,15000,0,0,0,  0,-1,0,7500,0,  icons,gfx00008,0,0,0,0,0,0,    1,12,0,0,  300,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+
+13,v34,172,  "Hawk Eye","2:Implants-Surgical","","Retinal modification that enhances motion detection capability, but you see everything in monochrome with this eye.  With the eye installed, a more effective active interface can be obtained and utilized.",  0,30000,0,0,0,  0,-1,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    1,13,0,0,  -1,-1,200,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,173,  "Cyber Eye","2:Implants-Surgical","","Complete natural eye replacement, passively providing thermographic vision.  With the eye installed, a more effective active interface can be obtained and utilized.",  0,60000,0,0,0,  0,-1,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    1,13,0,0,  -1,-1,0,800,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,174,  "Muscle Augmentation","2:Implants-Surgical","","The muscles are strengthened allowing them to carry more weight and increases their agility.",  -5000,40000,0,0,0,  0,-1,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    2,14,0,0,  -1,-1,0,0,  0,0,0,  0,0,150,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,175,  "Wired Reflexes","2:Implants-Surgical","","The nervous system is enhanced providing a faster brain-muscle neural interface.",  0,40000,0,0,0,  0,-1,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    2,14,0,0,  -1,-1,0,0,  0,0,0,  0,0,150,150,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,176,  "Bone Lacing","2:Implants-Surgical","","This procedure laces the recipient's bones with a material that strengthens them, leading to slightly higher resistance to shock as the bones are far more resistant to breaking.",  0,30000,0,0,0,  0,-1,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    2,14,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  2000,0,6000,0,0,0,0,0,0,0,0,0
+
+13,v34,177,  "Artifical Acutators","2:Implants-Surgical","","Augments the body allowing the user to move better.",  0,35000,0,0,0,  0,-1,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    2,14,0,0,  -1,-1,0,0,  0,0,0,  0,0,150,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,178,  "Improved Actuators","2:Implants-Surgical","","Improved Actuators. Augments the body further.",  0,45000,0,0,0,  0,-1,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    2,14,0,0,  -1,-1,0,0,  0,0,0,  150,150,150,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,179,  "Dermal Armor Plating","2:Implants-Surgical","","Subdermal ballistic plates grafted to the recipient's skin.  This results in a rather blocky appearance.  They also itch occasionally.",  0,30000,0,-1,0,  0,-1,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    1,15,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  1000,0,0,0,0,0,0,0,1000,0,0,0
+
+13,v34,180,  "Dermal Rubber Lacing","2:Implants-Surgical","","Subdermal electric-absorbing rubber grafted to the recepient's skin.  You have to be a little more careful when walking around, since the plates break occasionally.",  0,30000,0,-1,0,  0,-1,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    1,15,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,2000,0,0,0,0,0,0,0
+
+13,v34,181,  "Dermal Fiber Graft","2:Implants-Surgical","","Subdermal fibers grafted to the recipient's skin, adding to resistance from ballistic effects.  The heavy new skin takes some time getting used to.",  0,30000,0,0,0,  0,-1,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    1,15,0,0,  -1,-1,0,0,  0,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,2000,0
+
+13,v34,182,  "Skin Stealth Graft","2:Implants-Surgical","","Highly advanced form of stealth technology that employes nanobots grafted to the recepient's skin that detach and form a diffuse cloud to absorb incoming detection rays.  Firing weapons disperses the cloud and gives away your position on long range sensors.",  0,30000,0,0,0,  0,-1,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    1,15,0,0,  400,-1,0,0,  0,400,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+13,v34,183,  "Skin Sheathe","2:Implants-Surgical","","Highly advanced form of cloaking that bypasses the armor worn by the user.  While this is a technological marvel, it also is nowhere near as effective as normal cloaking devices, especially when it comes to recloaking after a disturbance, such as firing one's weapons.  Since the sheathe's effective cloaking distance is also a lot longer than a normal cloak, it is not necessary to have advanced thermographic imaging in order to see somebody cloaked by the sheathe at a distance.  However, having a platoon of invisible heavy weapons infantry sneaking by could be an effective tactic.",  0,30000,0,0,0,  0,-1,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    1,15,0,0,  -1,600,0,0,  0,0,400,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+15,v34,184,  "Surgical Removal-Eye Repair","2:Implants-Surgical","","This procedure replaces the patient's artifical eye with their real one. Warning this procedure cost money even if you dont have anything repaired and also removes one implant at a time.",  0,10000,0,0,0,  0,0,0,-1,0,  None,None,0,0,0,0,0,0,  173,3202,174,3205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+15,v34,185,  "Surgical Removal-Body Repair","2:Implants-Surgical","","This procedure removes the patient's artifical body enhancments. Warning this procedure cost money even if you dont have anything repaired and also removes one implant at a time.",  0,10000,0,0,0,  0,0,0,-1,0,  None,None,0,0,0,0,0,0,  174,3203,175,3203,176,3202,177,3202,178,3203,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+15,v34,186,  "Surgical Removal-Skin Repair","2:Implants-Surgical","","This procedure removes the patient's artifical skin enhancments. Warning this procedure cost money even if you dont have anything repaired and also removes one implant at a time.",  0,10000,0,0,0,  0,0,0,-1,0,  None,None,0,0,0,0,0,0,  179,3202,180,3202,181,3202,182,3202,183,3202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+14,v34,187,  "Power Cell kit","2:Equipment-Engineering","","Compresses energy cores into a powercell. Uses 10 'Energy Core' per use.",  1000,12000,0,1,0,  1,-1,0,0,0,  icons,gfx00002,0,0,0,0,0,0,    3101,10,2,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  200,30,300,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,sounds,wav00607,0,0,0,0,  0,1,1,  0,0,0,0,0,    188,-1
+
+14,v34,188,  "Power Cell","2:Equipment-Supplies","","Restores weapon energy Pack to full power.",  1000,700,0,1,0,  1,-2,0,0,0,  icons,gfx00007,0,3,50,0,10,0,    188,1,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,30,400,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,sounds,wav00607,0,0,0,0,  0,1,1,  0,0,0,0,0,    3000,-600
+
+11,v34,189,  "Repair:Toolset","2:Equipment-Engineering","","Allows the engineer to repair things. Uses 30 'Energy Cells' per use, repairs 50 hit points.  Must stand still for 3 seconds while repairing.",  3000,3500,0,0,0,  0,-1,0,1000,0,  None,None,0,0,0,0,0,0,    3000,30,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,300,0,0,0,  0,0,280,  effects,gfx00301,0,0,64,0,0,0,Sound_Pack_2,repair11,0,0,1,1,  0,1,1,  0,0,0,0,0,    1,-50,128,100,0,  None,None,0,0,0,0,0,0,Sound_Pack_1,00-i076,0,0
+
+11,v34,190,  "Repair:Welding kit","2:Equipment-Engineering","","Allows the engineer to repair things. Uses 70 'Energy Cells' per use, repairs 75 hit points.  Must stand still for 3 seconds while repairing.",  7500,12500,0,0,0,  0,-1,0,13000,0,  None,None,0,0,0,0,0,0,    3000,70,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,300,0,0,0,  0,0,280,  effects,gfx00301,0,0,64,0,0,0,Sound_Pack_2,repair11,0,0,1,1,  0,1,1,  0,0,0,0,0,    1,-75,128,100,0,  None,None,0,0,0,0,0,0,Sound_Pack_1,00-i076,0,0
+
+11,v34,191,  "Repair:Nano-Machines","2:Equipment-Engineering","","Allows the engineer to repair multiple things in the area per use. Uses 100 'Energy Cells' per use, repairs 60 hit points. ",  7500,12500,0,0,0,  0,-1,0,13000,0,  None,None,0,0,0,0,0,0,    3000,100,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,300,0,0,0,  0,0,0,  effects,gfx00301,0,0,64,0,0,0,Sound_Pack_2,repair11,0,0,1,1,  0,1,1,  0,0,0,0,0,    1,-60,-128,100,0,  None,None,0,0,0,0,0,0,Sound_Pack_1,00-i076,0,0
+
+11,v34,192,  "Repair:Nano-Cluster","2:Equipment-Engineering","","Focuses Nano-Machines on one area. Requires 'Repair:Nano-Machines'.",  7500,200000,0,0,0,  0,-1,0,200000,0,  None,None,0,0,0,0,0,0,    3000,100,1,169,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,300,0,0,0,  0,0,280,  effects,gfx00301,0,0,64,0,0,0,Sound_Pack_2,repair11,0,0,1,1,  0,1,1,  0,0,0,0,0,    1,-180,128,100,0,  None,None,0,0,0,0,0,0,Sound_Pack_1,00-i076,0,0
+
+6,v34,193,  "Nano-Machine Storm","2:Equipment-Engineering","","Activate nano-machine's attack protacal to damage nearby enemies. Requires 'Repair:Nano-Machines'.",  5000,300000,0,0,0,  0,-1,0,150000,0,  None,None,0,0,80,0,-20,0,   3000,1,60,50,1,  0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,  10,0,500,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,10,0,0, 0,0,0,-1,1000, 0,1000,1000,0,0,    0,-50,0,0,0, 0,0,1,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,0,0,0,150,1000,1000,0,0,0,0,0,0,150,1000,1000,  none,none,48,0,0,0,0,0,none,none,48,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,24,0,0,0,0,0,  None,None,0,0,None,None,0,0,None,None,0,0
+
+
+7,v34,194,  "Mini-Factory","2:Equipment-Engineering","","Gives the engineer access to basic building items.  The microbase gives the engineer access to walls, sandbags, gates, and razor wires. The macrobase gives access to bunkers and pdbs. Robotics workshop gives access to turrets. Ammo crates allow team to supplies on the battlefront..",  10000,140000,0,0,0,  0,-1,0,70000,0,  icons,gfx00008,0,0,77,0,8,0,    0,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,300,  effects,gfx00301,0,0,99,0,5,0,Sound_Pack_1,cashturn,0,0,1,0,  0,1,1,  0,0,0,0,0,100
+
+7,v34,195,  "Robotics Tech Base","2:Equipment-Engineering","","Contains kits to create automated turrets.",  3000,0,0,1,0,  0,-2,0,0,0,  icons,gfx00008,0,0,77,0,8,0,    195,1,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,300,  effects,gfx00301,0,0,99,0,5,0,Sound_Pack_1,cashturn,0,0,1,0,  0,1,1,  0,0,0,0,0,    101
+
+7,v34,196,  "Microbase","2:Equipment-Engineering","","Contains materials used to create fortifications.",  3000,0,0,1,0,  0,-2,0,0,0,  icons,gfx00008,0,0,77,0,8,0,    196,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,300,  effects,gfx00301,0,0,99,0,5,0,Sound_Pack_1,cashturn,0,0,1,0,  0,1,1,  0,0,0,0,0,    102
+
+7,v34,197,  "Macrobase","2:Equipment-Engineering","","Contains materials to create bunkers and strong bases.",  5000,0,0,1,0,  0,-1,0,0,0,  icons,gfx00008,0,0,77,0,8,0,    197,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,300,  effects,gfx00301,0,0,99,0,5,0,Sound_Pack_1,cashturn,0,0,1,0,  0,1,1,  0,0,0,0,0,    103
+
+
+7,v34,198,  "AutoGun HMG","","","AutoGun-Heavy Machine Gun. (HMG:>Kn 15/10, By 10/5, En 15/10 Ammo Capacity 20).",  10000,0,0,1,0,  1,-4,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    198,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,250,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    104
+
+6,v34,199,  "HMG","","","",  0,0,0,0,1,  0,-1,0,0,0,  None,None,0,0,90,0,0,0,    0,1,20,0,0,  0,0,0,0,0,0,-1,0,-1,0,0,0,0,0,0,-1,  25,250,250,0,0,0,  5,1,1,  None,None,0,0,0,0,0,0,None,None,0,0,1,0,  0,1,1,  0,0,0,0,0,    10000,0,0,0,-2,2, 0,0,5500,-1,1000, 0,0,0,0,9,    0,400,0,0,50, 0,5,1,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  9,15000,10000,0,0,0,0,0,0,0,0,0,9,10000,5000,9,15000,10000,  KProjectiles,muzzle,10,0,0,0,0,0,weapons,gfx00203,23,1,50,0,0,0,weapons,gfx00201,72,0,0,0,0,0,None,None,0,0,0,0,0,0,weapons,gfx00509,0,1,0,0,0,10,  ctf,Mchngun,0,0,aao,ric_metal-2,0,0,None,None,0,0
+
+7,v34,200,  "AutoGun Plasma","","","Auto Gun-Fusion. (Plasma:> Ex 10/5, El 20/15, En 30/25 Ammo Capacity 10).",  10000,0,0,1,0,  1,-6,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    200,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,250,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    105
+
+6,v34,201,  "Plasma","","","",  0,0,0,0,1,  1,-1,0,0,0,  icons,gfx00005,0,0,0,0,0,0,    0,1,10,0,0,  0,0,0,0,0,0,-1,0,-1,0,0,0,0,0,0,-1,  50,100,250,32000,32000,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,300,0,0,-2,2, 0,0,4500,0,1000, 2,1000,1000,0,4,    0,1000,1,1000,0, 0,5,1,10,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2009,  0,0,0,4,10000,5000,4,20000,15000,0,0,0,0,0,0,4,30000,25000,  KProjectiles,muzzlesingle,24,0,0,0,0,0,Weapons,gfx00505,24,1,0,0,0,0,Weapons,gfx00204,24,1,0,0,0,0,None,None,0,0,0,0,0,0,weapons,gfx00230,24,1,0,0,0,0,  sounds,photon,5,0,aao,ric3,4,0,None,wav00000,0,0
+
+7,v34,202,  "AutoGun Laser","","","Auto Gun-Fusion. (Laser:> El 20/15, By 10/5, En 30/25 Ammo Capacity 8).",  10000,0,0,1,0,  1,-4,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    202,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,250,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    106
+
+6,v34,203,  "Laser","","","",  0,0,0,0,0,  1,-1,0,-1,0, icons,gfx00006,0,1,34,0,0,0,    0,1,8,0,0,  0,0,0,0,0,0,-1,0,-1,0,0,0,0,0,0,-1,  50,80,250,0,0,0,  0,0,1,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,-2,2, 0,0,7500,0,1000, 0,0,0,0,5,    0,1000,1,1000,0, 0,5,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2014,  0,0,0,0,0,0,5,20000,15000,0,0,0,5,10000,5000,5,40000,40000,  weapons,gfx00302,24,1,0,0,0,5,None,None,24,1,0,0,0,0,None,None,0,0,0,0,0,0,Projectiles2,PBeamSmall,24,1,5,-30,100,10,weapons,gfx00230,24,1,0,0,0,0,  Sound_Pack_3,pistolLaserSingle1,5,0,Sound_Pack_3,Metal_Prod2,5,0,None,None,0,0
+
+7,v34,204,  "AutoGun Vulcan","","","Auto Gun-Vulcan. (HMG:>Kn 10/5, By 15/10, En 15/10 Ammo Capacity 30).",  10000,0,0,1,0,  1,-3,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    204,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,250,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    107
+
+6,v34,205,  "Vulcan","","","",  0,0,0,0,0,  0,-1,0,0,0,  None,None,0,0,0,0,0,0,    0,1,30,0,0,  0,0,0,0,0,0,-1,0,-1,0,0,0,0,0,0,-1,  20,0,300,32000,32000,0,  15,0,1,  plasma,TriGaussFade,10,0,0,0,0,18,None,None,0,0,1,1,  0,1,1,  0,0,0,0,0,    10000,0,0,0,-2,2, 0,0,5500,-1,1000, 0,0,0,0,3,    0,1000,0,0,0, 0,5,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  3,10000,5000,0,0,0,0,0,0,0,0,0,3,10000,5000,3,8000,8000,  MuzzleFlashes,MuzzleFlashA,16,0,0,0,0,0,weapons,gfx00300,0,0,0,50,0,0,None,None,0,0,0,0,0,0,weapons,gfx00300,23,0,0,50,0,1,weapons,gfx00202,24,0,0,0,0,0,  Sound_Pack_7,0022_1,5,0,weapons2,richochet1,5,0,None,None,0,0
+
+7,v34,206,  "AutoGun Broiler","","","Auto Gun-Broiler. (Broiler:> El 30/20, By 10/5, En 20/10 Ammo Capacity 8).",  15000,0,0,1,0,  1,-2,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    206,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,250,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    108
+
+6,v34,207,  "Broiler","","","",  0,0,0,0,1,  0,-1,0,0,0,  icons,gfx00006,0,1,46,100,-10,0,    0,1,8,0,0,  0,0,0,0,0,0,-1,0,-1,0,0,0,0,0,0,-1,  60,200,300,0,0,0,  0,0,10,  None,None,0,0,0,0,0,0,None,None,0,0,1,0,  0,1,1,  0,0,0,0,0,    10000,300,0,0,-3,3, 0,0,5500,-1,1000, 0,0,0,0,64,    0,1000,1,1000,0, 0,5,1,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,0,0,0,64,30000,20000,0,0,0,64,10000,5000,64,20000,10000,  weapons,gfx00232,24,0,0,0,0,10,weapons,gfx00200,41,3,49,100,100,0,weapons,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,32,0,0,0,0,0,  Sound_Pack_3,laserSingle2,5,0,Sound_Pack_3,Metal_Plasma1,5,0,None,None,0,0
+
+7,v34,208,  "AutoGun Flamer","","","Auto Gun-Flamer.",  15000,0,0,1,0,  1,-6,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    208,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,250,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    109
+
+6,v34,209,  "Flamer","","","",  0,0,0,0,0,  0,-1,0,0,0,  icons,gfx00003,0,0,0,0,0,0,    0,1,10,0,0,  0,0,0,0,0,0,-1,0,-1,0,0,0,0,0,0,-1,  50,150,300,0,200,0,  50,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 0,0,5000,-1,1000, 0,1000,1000,0,20,    100,-50,0,0,0, 0,5,1,10,0, 2000,0,30,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2036,  0,0,0,20,25000,20000,0,0,0,0,0,0,20,10000,5000,20,15000,10000,  weapons,gfx00212,24,0,95,-100,0,0,KIncin,fireballgrow,25,0,95,0,0,0,weapons,none,24,1,0,0,0,0,KIncin,fireball,24,0,95,0,0,0,KProjectiles,gfx00205fix,24,0,95,0,0,0,  sounds,wav00503,4,0,sounds,wav00502,4,0,None,wav00000,0,0
+
+7,v34,210,  "AutoGun Maser","","","Auto Gun-Maser.",  15000,0,0,1,0,  1,-2,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    210,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,250,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    110
+
+6,v34,211,  "Maser Burst","","","",  0,0,0,0,0,  0,-1,0,0,0,  icons,gfx00006,0,1,34,0,0,0,    0,0,1,0,0,  0,0,0,0,0,0,-1,0,-1,0,0,0,0,0,0,-1,  300,80,0,0,0,0,  0,0,60,  None,None,0,0,0,0,0,0,Sound_Pack_1,appear1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,0,1000, -1,0,0,0,64,    0,200,0,0,0, 0,5,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2019,  0,0,0,0,0,0,64,30000,20000,0,0,0,64,10000,5000,64,20000,10000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,Pbeam,0,0,31,0,0,40,weapons,gfx00230,0,0,0,0,0,130,  Sound_Pack_2,railgun,5,0,Sound_Pack_3,Metal_Laser1,5,0,None,None,0,0
+
+7,v34,212,  "Sentry","","","Sentry",  15000,0,0,1,0,  1,-8,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    212,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,250,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    111
+
+6,v34,213,  "Sentry Detector","","","",  0,0,1,0,0,  1,1,0,-1,0,  None,None,0,0,0,0,0,0,    0,0,10,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  20,30,0,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,0,0,0,0,0, 0,0,9000,0,1000, -1,0,0,0,0,    -9000,400,0,0,0, 0,0,0,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  weapons,gfx00221,24,0,0,0,0,20,None,None,24,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,24,0,0,0,0,0,ctf,CrossHair,24,0,0,0,0,20,  CTFSounds,WarningKlaxon,0,0,None,None,0,0,None,None,0,0
+
+13,v34,214,  "Sentry TD","","","Teleport Disruptor mounted in the Sentry.",  0,0,0,1,0,  1,1,0,-1,0,  icons,gfx00002,0,0,0,0,0,0,    1,0,0,0,  -1,-1,0,0,  512,0,0,  0,0,0,0,0,2,  None,None,0,0,  0,0,0,0,0,0,0,0,0,0,0,0
+
+7,v34,215,  "Sentry V2","","","Sentry V2",  15000,0,0,1,0,  1,-8,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    215,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,250,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    112
+
+6,v34,216,  "Sentry Detector V2","","","",  0,0,1,0,0,  1,1,0,-1,0,  None,None,0,0,0,0,0,0,    0,0,10,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  70,30,500,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,0,0,0,0,0, 0,0,9000,0,1000, -1,0,0,0,0,    0,300,0,0,0, 0,0,0,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  20,0,0,50,25,0,0,  0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  weapons,gfx00221,24,0,0,0,0,20,None,None,24,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,24,0,0,0,0,0,ctf,CrossHair,24,0,0,0,0,20,  CTFSounds,WarningKlaxon,0,0,None,None,0,0,None,None,0,0
+
+7,v34,237,  "AutoGun Rocket","","","Auto Gun-Rocket.",  15000,0,0,1,0,  1,-1,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    237,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,250,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    113
+
+6,v34,218,  "Rocket","","","",  0,0,0,0,0,  1,-1,0,0,0,  icons,gfx00010,0,0,0,0,0,0,    0,0,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  500,0,0,32000,32000,0,  0,0,0,  effects,gfx00302,0,0,0,0,0,0,Sound_Pack_3,TurretAttack1,0,0,1,0,  0,1,1,  0,0,0,0,0,    10000,0,0,0,0,0, 0,0,8000,-1,0, 0,0,0,0,20,    0,1000,0,0,0, 0,20,0,10,128, 3000,0,200,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  20,20000,15000,100,80000,50000,0,0,0,0,0,0,0,0,0,100,80000,50000,  None,None,0,0,0,0,0,0,weapons4,HeatRound,0,0,90,0,0,0,weapons,gfx00201,0,0,0,0,0,0,weapons,gfx00212,24,0,95,0,0,50,weapons,Gfx00501,0,0,0,0,0,0,  Sound_Pack_1,bazook1,4,0,Sound_Pack_1,bomb1,0,0,sounds,Wav00108,0,0
+
+7,v34,219,  "Razor Wire","","","Barbed wires that hinder enemies movement.",  1000,0,0,1,0,  1,-30,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    219,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,100,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    114
+
+6,v34,220,  "Razor Edge","","","",  0,0,0,0,0,  0,-1,0,0,0,  icons,gfx00003,0,0,0,0,0,0,    0,1,2,0,0,  0,0,0,0,0,0,-1,0,-1,0,0,0,0,0,0,-1,  20,150,300,0,200,0,  50,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 0,0,1000,-1,1000, 0,1000,1000,0,20,    100,-2,0,0,0, 0,5,1,10,0, 2000,0,30,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,0,0,0,0,0,0,0,0,0,20,5000,5000,20,15000,10000,  weapons,none,24,0,95,-100,0,0,KIncin,none,25,0,95,0,0,0,weapons,none,24,1,0,0,0,0,KIncin,none,24,0,95,0,0,0,KProjectiles,none,24,0,95,0,0,0,  sounds,none,4,0,sounds,none,4,0,None,wav00000,0,0
+
+7,v34,221,  "Sandbags","","","Deploys sandbags. Can be setup for some cover when there is need.",  5000,0,0,1,0,  1,-20,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    221,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,150,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    115
+
+7,v34,222,  "Sandbag Wall","","","Deploys sandbags stacked together to form a wall.",  8000,0,0,1,0,  1,-4,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    222,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,200,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    116
+
+7,v34,223,  "Sandbag Razor Wall","","","Deploys sandbag walls with razor wire tops.",  9000,0,0,1,0,  1,-4,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    223,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,200,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    118
+
+7,v34,224,  "Concrete Wall","","","Deploys a concrete wall.",  14000,0,0,1,0,  1,-6,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    224,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,250,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    121
+
+7,v34,225,  "Fortified Wall","","","Deploys concrete walls with razor wire tops.",  15000,0,0,1,0,  1,-3,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    225,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,250,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    123
+
+7,v34,226,  "Gate","","","Builds a gate entrance for your base.",  8000,0,0,1,0,  1,-4,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    226,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,300,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    125
+
+7,v34,227,  "Tall Gate","","","Builds a gate entrance for your base.",  16000,0,0,1,0,  1,-3,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    227,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,350,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    126
+
+7,v34,228,  "Fortified Gate","","","Builds a gate entrance for your base.",  17000,0,0,1,0,  1,-2,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    228,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,400,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    128
+
+7,v34,229,  "Concrete Block","","","Deploys a concrete block.",  7000,0,0,1,0,  1,-8,0,-1,0,  icons,gfx00008,0,0,0,0,0,0,    229,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,200,  effects,gfx00301,0,0,0,0,0,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    130
+
+7,v34,230,  "PDB MG","","","Builds a PDB.",  20000,0,0,1,0,  0,-1,0,0,0,  icons,gfx00008,0,0,33,0,8,0,   230,1,1,0,0,  0,0,0,0,0,0,-1,-1,0,0,0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,400,  effects,gfx00301,0,0,36,0,5,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    131
+
+8,v34,231,  "Dual VMG","","","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    0,0,6,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  25,180,150,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    Sound_Pack_3,heavysingle2,0,0,  2026,5,0,0,0,0,  2026,-5,0,0,0,0
+
+7,v34,232,  "PDB AC","","","Builds a PDB.",  20000,0,0,1,0,  0,-1,0,0,0,  icons,gfx00008,0,0,33,0,8,0,    232,1,1,0,0, 0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,500,  effects,gfx00301,0,0,36,0,5,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    133
+
+6,v34,233,  "VAutoCannon","","","",  0,0,0,0,1,  1,1,0,-1,0,  icons,gfx00006,0,0,0,0,0,0,    0,1,5,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  25,200,400,3096,200,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,0,0,0,0,0, -1,-1,6000,-1,0, 0,0,0,0,2,    0,-400,0,0,0, 0,0,0,4,64, 1000,0,100,0,100,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2027,  64,20000,15000,64,25000,10000,0,0,0,0,0,0,0,0,0,64,40000,40000,  KProjectiles,muzzle,24,1,0,0,0,0,weapons,gfx00300,24,1,95,0,20,0,weapons,gfx00201,24,1,0,0,0,0,weapons,gfx00203,28,1,0,0,0,0,ExplosionEffects,DeathExplosion05_,0,0,0,0,0,0,  sounds,Wav00400,1,0,sounds,Wav00500,0,0,None,None,0,0
+
+7,v34,234,  "PDB RT","","","Builds a PDB.",  20000,0,0,1,0,  0,-1,0,0,0,  icons,gfx00008,0,0,33,0,8,0,    234,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,600,  effects,gfx00301,0,0,36,0,5,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    135
+
+8,v34,235,  "Rocket Left","","","",  0,0,0,0,1,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    0,0,3,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  150,35,300,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    Sound_Pack_2,rocket1,6,0,  2031,-20,0,0,0,0
+
+8,v34,236,  "Rocket Right","","","",  0,0,0,0,2,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    0,0,3,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  150,35,300,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    Sound_Pack_2,rocket1,6,0,  2031,20,0,0,0,0
+
+7,v34,239,  "PDB FK","","","Builds a PDB.",  20000,0,0,1,0,  0,-1,0,0,0,  icons,gfx00008,0,0,33,0,8,0,    237,1,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,600,  effects,gfx00301,0,0,36,0,5,0,Sound_Pack_1,cnstdeploy,0,0,1,0,  0,1,1,  0,0,0,0,0,    137
+
+8,v34,238,  "Plasma Flak Launcher","","","",  0,0,0,0,9,  1,-1,0,0,0,  None,None,0,0,0,0,0,0,    0,1,1,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  800,0,0,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,ctf,Cannon_recoil,8,0,0,0,  0,1,1,  0,0,0,0,0,    weapons2,gun2,8,0,  2042,0,0,0,-5,0,  2044,0,0,0,-5,0,  2042,0,0,0,5,0,  2044,0,0,0,5,0,  2042,0,0,0,-10,0,  2044,0,0,0,-10,0,  2042,0,0,0,10,0,  2044,0,0,0,10,0,2045,10,0,0,0,0,2045,-10,0,0,0,0,2045,20,0,0,0,0,2045,-20,0,0,0,0
+,2045,10,0,0,0,0,2045,-10,0,0,0,0,2045,20,0,0,0,0,2045,-20,0,0,0,0
+,2045,10,0,0,0,0,2045,-10,0,0,0,0,2045,20,0,0,0,0,2045,-20,0,0,0,0
+
+8,v34,240,  "Flak Launcher","","","",  0,0,0,0,9,  1,-1,0,0,0,  None,None,0,0,0,0,0,0,    0,1,1,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  400,0,0,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,ctf,Cannon_recoil,8,0,0,0,  0,1,1,  0,0,0,0,0,    weapons2,gun2,8,0,  2047,0,0,0,-5,0,  2048,0,0,0,-5,0,  2047,0,0,0,5,0,  2048,0,0,0,5,0,  2047,0,0,0,-10,0,  2048,0,0,0,-10,0,  2047,0,0,0,10,0,  2048,0,0,0,10,0,  2047,0,0,0,-5,0,  2048,0,0,0,-5,0,  2047,0,0,0,5,0,  2048,0,0,0,5,0,  2047,0,0,0,-10,0,  2048,0,0,0,-10,0,  2047,0,0,0,10,0,  2048,0,0,0,10,0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6,v34,1448,  "Maser Rifle","Laser","!(%1|%2)","The Maser equivelent of the Laser Rifle, ignores physical objects.",  7000,30000,0,0,1,  0,-1,0,15000,0,  icons,gfx00006,0,1,34,0,0,0,    0,12,5,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  10,80,200,0,0,0,  0,0,1,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, -1,0,0,0,0,    0,200,0,0,0, 0,0,2,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,1344,  4,12000,12000,0,0,0,4,3000,3000,0,0,0,0,0,0,4,15000,15000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,PBeamSmall,0,0,31,0,0,20,weapons,gfx00230,0,0,0,0,0,0,  Sound_Pack_3,pistolLaserSingle1,5,0,Sound_Pack_3,Metal_Prod2,5,0,None,None,0,0
+
+6,v34,1452,  "Maser Rifle Overload","Laser","!(%1|%2)","The overload upgrade.",  3000,20000,0,0,1,  0,-1,0,10000,0,  icons,gfx00006,0,1,34,0,0,0,    0,60,1,0,1,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  450,80,0,0,0,0,  0,0,60,  None,None,0,0,0,0,0,0,Sound_Pack_1,appear1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, -1,0,0,0,0,    0,200,0,0,0, 0,0,2,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,1450,  4,36000,21000,0,0,0,4,9000,9000,0,0,0,0,0,0,4,30000,30000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,Pbeam,0,0,31,0,0,40,weapons,gfx00230,0,0,0,0,0,130,  Sound_Pack_2,railgun,5,0,Sound_Pack_3,Metal_Laser1,5,0,None,None,0,0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6,v34,2000,  "Deflection Field 50r","","NO ONE","",  0,0,0,0,0,  1,0,0,0,0,  None,None,0,0,80,0,-20,0,    0,0,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  5,200,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,10,0,0, 0,0,0,-1,1000, 0,1000,1000,0,0,    0,-1,0,0,0, 0,0,1,0,50, 0,0,100,400,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,80,0,-10,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,24,0,0,0,0,0,  None,None,0,0,None,None,0,0,None,None,0,0
+
+6,v34,2001,  "Deflection Field 150r","","NO ONE","",  0,0,0,0,0,  1,0,0,0,0,  None,None,0,0,80,0,-20,0,    0,0,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  5,200,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,10,0,0, 0,0,0,-1,1000, 0,1000,1000,0,0,    0,-1,0,0,0, 0,0,1,0,150, 0,0,100,200,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,80,0,-10,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,24,0,0,0,0,0,  None,None,0,0,None,None,0,0,None,None,0,0
+
+6,v34,2002,  "Deflection Field 200r","","NO ONE","",  0,0,0,0,0,  1,0,0,0,0,  None,None,0,0,80,0,-20,0,    0,0,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  5,200,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,10,0,0, 0,0,0,-1,1000, 0,1000,1000,0,0,    0,-1,0,0,0, 0,0,1,0,200, 0,0,100,100,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,80,0,-10,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,24,0,0,0,0,0,  None,None,0,0,None,None,0,0,None,None,0,0
+
+6,v34,2003,  "Deflection Field 250r","","NO ONE","",  0,0,0,0,0,  1,0,0,0,0,  None,None,0,0,80,0,-20,0,    0,0,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  5,200,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,10,0,0, 0,0,0,-1,1000, 0,1000,1000,0,0,    0,-1,0,0,0, 0,0,1,0,250, 0,0,100,50,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,80,0,-10,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,24,0,0,0,0,0,  None,None,0,0,None,None,0,0,None,None,0,0
+
+6,v34,2004,  "Laser Burst","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,80,0,-20,0,    3000,100,1,56,1,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,32000,32000,0,  0,0,0,  None,None,0,0,0,0,0,0,Sound_Pack_1,appear1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, 0,0,0,0,4,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2004,  0,0,0,0,0,0,4,35000,30000,0,0,0,4,15000,10000,4,30000,30000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,Pbeam,0,0,31,0,0,40,weapons,gfx00230,0,0,0,0,0,130,  Sound_Pack_2,railgun,5,0,Sound_Pack_3,Metal_Laser1,5,0,None,None,0,0
+
+6,v34,2005,  "Laser Burst","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,80,0,-20,0,    3000,100,1,56,1,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,32000,32000,0,  0,0,0,  None,None,0,0,0,0,0,0,Sound_Pack_1,appear1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, 0,0,0,0,4,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2006,  0,0,0,0,0,0,4,35000,30000,0,0,0,4,15000,10000,4,30000,30000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,Pbeam,0,0,31,0,0,40,weapons,gfx00230,0,0,0,0,0,130,  Sound_Pack_2,railgun,5,0,Sound_Pack_3,Metal_Laser1,5,0,None,None,0,0
+
+6,v34,2006,  "Laser Burst","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,80,0,-20,0,    3000,100,1,56,1,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,32000,32000,0,  0,0,0,  None,None,0,0,0,0,0,0,Sound_Pack_1,appear1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, 0,0,0,0,4,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2007,  0,0,0,0,0,0,4,35000,30000,0,0,0,4,15000,10000,4,30000,30000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,Pbeam,0,0,31,0,0,40,weapons,gfx00230,0,0,0,0,0,130,  Sound_Pack_2,railgun,5,0,Sound_Pack_3,Metal_Laser1,5,0,None,None,0,0
+
+6,v34,2007,  "Laser Burst","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,80,0,-20,0,    3000,100,1,56,1,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,32000,32000,0,  0,0,0,  None,None,0,0,0,0,0,0,Sound_Pack_1,appear1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, 0,0,0,0,4,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2008,  0,0,0,0,0,0,4,35000,30000,0,0,0,4,15000,10000,4,30000,30000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,Pbeam,0,0,31,0,0,40,weapons,gfx00230,0,0,0,0,0,130,  Sound_Pack_2,railgun,5,0,Sound_Pack_3,Metal_Laser1,5,0,None,None,0,0
+
+6,v34,2008,  "Laser Burst","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,80,0,-20,0,    3000,100,1,56,1,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  0,0,0,32000,32000,0,  0,0,0,  None,None,0,0,0,0,0,0,Sound_Pack_1,appear1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, 0,0,0,0,4,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,0,0,0,4,35000,30000,0,0,0,4,15000,10000,4,30000,30000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,Pbeam,0,0,31,0,0,40,weapons,gfx00230,0,0,0,0,0,130,  Sound_Pack_2,railgun,5,0,Sound_Pack_3,Metal_Laser1,5,0,None,None,0,0
+
+6,v34,2009,  "Plasma","","NO ONE","",  0,0,0,0,1,  1,-1,0,0,0,  icons,gfx00005,0,0,0,0,0,0,    0,1,10,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  100,100,250,32000,32000,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,300,0,0,-3,3, 0,0,-4500,-1,1000, 2,1000,1000,0,4,    0,1000,1,1000,0, 0,50,1,10,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2010,  0,0,0,4,10000,5000,4,20000,15000,0,0,0,0,0,0,4,30000,25000,  KProjectiles,muzzlesingle,24,0,0,0,0,0,Weapons,gfx00505,24,1,0,0,0,0,Weapons,gfx00204,24,1,0,0,0,0,None,None,0,0,0,0,0,0,weapons,gfx00230,24,1,0,0,0,0,  sounds,photon,5,0,aao,ric3,4,0,None,wav00000,0,0
+
+6,v34,2010,  "Plasma","","NO ONE","",  0,0,0,0,1,  1,-1,0,0,0,  icons,gfx00005,0,0,0,0,0,0,    0,1,10,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  100,100,250,32000,32000,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,300,0,0,-3,3, 0,0,-4500,-1,1000, 2,1000,1000,0,4,    0,1000,1,1000,0, 0,50,1,10,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2011,  0,0,0,4,10000,5000,4,20000,15000,0,0,0,0,0,0,4,30000,25000,  KProjectiles,muzzlesingle,24,0,0,0,0,0,Weapons,gfx00505,24,1,0,0,0,0,Weapons,gfx00204,24,1,0,0,0,0,None,None,0,0,0,0,0,0,weapons,gfx00230,24,1,0,0,0,0,  sounds,photon,5,0,aao,ric3,4,0,None,wav00000,0,0
+
+6,v34,2011,  "Plasma","","NO ONE","",  0,0,0,0,1,  1,-1,0,0,0,  icons,gfx00005,0,0,0,0,0,0,    0,1,10,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  100,100,250,32000,32000,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,300,0,0,-3,3, 0,0,-4500,-1,1000, 2,1000,1000,0,4,    0,1000,1,1000,0, 0,50,1,10,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2012,  0,0,0,4,10000,5000,4,20000,15000,0,0,0,0,0,0,4,30000,25000,  KProjectiles,muzzlesingle,24,0,0,0,0,0,Weapons,gfx00505,24,1,0,0,0,0,Weapons,gfx00204,24,1,0,0,0,0,None,None,0,0,0,0,0,0,weapons,gfx00230,24,1,0,0,0,0,  sounds,photon,5,0,aao,ric3,4,0,None,wav00000,0,0
+
+6,v34,2012,  "Plasma","","NO ONE","",  0,0,0,0,1,  1,-1,0,0,0,  icons,gfx00005,0,0,0,0,0,0,    0,1,10,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  100,100,250,32000,32000,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,300,0,0,-3,3, 0,0,-4500,-1,1000, 2,1000,1000,0,4,    0,1000,1,1000,0, 0,50,1,10,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2013,  0,0,0,4,10000,5000,4,20000,15000,0,0,0,0,0,0,4,30000,25000,  KProjectiles,muzzlesingle,24,0,0,0,0,0,Weapons,gfx00505,24,1,0,0,0,0,Weapons,gfx00204,24,1,0,0,0,0,None,None,0,0,0,0,0,0,weapons,gfx00230,24,1,0,0,0,0,  sounds,photon,5,0,aao,ric3,4,0,None,wav00000,0,0
+
+6,v34,2013,  "Plasma","","NO ONE","",  0,0,0,0,1,  1,-1,0,0,0,  icons,gfx00005,0,0,0,0,0,0,    0,1,10,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  100,100,250,32000,32000,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,300,0,0,-3,3, 0,0,-4500,-1,1000, 2,1000,1000,0,4,    0,1000,1,1000,0, 0,50,1,10,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,4,10000,5000,4,20000,15000,0,0,0,0,0,0,4,30000,25000,  KProjectiles,muzzlesingle,24,0,0,0,0,0,Weapons,gfx00505,24,1,0,0,0,0,Weapons,gfx00204,24,1,0,0,0,0,None,None,0,0,0,0,0,0,weapons,gfx00230,24,1,0,0,0,0,  sounds,photon,5,0,aao,ric3,4,0,None,wav00000,0,0
+
+6,v34,2014,  "Laser","","NO ONE","",  0,0,0,0,0,  1,-1,0,-1,0, icons,gfx00006,0,1,34,0,0,0,    0,1,8,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  10,80,300,0,0,0,  0,0,1,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, 0,0,0,0,0,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2015,  0,0,0,0,0,0,5,20000,15000,0,0,0,5,10000,5000,5,40000,40000,  weapons,gfx00302,24,1,0,0,0,5,None,None,24,1,0,0,0,0,None,None,0,0,0,0,0,0,Projectiles2,PBeamSmall,24,1,5,-30,100,10,weapons,gfx00230,24,1,0,0,0,0,  Sound_Pack_3,pistolLaserSingle1,5,0,Sound_Pack_3,Metal_Prod2,5,0,None,None,0,0
+
+6,v34,2015,  "Laser","","NO ONE","",  0,0,0,0,0,  1,-1,0,-1,0, icons,gfx00006,0,1,34,0,0,0,    0,1,8,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  10,80,300,0,0,0,  0,0,1,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, 0,0,0,0,0,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2016,  0,0,0,0,0,0,5,20000,15000,0,0,0,5,10000,5000,5,40000,40000,  weapons,gfx00302,24,1,0,0,0,5,None,None,24,1,0,0,0,0,None,None,0,0,0,0,0,0,Projectiles2,PBeamSmall,24,1,5,-30,100,10,weapons,gfx00230,24,1,0,0,0,0,  Sound_Pack_3,pistolLaserSingle1,5,0,Sound_Pack_3,Metal_Prod2,5,0,None,None,0,0
+
+6,v34,2016,  "Laser","","NO ONE","",  0,0,0,0,0,  1,-1,0,-1,0, icons,gfx00006,0,1,34,0,0,0,    0,1,8,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  10,80,300,0,0,0,  0,0,1,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, 0,0,0,0,0,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2017,  0,0,0,0,0,0,5,20000,15000,0,0,0,5,10000,5000,5,40000,40000,  weapons,gfx00302,24,1,0,0,0,5,None,None,24,1,0,0,0,0,None,None,0,0,0,0,0,0,Projectiles2,PBeamSmall,24,1,5,-30,100,10,weapons,gfx00230,24,1,0,0,0,0,  Sound_Pack_3,pistolLaserSingle1,5,0,Sound_Pack_3,Metal_Prod2,5,0,None,None,0,0
+
+6,v34,2017,  "Laser","","NO ONE","",  0,0,0,0,0,  1,-1,0,-1,0, icons,gfx00006,0,1,34,0,0,0,    0,1,8,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  10,80,300,0,0,0,  0,0,1,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, 0,0,0,0,0,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2018,  0,0,0,0,0,0,5,20000,15000,0,0,0,5,10000,5000,5,40000,40000,  weapons,gfx00302,24,1,0,0,0,5,None,None,24,1,0,0,0,0,None,None,0,0,0,0,0,0,Projectiles2,PBeamSmall,24,1,5,-30,100,10,weapons,gfx00230,24,1,0,0,0,0,  Sound_Pack_3,pistolLaserSingle1,5,0,Sound_Pack_3,Metal_Prod2,5,0,None,None,0,0
+
+6,v34,2018,  "Laser","","NO ONE","",  0,0,0,0,0,  1,-1,0,-1,0, icons,gfx00006,0,1,34,0,0,0,    0,1,8,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1,  10,80,300,0,0,0,  0,0,1,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, 0,0,0,0,0,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,0,0,0,5,20000,15000,0,0,0,5,10000,5000,5,40000,40000,  weapons,gfx00302,24,1,0,0,0,5,None,None,24,1,0,0,0,0,None,None,0,0,0,0,0,0,Projectiles2,PBeamSmall,24,1,5,-30,100,10,weapons,gfx00230,24,1,0,0,0,0,  Sound_Pack_3,pistolLaserSingle1,5,0,Sound_Pack_3,Metal_Prod2,5,0,None,None,0,0
+
+6,v34,2019,  "Maser Burst","","NO ONE","",  0,0,0,0,0,  0,-1,0,0,0,  icons,gfx00006,0,1,34,0,0,0,    0,0,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1  0,80,300,0,0,0,  0,0,60,  None,None,0,0,0,0,0,0,Sound_Pack_1,appear1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, -1,0,0,0,64,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2020,  0,0,0,0,0,0,64,30000,20000,0,0,0,64,10000,5000,64,20000,10000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,Pbeam,0,0,31,0,0,40,weapons,gfx00230,0,0,0,0,0,130,  Sound_Pack_2,railgun,5,0,Sound_Pack_3,Metal_Laser1,5,0,None,None,0,0
+
+6,v34,2020,  "Maser Burst","","NO ONE","",  0,0,0,0,0,  0,-1,0,0,0,  icons,gfx00006,0,1,34,0,0,0,    0,0,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1  0,80,300,0,0,0,  0,0,60,  None,None,0,0,0,0,0,0,Sound_Pack_1,appear1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, -1,0,0,0,64,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2021,  0,0,0,0,0,0,64,30000,20000,0,0,0,64,10000,5000,64,20000,10000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,Pbeam,0,0,31,0,0,40,weapons,gfx00230,0,0,0,0,0,130,  Sound_Pack_2,railgun,5,0,Sound_Pack_3,Metal_Laser1,5,0,None,None,0,0
+
+6,v34,2021,  "Maser Burst","","NO ONE","",  0,0,0,0,0,  0,-1,0,0,0,  icons,gfx00006,0,1,34,0,0,0,    0,0,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1  0,80,300,0,0,0,  0,0,60,  None,None,0,0,0,0,0,0,Sound_Pack_1,appear1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, -1,0,0,0,64,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2022,  0,0,0,0,0,0,64,30000,20000,0,0,0,64,10000,5000,64,20000,10000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,Pbeam,0,0,31,0,0,40,weapons,gfx00230,0,0,0,0,0,130,  Sound_Pack_2,railgun,5,0,Sound_Pack_3,Metal_Laser1,5,0,None,None,0,0
+
+6,v34,2022,  "Maser Burst","","NO ONE","",  0,0,0,0,0,  0,-1,0,0,0,  icons,gfx00006,0,1,34,0,0,0,    0,0,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1  0,80,300,0,0,0,  0,0,60,  None,None,0,0,0,0,0,0,Sound_Pack_1,appear1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, -1,0,0,0,64,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2023,  0,0,0,0,0,0,64,30000,20000,0,0,0,64,10000,5000,64,20000,10000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,Pbeam,0,0,31,0,0,40,weapons,gfx00230,0,0,0,0,0,130,  Sound_Pack_2,railgun,5,0,Sound_Pack_3,Metal_Laser1,5,0,None,None,0,0
+
+6,v34,2023,  "Maser Burst","","NO ONE","",  0,0,0,0,0,  0,-1,0,0,0,  icons,gfx00006,0,1,34,0,0,0,    0,0,1,0,0,  0,0,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,-1  0,80,300,0,0,0,  0,0,60,  None,None,0,0,0,0,0,0,Sound_Pack_1,appear1,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,7500,-1,1000, -1,0,0,0,64,    0,1000,1,1000,0, 0,50,1,1,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  0,0,0,0,0,0,64,30000,20000,0,0,0,64,10000,5000,64,20000,10000,  weapons,Gfx00251,0,0,0,0,0,2,None,None,24,0,0,0,0,0,None,None,15,0,0,0,0,0,Projectiles2,Pbeam,0,0,31,0,0,40,weapons,gfx00230,0,0,0,0,0,130,  Sound_Pack_2,railgun,5,0,Sound_Pack_3,Metal_Laser1,5,0,None,None,0,0
+
+6,v34,2024,  "Flying Sand Bag","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    0,0,1,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,30,0,359, 0,85,500,-25,1000, 0,0,0,0,5,    200000,-3000,0,0,0, 0,10,0,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  1,0,  5,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2000,0,  o_furniture2,sandbags,0,0,0,0,0,0,o_furniture2,sandbags,0,0,0,0,-10,50,None,None,15,0,0,0,0,0,None,None,0,0,0,0,0,0,weaponeffects,rt_proj_flame_proj,0,-1,0,-50,-25,20,  None,None,0,0,None,None,1,0,None,None,0,0
+
+8,v34,2025,  "Sand Bag Death","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    0,0,1,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  1,0,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    subsounds,Explode0,0,0,  2024,5,5,0,0,0,  2024,5,5,0,0,0,  2024,5,-5,0,0,0,  2024,5,-5,0,0,0,  2024,-5,-5,0,0,0,  2024,-5,-5,0,0,0,  2024,-5,5,0,0,0,  2024,-5,5,0,0,0
+
+6,v34,2026,  "VMG","","NO ONE","",  0,0,0,0,1,  1,-1,0,0,0,  icons,gfx00006,0,0,0,0,0,0,    0,0,12,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  10,0,150,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,35,0,0,0,0, 0,0,5800,-1,1000, 0,0,0,0,0,    0,-1000,0,0,0, 0,0,2,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,0,  6,15000,10000,0,0,0,0,0,0,0,0,0,6,14000,8000,6,15000,10000,  KProjectiles,none,48,2,0,0,0,0,weapons,gfx00300,48,2,20,0,20,0,weapons,gfx00201,0,0,0,0,0,0,None,None,0,0,0,0,0,0,weapons,gfx00202,48,1,0,0,0,0,  ctf,Mchngun,1,0,sounds,wav00106,0,0,None,None,0,0
+
+
+6,v34,2027,  "VehAC Debris Trigger","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,0,0,0,0,0, 0,0,500,-25,1000, 0,0,0,0,0,    120000,10,0,0,0, 0,0,0,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2028,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,-10,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,85,0,0,0,  None,None,0,0,None,None,5,0,None,None,0,0
+
+8,v34,2028,  "VehAC Debris","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    None,None,0,0,  2029,0,5,0,-180,0,  2030,0,5,0,-180,0,  200,0,5,0,-180,0,  2030,0,5,0,-180,0
+
+6,v34,2029,  "Debris Rocket","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,-30,30, -30,30,4000,-25,1000, 2,0,0,0,10,    0,300,0,0,0, 0,1,0,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  1,0,  10,20000,5000,0,0,0,0,0,0,0,0,0,0,0,0,10,12000,12000,  None,None,0,0,0,0,0,0,GoryBitz,piecesH,0,0,0,0,-35,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,GoryBitz,piecesH,0,0,0,0,-15,7,  None,None,0,0,None,None,5,0,None,None,0,0
+
+6,v34,2030,  "Debris Rocket  Slow","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,-60,60, -30,60,1000,-25,1000, 2,0,0,0,10,    0,300,0,0,0, 0,1,0,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  1,0,  10,20000,10000,0,0,0,0,0,0,0,0,0,0,0,0,10,15000,15000,  None,None,0,0,0,0,0,0,KShrap,smallonblue,0,0,0,0,-10,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,KShrap,smallonblue,0,0,0,0,0,7,  None,None,0,0,None,None,5,0,None,None,0,0
+
+6,v34,2031,  "PDB RKT Rocket","","NO ONE","",  0,0,0,0,2,  1,-1,0,0,0,  icons,gfx00010,0,0,0,0,0,0,    0,0,1,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  10,0,0,2048,200,0,  200,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,0,0,0,-3,3, 0,0,5000,-1,0, 0,0,0,0,0,    0,-1000,0,0,0, 0,50,0,5,60, 2000,0,200,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  1,2032,  0,0,0,60,55000,0,0,0,0,0,0,0,0,0,0,60,55000,0,  None,None,24,0,0,0,0,0,weapons4,RpgNew,0,0,87,0,0,0,weapons,gfx00201,0,0,0,0,0,0,effects,gfx00003,24,0,0,0,0,0,ExplosionEffects,DeathExplosion04_,0,0,96,0,0,0,  Sound_Pack_1,bazook1,0,0,Sound_Pack_3,RocketExplode1,4,0,None,None,0,0
+
+6,v34,2032,  "RPG Stage Interim","","NO ONE","",  0,0,0,0,2,  1,-1,0,0,0,  icons,gfx00010,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 0,0,500,-25,1000, -1,0,0,0,0,    180000,20,0,0,0, 0,0,0,5,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2033,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  None,None,24,0,0,0,0,0,None,None,0,0,87,0,0,0,None,None,0,0,0,0,0,0,None,None,24,0,0,0,0,0,None,None,0,0,95,20,0,0,  None,None,0,0,None,None,0,0,None,None,0,0
+
+8,v34,2033,  "RPG 1st Stage","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    None,None,0,0,  2029,0,10,0,-180,0,  2029,0,10,0,-180,0,  2029,0,10,0,-180,0,  2030,0,10,0,-180,0,  2030,0,10,0,-180,0,  2030,0,10,0,-180,0,  2034,0,0,0,0,0
+
+6,v34,2034,  "RPG Stage Two","","NO ONE","",  0,0,0,0,2,  1,-1,0,0,0,  icons,gfx00010,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 0,0,750,-1,0, -1,0,0,0,0,    180000,30,0,0,0, 0,0,0,0,60, 2000,0,100,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  0,2035,  0,0,0,60,50000,0,0,0,0,0,0,0,0,0,0,60,50000,0,  None,None,24,0,0,0,0,0,None,None,0,0,87,0,0,0,None,None,0,0,0,0,0,0,None,None,24,0,0,0,0,0,ExplosionEffects,DeathExplosion04_,0,0,95,20,0,0,  None,None,0,0,Sound_Pack_3,RocketExplode1,4,0,None,None,0,0
+
+8,v34,2035,  "RPG 2nd Stage","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    None,None,0,0,  2029,0,-5,0,0,0,  2029,0,-5,0,0,0,  2029,0,-5,0,0,0,  2030,0,-5,0,0,0,  2030,0,-5,0,0,0
+
+6,v34,2036,  "FlameSpot","","NO ONE","",  0,0,0,1,0,  1,1,0,0,0,  icons,gfx00000,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  50,30,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    0,0,0,0,0,0, 0,0,0,0,0, 0,0,0,0,0,    0,-500,0,0,0, 0,200,1,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  24,1,0,0,0,0,0,  0,2037,  0,0,0,0,0,0,20,20000,10000,0,0,0,20,10000,5000,20,80000,5000,  None,None,0,0,0,0,0,0,flameprojectiles_v4,GroundFireB,0,0,0,8,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,flameprojectiles_v4,GroundFireA,0,0,0,8,0,0,  None,None,0,0,sounds,Wav00503,10,0,None,None,0,0
+
+6,v34,2037,  "FlameSpot","","NO ONE","",  0,0,0,1,0,  1,1,0,0,0,  icons,gfx00000,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  50,30,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    0,0,0,0,0,0, 0,0,0,0,0, 0,0,0,0,0,    0,-500,0,0,0, 0,200,1,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  24,1,0,0,0,0,0,  0,2038,  0,0,0,0,0,0,20,20000,10000,0,0,0,20,10000,5000,20,80000,5000,  None,None,0,0,0,0,0,0,flameprojectiles_v4,GroundFireB,0,0,0,8,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,flameprojectiles_v4,GroundFireA,0,0,0,8,0,0,  None,None,0,0,sounds,Wav00503,10,0,None,None,0,0
+
+6,v34,2038,  "FlameSpot","","NO ONE","",  0,0,0,1,0,  1,1,0,0,0,  icons,gfx00000,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  50,30,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    0,0,0,0,0,0, 0,0,0,0,0, 0,0,0,0,0,    0,-500,0,0,0, 0,200,1,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  24,1,0,0,0,0,0,  0,2039,  0,0,0,0,0,0,20,20000,10000,0,0,0,20,10000,5000,20,80000,5000,  None,None,0,0,0,0,0,0,flameprojectiles_v4,GroundFireB,0,0,0,8,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,flameprojectiles_v4,GroundFireA,0,0,0,8,0,0,  None,None,0,0,sounds,Wav00503,10,0,None,None,0,0
+
+6,v34,2039,  "FlameSpot","","NO ONE","",  0,0,0,1,0,  1,1,0,0,0,  icons,gfx00000,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  50,30,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    0,0,0,0,0,0, 0,0,0,0,0, 0,0,0,0,0,    0,-500,0,0,0, 0,200,1,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  24,1,0,0,0,0,0,  0,2040,  0,0,0,0,0,0,20,20000,10000,0,0,0,20,10000,5000,20,80000,5000,  None,None,0,0,0,0,0,0,flameprojectiles_v4,GroundFireB,0,0,0,8,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,flameprojectiles_v4,GroundFireA,0,0,0,8,0,0,  None,None,0,0,sounds,Wav00503,10,0,None,None,0,0
+
+6,v34,2040,  "FlameSpot","","NO ONE","",  0,0,0,1,0,  1,1,0,0,0,  icons,gfx00000,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  50,30,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    0,0,0,0,0,0, 0,0,0,0,0, 0,0,0,0,0,    0,-500,0,0,0, 0,200,1,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  24,1,0,0,0,0,0,  0,0,  0,0,0,0,0,0,20,20000,10000,0,0,0,20,10000,5000,20,80000,5000,  None,None,0,0,0,0,0,0,flameprojectiles_v4,GroundFireB,0,0,0,8,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,flameprojectiles_v4,GroundFireA,0,0,0,8,0,0,  None,None,0,0,sounds,Wav00503,10,0,None,None,0,0
+
+6,v34,2041,  "Plasma Flak-High","","NO ONE","",  0,0,0,0,0,  1,1,0,0,0,  icons,gfx00000,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  50,30,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 50,80,3500,-20,800, 5,800,800,0,16,    0,500,0,0,0, 0,20,1,2,0, 0,0,0,0,0,0,    0,0,0,0,0,  32,5,0,0,0,0,0,  0,0,  0,0,0,32,10000,5000,32,20000,5000,0,0,0,0,0,0,32,5000,1000,  None,None,0,0,0,0,0,0,weapons,gfx00504,24,0,0,0,0,0,Weapons,gfx00509,24,0,0,0,0,0,None,None,0,0,0,0,0,0,weapons,gfx00230,24,1,0,0,0,0,  None,None,0,0,None,None,10,0,None,None,0,0
+
+8,v34,2042,  "Plasma Flak High","","NO ONE","",  0,0,0,0,0,  1,-1,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  150,100,0,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,ctf,Cannon_recoil,8,0,0,0,  0,1,1,  0,0,0,0,0,    weapons2,gun2,8,0,  2041,2,0,0,-10,0,  2041,4,0,0,-10,0,  2041,-2,0,0,-10,0,  2041,-4,0,0,-10,0,2041,2,0,0,10,0,  2041,4,0,0,10,0,  2041,-2,0,0,10,0,  2041,-4,0,0,10,0,  2041,2,0,0,5,0,  2041,4,0,0,5,0,  2041,-2,0,0,5,0,  2041,-4,0,0,5,0,  2041,2,0,0,-5,0,  2041,4,0,0,-5,0,  2041,-2,0,0,-5,0,  2041,-4,0,0,-5,0
+
+6,v34,2043,  "Plasma Flak-Low","","NO ONE","",  0,0,0,0,0,  1,1,0,0,0,  icons,gfx00000,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  50,30,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 20,50,3500,-20,800, 5,800,800,0,16,    0,500,0,0,0, 0,20,1,2,0, 0,0,0,0,0,0,    0,0,0,0,0,  32,5,0,0,0,0,0,  0,0,  0,0,0,32,5000,0,32,10000,5000,0,0,0,0,0,0,32,5000,1000,  None,None,0,0,0,0,0,0,weapons,gfx00504,24,0,0,0,0,0,Weapons,gfx00509,24,0,0,0,0,0,None,None,0,0,0,0,0,0,weapons,gfx00230,24,1,0,0,0,0,  None,None,0,0,None,None,10,0,None,None,0,0
+
+8,v34,2044,  "Plasma Flak Low","","NO ONE","",  0,0,0,0,9,  1,-1,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  10,50,0,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,ctf,Cannon_recoil,8,0,0,0,  0,1,1,  0,0,0,0,0,    weapons2,gun2,8,0,  2043,2,0,0,10,0,  2043,4,0,0,10,0,  2043,-2,0,0,10,0,  2043,-4,0,0,10,0,  2043,2,0,0,-10,0,  2043,4,0,0,-10,0,  2043,-2,0,0,-10,0,  2043,-4,0,0,-10,0,  2043,2,0,0,5,0,  2043,4,0,0,5,0,  2043,-2,0,0,5,0,  2043,-4,0,0,5,0,  2043,2,0,0,-5,0,  2043,4,0,0,-5,0,  2043,-2,0,0,-5,0,  2043,-4,0,0,-5,0
+
+6,v34,2045,  "Plasma Flak Launch","","NO ONE","",  0,0,0,1,0,  1,1,0,0,0,  icons,gfx00000,0,0,0,0,0,0,    0,0,0,0,0,  0,-1,-1,-1,-1,0,-1,-1,0,0,-1,0,-1,-1,-1,-1,  50,30,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 60,60,4500,-15,800, 5,800,800,5,16,    0,2,0,0,0, 0,20,1,2,0, 0,0,0,0,0,0,    0,0,0,0,0,  32,5,0,0,0,0,0,  0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  plasma,PlasmaBallTrail,24,1,0,0,0,0,None,None,24,0,0,0,0,0,None,None,24,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,  None,None,0,0,None,None,10,0,None,None,0,0
+
+6,v34,2046,  "Flak","","NO ONE","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,  None,None,0,0,0,0,0,0,None,None,0,0,0,0,  0,1,1,  0,0,0,0,0,    10000,1000,0,0,0,0, 40,80,5000,-40,800, 0,0,0,0,8,    0,5000,0,0,0, 0,0,1,0,0, 0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,  1,0,  16,5000,0,0,0,0,0,0,0,0,0,0,16,10000,5000,20,5000,1000,  plasma,PlasmaBallTrail,0,0,0,0,0,0,GoryBitz,piecesH,0,0,0,0,-35,0,Weapons,gfx00509,0,0,0,0,0,0,None,None,0,0,0,0,0,0,GoryBitz,piecesH,0,0,0,0,-15,7,  None,None,0,0,None,None,5,0,None,None,0,0
+
+8,v34,2047,  "Flak","","NO ONE","",  0,0,0,0,9,  1,-1,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  10,50,0,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,ctf,Cannon_recoil,8,0,0,0,  0,1,1,  0,0,0,0,0,    weapons2,gun2,8,0,  2046,2,0,0,0,0,  2046,4,0,0,0,0,  2046,-2,0,0,0,0,  2046,-4,0,0,0,0,2046,2,0,0,5,0,  2046,4,0,0,5,0,  2046,-2,0,0,5,0,  2046,-4,0,0,5,0,2046,2,0,0,-5,0,  2046,4,0,0,-5,0,  2046,-2,0,0,-5,0,  2046,-4,0,0,-5,0
+
+8,v34,2048,  "Flak","","NO ONE","",  0,0,0,0,9,  1,-1,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  10,50,0,0,200,0,  0,0,0,  None,None,0,0,0,0,0,0,ctf,Cannon_recoil,8,0,0,0,  0,1,1,  0,0,0,0,0,    weapons2,gun2,8,0,  2046,2,0,0,10,0,  2046,4,0,0,10,0,  2046,-2,0,0,10,0,  2046,-4,0,0,10,02046,2,0,0,-10,0,  2046,4,0,0,-10,0,  2046,-2,0,0,-10,0,  2046,-4,0,0,-10,0
+
+
+
+
+
+
+
+
+
+
+4,v34,3000,  "Energy Cells","0:Ammo","","External battery for energy weapons.",  0,0,0,0,0,  600,-600,2,0,0,  Base_Pack,GadgetIconA,0,0,0,0,0,0
+
+4,v34,3001,  "Ammo Handgun","0:Ammo","","Ammunition for handguns.",  10,1,0,0,0,  600,-600,2,0,0,  Base_Pack,PistolICon,0,0,0,0,0,0
+
+4,v34,3002,  "Ammo Spazer","0:Ammo","","Special ammunition with an internal battery pack. The cartridge casing supplies the necessary power for the capacitors inside the weapon.",  5,15,0,0,0,  20,-50,2,0,0,  icons,gfx00002,0,0,0,0,0,0
+
+4,v34,3003,  "Ammo Rifle","0:Ammo","","Rifle caliber ammunition.",  15,2,0,0,0,  100,-200,2,0,0,  Base_Pack,RifleAmmoIcon,0,0,0,0,0,0
+
+4,v34,3004,  "Light HE","0:Ammo","","Ammunition for light grenade launchers.",  100,20,0,0,0,  40,-40,2,0,0,  Base_Pack,GasIcon,0,0,0,-50,0,0
+
+4,v34,3005,  "Heavy HE","0:Ammo","","Ammunition for small hand-held artillery pieces.",  200,50,0,0,0,  30,-30,2,0,0,  Base_Pack,GasIcon,0,0,90,0,0,0
+
+4,v34,3006,  "Rocket","0:Ammo","","Ammunition for various rocket systems.",  250,40,0,0,0,  60,-60,2,0,0,  icons,gfx00023,0,0,0,0,0,0
+
+4,v34,3007,  "Ammo Shotgun","0:Ammo","","Shotgun shells.",  20,4,0,1,0,  150,-150,0,0,0,  icons,gfx00022,0,0,0,0,0,0
+
+4,v34,3008,  "Ammo MG","0:Ammo","","Machine gun caliber ammunition.",  20,3,0,0,0,  500,-500,2,0,0,  icons,gfx00020,0,0,10,10,0,0
+
+4,v34,3009,  "Gas Canister","0:Ammo","","A canister of compressed volatile gasses.",  20,3,0,0,0,  200,-200,0,0,0,  icons,gfx00020,0,0,0,0,0,0
+
+4,v34,3010,  "CW Tank","0:Ammo","","Ingredients for chemical and biological weapons.",  25,7,0,0,0,  150,-150,0,0,0,  eolicons,gasicon,0,0,0,0,0,0
+
+4,v34,3011,  "Hedgehog","0:Ammo","","A Hedgehog APS charge to be used in Hedgehog Launchers.  Lighter than a normal hedgehog grenade since it doesn't need outside protective casing.",  100,15,0,0,0,  50,-60,2,0,0,  Base_Pack,GasIcon,0,0,0,-50,0,0
+
+1,v34,3012,  "Battery","0:Ammo","","A small weapon battery that provide a small amount of energy cells.",  0,10,0,0,0,  0,-40,0,0,0,  None,None,0,0,0,0,0,0,    0,0,0,0,0,  3000,3000,3000,3000,3000,3000,3000,3000,3000,3000,3000,3000,3000,3000,3000,0
+
+4,v34,3013,  "Ammo Cannon","0:Ammo","","Cannon shells.",  50,8,0,0,0,  400,-200,2,0,0,  icons,gfx00022,0,0,0,0,0,0
+
+4,v34,3014,  "Missle","0:Ammo","","Cannon shells.",  300,60,0,0,0,  150,-80,2,0,0,  icons,gfx00022,0,0,0,0,0,0
+
+15,v34,3015,  "Battery Discharger","0:Ammo","","Discharge your suit external battery. This is only usefull if u some how managed to get your energy cells above the max of 600. Note discharges one cell per purchase.",  0,1,0,0,0,  0,-200,0,-1,0,  None,None,0,0,0,0,0,0,  3000,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+
+
+
+
+4,v34,3100,  "Herbs","0:Resources","","Natural healing herbs.",  10,10,0,0,0,  1,-300,0,0,0,  icons,gfx00002,0,20,40,0,0,0
+
+4,v34,3101,  "Energy Core","0:Resources","","Energy Core used as a power source. Made from a highly concentrated form of an unknown crystal.",  50,20,0,0,0,  1,-200,0,0,0,  icons,gfx00009,0,0,70,-20,20,0
+
+14,v34,3102,  "Money $10","0:Resources","@10000","Use this to place down $10.",  0,10,0,0,0,  0,0,0,10,0,  dollar,dollar,0,0,0,0,0,0,    3102,1,1,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  0,0,10,0,0,0,  0,0,0,  None,None,0,0,37,16,15,0,Projectiles2,cashreg,0,0,0,0,  0,1,1,  0,0,0,0,0,    3102,1
+
+14,v34,3103,  "Money $100","0:Resources","@10000","Use this to place down $100.",  0,100,0,0,0,  0,0,0,100,0,  dollar,dollar,0,0,0,0,0,0,    3103,1,1,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  0,0,10,0,0,0,  0,0,0,  None,None,0,0,37,16,15,0,Projectiles2,cashreg,0,0,0,0,  0,1,1,  0,0,0,0,0,    3103,1
+
+14,v34,3104,  "Money $1,000","0:Resources","@10000","Use this to place down $1,000.",  0,1000,0,0,0,  0,0,0,1000,0,  dollar,dollar,0,0,0,-100,10,0,    3104,1,1,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  0,0,10,0,0,0,  0,0,0,  None,None,0,0,37,16,15,0,Projectiles2,cashreg,0,0,0,0,  0,1,1,  0,0,0,0,0,    3104,1
+
+14,v34,3105,  "Money $10,000","0:Resources","@5000","Use this to place down $10,000.",  0,10000,0,0,0,  0,0,0,10000,0,  dollar,dollar,0,0,75,-20,10,0,    3105,1,1,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  0,0,10,0,0,0,  0,0,0,  None,None,0,0,37,16,15,0,Projectiles2,cashreg,0,0,0,0,  0,1,1,  0,0,0,0,0,    3105,1
+
+14,v34,3106,  "Money $50,000","0:Resources","@10000","Use this to place down $50,000.",  0,50000,0,0,0,  0,0,0,50000,0,  dollar,dollar,0,0,75,-20,10,0,    3105,1,1,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  0,0,10,0,0,0,  0,0,0,  None,None,0,0,37,16,15,0,Projectiles2,cashreg,0,0,0,0,  0,1,1,  0,0,0,0,0,    3106,1
+
+14,v34,3107,  "Money $100,000","0:Resources","@10000","Use this to place down $100,000.",  0,100000,0,0,0,  0,0,0,100000,0,  dollar,dollar,0,0,0,-100,10,0,    3107,1,1,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  0,0,10,0,0,0,  0,0,0,  None,None,0,0,37,16,15,0,Projectiles2,cashreg,0,0,0,0,  0,1,1,  0,0,0,0,0,    3107,1
+
+14,v34,3108,  "Money $200,000","0:Resources","@10000","Use this to place down $200,000.",  0,200000,0,0,0,  0,0,0,200000,0,  dollar,dollar,0,0,0,-100,10,0,    3108,1,1,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  0,0,10,0,0,0,  0,0,0,  None,None,0,0,37,16,15,0,Projectiles2,cashreg,0,0,0,0,  0,1,1,  0,0,0,0,0,    3108,1
+
+14,v34,3109,  "Money $500,000","0:Resources","@10000","Use this to place down $500,000.",  0,500000,0,0,0,  0,0,0,500000,0,  dollar,dollar,0,0,80,0,10,0,    3109,1,1,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  0,0,10,0,0,0,  0,0,0,  None,None,0,0,37,16,15,0,Projectiles2,cashreg,0,0,0,0,  0,1,1,  0,0,0,0,0,    3109,1
+
+14,v34,3110,  "Money $1,000,000","0:Resources","@10000","Use this to place down $1,000,000.",  0,1000000,0,0,0,  0,0,0,1000000,0,  dollar,dollar,0,0,15,-60,30,0,    3110,1,1,0,0,  0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,  0,0,10,0,0,0,  0,0,0,  None,None,0,0,37,16,15,0,Projectiles2,cashreg,0,0,0,0,  0,1,1,  0,0,0,0,0,    3110,1
+
+1,v34,3200,  "$5,000","Trade","","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    5000,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+1,v34,3201,  "$10,000","Trade","","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    10000,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+1,v34,3202,  "$15,000","Trade","","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    15000,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+1,v34,3203,  "$20,000","Trade","","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    20000,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+1,v34,3204,  "$25,000","Trade","","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    25000,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+1,v34,3205,  "$30,000","Trade","","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    30000,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+1,v34,3206,  "$50,000","Trade","","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    50000,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+1,v34,3207,  "$70,000","Trade","","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    70000,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+1,v34,3208,  "$100,000","Trade","","",  0,0,0,0,0,  0,0,0,0,0,  None,None,0,0,0,0,0,0,    100000,0,0,0,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+

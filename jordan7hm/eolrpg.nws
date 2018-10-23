@@ -1,0 +1,116 @@
+Eol - Have fun
+
+Update for 22nd May 2007, 00:35 GMT
+- Removed the test flame thrower (left it in by mistake)
+- Decreased the distance of which players could see through the Sci Cloaking unit (from 256 to 190)
+- Added in the ECPD Taser
+- Added in CL5 CO Canisters (Thanks to Octavian for his assistance)
+- Added in a few things to assist with events
+
+Update for 20th May 2007, 16:16 GMT
+- Vertical Thruster++DP/FP for packs now uses 40 nrg instead of 30
+- Gave JumpTroopers access to Dual CR's
+- Lowered Maklov LMG inner/outer by 2 damage
+- Sonic cannon/rifle behave the same way as the wave now, in that they hurt everybody
+- Plasma Fist/Sword do only plasma(electronic) damage now
+- New Pyro weapon added in, Maklov FL 2s
+- Combat sword is not green anymore
+- Maser graphics changed
+
+
+Update for 8th April 2007, 19:12 GMT
+- Set the weight on TD to 2 now, sorry I missed it before
+- Removed ceramax and secondaries from infil, and have made a more balanced custom Infil armour: Raptor Cloak
+- Changed Psmg2 - It has its old reload back (250 instead of 500), and does quite a bit less drain/dmg
+- Deathboard hyper backthrust increased from 30 to 45
+- Gauss cannon bypass increased from 1 to 3
+- Changed GSMG bypass to 0.25 from 1
+- Railgun changed, it has 6 fast firing shots, it's quite similar to the Maklov GR
+- Zap glove energy cost reduced to 150 from 200
+- Both Grenade Launchers have had their energy/explosive damage increased
+- Changed the spawns slightly so that you can't spawn inside the C3 base (will work on spawns more later)
+
+
+Update for 7th April 2007, 14:17 GMT
+- Gave Biochems back SG, oops!
+- Decreased the range, and amount of spots on the Molotov Grenade
+- Fixed the Training Academy
+- Increased Pyro's weight to 35
+- Sci cloaking unit and Heavy Flamer can no longer be used on packs
+- Someone suggested this: Added in the Titan Arms WP Flamethrower
+- Added 1 bypass damage to all gauss weapons.. to see how it goes
+
+Update for 6th April 2007, 13:30 GMT
+- Fixed the amount of childs the shotguns fire, and decreased damage a bit
+- Added in the SiG Arms m2 AS shotgun
+- Fixed a bug with Ceramax Combat Armour
+- Lowered Infils top speed slightly
+- Starting bounty raised from 0 to 20, and you get 10% of your victims bounty added on to your own, instead of 7.5%
+- Teleport Disruptor weighs 2 instead of 4 (it had the wrong setting)
+- Repulsors go off instantly now, instead of that slight delay
+- Changed Flak to make it a more usable, it's no longer a weapon that requires great luck, or opponant stupidity to use. It is a one shot gun with async reload, meaning you can fit it into a combo. It has less horizontal spread, but more vertial spread, a higher muzzle velocity and can bounce, so you must aim it now like a normal gun.
+- If you kill a Training Pirate with maser, you do not get the reward
+- BioChem has had its max energy set to the correct value (600 instead of 500) Why did no one point this out sooner! (ty Qi)
+- Changed packers/boarders prox's a little, and made Jumppack makeable
+- Railgun energy damage increased
+- Removed flamethrower from Infantry and gave it to a new class :o
+- One or two new weapons for Pyrotech added in
+
+
+Update for 31st March 2007, 20:38 GMT
+- Changed the Training Academy: It no longer has exits, and only the person who kills the training pirate receives the reward
+- Changed (and overall beefed) infils speed
+- Fixed Ablat armour stats, the 1 ignore is on electronic instead of explosive
+- Swaped energy protection on the B-SF and E-SF gens
+- Added a shadow to the rocket turrets projectile
+- When you warp you only have to wait 2 second now before you can use your items (instead of 5)
+- Changed the PA's to have the same proximity and min range as the PA's in all other zones.
+
+
+Update for 30th March 2007, 14:51 GMT
+- Kuchler GR790 inner energy damage increased to 95, from 85
+- Maklov GR201g inner energy damage increased to 100, from 90
+- Kevlite has been changed to the correct stats (it was not supposed to give energy protection)
+- Added in a Training Academy, where new players can hunt pirates in peace, no weapons apart from the special academy ones can be fired in here. To get to the academy, going into the portal in the DropShip
+- Academy Training Laser and Academy Grenade introduced. Academy weapons have requirements on them and will only function within the academy. The Academy also has protection against the use of other weapons on their premises.
+
+
+Update for 29th March 2007, 16:53 GMT
+- Fixed the SF Generators
+- IRLC (Laser cannon) now has an asynchronous reload
+- Sonic wave had the wrong stats, so it's now been adjusted
+- Maklov AC mk2 added in
+- Kamenev RR2 graphic fixed
+- Increased all the PA Damages
+- Increased rail gun energy damage slightly
+- Added in a cloaking unit usable by SciOps, it's balanced by its weight, so we're going to try it and see how it goes.
+- Testing a system whereby armour pieces are stacked automatically in an order which gives maximum protection (atm it's done alphabetically, making it very lame and unbalanced for certain armour combos.) All armour pieces now have a letter before them, this is so that they stack correctly, you can ignore the letter. (Thanks to AllYourBase)
+
+
+Update for 27th March 2007, 14:39 GMT
+- Steiner SMG damage fixed
+- You heal  slowly outside of the DS
+- You heal 2x quicker inside buildings than outside
+- You heal alot faster in the ds now (It slowed down gameplay too much)
+- Maximum Fuel Canister ammo changed from 100 to 125
+- Hydrogen Cells renamed to Hydrogen Fuel Cells
+- Incinerator uses Hydrogen Fuel Cells instead of Fuel Canisters
+- Dismantle doesn't hit exosuits anymore
+- [NOTE] I know bases are a bit screwed at the moment, and I'm working on fixing it. For now I would advise engys to build their turrets before walls
+
+
+
+Update for 27th March 2007, 13:07 GMT
+- Sci has had cloak removed
+- Cash rewards for a kill have been increased
+- Cash/Exp rewards for Koth slightly lowered
+- MML and ASC fixed (their stats were incorrect)
+- More Pirates spawn at the airfield, and they also spawn in the most south-east section of the map
+- Healing in DS has been reduced ALOT
+- You can no longer use vertical thrust, or build walls, inside
+- You can only spec if you have full energy
+- Descriptions on a few weapons fixed
+- Stim pack doesn't require you to have an area heal in your inventory now
+- Medics/Biochems have an innate personal heal now
+- Walls no longer show up on the radar
+- AS-Laws (Anti-Structure) now work

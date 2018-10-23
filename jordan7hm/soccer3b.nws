@@ -1,0 +1,36 @@
+~B~1GravBall DvS/b~2~B
+
+Object of the game is to win by 4 goals.  You get 1 point for making a goal from the light-gray area around the goal.  You get 2 points for making a goal from the dark-gray floor.
+
+~BGAME OVERVIEW~B
+
+Life as a space marine can get awefully stressful. Fortunately the most popular sport in the solar system is the cure for those 22nd century blues. GravBall.
+
+The games aim is simple. Pick up a ball and get it into the opposing teams goal. Players defend the goal that is roughly the same color as their scooter.  The red-scooter attacks to the right, the yellow-scooter attacks to the left.
+
+The ball can only be carried for a few seconds, then players have to pass the ball.
+
+~BThe first team to score 4 more goals than the other team wins.~B
+
+GravBall is a full contact sport and each player is equipped with various weapons.  However, when carrying the ball the primary-fire-key (CONTROL by default) will do a long-pass and the secondary-fire-key (TAB by default) will do a short-pass.
+
+There are also specialty weapons that can picked up on the playing field as you fly around as well as Super Scooters.  If you have not reconfigured your keyboard, the following keys will do the following:
+
+CONTROL = Fire Pulse Gun (if carrying ball, it will do a long-pass)
+TAB = Fire Fusion Bomb (if carrying ball, it will do a short-pass)
+SHIFT-TAB = Fire AP Mine
+SHIFT-CONTROL = Fire Repel
+F5 = Panic Disruptor
+F6 = Rocket Rain
+F7 = Warp to entry-point
+HOME = Hop
+END = Jammer
+SHIFT-UP/SHIFT-DOWN = Scooter hyper-thrusters
+
+
+~BTuesday, May 15, 2001~B
+
+Made it so you can have a maximum of 2 repels and started players out with only 1 repel.
+
+
+

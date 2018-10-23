@@ -1,0 +1,138 @@
+7,v13,1,"Forest",2304,15456,    -1,300,800,1000, 0,Alien2,beat2,0,0
+7,v13,2,"Forest Copy (1)",2304,15456,    -1,300,800,1000, 0,Alien2,beat2,0,0
+7,v13,3,"Forest Copy (2)",4272,15456,    -1,300,800,1000, 0,Alien2,daychirp,0,0
+7,v13,4,"Forest Copy (3)",3824,17984,    -1,300,800,1000, 0,Alien2,dchirp2,0,0
+7,v13,5,"Forest Copy (4)",3056,18000,    -1,300,800,1000, 0,Alien2,dchirp3,0,0
+7,v13,6,"Forest Copy (5)",18480,15456,    -1,300,800,1000, 0,Alien2,monk,0,0
+7,v13,7,"Forest Copy (6)",1488,17888,    -1,300,800,1000, 0,Alien2,nightbug,0,0
+7,v13,8,"Forest Copy (7)",9392,15456,    -1,300,800,1000, 0,Alien2,salwea,0,0
+7,v13,9,"Forest Copy (8)",5328,17760,    -1,300,800,1000, 0,Alien2,salwea1,0,0
+7,v13,10,"Forest Copya",6368,15456,    -1,300,800,1000, 0,Alien2,spidwea,0,0
+7,v13,11,"Forest Copy (10)",1888,16688,    -1,1000,500,1000, 0,Alien2,birdcall,0,0
+7,v13,12,"Forest Copy (11)",5248,15648,    -1,300,800,1000, 0,Alien2,bug,0,0
+7,v13,13,"Forest Copy (12)",2304,18000,    -1,300,800,1000, 0,Alien2,chiggers,0,0
+7,v13,14,"Forest Copya Copy (1)",6368,16288,    -1,300,800,1000, 0,Alien2,beat2,0,0
+7,v13,15,"Forest Copya Copy (2)",7888,17040,    -1,300,800,1000, 0,Alien2,birdcall,0,0
+7,v13,16,"Forest Copya Copy (3)",11376,15456,    -1,300,800,1000, 0,Alien2,bug,0,0
+7,v13,17,"Forest Copya Copy (4)",7056,17696,    -1,300,800,1000, 0,Alien2,chiggers,0,0
+7,v13,18,"Forest Copya Copy (5)",3376,15456,    -1,300,800,1000, 0,Alien2,daychirp,0,0
+7,v13,19,"Forest Copya Copy (6)",12464,15456,    -1,300,800,1000, 0,Alien2,dchirp2,0,0
+7,v13,20,"Forest Copyb",9248,17840,    -1,300,800,1000, 0,Alien2,dchirp3,0,0
+7,v13,21,"Forest Copyb Copy (1)",10048,18048,    -1,300,800,1000, 0,Alien2,monk,0,0
+7,v13,22,"Forest Copyb Copy (2)",8272,17840,    -1,300,800,1000, 0,Alien2,nightbug,0,0
+7,v13,23,"Forest Copyb Copy (3)",11040,17968,    -1,300,800,1000, 0,Alien2,salwea,0,0
+7,v13,24,"Forest Copyb Copy (4)",11856,16864,    -1,300,800,1000, 0,Alien2,salwea1,0,0
+7,v13,25,"Forest Copyb Copy (5)",11840,18032,    -1,300,800,1000, 0,Alien2,slugsel,0,0
+7,v13,26,"Forest Copyb Copy (6)",12480,17152,    -1,300,800,1000, 0,Alien2,spidwea,0,0
+7,v13,27,"Forest Copyb Copy (7)",6176,17840,    -1,300,800,1000, 0,Alien2,spidwea1,0,0
+7,v13,28,"Forest Copyb Copy (8)",912,16736,    -1,300,800,1000, 0,Alien2,bug,0,0
+7,v13,29,"Underground",5472,21552,    -1,1000,500,-1, 0,Alien2,hum,0,0
+7,v13,32,"Underground Copy (3)",8592,21520,    -1,300,500,1000, 0,ambient,amb1,0,0
+7,v13,30,"Underground Copy (3) Copy (1)",9568,21520,    -1,300,500,1000, 0,ambient,Breathe1,0,0
+7,v13,31,"Inside ship",3536,16736,    -1,300,600,-1, 1,ambient,SHIPAMB,0,0
+7,v13,33,"Underground Copy (3) Copy (3)",10896,21968,    -1,300,500,1000, 0,ambient,amb1,0,0
+7,v13,34,"Underground Copy (3) Copy (4)",4448,20880,    -1,300,500,1000, 0,craft,sus,0,0
+6,v13,36,"Downstairs",7792,16864,    64,-1,7184,20176,64, 0,0,effects,gfx00005,0,0,0,0,0,0,ambient,Walk13,0,0
+6,v13,37,"Downstairs Copy (1)",10704,15952,    64,-1,10704,21248,64, 0,0,effects,gfx00005,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,38,"Downstairs Copy (1) Copy (1)",11152,17056,    64,-1,11328,22880,64, 0,0,effects,gfx00005,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,39,"Upstairs",7344,19968,    64,-1,7824,16704,64, 0,0,effects,gfx00005,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,40,"Upstairs Copy (1)",10992,21248,    64,-1,10752,16128,64, 0,0,effects,gfx00005,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,41,"Upstairs Copy (2)",11520,22736,    64,-1,11168,17216,64, 0,0,effects,gfx00005,0,0,0,0,0,0,robo,mech3sel,0,0
+7,v13,43,"Fan",3120,16816,    -1,300,600,-1, 1,ambient,Smallfan,0,0
+7,v13,45,"Fan Copy (1)",2608,16816,    -1,300,600,-1, 1,ambient,Smallfan,0,0
+7,v13,46,"Fan Copy (2)",2560,16272,    -1,300,600,-1, 1,ambient,Smallfan,0,0
+1,v13,44,"Vertical base",10160,17312,    -1,0,2,6, 0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,47,"Vertical Copy (1)",10160,17344,    -1,0,2,6, 0,44, DOORS,Metala,0,0,50,0,0,0,voice,acknowlg,0,0,None,None,0,0
+1,v13,48,"Vertical Copy (2)",10160,17376,    -1,0,2,6, 0,44, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v13,49,"Door Palm lock",9908,17300,    0, 44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1, 0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,50,"Door Palm lock",10468,17236,    0, 44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1, 0,0,0,0,0,0, lock,DoorLckF,0,0,50,0,0,0,voice,acknowlg,0,0
+1,v13,74,"Armoury",7648,17920,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,75,"Armoury Copy (1)",7680,17920,    -2,-1,4,2, 0,74, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,76,"Armoury Copy (1) Copy (1)",7712,17920,    -2,-1,4,2, 0,74, DOORS,Metac,0,0,0,0,0,0,voice,acknowlg,0,0,None,None,0,0
+2,v13,77,"Door Palm lock Armoury",7572,17988,    0, 74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,50,0,0,0,voice,acknowlg,0,0
+1,v13,78,"Armoury Copy (1) Copy (2)",7680,17536,    -2,-1,4,2, 0,74, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,79,"Armoury Copy (1) Copy (3)",7712,17536,    -2,-1,4,2, 0,74, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,80,"Armoury Copy (1) Copy (4)",7648,17536,    -2,-1,4,2, 0,74, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v13,81,"Door Palm lock Armoury",7572,17828,    0, 74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1, 0,0,0,0,0,0, lock,DoorLckE,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,82,"Door Palm lock Armoury",7764,17588,    0, 74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,83,"Door Palm lock Armoury",7572,17428,    0, 74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1, 0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+7,v13,64,"Forest Copy (12) Copy (1)",14384,17792,    -1,300,800,1000, 0,Alien2,chiggers,0,0
+7,v13,65,"Forest Copy (11) Copy (1)",14336,14912,    -1,300,800,1000, 0,Alien2,bug,0,0
+7,v13,84,"Forest Copy (10) Copy (1)",15664,16688,    -1,1000,500,1000, 0,Alien2,birdcall,0,0
+7,v13,85,"Forest Copy (8) Copy (1)",15920,17760,    -1,300,800,1000, 0,Alien2,salwea1,0,0
+7,v13,86,"Forest Copy (2) Copy (1)",15888,15456,    -1,300,800,1000, 0,Alien2,daychirp,0,0
+7,v13,87,"Forest Copy (3) Copy (1)",17456,17776,    -1,300,800,1000, 0,Alien2,dchirp2,0,0
+7,v13,88,"Forest Copy (4) Copy (1)",17104,14608,    -1,300,800,1000, 0,Alien2,dchirp3,0,0
+7,v13,89,"Forest Copy (6) Copy (1)",13936,16288,    -1,300,800,1000, 0,Alien2,nightbug,0,0
+7,v13,90,"Forest Copy (7) Copy (1)",8272,14320,    -1,300,800,1000, 0,Alien2,salwea,0,0
+3,v13,93,"Flag",8784,15808,     0,1000,4,999,1, 0,0,0,0,0, 0,0,0,0, 0,0,0,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+3,v13,94,"Flag",5040,22416,     0,1000,4,999,1, 0,0,0,0,0, 0,0,0,0, 0,0,0,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+3,v13,95,"Flag",8208,23392,     0,1000,4,999,1, 0,0,0,0,0, 0,0,0,0, 0,0,0,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+3,v13,96,"Flag",9280,14144,     0,1000,4,999,1, 0,0,0,0,0, 0,0,0,0, 0,0,0,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+3,v13,97,"Flag",12240,17968,     0,1000,4,999,1, 0,0,0,0,0, 0,0,0,0, 0,0,0,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+4,v13,106,"TeamA",816,16080,  0,999,1, 2,0,600,""
+4,v13,107,"TeamA2",896,17664,  0,999,1, 2,0,600,""
+4,v13,108,"TeamB2",18368,15472,  0,999,1, 2,1,1000,""
+4,v13,109,"TeamB2",18672,16800,  0,999,1, 2,1,400,""
+8,v13,115,"Shuttle1",2336,16816,    0,-1,600,"The entrance bay to a battle worn transport shuttle lies open."
+8,v13,116,"Shuttle1 Copy (1)",18048,16544,    0,-1,600,"The transport shuttle looks like it recently landed. Footprints are all around."
+8,v13,117,"Vegetaion",6752,17056,    0,-1,600,"The areas of vegetation look thick enough to hide under."
+8,v13,118,"Vegetaion Copy (1)",13008,16064,    0,-1,600,"The areas of vegetation look thick enough to hide under."
+8,v13,119,"Base",9472,18112,    0,-1,500,"An abandoned base already slightly overgrown looms nearby."
+8,v13,120,"Base Copy (1)",6720,15424,    0,-1,500,"An abandoned base already slightly overgrown looms nearby."
+8,v13,121,"Armory",10480,16944,    0,-1,400,"This room used to be the armory. Although the previous occupants obviously ransaked the place they may have left a few items behind."
+8,v13,122,"Stairs",11168,17120,    0,-1,300,"The stairway leads down into the earth. The air from below smells rank."
+8,v13,123,"Stairs Copy (1)",10512,16080,    0,-1,300,"The stairway leads down into the earth. The air from below smells rank."
+8,v13,124,"Stairs Copy (2)",7792,16928,    0,-1,300,"The stairway leads down into the earth. The air from below smells rank."
+8,v13,125,"Water",11536,16832,    0,-1,300,"This used to be the bases water supply but now algae has formed a scum on top of it."
+8,v13,126,"Door",9920,17328,    0,-1,200,"The door is slightly rusted but hums indicating it is still operational."
+8,v13,127,"Door Copy (1)",7664,17424,    0,-1,200,"This door requires a human palm print to open.  The more disturbing question is why."
+8,v13,128,"Shed",7616,14704,    0,-1,225,"An old storage shed. The large drums are empty now their contents long since having been taken."
+8,v13,129,"Door",7664,17424,    0,-1,200,"This door requires a human palm print to open.  The more disturbing question is why."
+8,v13,130,"Living",9792,14624,    0,-1,400,"This used to be the bases living quarters. Now all that remains are a few discarded pieces of furniture and some drums which are still full of fuel."
+8,v13,131,"Lab",7840,15696,    0,-1,225,"An old research lab which has been gutted. A few crates are still scattered around but they contain nothing."
+8,v13,132,"Water storage",12432,17888,    0,-1,210,"This used to be the water storage area and barrels of long tepid water line the walls."
+8,v13,133,"Water storage Copy (1)",12432,17472,    0,-1,210,"An old storage shed. The large drums are empty now their contents long since having been taken."
+8,v13,134,"Water Copy (1)",11536,17440,    0,-1,300,"This used to be the bases water supply but now algae has formed a scum on top of it."
+1,v13,139,"Living area",8704,14640,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,141,"Living area Copy (1)",8736,14640,    -2,-1,4,2, 0,139, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,142,"Living area Copy (1) Copy (1)",8768,14640,    -2,-1,4,2, 0,139, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,143,"Living area Copy (1) Copy (2)",8800,14640,    -2,-1,4,2, 0,139, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,144,"Living area Copy (1) Copy (3)",8832,14640,    -2,-1,4,2, 0,139, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v13,145,"Living area lock",8612,14692,    0, 139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1, 0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,146,"Living area lock",8612,14548,    0, 139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1, 0,0,0,0,0,0, lock,DoorLckE,0,0,50,0,0,0,voice,acknowlg,0,0
+1,v13,147,"Living area v",10464,14784,    -1,0,2,6, 0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,148,"Living area v Copy (1)",10464,14816,    -1,0,2,6, 0,147, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,149,"Living area v Copy (2)",10464,14848,    -1,0,2,6, 0,147, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,150,"Living area v Copy (2) Copy (1)",10464,14864,    -1,0,2,6, 0,147, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v13,151,"East Living area lock",10516,14932,    0, 147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1, 0,0,0,0,0,0, lock,DoorLckF,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,152,"East Living area lock",10404,14740,    0, 147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1, 0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+1,v13,153,"Main entrance",9392,17488,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,154,"Main entrance Copy (1)",9424,17488,    -2,-1,4,2, 0,153, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,155,"Main entrance Copy (1) Copy (1)",9456,17488,    -2,-1,4,2, 0,153, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,156,"Main entrance Copy (1) Copy (2)",9488,17488,    -2,-1,4,2, 0,153, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v13,157,"Main entrance",9620,17652,    0, 153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1, 0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,158,"Main entrance",9284,17348,    0, 153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1, 0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+4,v13,35,"TeamC",9696,21376,  0,300,1, 2,2,400,""
+4,v13,42,"TeamC2",5664,22016,  0,300,1, 2,2,400,""
+5,v13,51,"Bullets",928,16944,     50,50,10,1, 0,300,0,99999, 50,500,2000,500, 200,0
+5,v13,52,"Bullets2",18784,16656,     50,50,10,1, 0,300,0,99999, 50,500,2000,500, 200,0
+5,v13,53,"AP Rockets",18784,16656,     4,200,10,1, 0,300,0,99999, 4,500,1004,500, 2,0
+5,v13,54,"AP Rockets2",896,16656,     4,200,10,1, 0,300,0,99999, 4,500,1004,500, 2,0
+5,v13,55,"Incinerator",928,16944,     5,50,10,1, 0,300,0,99999, 5,500,306,500, 50,0
+5,v13,56,"Incinerator2",18784,16944,     5,50,10,1, 0,300,0,99999, 5,500,306,500, 50,0
+5,v13,57,"RipperGun",928,16832,     3,200,10,1, 0,300,0,99999, 3,500,1013,500, 100,0
+5,v13,58,"RipperGun2",18752,16624,     3,200,10,1, 0,300,0,99999, 3,500,1013,500, 100,0
+5,v13,59,"Grenade",928,16832,     25,100,10,1, 0,300,0,99999, 25,500,1007,500, 1,0
+5,v13,60,"Grenade2",18736,16688,     25,100,10,1, 0,300,0,99999, 25,500,1007,500, 1,0
+5,v13,61,"RGrenade",928,16832,     25,100,10,1, 0,300,0,99999, 25,500,1082,500, 1,0
+5,v13,62,"RGrenade2",928,16832,     25,100,10,1, 0,300,0,99999, 25,500,1082,500, 1,0
+5,v13,63,"Shutgun2",928,16944,     5,50,10,1, 0,300,0,99999, 5,500,3023,500, 50,0
+5,v13,66,"Shotgun",928,16944,     5,50,10,1, 0,300,0,99999, 5,500,3023,500, 50,0
+5,v13,67,"Changers",18784,16656,     3,0,0,0, 0,300,0,99999, 3,6,1,500, 1,0
+5,v13,68,"Changers2",992,16880,     3,0,0,0, 0,300,0,99999, 3,6,1,500, 1,0
+5,v13,69,"APC",1104,16480,     2,1000,1000,1, 0,300,0,99999, 2,4,-102,500, 1,0
+5,v13,70,"APC2",18624,16480,     2,1000,1000,1, 0,300,0,99999, 2,4,-102,500, 1,0
+5,v13,71,"ExoSuit",1104,16480,     2,1000,1000,1, 0,300,0,99999, 2,4,-127,500, 1,0
+5,v13,72,"ExoSuit2",18624,16480,     2,1000,1000,1, 0,300,0,99999, 2,4,-237,500, 1,0
+5,v13,73,"Changers3",9632,21456,     5,0,0,0, 0,300,0,99999, 5,6,2,500, 1,0

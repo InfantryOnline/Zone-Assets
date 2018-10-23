@@ -1,0 +1,382 @@
+01/01/10
+
+Have not touched the zone in a long time.  Did significant work on the OutWorld / Rogue teams but did not find a way to keep the zone stable.  That is down the road.
+
+The zone is going up on Monday as a pub zone.  It is still in development of course, but stable in the current state.
+
+To be added at some point during this rotation are the challenges (not 100% ready just yet).
+
+The map has undergone major work.  Several other features of the zone have as well.  Lots yet to do before I consider it perfect.
+
+*** IF SOMEONE WHO KNOWS THE EDITORS IS INTERESTED IN HELPING OUT, PLEASE CONTACT ME.  I WOULD VERY MUCH LIKE TO MOVE THIS FORWARD AS A TEAM PROJECT AS I THINK THERE IS SIGNIFICANT ROOM FOR IMPROVEMENT STILL.***
+
+
+
+06/29/09
+
+Work continues on the Challenge system.  I'd like to have it working by the live pub test (next week according to MP / Satori).
+
+Currently working on:
+
+STAT:
+15 Kills per 1.5 Minutes (not tested)
+15 Kills per 1 Minutes (not tested)
+
+CLASS:
+Marine (not tested)
+Sniper (not tested)
+Grenadier (not tested)
+Ninja (not tested)
+Ripper (not tested)
+Scout (not tested)
+
+
+06/23/09
+
+Minor changes trying to get Team Portal working.  Some challenges fixed.  Where I'm at with those below:
+
+STAT:
+10 Kill Streak (not tested)
+15 Kill Streak (not tested)
+**15 Kills per 1.5 Minutes (not implemented yet)
+**15 Kills per 1 Minutes (not implemented yet)
+
+
+
+06/20/09
+
+A lot longer still.
+
+Still waiting for a public zone testing slot to determine long term viability / do more public testing.  Until then, working on the challenge revamp.  I haven't touched the zone in about 3 weeks, so I'm a bit more energized to work on it now.
+
+So far the challenge structure is going to be as follows:
+
+1) Newb Challenges: Multiple layered challenges that lead you through the actual gameplay and "teach" you how to play this game.
+2) Stat Challenges: Challenges based around you accomplishing a particular statistical goal.  The four goals (with 3 increasing levels of difficulty) are Kill Streak, Kills in x Minutes, Kills every x Minutes, and Ratio.
+3) Class Challenges: Challenges that turn you into a particular class and also give you a particular goal with that class.  They all have timed components and you lose the class if you fail the challenge.
+4) Final Challenge: Once you complete all the challenges, the final multi-layered challenge.
+
+Once you have completed a challenge you will not be able to do it again, until you complete the Final Challenge, at which time all challenges will become available for you to re-do at your leisure.  
+
+The following challenges are complete:
+
+ALL CHALLENGES STILL NEED TO HAVE REQUISITES ADDED ONCE TESTING IS COMPLETE
+
+STAT:
+5 Kill Streak
+10:3 Ratio
+10 Kills in 10 Minutes
+10 Kills per 2 Minutes (not tested)
+10 Kill Streak (not tested)
+15 Kill Streak (not tested)
+15:3 Ratio (not tested)
+15:1 Ratio (not tested)
+15 Kills in 8 Minutes (not tested)
+15 Kills in 5 Minutes (not tested)
+**15 Kills per 1.5 Minutes (not implemented until 10per2 is confirmed to work)
+**15 Kills per 1 Minutes (not implemented until 10per2 is confirmed to work)
+
+I have also made MASSIVE changes to the nomenclature of the zone as well as internal structural naming conventions (category names) to make it easier to develop.  The number of items and multi-item linking is getting quite high as a result of the challenges and stats.  Each challenge involves about 10-15 items depending on it's complexity and what with the combination with removal items it's easy to miss something when creating a new challenge.
+
+Lastly, Nemesis is helping me work on the zone now.  He's a new developer who I'm going to work with to get up to speed on the editors.  He'll be working on the Public League system I want to implement.  This won't be visible in public for quite a while, but should be pretty sick once it's up and ready to go.
+
+05/30/09
+
+v1.07
+
+Many days later...
+
+[RTS] Connor Canyon continued to run into the crashing issue, so it was put down for private testing.
+
+Further possibilities have been addressed.  Terrain issues with the map, turret max limits, fixing of the PDS (some weird settings on it).
+
+I've removed the Challenges from the store.  They will be put back in when I implement the Newb / Challenge structure in some future rev.
+
+
+05/23/09
+
+v1.04
+
+Day Four of [RTS] Connor Canyon went well enough - making it to 10am on Saturday morning.  Then it crashed.  A couple possibilities were addressed this time.  The first was an warp looping issue.  The second is the possibility that the game just can't handle team resources to the extent this zone uses.   Along with that are some map changes as well as one major change: the new drop ship.  There is now only one Drop Ship for everybody, and it includes a Base Warp pad.  This will warp you to your team's Mass Converter, or if there is no Mass Converter, to the Drop Portal.
+
+The MAJOR change this update is that games are now timed.  Games now last FOUR HOURS.  This is intended to prevent zone crashing, as noted above.
+
+I am continuuing to make other minor changes as well.  They include:
+
+- lowered ret armor (again)
+- lowered tank armor so that rippers damage them
+- removed DOT from inferno and switched some of the electronic dmg to explosive
+- increased LAW damage
+- made LAW drop 100% on death (it spawns with you, should mean a lot more LAWs on the map)
+- added soda drop to turrets
+- removed reload on medkits / repair kits
+- increased medkit heal slightly (40% instead of 35%) and reduced heal time (100>50)
+- increased flag spawn chance + periodic rewards; should see bigger flag games with larger rewards
+
+
+05/22/09
+
+v1.03
+
+Day Three of [RTS] Connor Canyon managed to make it until the next day at around 3pm EST.  Then it crashed.  
+
+I'm thinking (hoping) it may be the flags.  Roaming flags have been removed as a result.  A couple other minor bugs have been fixed.  A couple minor balances have also been done.  Changes below:
+
+- sniper rifle inactive time reduced to 25ms
+- sniper speed increased
+- rocketman armor lowered
+- rocket laucher changed to 1 shot / reload
+- PowerSuit rotated increased
+- increased speed of the AT Launcher projectile
+- removed all roaming flags
+- removed Mine Layer from infil
+- various others that I didn't document
+- added mods.txt to the cfg help files
+- making my stuff like this news file prettier
+
+Currently working on a new DS to allow you to go right to base instead of random warp.
+
+05/20/09
+
+v1.02
+
+Day One of [RTS] Connor Canyon went well except of course for that game crashing bug.  Changes made to this rev include:
+
+- flags no longer able to drop in the DS
+- hopefully game-crashing bug fixed (guessing at the bug)
+- flag that was causing the team holding it to be invincible has been fixed
+- vehicles can no longer be created in any of the prohibited areas, which now includes INDOORS
+- lowered team sizes and the number of public teams that should be created
+- Landnaut / Harrier firing bugs (not sure about LDN - I think it's fixed)
+- Inferno trooper couldn't move backwards
+- Sturmjager didn't drop soda when he died, he shot an LMG
+
+05/16/09
+
+First real public test.  Guess this makes this v1.00
+
+This is really just a cleanup update, getting everything ready for public testing.
+
+Following changes made:
+
+- added a Challenge guide, updated the Structures guide and added both a new player walkthrough and a tip file
+- add some challenge fixes (my purposes: add a check to ensure there is an ongoing challenge, if not remove all challenge info on every death / kill)
+- removed the logos / copywrited sounds that were in the game
+- add a drop camo item
+- fix base recall
+- buy warp pad recall from DS
+- lowered misfire rate for ripper / mg / lmg / all classes
+- mech armors adjusted downwards
+- made razorwire a lot more visible
+- lowered vision to 210 degrees, still more than most SK zones, but more reasonable I think, especially given the spammy nature of the zone
+- stat bubbles not set right
+- add long knife to more classes
+- get rid of mine layer
+- add turret dismantle to base tech and doctor
+- rocketman doesnt spawn with bullets
+- lower / adjust melee weapon damages
+- remove the raptor sound effect
+- increase Harrier Firing length by like 3 (sometimes when in movement it catches)
+- adjusted vehicle weights / some firing weight triggers
+- soda is not visible on drop... believe it is hidden by other items
+- large adjustment to turret weapon ROF and ammo capacity
+- AT Launcher trigger mode as set wrong
+- rocket launcher (rocketman) doesnt use ammo
+- add a chain sword for raptor use
+- 10 to3 isnt removed by remove all challenges
+- 10 to 3 ratio stat gave the wrong start item
+- rocket launcher not included in WIPE Items and it can be used in vehicles (bad dev work by me :)
+- ret gravity set wrong
+
+05/09/09
+
+Added flags.  The flag game lasts four hours.  There are two flag types - static and roaming.  There's a level of randomness in terms of how many flags spawn each game - expect to see the major bases with flags.  Flags will eventually control aspects of the map, but at the moment they are just normal flags to give players an incentive to fight over specific locations.
+
+The general reload idea mentioned at the end of the last update worked perfectly.  I've now changed the building stream as a result - the ITF stream has been removed and a single Item Transmission Facility is now available from the Mass Converter (misc. stream).  This will also allow anyone to reload in the DS (costs 1 soda, free at your base if you own the facility) as well as allow me to use the Drop Portal store for more stuff.  The other ITFs have been removed.
+
+Challenges work and are being added slowly.  This is considered non-essential to the zone and won't impede my progress in getting it up for a real public test.  I'm changing them so that all the challenges give you the same reward item (dog tag) and you can't do the same challenge twice (without wiping).  Rewards currently do nothing.
+
+The Sapper / Marine challenges have been renamed.  Marine challenge is now - 5 Kill Streak Challenge.  Sapper Challenge is now 10 Kills per 2 Minutes Challenge (not sure how to name this one; the goal is to get a kill every 2 minutes, you win when you get 10 within these parameters).  I've also added a 10 Kill in 10 Minutes challenge - get 10 kills in 10 minutes.  There is also now a seperate guide dealing with challenges.
+
+Stats are... a slow process.  Self-damage doesn't work the way I thought it did, so now I'm running through some ideas using point blank damage atm.  We'll see how that goes.  In terms of actual damage I'm pretty sure how it works, but as far as damage event strings go it's a whole 'nother story.
+
+I've added a new class and new vehicle:
+
+Raptor Exo - a light exosuit that is pretty fast and uses a single shot energy weapon (based off of energy pistol)
+
+Rocketman class; flies a jet pack and uses a rocket based weapon and auto pistol (available in the Light Veh Building - same as the Air Skimmer)
+
+
+The following bugs were fixed:
+- all tank armors adjusted
+- steron injection doesnt reload; check all one-use drugs
+- you can drop turrets and structures now
+- allow anyone to drive
+- landnaut has no weapons
+- AT Launcher hit weight fixed
+- lower energy pistol shot energy
+- check rocket turret; increase range
+- remove all cloak etc items when class change
+- harrier turret shoots too high / sniper hole and some other vechs as well
+- doors were set to only allow freq 0 usage - fixed that
+- Add control item for future control class
+- lowered damages again
+- changed weapons for Field Op and Field Medic (AP instead of PDW)
+- map bugs fixed so that doors can't be walked through while closed
+- remove non-wall red physics and replace with orange
+- add a delay to the dropship recall
+- fixed terrain bugs prevent movement of vehicles
+- 50,125 physic bug fixed
+- added reload for light exosuit
+- energy shouldn't go to zero when leaving tanks (having a lot of problems with this one)
+
+My hope is that when this update comes up, the zone hits public testing soon after, but we'll see.
+
+04/26/09-04/29/09
+
+Reconfigured the bounty / exp / point system.  It works as follows:
+
+Points go directly to your bounty.  When you get a kill, your experience increases by 10% of your bounty and 10% of the target's bounty. (Ie if you have 100 bounty and the person you killed has 200, you would get 10 + 20 = 30 experience points for the kill.)  There is minor sharing of experience point assists.
+
+For every kill your bounty increases by 10 points + 10% of your bounty and 30% of your target's bounty.  It should take approx 50-54 kills in a row to reach 30k bounty.
+
+As an added feature, someone's kill points will always represent the total bounty that they have earned, because bounty derives 100% off of the kill points.
+
+The following bugs were fixed / minor changes were made:
+
+- add marine to DS (cost 1 soda)
+- hellbore bunker turret is not lined up properly
+- harrier doesnt shoot properly
+- fixed lio file re: doors / movement between levels
+- removed the bike / board facility and moved air skimmer purchase to the light veh facility
+- energy shouldn't go to zero when leaving tanks
+- add class requirements as appropriate to buildings / fix all buildings to ensure consistency in production chain
+- add a summoner rather than team leader in DS
+- added soda drop to vehicles / buildings
+- increase veh size on the air skimmer
+- removed the auto spec timer
+- added soda to radar (not 100% this is going to work)
+- make soda manual pickup (the 1 soda that drops upon death is NOT manual pickup; dropped as ammo, it is)
+- medic heal is too close / doctor can't heal self (not 100% that the second thing is fixed)
+- turret / vehicle reloads fixed
+- DS Recall is prized at the same time as all other ammo items... you need to purchase it if you want to have it beyond that though
+- add a min range for the sniper
+- soda expires too fast
+- infil visual height is off
+- mass converter has no vehicle size
+- finish adding Reload items to ITFs
+- energy should always start at max
+
+Other major changes in this update:
+
+- Adjusted all damages.  Explosive now doesn't damage players as much.  Still tweaking this.
+
+- All terrains rolls fixed in the .veh file. (You can on longer go to dead zones and  all vehicles / classes should be able to access all other terrain).  There are still some map bugs that may interfere with this.  Working on fixing those.
+
+- Added Challenges (still in testing).  Try out the marine and sapper challenges, available in the DS.  At the moment, there is no reward, but the reward will be being able to use these classes for free whenever you want, in my nod to RPG.
+
+- Testing out a generic reload that uses multi items and skill requirements.  We'll see how it goes, if it works it will allow me to make a major change to the way the ITFs work (likely eliminating all but one store building)
+
+
+
+04/18/09-4/20/09
+
+The previous update hasn't been uploaded yet (a bit frustrating dealing with this timeline, but ah well), and thus no bug testing has been done on those changes.  The following updates have been made though:
+
+Complete overhaul of the damage / armor system.  Intention was to standardize damage types to make development easier down the road.  Shouldn't see any major changes between regular SK and here though.
+
+MAJOR changes to the wiping / inventory addition system.  Has to do with all the "REMOVE" / "ADD" items now in the inventory file.  This makes development more viewable (moving weapon / ammo setups to seperate boxes makes them easier to read) and also coincides with changes to the event structure for wipes / ammo prizing.  Thanks for the idea Oct.
+
+Added new reload system as part of the inventory addition system mentioned above.  All reloads cost 1 soda and it reloads you to your base inventory levels.  Some classes can only reload at their base or upon death.  It's not fully implemented.
+
+The following bugs were fixed / minor changes were made:
+- turrets not shooting (PDS / Gatling)
+- remove wall limits
+- remove turret limits
+- removed splash damage to all weapons
+- emp doesnt do nrg damage
+- rename malt liquor (to Boost Cola) / lower boost
+- AT mine shouldnt hurt people, only tanks
+- add more / adjust misfires to all guns
+- change assassin warp so you can move at same time, add a longer reload delay
+- repair / PMU do nothing
+- zap field should hurt exosuits but not buildings
+- make ammo / soda droppable
+- allow you to change to basic classes for free in DS
+- remove mine limits
+- utilities don't reload properly
+- weapons damage tanks when theyre not supposed to
+- air skimmer armor is screwed up
+- lower hp / armor of walls
+- air skimmer shouldnt display HP to nme
+- reduce range of shrap on the light explosion
+- reduce effect / size of building explisions
+- grenadier mortat neds to be longer
+- remove rocket turret reload
+- changed LMG to use heavy rounds instead of bullets
+- more classes now spawn with LAWs
+- added new Stub Cannon turret.
+
+2 new classes added (+ appropriate items):
+- Infiltrator: Uses a drop portal to get into the opponent's base and wreak havok on opposing teams
+- AT Trooper: Anti tank specialist who uses the AT Launcher, a rocket launcher designed to destroy vehicles and buildings.  Added rocket ammo for this class.
+
+
+
+04/10/09-04/12/09
+
+Updates:
+
+
+The following updates were added:
+- new map with proper terrains; doors & switches added as well as a second level
+- added a team deathmatch gametype (if your team can hit 1000, I'm happy to change my tune)
+- added a rocket PDB
+- added a unique bounty / experience system
+
+The following bugs were fixed:
+- drop ship doesnt let you change teams
+- all vehicles allow you to use non vehicle weapons
+- build rhino creates a turret, not the tank
+- Soda doesn't drop upon death
+- restart wipes inventory
+- change class / team wipes inventory
+- set proper team numbers
+- remove KOTH
+- LES fusion rifle uses energy
+- Harrier / Landnaut turrets dont have guns
+- buildings not exploding properly
+- increase the auto distance to get into vehicles
+- remove auto bounty
+- base recall can take you to an enemy base
+- twin pistols uses the wrong ammo (BP)
+- mines do TK damage
+- vehicle creation LES uses the wrong ammo
+- Landnaut doesn't move
+- fix warp pad per Oct
+- fix base recall per oct
+- mortar bunker min angle 10 instead of 5
+- powersuit incin is broken
+- add health etc to warp pads
+- light vehicles in buildings: yes; tanks: no
+- gatling pdb height is set too high
+- see if you can set turrets as the primary option to get into vehicles
+- remove zap from APC / Harrier
+- change LES walking sound
+- assault suit requires wrong class
+- add display HP to everyone to all buildings
+- area summon doesnt work
+- sniper hole has angle options, remove it
+- Is the assault suit on - fixed
+- EM Imaging goggles don't work... maybe fixed
+- levi should be slightly smaller
+- ITF STandard doesn't give listed item amounts
+- vision is fucked, make it better
+- Powersuit not linked properly
+
+
+03/31/09
+
+Files sent to Satori.  As far as I can tell, this zone should be functional.
+
+- 7

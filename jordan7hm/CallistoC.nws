@@ -1,0 +1,172 @@
+~BCallisto Crossfire~B  (thanks to Captain Harloch for the name)
+
+November 16, 1999 --Yankee
+
+Adjusted CFD energy use down a bit. Should be okay now.
+Adjusted overall ranges of all weapons downward. This should keep projectiles out of a local battle out of your faces.  I WANT sniping, or indirect fire, but just random fire should not be advantaged or encouraged..
+Made a new item for the Engineer to build.  The Flux Capacitor.  It gives your suit a quick burst of energy (essentially an energy repair)..  Before you Medics start Sceaming just be patient you have things coming.
+Added a new item: Suit Suprecharger.  This item boosts your recharge rate.  It does not boost your overall energy amount and cannot be used in conjunction with a PowerCell.
+Powercells no longer increase your recharge rate, just your overall energy reserve.
+Changed caw and to only be available to Infantry. Sorry Center Island Heavies... NOT! ;))
+Changed incinerator to only be usable buy Combat Engineer and Infantry.. Sorry Heavies.. ;)
+
+Yankee out!
+
+
+
+November 15, 1999 --Yankee
+Cloak is a little more effective.  I decreased it's energy drain on both Cloak and ICloak.  Lowered the range of the CFD and increased it's power drain slightly.
+Shortened the range on the CAW a bit more.
+Decreased the spread on the Close Combat Shotgun.
+Adjusted damages on micro Missile launcher.
+Decreased Repulsor effect radius slightly.
+Decreased Suit teleport reload time to 20 secs.  Thinking about lowering the time back to 10 but making Suit Teleport use ALL energy.  Dunno, we will see...
+
+Working on KR.  There is a stolen transmission of part of KR displayed at NMEBASE.
+
+Yankee out.
+
+November 14, 1999 --Yankee
+
+---More
+Buffed up Sniper versions of Carbine and AR.  you dont have to sit still so long to shoot them.. Try em out.
+Changed needler and Gauss rifle energy usage.  Changed Needler fire rate.
+Changed plasma weapon in Plasma turret.
+Adjusted some weapon graphics to add distinction.. Trying to find a neat way of doing tracers.. :)
+Adjusted team turret limit downward to 10.
+
+
+made most if not all tick marks red to make them visible.
+Turrets now are destroyable and disappear when at 0 HP.
+Added some armour to turrets.
+made DropPack blaster fire dual Pulse Rifle.
+Decreased the arming distance on Particle Accellerator to be in line with it's increased projectile speed.
+Adjusted Deathboard Slash and Frenzy Attack to the same params (range, etc.) as hand to hand attack.
+Plasma turret fires quicker, but reloads after 10 shots.
+some small tweaks.
+
+November 13, 1999 --Yankee
+
+Increased reload times on suit teleport to 30 seconds.
+Decreased the overall range of CAW.
+Put AR back to 3 round burst mode.
+Slightly increased energy damage on all energy weapons except PA and Plasma Cannon.
+Some small tweaks here and there.
+
+
+November 10, 1999 --Yankee
+
+Small Changes added:
+
+JumpTrooper recharges faster.
+MG has a longer period between firings.
+Commando can now only use EMP grenades.
+
+Assorted small tweaks.
+
+
+November 7, 1999 more...
+
+I increased the starting cash from 2000 to 4000.
+
+November 7, 1999 more...
+
+Increased the kill cash slightly. This map is more difficult to fight on than TP so I increased the kill cash to compensate for ammo usage.
+
+Made all bridges not be able to have turrets or mines on them. Sorry I forgot them last time. (people will still be able to build turrets on the base side of bridges)
+
+You should now be able to use hoverboards and deathboards on the center island.
+
+Made an attempt to adjust team colors. The players should now match their base colors, Titan - blue, Collective - purple, Europa - red, Morgan - green.
+
+Removed the fifth flag. There are now only 4 flags one spawned in each base. Hopefully flag games will be slightly faster now. (I had to do this because of the center island adjustments.)
+
+Decreased the tiox supply slightly. A few less turrets won't hurt and will maybe make the flag games easier to win.
+
+
+November 7, 1999
+
+Made the left/right wings of each base much more defensible. First by making the doorways smaller and secondly by splitting the very last room into 2 halves. We'll see if this helps any.]
+
+Added a flag room to the very center of every base. It should be fairly defendable.
+
+You can no longer place turrets or mines on the center island.
+
+Adjusted the minerals once again, hopefully this should be it.
+
+Adjusted the starting warp points so that they don't overlap the "warp to center" portals. People were warping to the safe then getting warped out to the middle island. :)
+
+November 6, 1999
+
+I decreased the tiox spawn rate. There were just to many turrets. I may have to adjust this again so be patient.
+
+November 5, 1999
+
+Some people seemed confused at first about whose base is whose, so here they are:
+
+	Titan Military - North blue base.
+	Collective Militia - East purple base.
+	Europan Mercs - South red base.
+	Morgan's Raiders - West green base.
+
+Fixes/Updates since the last version
+
+Moved all mining islands closer together and also moved them closer to the main land. This should encourage a little more shooting at the engineers and medics out on these islands.
+
+The main bases were really overhauled. There are 2-3 flag rooms per base now that only have single doors into them and they should be quite defensible.
+
+There is a warp portal in each bases safe area (near the bathroom), that will teleport you to the center island.
+
+This map now uses the same inventory as the Twin Peaks map. Every weapon/item/cash you have in Twin Peaks will be available to you on this map.
+
+
+October 30, 1999 (more...)
+
+Fixed the flag dropping by Titan's autoturrets.
+Reduced the number of flags to 5.
+Change the max players per arena to 100.
+I increased the cash for killing once again.
+
+October 30, 1999 (more...)
+I increased the flag game timer to 4 hours.
+
+October 30, 1999 (more...)
+
+Fixed the bug where you could get onto the green stuff. It was a max player per team bug.
+Fixed the problem with the collectives mining portal. I forgot to move the portal when I adjusted the little room.
+Fixed the bug that let you drop flags in the autoturret area. There was an incorrect terrain type on that floor.
+Removed the safe zone timer temporarily. It seems messed up somehow. (this was the first time it was every used btw)
+
+October 30, 1999 (more...)
+First I want to apologize for the periodic reward messages. I will get this fixed as soon as I can.
+
+I increased the kill cash to the Twin Peaks level. There were so many complaints about this I had to up it. :(
+Removed bounty increases while in safe zones.
+Added a 5 minute timer to safe zones.
+(I don't know if these safe zone things will work this is the first test of them.)
+Increased the periodic reward timer to 5 minutes. You will get the same amount of cash just over a longer period of time. This will reduce those stupid messages also until they are fixed.
+Fixed the terrain type of the mining island portal return locations. You could have put flags there but not anymore.
+Increased tsolvy spawning rate by 50%, decreased titanium oxide amounts by 20%.
+Lowered the flag win cash multiplier to 1/5 of what it was. Old cash formula, 2200 + ( #ofplayers * 1000 ), new formula 2200 + ( #ofplayers * 200 )
+Lowered the flag win point multiplier to 1/2 of what it was. Old point formula, 5000 + ( #ofplayers * 1000 ), new formula 5000 + ( #ofplayers * 500 )
+I gave a small point increase if you kill someone. (10 point bonus)
+
+This one some of you will hate. I removed all the tiny alcove hiding spots from the exterior of all the bases.
+All bases can now be walked all the way round. To compensate for this I made the right and left wings of each base only accessible by one doorway. 
+
+October 30, 1999
+Fixed the bathroom safe zone problem. The bathrooms are now part of the safe/store area as was intended.
+Added a better deliniation in some of the hallways. So you can see doorways better. (thanks Aero)
+Added a periodic reward, you will get 5 points and 10 cash for every flag your team owns every 2 minutes.
+
+
+October 29, 1999
+Welcome to the newest Infantry CTF map. This is a 4 team map, currently with 9 flags. There are 2 flags randomly spawned on each of the 4 main base islands and 1 flag spawned on the center island. This map uses the same settings as the Twin Peaks map and it's objective is the same. Capture all 9 flags.
+
+The most important thing I want you to do is find map bugs. These include physics/vision problems and terrain problems etc...
+
+There are few things I need to mention about this map. In each corner of the map you will notice 3 islands. Each team has 3 islands of their own which other teams can not appear on. The 3 team owned islands are interlinked by a series of portals. Which islands go with which team will have to be determined by you when you play. 
+On each of these islands are various minerals that your team will need to collect in order to do things such as heal teammates and build turrets. You will have to figure out which islands have which minerals and send people to collect what you need when you need it. Since no other team can be on your island the only fighting that should occur is from adjacent islands. Most islands are close enough together to enable weapon firing from one island to the other, so you may actually be shot at from the opposing islands.
+You can not build turrets on these islands currently and you can not drop flags on these islands. If you try to drop a flag on an island the flag will actually be dropped in the next closest place available, somewhere back on the big islands probably.
+
+Other things to note: You can not drop flags in the safe/store zones or in the auto-turret areas of the map.

@@ -1,0 +1,88 @@
+Welcome to Ganymede v0.91
+
+
+
+Development team-  Sine (Ganymede), Ultrafoo, Military Police
+
+Zone parameters-
+Teams- 20 players per 2 teams (may be increased depending on outcome of beta test and or public testing cycle)
+Flags-7  [5 flags with set locations at start and 2 random spawning flags]
+Flagdrop Timer-60 seconds
+Victory Timer- 90 seconds
+Spawns-Semi random (60% chance of on own side)
+
+Items-Standard CTF
+Stats-Standard CTF (when zone is put to public, players will have their regular CTF Stats)
+
+This Zone is under development.
+stationgamesfeedback@soe.sony.com
+ganymededev@yahoo.com
+Please feel free to send Feedback to the above Emails.
+
+Special thanks to:
+--- Sony Online Entertainment for making this all possible.
+--- Military Police For his support of the project.     
+--- Ultrafoo For his framework on the caves and other things on the map.
+--- Any and all testers who assist us.
+
+Credits:
+Project support/logistics/oversight- Military police, SatoriEnd
+Map design and editing- Sine
+Additional Design and assistance- Ultrafoo
+
+
+Beta testers-Sine,Ultrafoo,Angela,Plaps,Cyril,Alaris,Acera,Parabola,Lingo,Khako,A Big Deal,dp,earn,Lexis,Cokka,evgeni malkin,Lysaer,Mode,Reindeer,smoka,MVP,chaz~hvy,agh,XiD,stealthsnakes,Not By Choice,OUCHZILLA,Big Fat Noob,Archon of Atlantis,Sav,sinn fein,thebigjohnson,demote,ape,alexander~
+
+Updates in version 0.91
+Physics bug in E7 fixed.
+Additional cover placed outside of H5 cave base.
+
+Updates in version 0.90
+All bases Weakened a small bit. This should make for better aborts during win timer.  Changes are:
+
+D7 Base Opened up considerably.
+E7 Base has been shortened widthwise, the flagroom doorway has been opned up farther, and the Door switch moved to the right side of the door.
+A7 Base - Spawns on the way into the base have been moved to make the base more offense friendly. The Delay time on the doors have been doubled to to increase mobility in and out.
+B7 Base - no change 
+H5 Base - Entrance widened, Cover added outside so ppl can hide from the rpg spam. a couple objects removed to open the base up a bit.
+I1 Base - Entrance widened, Obsticles added outside of base.
+J5 Base - Rocks removed from entrance, Obsticles added outside of base for cover.
+Club Titan - Removed 2 animated lights to lessen framelag. Graphic for the DJ changed to the Yankee trooper. Warps inside made a little more reliable.
+Mineral graphics changed back to normal.
+
+Updates in version 0.89
+Added club titan experimental area...  this area is weird and can be a little frame laggy.  If that doesnt work out then it'll get removed.
+Revised building descriptions
+
+Updates in Version 0.88
+Team size upped to 20 per team
+Some sound / text added to buildings
+
+Updates in 0.87
+Spectator flag visability enabled
+ 
+Updates in 0.86
+Team sizes were fixed so they wont bug during win timer
+
+Updates included in 0.85
+Bridge added in caves to reduce travel time to bottom cave base during 90 sec win timer.
+Phys/vision adjusted to be more realistic on doorways/objects that are hit by weapons fire.
+
+Updates included in 0.84
+Various phys/vision refined
+
+Updates included in 0.83
+Physics/vision adjusted on several areas.
+Base flagrooms were increased in size to address turret placement/explosive usage problems cited by beta testers.
+Missing lift area floor tiles added in one area.
+Items dropped on ground in DS/outdoor/buildings have 5 min "life" to allow the stockpiling of minerals in the DS and the dropping of ammo/mines to teammates more effectively.
+
+
+Updates included in 0.82
+Team size increased to 16 players per team.
+Door Segments that were unlinked to switches @ E5,K1 fixed.
+Physics adjusted to remedy problem of not being able to enter open doors @ D1,A2,A7.
+Clouds draw order changed to fix frame lag @ D3.
+Glitchy Graphics on bridges fixed.
+Transparancey, draw order fixed in E7.
+

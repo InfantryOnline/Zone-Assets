@@ -1,0 +1,68 @@
+~BSkirmish v2~B
+
+Overview:
+
+Skirmish is a game consisting of 2 teams trying to capture 6 static map locations.
+
+Each team is of up to 30 players.
+
+Each team can consist of the following classes:
+
+~BClass~B            ~BArmed With:~B
+
+A)Marine           Combat Knife, Assault Rifle and Shotgun. Can use grenades.
+
+B)Ripper Gunner    Combat Knife, Ripper Gun and Shotgun. Can use grenades.
+
+C)Grenadier        Combat Knife, Grenade Launcher and shotgun. Can use grenades.
+
+D)Medic            Combat Knife, Medikit, and PDW. Can use grenades.
+
+E)Sergeant         Combat Knife, Leader Summoner, and PDW. Can use grenades.
+
+
+If you do not choose a class when you enter the game you will be Marine by default. 
+
+Press f11 when in spec mode or when standing on the purple floor in your transport to change class.
+
+
+You must hold all objectivess for 20 seconds to win.
+
+**********February 2nd, 2001
+
+Exosuits can now use LAWS if they have them.
+
+**********November 30th, 2000
+
+Slightly increased reload times on grenade launcher.
+Combat Knife has 3 strikes before releoad "read REST" period. It should be more effective now.
+Ripper Gun recoil is less, so it should not so quickly push you out of cover.
+
+Vehicle assets no longer respawn during a game, SO if you lose all your Exo's/Slick's/Apc's you have to wait till next game for there return..
+
+-MORE
+
+Gonna try something probably only temporary in nature. You can no longer shoot through your own team. YOUR shots will stop on your team and any vehicles. The only exception being LAWS.
+
+We'll give it a shot to see how it changes tactics.
+
+
+**********November 16th, 2000
+
+AP Rockets are now LAWS.  They are weight triggered now, so shooting at enemy infantry will not casue them to detonate.  They are only triggered by vehicles.
+The explosion effects everything normally. This has always been mainly an anti vehicle weapon, and i dont think anyone will miss the one hit kills.
+
+
+
+**********November 16th, 2000
+
+Grenades dont seem to work quit right, since they are meant to be area effect weapons, not "hit opponent with it for a one hit kill", SO
+
+Grenades now do not ARM till they have bounced once.  SO that means it wont blow up till it has bounced once.  Skillfull throwers will still get kills with em.
+
+NOT: This effects Hand Grenades, not Grenade Launchers.
+
+
+**********November 15th, 2000
+
+RELEASE on the STATION!!!

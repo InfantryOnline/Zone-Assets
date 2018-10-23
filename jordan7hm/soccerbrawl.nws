@@ -1,0 +1,110 @@
+~BSoccer Brawl~B
+
+~bZone Dev:~B 
+Darter
+HellSpawn
+Super S
+
+
+~BModerator(s):~b
+Blitzkrieg
+Darter
+Jacque
+Staley
+Super S
+
+~BNOTICES~B
+Some useful information for you guys. Some of us have been trying to change the size of the bottom corner Rader,
+So, do this:
+?radarsize 300
+That will make your radar size increase - And it stays increase after log out!
+Also, as most of you should know by now, it might be a good idea to do ?showvehicle when you first enter the game
+as it will show you the area where you can actually catch and be hit. Of course, prox effects this.
+
+
+~BVoice Server~B
+Join us on teamspeak!
+Address: infinityhq.servegame.com:8781
+
+~BUpdates~B
+
+
+~BJanuary 09~B
+We are proud to present you a huge update this time.
+
+Distinction between field players and goalies
+-Goalies are the only ones that can pick up the ball inside their teams goalie area 
+-Goalies have prox/speed bonuses inside their goal area
+-Goalies have longer carry time
+-Goalies have worse ball control
+-WARNING ONLY 2 GOALIES PER TEAM ALLOWED AT THIS POINT. MODERATORS WILL MAKE SURE TEAMS DON'T EXCEED THAT LIMIT.
+
+Map update
+-The 'gap' at the side of either post has been reduced
+-Added more crowd!
+-Bench area for changing classes added
+
+Darter & Rien
+
+
+~BJanuary 07~B
+Slight few changes
+Fixed a bug that you guys never even knew about
+slight change to check
+Added jump for public testing
+Added new sounds
+REMOVED THAT HOMO END GAME SONG INDEFINATLY
+Peace homies.
+
+
+~BJanuary 06~B
+So, we have no life.
+Changed the goals
+Changed ball color
+Changed team names
+Changed team color
+Changed the post width
+changed entire map color
+changed check graphic
+changes check details
+removed push (check now does this, or tackle if you will)
+Nearly everything is done now. Look for updates to slow down.
+
+
+~BJanuary 05~B
+Ajusted the vehicle size (?showvehicle)
+AFK timer is now set to 60 seconds
+Auto force even teams is set
+The gap between game's is only 20 seconds
+Super kick is removed for now
+Added and Seperated the checking. You now have Tackle and Push. Tackle does more damage, but no bounce. Push does more bounce, but half as much damage - The idea is to eventually modify these weapons for classes.
+Crossbar lowered
+Speed's slightly changed
+More updates to come soon.
+
+~BJanuary 04~B
+Few more changes.
+Map size
+Map Color
+Spawn locations
+Got settings as close to SOE as possible.
+
+~BJanuary 03~B
+Bunch of changes;
+Changed speeds of players both sprinting and not sprinting
+Changed the attirbutes of Lob, Low kick and High Kick, and added in Super Kick for good measure
+Changed the prox of players inside the crease and outside (inside the crease is bigger)
+Changed the strafing thrust among other things
+Changed the TEAM NAMES
+Changed the Team colors
+Changed the tick range
+Changed the energy level, will now show up next to your name all the time.
+
+
+~BJanuary 01~B
+Boosted vehicle size (?showvehicle)
+Fixed Team Colors
+Dribble is fixed
+Disabled Bounty
+Added Explosion graphic to Check (so you can tell when you hit someone)
+Boosted Blast Radius on the check a bit

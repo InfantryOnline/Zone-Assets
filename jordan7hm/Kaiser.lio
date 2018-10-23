@@ -1,0 +1,105 @@
+7,v12,27,"Ship Noise",13872,16224,    -1,1000,0,-1, 1,ambient,SHIPAMB,0,0
+7,v12,28,"Gas",24352,27056,    -1,1000,0,-1, 1,ambient,Gas01,0,0
+7,v12,29,"Drip",24816,27232,    -1,500,0,400, 1,ambient,amb1,0,0
+7,v12,30,"Fan",6080,6352,    -1,1000,0,-1, 1,ambient,Smallfan,0,0
+7,v12,31,"Fan Copy (1)",7440,6272,    -1,1000,0,-1, 1,ambient,Smallfan,0,0
+7,v12,32,"Computer",15984,17376,    -1,1000,-250,400, 1,ambient,acomp,0,0
+7,v12,33,"Engines",6240,10960,    -1,1000,200,-1, 1,ambient,slomdply,0,0
+7,v12,34,"Electronic bleep",21424,30208,    -1,500,0,400, 1,ambient,beop (2),0,0
+7,v12,36,"Ship Noise",25696,27312,    -1,500,0,-1, 1,ambient,SHIPAMB,0,0
+1,v12,39,"Kaiser Bank [Door Lock]",16224,17856,    -2,0,4,1, 0,0, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,40,"door 1b",16192,17856,    -2,0,4,1, 0,39, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,37,"door 2a",15200,17152,    -2,0,4,1, 0,0, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,48,"door 2a Copy (1)",15232,17152,    -2,0,4,1, 0,37, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+7,v12,45,"Electronic bleep Copy (1)",19216,19296,    -1,500,0,400, 1,ambient,beop (2),0,0
+7,v12,46,"Computer Copy (1)",7616,15712,    -1,1000,-250,400, 1,ambient,acomp,0,0
+7,v12,55,"Gas Copy (1)",31040,31472,    -1,1000,0,-1, 1,ambient,Gas01,0,0
+6,v12,56,"East up",27312,28096,    64,-1,13776,16368,100, 0,0,effects,gfx00305,0,0,0,0,0,sounds,Spell2,0,0
+1,v12,7,"door 3a",8928,10544,    -2,0,4,1, 0,0, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,59,"door 3a 2 Copy (1)",8896,10544,    -2,0,4,1, 0,7, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,60,"door 3a 2 Copy (2)",8864,10544,    -2,0,4,1, 0,7, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,61,"door 3a 2 Copy (3)",8832,10544,    -2,0,4,1, 0,7, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,66,"door 4",8928,10912,    -2,0,4,1, 0,0, DOORS,Metac,72,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,67,"door 4a",8896,10912,    -2,0,4,1, 0,66, DOORS,Metac,72,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,68,"door 4a Copy (1)",8864,10912,    -2,0,4,1, 0,66, DOORS,Metac,72,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,69,"door 4a Copy (2)",8832,10912,    -2,0,4,1, 0,66, DOORS,Metac,72,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,92,"door 6",17136,17616,    0,0,1,6, 0,0, DOORS,Metala,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,93,"door 6 Copy (1)",17136,17648,    0,0,1,4, 0,92, DOORS,Metala,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,99,"door 7",10176,5968,    0,0,1,4, 0,0, DOORS,Metala,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,101,"door 7a Copy (1)",10176,6000,    0,0,1,4, 0,99, DOORS,Metala,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,102,"door 7a Copy (2)",10176,6048,    0,0,1,4, 0,99, DOORS,Metala,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+6,v12,106,"East down",18736,22016,    16,-1,25360,26736,200, 0,0,effects,gfx00305,0,0,0,0,0,sounds,Spell2,0,0
+1,v12,107,"door 8",7408,11296,    0,0,1,4, 0,0, DOORS,Metac,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,108,"door 8 Copy (1)",7408,11248,    0,0,1,4, 0,107, Door,enrgydV,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,109,"door 8 Copy (2)",7408,11200,    0,0,1,4, 0,107, Door,enrgydV,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,110,"door 8 Copy (3)",7568,11296,    0,0,1,4, 0,107, Door,enrgydV,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,111,"door 8 Copy (4)",7568,11248,    0,0,1,4, 0,107, Door,enrgydV,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,112,"door 8 Copy (5)",7568,11200,    0,0,1,4, 0,107, Door,enrgydV,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,113,"door 8a",7424,11184,    -2,0,4,1, 0,107, Door,enrgydH,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,114,"door 8a Copy (1)",7456,11184,    -2,0,4,1, 0,107, Door,enrgydH,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,115,"door 8a Copy (2)",7488,11184,    -2,0,4,1, 0,107, Door,enrgydH,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,116,"door 8a Copy (3)",7520,11184,    -2,0,4,1, 0,107, Door,enrgydH,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,117,"door 8a Copy (4)",7552,11184,    -2,0,4,1, 0,107, Door,enrgydH,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,118,"door 8a Copy (5)",7424,11296,    -2,0,4,1, 0,107, Door,enrgydH,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,119,"door 8a Copy (6)",7456,11296,    -2,0,4,1, 0,107, Door,enrgydH,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,120,"door 8a Copy (7)",7488,11296,    -2,0,4,1, 0,107, Door,enrgydH,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,121,"door 8a Copy (8)",7520,11296,    -2,0,4,1, 0,107, Door,enrgydH,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,122,"door 8a Copy (9)",7552,11296,    -2,0,4,1, 0,107, Door,enrgydH,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+7,v12,124,"Engines Copy (1)",6240,10512,    -1,1000,200,-1, 1,ambient,slomdply,0,0
+6,v12,131,"Weest Down",6448,18144,    64,-1,21216,28112,200, 0,0,effects,gfx00305,0,0,0,0,0,sounds,Spell2,0,0
+6,v12,132,"West Up",21472,29792,    64,-1,15040,6288,16, 0,0,effects,gfx00305,0,0,0,0,0,sounds,Spell2,0,0
+1,v12,137,"Garage door",18784,23296,    -2,0,4,1, 0,0, DOORS,Metac,48,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v12,136,"Garage door1",18752,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+7,v12,146,"Computer Copy (2)",17952,22528,    -1,1000,-250,400, 1,ambient,acomp,0,0
+7,v12,147,"Drip Copy (1)",22368,28224,    -1,500,0,400, 1,ambient,amb1,0,0
+7,v12,148,"Drip Copy (2)",32048,31152,    -1,500,0,400, 1,ambient,amb1,0,0
+7,v12,35,"Electronic bleep Copy (2)",15584,18816,    -1,500,0,400, 1,ambient,beop (2),0,0
+7,v12,149,"Fan Copy (2)",15056,6768,    -1,1000,0,-1, 1,ambient,Smallfan,0,0
+7,v12,150,"Ship Noise Copy (1)",19584,16656,    -1,1000,0,-1, 1,ambient,SHIPAMB,0,0
+1,v12,151,"Door10",6672,10896,    -2,0,4,8, 500,0, DOORS,Metalb,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,152,"Door10a",6640,10928,    -2,0,4,4, 0,151, DOORS,Metalb,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,153,"Door10a Copy (1)",6608,10960,    -2,0,4,4, 0,151, DOORS,Metalb,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,154,"Door10a Copy (2)",6576,10992,    -2,0,4,4, 0,151, DOORS,Metalb,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,155,"Door11",6576,10464,    -2,0,4,4, 500,0, DOORS,Metad,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,156,"Door11 a",6608,10496,    -2,0,4,4, 500,155, DOORS,Metad,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,157,"Door11 a Copy (1)",6640,10528,    -2,0,4,4, 500,155, DOORS,Metad,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,158,"Door11 a Copy (2)",6672,10560,    -2,0,4,4, 500,155, DOORS,Metad,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,98,"door 7a Copy (1) Copy (1)",10176,5936,    0,0,1,4, 0,99, DOORS,Metala,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+7,v12,201,"Rave",14384,21232,    -1,1000,0,-1, 1,ambient,Wind1,0,0
+7,v12,202,"Rave Copy (1)",8720,23504,    -1,200,0,900, 1,ambient,Wind2,0,0
+1,v12,14,"Garage door1 Copy (1)",18720,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v12,22,"Garage door1 Copy (2)",18688,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v12,57,"Garage door1 Copy (3)",18656,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,129,"Garage door1 Copy (4)",18624,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,130,"Garage door1 Copy (5)",18592,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v12,133,"Garage door1 Copy (6)",18560,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,134,"Garage door1 Copy (6) Copy (1)",18528,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,135,"Garage door1 Copy (6) Copy (2)",18496,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,138,"Garage door1 Copy (6) Copy (3)",18464,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v12,139,"Garage door1 Copy (6) Copy (4)",18432,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,142,"Garage door1a",18400,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,143,"Garage door1a Copy (1)",18368,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,205,"Garage door1a Copy (2)",18336,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,206,"Garage door1a Copy (3)",18304,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,214,"Garage door1a Copy (4)",18272,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,215,"Garage door1a Copy (5)",18240,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,216,"Garage door1a Copy (6)",18208,23296,    -2,0,4,1, 0,137, DOORS,Metac,48,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v12,41,"1b Copy (1)",16160,17856,    -2,0,4,1, 0,39, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,42,"door 1b Copy (2)",16128,17856,    -2,0,4,1, 0,39, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,218,"door 1b Copy (3)",16096,17856,    -2,0,4,1, 0,39, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,219,"door 1b Copy (4)",16064,17856,    -2,0,4,1, 0,39, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,220,"door 1b Copy (5)",16032,17856,    -2,0,4,1, 0,39, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,221,"door 1b Copy (6)",16016,17856,    -2,0,4,1, 0,39, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,49,"door 2a Copy (1) Copy (1)",15264,17152,    -2,0,4,1, 0,37, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,50,"door 2a Copy (1) Copy (2)",15280,17152,    -2,0,4,1, 0,37, DOORS,Metac,24,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+1,v12,73,"door 6 Copy (1) Copy (1)",17136,17680,    0,0,1,4, 0,92, DOORS,Metala,0,0,0,0,0,sounds,Magic bow,0,0,None,None,0,0
+6,v12,20,"East / West",16768,18528,    16,-1,8608,11984,200, 0,0,effects,gfx00305,0,0,0,0,0,sounds,Spell2,0,0
+6,v12,21,"West East",8496,23392,    16,-1,18688,12144,200, 0,0,effects,gfx00305,0,0,0,0,0,sounds,Spell2,0,0
+6,v12,159,"Out of Safe",22160,20640,    16,-1,16032,17520,3000, 0,0,effects,gfx00305,0,0,0,0,0,sounds,Spell2,0,0
+6,v12,160,"Out of Safe Copy (1)",24624,27648,    16,-1,16032,17520,3000, 0,0,effects,gfx00305,0,0,0,0,0,sounds,Spell2,0,0
+6,v12,161,"Out of Safe Copy (2)",18320,12768,    16,-1,16032,17520,3000, 0,0,effects,gfx00305,0,0,0,0,0,sounds,Spell2,0,0
+6,v12,162,"Out of Safe Copy (3)",11072,23200,    16,-1,16032,17520,3000, 0,0,effects,gfx00305,0,0,0,0,0,sounds,Spell2,0,0
+3,v12,163,"Flag",7864,17688,     600,1000,0,150,1, 1,1,1,1,9999, 0,64,2,0, 0,0,200,0,0, 0,0,0,0, ,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v12,164,"Flag Copy (1)",22200,28056,     600,1000,0,150,1, 1,1,1,1,9999, 0,64,2,0, 0,0,200,0,0, 0,0,0,0, ,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v12,165,"Flag Copy (2)",16120,17304,     200,1000,0,150,1, 1,1,1,1,9999, 0,64,2,0, 0,0,200,0,0, 0,0,0,0, ,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v12,166,"Flag Copy (3)",12952,15064,     200,1000,0,150,1, 1,1,1,1,9999, 0,64,2,0, 0,0,200,0,0, 0,0,0,0, ,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0

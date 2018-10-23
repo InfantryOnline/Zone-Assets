@@ -1,0 +1,402 @@
+~B~2~PZombie Zone! 
+~B
+~6~BAnnouncement:~B I'm looking for players to submit maps for zombie zone.  Qloos had to put the "donut map" on hold indefinantely.  Here are some specifications:
+1. Since we can't make it so that zombies can see through walls, there should be no vision on the map
+2. The map has to be perfectly square.  This is due to how the script respawns people.  ie. if it is 1000 pixels from left to right, it has to be 1000 pixels from top to bottom
+3. The map can't be too big or too small.  Currently it is boring as heck to walk from one side of the map to the other.  The orignal map for ZZ was 10064x4560 Qloos' big map (zombiezonexl.lvl) was about 175% that size.  Make it between these two sizes.
+4. The bases can't be too strong.  We don't want the game to last FOREVER.
+5. If you can, spread the bases out instead of clumping them all in one spot.  This reduces lag and gives people a place to run to.
+6. Name your map zzSomething.map.  ie. zzmymap.map
+7. Make "mud" on your map terrain 4 and building interiors terrain 5.  Mud will slow down zombies
+8. To submit the map, send me, LooseCannon, a message on the forum at www.freeinfantry.com/forum
+
+The plan will be to rotate the maps around to see which ones people like.  Then the most popular ones I'll put into a rotation.  *NOTE: This plan may change*
+
+*************** MAKE THE THRILLER ZOMBIE SPRITE AND YOU WILL SEE IT IN THE GAME **************
+I am also in need of sprites for new zombies.  The main reason you don't see new zombies is that we've used every sprite in the game for ZZ.  If any of you are good with art or 3d modeling, please let me know.
+~2
+
+Zone Moderators:
+Qloos
+Mastar Singularity
+
+~2~B
+~2ZombieZone is currently the outlet of testing the new scripting capabilities of the server.
+~4Please post any suggestions you have on the forum. Thanks. :)~2
+~4~BSCROLL DOWN FOR RELEASE NOTES~2~B
+
+~B~1~PNeed help?  Are you new?~2
+Read the player made guides in the help section of the menu
+
+~B~1~PRewards~2
+~B
+Currently, as a zombie, your job is to DIE, yes DIE, as much as you can and see how many marines you can take out in the process.  You get rewards for both deaths and kills as a zombie.
+
+Currently, as a marine, you have 2 main objectives; to try to survive to be the last standing marine, and to get as many kills as possible.
+You'll find that you ~B~1don't~B~2 immediately get much ~B~6experience~B~2 for kills. This is because at the end of the game, part of your reward is calculated from the amount of kills you have made as marine and zombie (seperately). 
+However, this calculation is done exponentially.
+
+~B~1e.g.~B~2 
+If you have killed ~65~2 zombies in a game you will earn ~B~6(5 ^ 2) * 15~B~2 experience, which comes out at ~B~6375~B~2.
+If you have killed ~610~2 zombies, you earn ~B~6(10 ^ 2) * 15~B~2 experience, which is ~B~61500~B~2.
+You get the same amount for killing marines as zombie - +100% if you are a professional zombie.
+
+So don't moan when you don't see yourself getting a lot for kills. :)
+
+Note that you also recieve various rewards for the following:
+
+5 ~BDeaths~B will give you ~B~650~B~2 experience.
+10 ~BDeaths~B will give you ~B~6200~B~2 experience.
+Each ~BResurrection~B will give you ~B~675~B~2 experience.
+2 ~BCorsplosions~B will give you ~B~615~B~2 experience.
+5 ~BCorsplosions~B will give you ~B~655~B~2 experience.
+3 ~BTurret Kills~B will give you ~B~6135~B~2 experience.
+Each ~BTraitorous Kill~B will ~1detract~2 ~B~660~B~2 experience.
+
+As engineer you also gain (exponential) rewards for the structures you build.
+You also recieve rewards for things that aren't shown here. :)
+All rewards shown here are for a ~B~1FULL ARENA~B~2 - the smaller the arena is, the smaller the rewards.
+
+If you manage to win the game, and become the last marine standing, you will also gain a hefty reward.
+Note that you need to ~B~4have killed at least 4 zombies~B~2 to qualify as the last marine standing.
+
+
+~B~1~PMarines and Zombies~2
+~B
+While playing as a ~B~6Marine~B~2, you'll find that you have the chance to kill zombies. 
+The important part of killing zombies, other than the reward is that ~B~4every x zombies you kill, you will level up~B~2.
+The benefits of leveling up include but aren't limited to ~B~4gaining health, weapons, health and speed~B~2.
+
+As a ~B~6Zombie~B~2, upon each death you will spawn as a different type. 
+~B~4Which type you spawn as is determined by the default settings, and your purchased feats.~B~2
+
+
+~B~1~PMarine groups~2
+~B
+At the start of a new game, you will spawn along with ~B~62 to 8~B~2 other marines in a group.
+Along with your marines, you'll also find that you have access to a large defensive turret, kits for changing class, a resurrection kit incase a comrade dies and other random items (if you're lucky).
+To use the kits just pick them up like any normal item, and you'll be transformed into the appropriate class.
+
+Note that if you have purchased marine level upgrades in the menu you'll be instantly upgraded to the corresponding class level upon picking up a kit.
+Also note that you if you have for example a level 2 upgrade, you will still have to kill 6 zombies to get to level 4.
+
+
+~B~1~PPlaying Chemist~2
+~B
+As a chemist you will start the game with a ~BLaboratory Kit~B. 
+This will allow you to create a lab from which you can exchange ~BMarine and Zombie Parts~B for various items.
+These items range from weapons to items which can aid you and your teammates.
+Beware; if left unprotected the Zombies can convert these labs into factories used for their nefarious schemes.
+
+
+~B~1~PPrivate Teams~2
+~B
+Private teams are enabled when there are more than 50 players in an arena. You can join or create a private team by using ~B~6?team~B~2 after the game has ended.
+As a private team, you all spawn together with a base turret and various items, as per normal.
+Note that even if you're on a private team, you and your teammates may be chosen as zombies.
+
+
+~B~1~PMarine Vs Marine Combat~2
+~B
+When fighting another marine team, if you were to die you would respawn after 14 seconds on your team squad leader.
+If your team doesn't have a squad leader, then you will respawn as a zombie on top of your corpse.
+This gives you the chance to seek revenge. :)
+
+
+~B~1~P----------------------- Change log.  If you want to know what is new, read here -------------------------~2~B
+~BFriday, May 18th, 2007~B
+LooseCannon
+- Reworked the start of game supplies.  They should not spawn under the howitzer or in physics anymore
+- At the start of the game each marine team will get a crate.  Open the crate to get your items.  Right now there is only one option
+- Items on the ground now timeout after 10 minutes
+- Began work on the weapons in the zone.  There are probably going to be a lot of changes
+- Adjusted Recoiless Rifle and Micromissile Launcher to be more useful.
+- Lowered Marine hitpoint levels.
+- Most zombie weapons have independent reload.
+- Added the second option to the initial supply crate but it is disabled
+- Made the day night timer work but it doesn't do anything but change the text at the top of the screen right now
+
+~BWednesday, May 16th, 2007~B
+LooseCannon
+- Adjusted the start game spawn so the kits don't spawn under the howitzers
+- Used the same algorith for marine parts.  Now the marine parts shouldn't prevent you from viewing dog tags
+- Party animals do not warp to the winner anymore
+
+~BSaturday, May 9th, 2007~B
+LooseCannon
+- Reskits will not resurrect a person onto another team anymore
+- Fixed it so a corpse explosion didn't go off when you resurrected someone
+- Reskits now resurrect the player onto their original team
+
+~BSunday, April 29th, 2007~B
+LooseCannon
+- Added the hearse.  I really dunno what I am going to do with it yet but it's such a great graphic.  I spent like 0 time working on making the vehicle actually work so who knows what it's going to do
+- If anyone is interested in getting the grave graphic which qloos put on his map, let me know.  I'm going to try to get more like that for you guys to use
+- updated the "bloody mess" explosion to not hurt teammates
+
+~BSaturday, April 28th, 2007~B
+LooseCannon
+- Updated the graphic for the gateway
+- Set calnad zombie back to the old graphic and the flesh zombie to use the new zombie sprite
+- Took sandbags away from squad leaders
+- Started a new class for the running game.  No, you can't be one yet
+- Added a counter to the gateway.  Eventually I will limit the number of zombies which can come through
+- Increased gateway HP and made it so you can hit it
+- Plasma turrets can now fire over the metal barracades of the fortress kit as intended
+- Added the daytime / nighttime to the in game ticker.  It doesn't do anything yet though
+- Decided to try out Qloos' "donut" map even though it is not finished
+- Changed the plasma turret to reflex the improved plasma's physics.  Now you can fire through them when they are unoccupied
+- Increased the flaming bush by 5 energy drain
+- Removed the "fire delay other" on all zombie melee attacks
+- Beefed both shotguns by 1 damage per projectile in their respective damage types
+- Adjusted the zombie bike's passenger compartment a bit
+- Updated the specifications for the new ZZ map
+- I'm going to be testing a new class tonight for the running game.  No, you can't be one yet
+- changed the settings for the guides again.  I dunno why they aren't showing the menu
+- Changed the guides' names so they are only 8 characters.  Hopefully that is the trick
+- Removed the quick ap mine kit from the store.  It wasn't supposed to be in there.  OOOOOOOOOOOOOOOPS
+- Updated the script to take away the Quick AP mine kits
+- Pro zombies now have a 10% change of getting a nether gateway when they spawn as a king or queen
+- Engineers shouldn't have things conviscated when they die now
+- You will now be spec'd by the server if you are idle for more than 5 minutes.  No more going afk as zombie guys.
+- Moved the menu option to remove the warp point to item 2.  Hopefully this will prevent newbs from removing it by mistake
+- Made the meteor not TK.  That's going to change a lot of stuff
+- Reduced the radius at which you spawn when summoned by the call of the dead.  No more summoning people over walls
+- The party animal and winner vehicles should get a recharge of energy when they first get the vehicle.  I'm doing this by giving them an item which does rapid recharge.  I dunno if it is enough but it should help
+- Added ambush back to the calnad zombie.  I dunno why it lost it in the first place
+
+~BFriday, April 27th, 2007~B
+LooseCannon
+- Renamed the warp point to nether gateway
+- Added a new player submitted graphic for it.  Thanks for that
+- Increased gateways to 3 per team
+- Switched to Qloos' map to see how the gateways will affect gameplay on such a large map
+- Disabled the removal of gateways for now.  WHY THE HELL DID EVERYONE REMOVE THEM?
+- Added a game timer to the stats.  This will help keep track of how long games last
+
+~BSunday, April 22nd, 2007~B
+LooseCannon
+- Increased the energy drain on the flaming bush
+- Added some major updates which I am testing
+- Added dogtags to corpses.  Highlight and hit check dogtags.  Let's see if it crashes
+- Added a new warp point item which I developed for combined arms.  I was smart this time and put it into an include script so it could be plopped into any zone.  Let's see if it blows up
+- Added the Wp Recall to all the zombie vehicles.  I need a good name for it though.  Something zombish.  Portal is already taken
+- Added a message when someone blows up your corpse
+- Added a message saying whose corpse you blew up
+- Played with the settings for the warp point.  It's giving me too many block items errors.
+- Marine parts now appear in a radius of 50 pixels around a body.  This is so you can highlight the corpse and view the dogtags
+- Added a counter to the supply drops
+- Upped the amount of warp points you can make to 2
+- Limited the supply drops to 10 even if the supply ship crashes
+
+~BSaturday, April 21st, 2007~B
+LooseCannon
+- Added multi items for health, repair, energy, cash, and experience.  I can use these in the script to heal, repair, etc
+- Updated the script to use the items.  You should spawn at full energy after being resurrected or use the preservation kit
+- I added a small, little, innocent vehicle for fun.  I have no plans on adding it into the actual game play though.
+- Added a set of walls around where marines spawn.  It isn't a circle yet.  I'll work on using circular geometry later.
+- Added the guess a number script
+- Pro zombies now start the game as kings and with a meteor storm and a portal.  I'm going to change the item they get prized later.  This was the best I had at the moment.
+- Changed the map back to the original just to see how the new settings and items work with it.
+- Bullet mines explode on anything now
+- Changed the walls from a circle to a square.  It looks so much nicer I must say.
+- Changed ammo pick up from "manual auto need" to "manual".  This should help with the message that says you can't pick up more ammo than you need.  If you get that message, pick up 1 ammo and it will be fixed.  It is a bug with the client.  If you fire a stand and fire weapon and move as it fires, it messes up your client's ammo count.  Changing anything in your inventory resets your inventory count so pick up 1 ammo (changing your inventory) and it will reset.
+- Changed the "you can't pick up ammo" message to have the fix above in it.
+- Adjusted the "premade" bases at start up to have 4 entrances
+- Made it so you can't walk through the Metal Barracade
+- Increased how far apart marine teams spawn
+- Darn, found a bug in the client.  When you pick up an "energy" item it doesn't increase your energy.  Sigh.  I'm going to do the energy repair another way
+- Added Mastar and N0b's guides to the help menu
+- The call of the dead is now stand and fire and it's prefire delay has been increased
+- If you blow up a body with the devourer zombie you shouldn't take damage now
+- Added the Fortress Kit to the game for this map.  It builds a bunch of walls in a square around you
+- Set the game to confiscate the call of the dead and the fortress kit just like all the other special items in the game
+- The wraith zombie now warps to the same spot when he unphases.  This will cause the game to warp him outside of physics.  Mainly used to fix the problem of running out of crystals
+
+~BSunday, April 15th, 2007~B
+LooseCannon
+- Adjusted the inner drain on zombie attacks again
+- You can only have 10 walls of any one type on a 200 pixel radius now.  I know I'm going to have to adjust this more.
+- Limited AP and Plasma mines to 3
+- Made the nader zombie run faster
+- Messed with prox triggers again to allow people to shoot over short walls
+
+~BSaturday, April 14th, 2007~B
+LooseCannon
+- If you have 8 people on your team you can no longer resurrect anyone until you go below 8 people
+- Set the public team limits to 6
+- You can drop ammo now.  If it causes problems with the script I will have to revert.
+- Beefed bio and necro grenades.  They were lame before.  Now they do 240 and 350 damage respectively
+- You can type ?noscriptsummon to not be summoned by the call of the dead
+- You can only carry 3 calls of the dead now
+- I think I found the bug with my team size fix script.  Set the public teams back to 8 to test
+- Adjusted proximity weight triggers.  Things shouldn't fire through built walls now.  If they do, let me know.
+
+~BTuesday, April 8th, 2007~B
+LooseCannon
+- Increased the outer drain on the howitzer.  The thing should hurt if you get hit by it.
+- The preservation kit now has an icon
+- Disabled the invite item that winners get until I can fix the bug it causes with team sizes
+- Convert is now called Convert Lab for all those guys that still don't get it
+- The shuttle now only brings you back if you started the game as a zombie
+- Adjusted wall and turret "weights" so that grapeshot and other mines do not explode near them
+- Autoturrets should now only attack zombies
+
+~BSunday, April 8th, 2007~B
+LooseCannon
+- You can now run over frozen zombies
+- Wraith zombies should be able to use bullet mines now when they have the mine layer skill
+- Call of the dead now has a small prefire to it
+- Altered the flaming bush's vehicle radius
+- Added code so if you start a game as a zombie, the next game you will be a marine.  This only works if you do not spec or quit during the game.
+
+~BTuesday, April 3rd, 2007~B
+LooseCannon
+- Mines are now kits and use ammo
+- Fixed the icon for marine and zombie parts
+- The store is now only available from spec
+- Cut turret repair rate in half and lowered the hp they need to operate.
+- Fixed a bug where when you traded in parts for a call of the dead it wouldn't give you one
+- Set the PF and IDF to "start on"
+- Added 3 bypass to the attack on the detachable head vehicle for fun
+- Halved the energy drain on the flaming bush and increased it's fire delay
+- Increased the inner energy drain on all zombie melee attacks
+- Now when you unspec you always spawn as the calnad zombie
+- Set the PF and IDF to "start always on" so that means you can't turn the things off now
+- Removed repulsor coils from the store as well as stealth coating
+
+~BSunday, March 24th, 2007~B
+LooseCannon
+- Added the Call of the Dead to the infested marine factory.  One must use 6 zombie parts to make one
+- King zombies now spawn with a Call of the Dead and both king and queen have a 20% chance of getting another
+
+~BSunday, March 24th, 2007~B
+LooseCannon
+- Did more work on the Call of the Dead.  I did a work around with the random number generator in lua.  Hopefully this will keep it from summoning the same people.
+- One should have a 20% chance of getting a Call of the Dead when they spawn as a king or queen
+- Removed the requesting summon sound from macros.  LAMERS!
+- Added Qloos' latest map updates
+- Adjusted the wraith closer to it's original settings
+
+~BMonday, March 19th, 2007~B
+LooseCannon
+- Still working on the Call of the Dead.  I can't figure out why it always summons the same people
+- Reduced the fire delay other on the wraith zombie
+
+~BMonday, March 19th, 2007~B
+LooseCannon
+- Began work on the Call of the Dead.  You will see it soon(tm)
+- Set the powercells to always on as well as the suit super chargers.
+- Set the fire delay other to the same time as a person is phased
+- set the projectile and explosion to different colors for the devourer zombie.  Now you can tell if you hit something.
+- Set default keys for the wraith and assasin zombies
+
+Qloos
+- Corner bases weakened.  Central base locations beefed.
+- New bases near B3, C4, and A4
+
+~BSunday, March 18th, 2007~B
+LooseCannon
+- Doubled the amount of kills marines must make to go to the next level.  Currently you need 4 kills for level 2, 8 for level 3, and 12 for level 4
+- Change the "You can not eat the ammo." message to "You can't pickup more ammo than you can carry."
+- Updated the news to explain that you get points for dieing as a zombie
+- Doubled the experience you get while dieing as a zombie
+- Upped the reward bonus for professional zombies
+- There will be more improvements to zombies in the future.  BOTH sides should be fun.
+- Upped the inner damage on the howitzer cannon
+- Upped the inner damage on the howitzer mg
+- I'm still looking for someone to make the sprite for the "thriller zombie".  If you make it, it's going in the game.
+- Increased the inner drain on the king and queen zombie's scale bomb by 50%
+- Added the revenge zombie.  If you are killed by another marine, you are transformed into the revenge zombie and warped right on top of your killer.
+- I'm looking for a "REVENGE!" sound for the revenge zombie.  I remember hearing a great one from Subspace's Chaos Zone which I think was stolen from another game.  Anyone have this?
+- Changed the key preference on the plasma turrets to primary from nothing
+- Gave the zombie weapons a default key preference as well
+- Added a portal back to the map from that area off the map
+- Added sensors to spec so you can see the action
+- Added chrono's rock explosion graphic to the rocks.
+- Now, let's see what blows up...
+- Increased the prox on the revenge attack
+- Took out the revenge zombie
+- Added a notice to the party animal trail that it is currently disabled.  I don't know why it is commented out in the code and I'm not going to touch it until I figure out why.
+- Set the Invite item that winners get to a key.  The item has always been there.  If you win, invite some people to party with you.
+- Added checks in the Arena_TickerUpdate() event to make sure the player was valid and not nil.  Hopefully this is the cause of the "unknown error in lua event" error.
+- Moved the survey and modcommands to their own seperate include files
+- Added code so that moderators can zombify zombies on marine teams
+- Added code so moderators can check the victory conditions
+- Added an error message if, for some reason, there are no marines in the game and the game is still running
+- Expanded the description on Convert and Marine Laboratories.  Just tell the newbs to read the descriptions.
+- The flaming bush no longer needs ammo
+- Fixed the party animal trait
+- Set the max on walls per team to 50.  Guys, that's a LOT of walls
+- Adjusted dropped item expiration
+- Added 20 hp to sandbags.  Hopefully it will take 2 bites to get through instead of 1 now.
+
+~BMonday, March 12th, 2007~B
+LooseCannon
+- Got the go ahead from rox to adjust things in ZZ
+- #1 was adjust the plasma turrets since this zone EATS bandwidth
+- Adjusted the fire delay to 45 from 30 and increased kin to 39 from 26 for imp plasma.  Did the equivalent to normal plasma.  These numbers should be mathematically equivalent for damage over time.
+- Labs can't be used as walls anymore
+- Howitzers can't be used as walls anymore
+
+Qloos
+- Adjusted some bases so they weren't so invincible
+
+~BThursday, January 11th, 2007~B
+- Added supply drop pad. Shuttles will frequent this pad, providing supplies of a random nature.
+	- Sometimes shuttles may crash and kill innocent people. Be prepared to live with this before you create one.
+	- Sometimes shuttle may bring reinforcements in the way of marines.
+- Few other misc changes I can't remember
+
+	
+~BSunday, December 10th, 2006~B
+- Reduced knife damage from 35 to 25, and blast radius from 32 to 16
+- Fixed bug with SL and engy not getting upgrade items (Cloak Team, etc) from levelling when they have the level2 perk
+- Fixed bug with supply drops not working
+	- Fixed bug with coordinate notice only going up to F
+- Squad leaders now get a new Cloak Team and Summon Team item every level
+- You no longer have to be still to use the Cloak and Summon Team items
+- Convert now only hits laboratories - no more draining someone's energy in 2 seconds as queen.
+- Might have fixed the Keen Motorist feat - we'll see during the next test
+- Fixed players spawning outside map when they unspec
+- Increased the Queen and King zombie radius slightly. (<3 NeoS)
+	- I still need to fix the graphics though, they're offcenter
+- Changed res kit so that resurrecting an enemy's corpse will respawn them on your team.
+- Supply drops now occur every 45 seconds rather than every minute. (More ammo for resourcefuls too)
+- Increased the muzzle velocity of the normal Shotgun
+- Squad Leaders now die for real when involved in marine vs marine combat.
+	- All other classes still survive so long as the SL is alive.
+- Made the map slightly darker in an attempt to make it seem more 'menacing'.
+	- amirite?
+
+
+~BSaturday, December 9th, 2006~B
+- Zombies now get the same amount for killing marines as marines get for killing zombies.
+	- 50% more if the zombies are professional zombies
+- You now use spare parts for repair kit, you gain 4 extra parts every level.
+	- Repair kit now uses all the energy you have left to repair.
+- Gas turret is now disabled at 200hp
+- Tractor turret is now destroyable
+- Flesh Zombie now gains ambush. (<3 Frawg) Also has 50 less hp. (</3 Frawg)
+- Portal now costs 2 marine parts, instead of 3. (<3 Frawg)
+	- ALL zombies have a small chance to spawn with a portal or meteor storm (<3 Frawg)
+	- King zombies have a 30% chance to spawn with a meteor storm
+	- Queen and King zombies have a 30% chance to spawn with a portal
+		- (Going to work on a way for meteor storm to give kill credits to the initiating player.)
+- Reduced the experience deficit for killing other marines from 100 to 60
+- If you are killed by another marine, you will now respawn as a marine on your SL.
+	- Respawn takes 14 seconds rather than 8. This is to prevent unstoppable marine assaults.
+	- If you don't have a SL on your team, you will spawn as a zombie on your corpse - revenge :)
+	- These changes are to discourage marine vs marine combat unless it's neccessary to gain a vital position
+	- or to just kill people you don't like. There will be strategic map positions in future too. (Ammo Depot, etc)
+- Beefed Royal perk to give +150% chance to spawn as Queen/King
+- Laboratory hp reduced from 300 to 200. (<3 Frawg)
+- Added Tall and Short walls accessable via feats. ~BCredit to graphics goes to Marex~B
+	- To marex: I wasn't able to get a hold of you and ask for permission, so if you don't want me using
+	-		the graphics just tell me.
+- Nerfed railgun slightly, but it now passes through all walls.
+- Split engineering feats off into it's own section.
+- Walls slowly repair themselves (taller walls a little faster than normal)
+- Other misc changes that I forgot about before adding release notes
+
+

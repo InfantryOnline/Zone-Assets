@@ -1,0 +1,59 @@
+TankODrome
+
+5-8-2007
+
+Please check out the forums regarding news on our new design apprentice!
+
+http://forums.station.sony.com/station/posts/list.m?topic_id=11500003959
+
+************************************************************************
+
+TankODrome is a tank combat game that brings back the skill based arcade style play of older games.
+
+The object is to destroy other players and turrets and upgrade your tank while you acquire the best
+record.
+
+Each player is equipped with a state of the art 1 man battle tank.  Each tank has a limited amount of
+energy (Fuel).  Moving, shooting and Getting hit all consume energy. When you reach 0 energy, you will
+Explode.
+
+*************
+Controls:
+
+Rotate your tank Left/Right: Left/Right Arrow Keys
+Forward and Reverse Gear: Up/Down Arrow Keys
+Thrust                  : Shift+Up/Down Arrow Keys
+
+Cannon: Button 1
+Mine Dropper: Button 2
+Use Special Weapon: Button 3
+Use Charge Item: Button 4
+Use Equipment Item: Button 5
+
+
+*************
+Enemies:
+
+There are 3 levels of enemy turret to fight in addition to other players:
+
+Level 1 Turret: These are the most common turret. They have a damaging shot and only take 1 hit to kill.
+
+Level 2 Turret: These have a more damaging shot and take 2 hits to kill.
+
+Level 3 Turret: This turret type has a Mortar allowing it to shoot over walls. It takes 2 hits to kill.
+
+
+*************
+Upgrades and Prizes
+
+When you kill an enemy tank or turret, they will drop a prize.  Pick up this prize to get the reward.
+
+Killing other players and picking up kill rewards will give you Kill Tokens.  Take the Kill Tokens back
+to the garage (via map portals) and then use them at the Upgrade Drones to purchase special weapons and
+upgrade your tank.
+
+Equipment Drone:  This drone has limited use items of equipment for 3 Kill Tokens each.
+
+Upgrade Drone: This drone has your vehicle upgrades, each costs 5 Kill Tokens.
+
+Weapon Drone: This drone will sell you one use special weapons for 1 Kill Token each.

@@ -1,0 +1,263 @@
+TFCity Developers Blog.
+
+This is where i let you know what changes we have made.
+
+23-11-09
+
+~1~bAttention~b
+When the new mission pack comes out anybody who currently has 11 or more spent attribute points will be unable to continue the mission track unless, of course, if you ?wipecharacter. I will continue to cap off missions in this manner. So please dont ~btry~b to abuse them in the future.
+~2
+
+Gameplay Bugs
+-Market engineers have fixed the refinery.
+-The recent shipment of needler ammo has been recalled. The latest shipment should work much better.
+
+Weapon Updates
+-The Extreme pistols have recieved a few upgrades. Find at exchange agent near you.
+-Pistol smg 10a had a faulty firing pin. Replacements have been ordered.
+-A new ionizing technique for sniper rifles has been discovered.The projectile forms faster now.
+-Battle rifle recieved a pneumatic firing mechanism.
+-Stealth units after toying with out dated zap gloves have finally gotten more effective versions in.
+-Recent Co2 levels in the upper atmosphere reacts with flak charges making them much more deadly.
+-The overload status on the mouser will no longer be tolerated by gun authorities and must be reduced by all users.
+
+Heal Updates
+-A new particle heal is comming to a hospital near you.
+-The new med kit heals have been modified and reach about 20% farther.
+
+Global News
+-Co2 clouds have drifted into the area. Aerial ships will find it harder to get airborn
+-Because of all the blood spilt around the market doors local janitors have started a 1 market token toll on the gates. To help pay for cleaning supplies... of course.
+
+20-11-09
+
+Over the weekend i shall run through all classes and weaponary for each class, we aligning the skill logics as nessesary. 
+Also will be spending more time mapping out all damage of weaponary per division and matching/balancing it out accross them in different ways.
+
+Characturistics
+-Agility upped from .75% to 3.75% increase per stat
+-Stamina upped from 1% increase to 5% increase per stat
+
+Flags and Resource Points
+-All Resource Points got an increase from 4000 to 5000 periodical experience reward on the multiplier.
+-Added a small energy regen to the holder of bty flags - These flags only give rewards periodically not on kills.
+-Upped the two roamer experience periodical rewards to 8000 on the multiplier scheme.
+
+Air Weaponary
+-Reduced DropPack Rifle energy drain inner 220->125 outer 100->45.
+
+Biological Weaponary
+-Reduced chem burn spray puddle alive time 10s->3.5s.
+-Chemical Burn spray fire delay up 25->80.
+-Chemical burn spray ammo capacity down 10->3.
+-Adjusted burn spray splatter to have a bigger area.
+-Chemical spray should no longer enter the DS.
+
+Combat Weaponary
+-CAW - Recieved an energy nerf from 60 to 30 inner and to 15 outer and kinetic reduced to inner 6 from 12 and outer 4.
+- Flamethrower reduced energy drain inner to 40 from 50
+
+Artilary Weaponary
+-Gamma MG Reduced Energy drain from 60 to 20 and blast radius from 16 to 12.
+-MG mk1 Reduced Energy drain from 85 to 35 inner and 7 outer and kinetic damage inner to 8 and outer to 5.
+-MG Mk2 Reduced Energy drain from 90 to 40 inner and 8 outer and kinetic damage inner to 10 and outer to 7.
+-Droppack made to only damage enemy.
+
+Tech Weaponary
+-Added Incinerator to their inventory.
+
+Stealth Weaponary
+-Sniper Rife given a boost in speed from 4500 to 4800 velocity.
+
+Stealth Armor
+-Corrected error on Ceramax, you can now use a generator with it.
+
+Newb Area
+-Newb area warp XP upped to *>4400xp requirement.
+
+Market Area
+-Increased alive time of all dropped items on it.
+
+Misc
+-Demolition Charge Light avail. to all classes with 2 chemistry.
+-Sprint boots only work while on foot.
+-Went through all classes checking their roll on Roads, adjusted Air and Hvy accordingly.
+-Added 3o ticks prefire to Cluster Mine.
+-All RG's made back to stand and fire.
+
+Tech Equipment
+-Doctors with 4 tech can now ride hoverboard.
+
+Medic Equipment
+-All heals increased radius, Most + 20.
+
+Missions
+-Final polishing for existing missions, readying to add the extra missions in, including faction joining.
+
+Artilary Weaponary
+-Assault Cannon(Basic) Big nerf. explosive 35->15.
+-Assault Cannon 201g damage down 22->10.
+-Assault Cannon 201g clip down 20->10.
+-Assault Cannon 201g item description changed to suit adjustments.
+
+Snobs Bar Items:
+-Made you able to carry up to 10 of each drink.
+-All effects last 20 seconds.
+-All effects stack up to 5 times.
+
+Many other small changes un noted.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+19-11-09
+
+For Fun
+Added a Barman to snobs bar. He's taking orders for Apple Teany's Root Beer and Crates of beer. They give you wonderful effects.
+All are purchasable with market tokens.
+
+Biochem Weaponary
+-Reduced the splatter damage to a minimum for Chemical Burn weapons.
+
+Stealth Armor
+-Corrected the sell back price of basic cloak.
+
+Stealth Weaponary
+-Added Assassin Rifle and Pistol
+-Added Paralysis weapon that stuns for use by assassins
+-Added new Stun Fist for use by Scout, 1 second of stun capabilities.
+-Added small sniper for scout and above to use.
+-Added Poisonous darts for Assassin and Black Ops
+
+Combat Weaponary
+-Made Assault Rifle Grenade for 2mv usabale by combat division again.
+-Reduced amount of energy usage CAW takes to fire from 10 to 2 and increased kinetic inner to 11
+-Pulsar Pistole reduced to 6 accross explosive, electric and energy damage.
+
+Command Weaponary
+-Small increase in Photonic Assault Gun damage, all up 2 points.
+
+Artillery Weaponary
+-Reduced RPG explosive inner damage to 40 from 50 and energy inner from 250 to 200. Also slowed from 5500 to 5000.
+
+Misc
+-Ammo amount for pistol upped to 300
+- Carbine damage reduced to 8 inner damage
+-Experience kill reward increased from 50 to 80.
+-Once again made packs and boards only usable by the set classes.
+-Added Skill logic to the vehicle vendor and vehicles so unless you have the nessesary skills you cannot purchase or use them.
+-Both Medic and Tech electron beamer fire delay reduced from 75 to 40.
+-Reduced alive time on Law S-Law and VLaw allowing shorter distance on them.
+-Increased resource point experience rewards from 3000 to 4000, this is multiplied by the number of players /1000.
+-Reduced Prefire time from 5 to 3 on the RG's also they can now fire on the move.
+-Newbie zone upped to 4k exp before you cannot enter.
+-Stims and gizers now work around the market/ds.
+
+Armors
+-Added Shock improved to Combat, Air and Command to give a level of protection inbetween the main armors
+-Fixed it so that stealth cloaks and armors cannot use generators.
+
+Map fix
+-Corrected a fault with the terrain around volcano.
+
+Plus many other minor changes
+------------------------------------------------------------------------------------------------------------------------------
+
+18-11-09
+
+Missions
+-Removed ability for multiple empty report bags to be carried.
+-Added in Atlas Keys to the Smokey Ol' Sky Whale quest to help prevent multiple rewards.
+-Modified Smokey the Sky Whale mission to prevent further abuse.
+
+Biochem Weaponary
+-Added 3 new weapons to the lower end Bio, Chemical burn weapons that do energy and some small damage plus burn their victims.
+-Bio can now use Frag Grenades.
+
+Air Division Armor
+-Shock air armor Skill logic fixed.
+-DPB now works properly across all terrains
+
+Artillery Weaponary
+-Gamma MG 2062 : Reduced explosive inner damage from 20->13.
+-Gave Hvy Weapons Demo Pack replacing hand to hand.
+Heavy Weapons
+-Reduced roll speed to 1850 from 2000
+
+Stealth
+-Scout roll speed increased to 2100 from 2000, sniper to 2200 and infil to 2300.
+
+KOTH
+-Raised koth reward from 30 to 400.
+
+Misc
+-Gave market tokens a icon so they can be traded.
+-Vehicles should no longer cloak.
+
+Newbie Area
+-You can not enter the newbie area if you have more than 2500xp.
+-Vehicles can no longer enter newbie area.
+
+Redone the whole skill logic system of weapons to help avoid conflicts.
+
+Many other smaller changes also occured that are not listed.
+
+Over the comming days i will focus more on weapon and armor balancing now most major issues are covered with exploits and bugs.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+17-11-09
+
+Ammo Special
+-All RG's : Made them take the correct ammo so that they now should work as rg's and show blue in the inventory.
+
+Command Weaponary
+-Photonic Rifle : Reduced both inner and outer damage to be more in line with AR and other main weapons.
+-Photonic Rifle 2 : Again reduced the values of inner and outer damage to about half the levels previously used.
+-Photonic Carbine : Reduced all values alittle over half to represent a more balanced weapon with the rest of the command weaponary.
+-Photonic Rifle h12 : Inner and Outer Energy drain reduced by exactly half.
+-Photonic Assault Gun : Reduced all damage by half.
+
+
+Combat Weaponary
+-Battle Rifle 250b : Removed Cybernetic skill from the skill logic, leaving just 1 aim skill needed.
+-Shotgun K3 Striker : Reduced kinetic damage to 3 from 6, lowered inner damage to 6 from 8, Energy damage reduced from 6 to 3 and inner from 19 to 12.
+-Shotgun 2 ACW : Reduced Kinetic damage to 3 from 6, lowered inner to 5 from 7. Energy damage reduced to 3 from 6 and inner reduced to 10 from 17.
+
+Universal Weaponary
+Made Carbine 9mm available to all but stealth classes without any skill requirments for first time starters.
+
+Tech Weaponary
+-Razor mk1 : Reduced energy usage to 25, gave it small amount of explosive damage, 10 damage with 10 inner and 2 outer.
+-Razor mk2 : Reduced energy usage to 30, gave it small amount of explosive damage, 10 damage with 10 inner and 2 outer.
+-Spinning Razor : Reduced energy usage to 35.
+
+Artillery Weaponary
+-Assault Cannon 201g : Repaired skill logic so it is now usable.
+
+
+
+Missions
+-Fixed the bug allowing you to take exp from the smokey sky whale mission even though you've completed it.
+-Made tsolvy containers droppable.
+-Fixed bug on go lay the land mission so it cannot be repeated.
+
+KOTH
+-Now every 30 minutes, with slightly improved experience rewards. up to 35 from 10.
+
+Vehicles
+-Made weapons not fire in Smokey Atlas
+-All small vehicles now have driver logic.
+
+Misc
+-Added bio division to steron and adrenaline kit logics.
+-Reduced Market recall timer to 6 seconds from 10.
+-Removed ability for cloaking to work in vehicles.
+-Added Turret dismantler to all Tech Classes
+-Made repairrate of roads 1 from 0 so that vehicles heal on them.
+-Prision death rate increased from -2 to -5
+
+Newbie Area
+-Made all crates drop credits and exp credits in newbie area, increased spawn rates too.
+
+
+Quite afew smaller changes i made and didnt feel nessesary to blog.

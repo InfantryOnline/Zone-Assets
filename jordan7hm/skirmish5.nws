@@ -1,0 +1,59 @@
+~BTrench Skirmish!~B
+
+
+
+Overview:
+
+Trench Skirmish is a game consisting of 2 teams trying to either; capture the other teams "Command Bunker" or, eliminate all of the opposing team.
+
+Each game lasts 10 minutes or less.
+
+Each team has up to 20 players.
+
+Flags need to be held for 20 seconds to win.  Eliminating the other team entirely results in an instant win.
+
+Flag wins result (usually) in more points/exp. Elimination wins will result in the fewst win points/exp.
+
+
+Each team can consist of the following classes:
+
+~BClass~B            ~BArmed With:~B
+
+A)Marine           Combat Knife, Assault Rifle and Shotgun. Can use grenades.
+
+B)Ripper Gunner    Combat Knife, Ripper Gun and Shotgun. Can use grenades.
+
+C)Grenadier        Combat Knife, Grenade Launcher and Auto Pistol. Can use grenades.
+
+D)Medic            Combat Knife, Medikit, and PDW. Can use grenades.
+
+E)Squad Leader     Combat Knife, Leader Summoner, and PDW. Can use grenades.
+
+F)Sniper           Combat Knife, Sniper Rifle and Auto Pistol. Cannot use grenades.
+
+
+If you do not choose a class when you enter the game you will be Marine by default. 
+
+Press f11 when in spec mode or when standing on the purple floor in your Concentration Area to change class.
+
+Voice Macro's are EFFECTIVE. Dont be afraid to use them. Remember to use %coord to tell your map coordinates!
+___________________
+Voice Macro Sounds
+Bong #        says:
+22	Acknowledged
+23	Affirmative
+24	Attacking
+25	Defending
+26	Enemy Sighted
+27	Request Summon
+28     Under Attack
+
+Macro syntax (for you newbies) is //your message here %<bong number>
+					Ie  //I am under attack! %28
+
+
+
+
+*************Notes*****************
+
+Snipers and Grenadiers are equipped with Auto Pistol because of the weight of their primary weapons.

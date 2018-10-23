@@ -1,0 +1,39 @@
+<LaunchPadClientConfig Version="1.1">
+   <LPCheckSum Value="1450514731"/>
+   <ServerSets>
+      <ServerSet Id="qa">
+         <LPNet TimeOut="60" SessionTouch="2100" KeepAlive="15"/>
+         <Server>sdt-platqasys1.station.sony.com:9700</Server>
+         <Server>sdt-platqasys1.station.sony.com:9701</Server>
+         <ChatServer>sdt-platqasys1.station.sony.com:3018</ChatServer>
+         <ChatServer>sdt-platqasys1.station.sony.com:3019</ChatServer>
+      </ServerSet>
+      <ServerSet Id="live">
+         <Server>sdlaunchpad1.station.sony.com:9700</Server>
+         <Server>sdlaunchpad2.station.sony.com:9700</Server>
+         <Server>sdlaunchpad3.station.sony.com:9700</Server>
+         <Server>sdlaunchpad4.station.sony.com:9700</Server>
+         <ChatServer>sdlaunchpad1.station.sony.com:3018</ChatServer>
+         <ChatServer>sdlaunchpad2.station.sony.com:3018</ChatServer>
+         <ChatServer>sdlaunchpad3.station.sony.com:3018</ChatServer>
+         <ChatServer>sdlaunchpad4.station.sony.com:3018</ChatServer>
+      </ServerSet>
+      <ServerSet Id="test">
+         <Server>sdt-plattestsys1.station.sony.com:9700</Server>
+         <Server>sdt-plattestsys1.station.sony.com:9701</Server>
+         <ChatServer>sdt-plattestsys1.station.sony.com:3018</ChatServer>
+         <ChatServer>sdt-plattestsys1.station.sony.com:3019</ChatServer>
+      </ServerSet>
+      <ServerSet Id="dev">
+         <Server>sdlogin-test.station.sony.com:3016</Server>
+         <Server>sdlogin-test.station.sony.com:3017</Server>
+         <ChatServer>sdlogin-test.station.sony.com:3018</ChatServer>
+      </ServerSet>
+      <ServerSet Id="stage">
+         <Server>sdt-platstagesys1.station.sony.com:9700</Server>
+         <Server>sdt-platstagesys1.station.sony.com:9701</Server>
+         <ChatServer>sdt-platstagesys1.station.sony.com:3018</ChatServer>
+         <ChatServer>sdt-platstagesys1.station.sony.com:3019</ChatServer>
+      </ServerSet>
+   </ServerSets>
+</LaunchPadClientConfig>

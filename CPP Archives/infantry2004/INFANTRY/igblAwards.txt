@@ -1,0 +1,98 @@
+~B~4BagMan Cup~2~B
+	~BIGBL Champions~B - This cup is awarded to the team that becomes the IGBL champion.  It is the highest award offered by the IGBL.
+
+	~B~5Grav Force 1~B~2        (season 1)
+	~B~5Samurai Pizza Cats~B~2 (season 2)
+
+
+~B~4Titan Trophy~2~B
+	~BBest Regular Season Record~B - This cup is awarded to the team that has achieved the best record in a single season.  This is determined by most wins.  In case of a tie, head-to-head records and then goal differentials are considered.
+
+	~B~5Grav Force 1~B       -  8-0~2 (season 1)
+	~B~5Samurai Pizza Cats~B - 13-1~2 (season 2)
+
+
+~B~4Pirates' Jug~2~B
+	~BBest of the Rest Champions~B - This cup is awarded to the team that becomes the champion of the Best of the Rest tournament.   
+
+	~B~5X-tasy~B~2      (season 1)
+	~B~5Unmatched~B~2 (season 2)
+
+
+~B~4President’s Cup~2~B
+	~BHighest Team Rating~B - This cup is awarded to the team that has achieved the highest rating of play.  This is determined by averaging the rating of each team member with each team member's rating weighted by their total game time. 
+
+	~B~5The Alliance~B         - 84.89~2 (season 1)
+	~B~5Samurai Pizza Cats~B - 90.49~2 (season 2)
+
+
+~B~4Fortress Cup~2~B
+	~BLeast Regular Season Goals Against~B - This cup is awarded to the team that was scored upon the fewest number of times in a single season.
+
+	~B~5Grav Force 1~B        -  7 goals against~2 (season 1)
+	~B~5Samurai Pizza Cats~B - 13 goals against~2 (season 2)
+
+
+~B~4Massacre Cup~2~B
+	~BMost Regular Season Kills~B - This cup is awarded to the team that was able to achieve the most cumulative kills in a single season.
+
+	~B~5The Alliance~B -  974 kills~2 (season 1)
+	~B~5The Alliance~B - 1739 kills~2 (season 2)
+
+
+
+~B~4Golden Ball~2~B
+	~BHighest Regular Season Ball Possession~B - This cup is awarded to the team that was able to control the ball for the largest proportion of time relative to their play time.
+
+	~B~5The Alliance~B - 41.23%~2 (season 1)
+	~B~5The Alliance~B - 45.10%~2 (season 2)
+
+
+
+~B~4Party Cup~2~B
+	~BMost Sportsman-Like Team~B - This cup is awarded to the team that has demonstrated the highest level of sportsman-like conduct through both win and loss. This team would not whine or complain to the other team or ref nor gloat a victory or celebrate another team's loss. They would be characterized by a high spirit of comradeship and courteousness displayed towards all other involved with the league.
+
+	~B~5Malice~B~2       (season 1)
+	~B~5Unmatched~B~2 (season 2)
+
+
+
+~B~4Graver's Cup~2~B
+	~BLeague MVP~B - This cup goes to the player who is voted to have been the most instrumental to the successes that his/her team has had during a single season. The player will have demonstrated through product and achievement his/her skills and abilities as a superb league player.
+
+	~B~5crimson~B~2       (season 1)
+	~B~5Dain Dandalf~B~2 (season 2)
+
+
+
+~B~4Joker's Cup~2~B
+	~BLeague MFP~B - This cup is awarded to a player who has demonstrated the highest level of sportsman-like attitude through both win and loss. This player would not whine or complain to the other team or ref nor gloat a victory or celebrate another team's loss. They would be characterized by a high spirit of comradeship and courteousness displayed towards all other involved with the league.
+
+	~B~5Krono~B~2      (season 1)
+	~B~5SpioMabio~B~2 (season 2)
+
+
+
+~B~4Iron-Man Award~2~B
+	~BMost Regular Season Playing Time~B - This award is given to the player that has played the most amount of game time in a regular season.
+
+	~B~5Forefall~B       - 291 minutes~2 (season 1)
+	~B~5Dain Gandalf~B - 515 minutes~2 (season 2)
+
+
+
+~B~4Angel's Cup~2~B
+	~BMost Contribution to IGBL~B - This cup is awarded to the league member (player, referee, or administrator) who has contributed the most to the development, continuation and enhancement of the Infantry Gravball League.
+
+	~B~5Wolf83~B~2       (season 1)
+	~B~5Osiris A&M~B~2 (season 2)
+
+
+
+~B~4Brain Award~2~B
+	~BBest Season Prediction Score~B - This award is given to the league member who has achieved the highest predictor score in a single season.
+	~B~4Note:~B The prediction scoring system changed from a percentage system to a points system after Season 1.~2
+
+	~B~5Forefall~B - 93.1%~2 (season 1)
+	~B~5Dug Fin~B - 69.4~2  (season 2)
+

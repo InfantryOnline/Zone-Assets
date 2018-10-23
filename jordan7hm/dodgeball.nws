@@ -1,0 +1,106 @@
+Dodgeball
+~5
+~BZone Sysop:~B
+HellSpawn
+
+~BHead Moderator:~B
+GamerGirl
+
+~BHead Referee:~B
+DBL[Ref] Rien
+
+~BMods:~B
+GamerGirl
+Nagini
+Jagr
+
+~BReferee(s):~B
+DBL[Ref] Nagini
+DBL[Ref] Cassidy
+DBL[Ref] Avast!
+DBL[Ref] Rien
+DBL[Ref] Largo
+DBL[Ref] GamerGirl
+
+~BZone Information~b
+Check out the website to keep updated.
+
+~BOther Information~b
+www.dbleague.co.nr
+Signup on the forums to keep in tune and keep informed!
+DBL Will be starting soon!
+
+~0
+~BUpdates~B
+*Febuary 3, 2007*
+-Grab a car, you will see :)
+-Scramble added
+-lowered respawn time
+
+
+*November 18, 2006*
+-Steroids added (check f10)
+-Gatorade added (check f10)
+-Bike speed increased
+-Car speed increased
+-Perfectionist kid energy regen raised a slight bit. (should be noticable)
+
+*November 11, 2006*
+-Special Throw Added for a donater (taunt$)
+-Introduced LUA to dodgeball (basic functions should be working)
+-Added Kick (for added fun the in the outbox)
+
+*November 10, 2006*
+-Myz throw was fixed
+-Zone Wiped
+
+*November 02, 2006*
+-Skill File fixed up.
+-Classes no long subtract from your experience.
+
+*November 01, 2006*
+-New Classes
+-Jump added.
+-Curve Throw added
+-More weapons added. But im not going to spoil them. Because they are for the new classes :)
+
+*October 29, 2006*
+-Soccer Ball Removed (was buggy) Will Probably see it back soon.
+-Brand Spankin' New map(Vertical)
+-Backwall Bounce added with this map( Makes for more skilled gameplay) We will see if this gets removed again.
+
+*October 28, 2006*
+-Soccer Ball added to DS(Enjoy)
+-Working on a new map. Its going to be a vertical version... Meaning the green line will be horizontal.
+-Working on lua script. Should have some basic functions with lua working soon.
+
+*October 27, 2006*
+-Ball spawn removed
+-Infinite Ball's Re-added
+-Catch tweaked (still might not work)
+
+*October 26, 2006*
+-Map Physics fixed up (left bottom corner is fixed)
+-You now have to run to the line in the start of the game to get your balls. (have fun)
+-Class lights "Orb" was fixed (thank you Panterists!)
+
+*October 25, 2006*
+-RaceCars added(for extra fun)
+-Blimp added(Fun)
+-Bikes added(more fun)
+-Map update(Outbox wraps around the entire arena) And the backwall bouncing is fixed.
+-Should start with full energy on newgame.
+
+*October 24, 2006*
+-Heavy can use "catch" (catch is in its experimental stages so bear with it).
+-Re-speccing to respawn is fixed
+-Bounce off the backwall is fixed.
+
+*October 23, 2006*
+-Physics Wall bug fixed.
+-Regaining Crown bug fixed.
+
+*October 22, 2006*
+-New revamped map
+-Complete New fileset (itm,veh,rpg)
+-Possiblilty of a league in the future

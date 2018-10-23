@@ -1,0 +1,10 @@
+v6,1,0,105,2,  1,2002,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Green Horn","Basic","","Straight off the shelf basic infantry. Green Horns have little to no experience but are eager to advance into their desired career.",  ,,0,0,0,0,0,0
+v6,-20,200,-1,0,  0,2002,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Marksmanship Training","Training","","Trains you in long range combat.",  ,,0,0,0,0,0,0
+v6,-21,200,-1,0,  0,2002,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Demolitions Training","Training","","Every little pyromaniac little boy's dream is to be a demolition man.",  ,,0,0,0,0,0,0
+v6,-22,200,-1,0,  0,2002,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Driver Training","Training","","For those with nerves of steel. Who wish to drive vehicles.",  ,,0,0,0,0,0,0
+v6,-23,200,-1,0,  0,2002,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Pilot Training","Training","","For those brave enough to pilot some of the fastest aircrafts.",  ,,0,0,0,0,0,0
+v6,-24,200,-1,0,  0,2002,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Coordination Training","Training","","",  ,,0,0,0,0,0,0
+v6,-25,200,-1,0,  0,2002,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Special Forces Training","Training","","Stealth/Covert Ops training. Training in this area makes you specialized in sneaking missions.",  ,,0,0,0,0,0,0
+v6,-26,200,-1,0,  0,2002,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Command Training","Training","","Training in commanding areas. (Raises your chances of being elected commander)",  ,,0,0,0,0,0,0
+v6,-27,200,-1,0,  0,2002,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Medical Training","Training","","Training in medical area",  ,,0,0,0,0,0,0
+v6,-28,200,-1,0,  0,2002,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Mechanical Training","Training","","Training in mechanical areas",  ,,0,0,0,0,0,0

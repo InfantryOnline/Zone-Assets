@@ -1,0 +1,100 @@
+4,v12,25,"InitialWarp",13200,960,  0,300,1, 2,0,250,
+1,v12,32,"Door1A",4240,2464,    -2,-1,4,2, 0,0, doors,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,131,"Switch1A",4276,2436,    0, 32,40,42,43,44,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckG,0,0,0,0,0,None,None,0,0
+1,v12,132,"DoorA",3440,1904,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+6,v12,5,"Team1MapEnterA",67,67,    50,0,2688,1744,125, 500,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,1,"Team1MapEnterB",163,163,    50,0,2688,1744,125, 500,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,2,"Team1MapEnterC",67,163,    50,0,2688,3296,125, 500,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,3,"Team1MapEnterD",163,67,    50,0,2688,3296,125, 500,0,None,None,0,0,0,0,0,None,None,0,0
+1,v12,4,"DoorA1",3376,1904,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,6,"DoorA2",3408,1904,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,7,"DoorB",3856,2080,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,8,"DoorB1",3888,2080,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,9,"DoorB2",3920,2080,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,10,"DoorC",4464,1792,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,11,"DoorC1",4528,1792,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,12,"DoorC2",4496,1792,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,13,"DoorD",4752,2032,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,14,"DoorD1",4784,2032,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,15,"DoorD2",4816,2032,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,16,"DoorD3",4848,2032,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,17,"DoorE",4752,1696,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,18,"DoorE1",4784,1696,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,19,"DoorE2",4816,1696,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,20,"DoorE3",4848,1696,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,21,"DoorF",4752,3008,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,22,"DoorF1",4784,3008,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,23,"DoorF2",4816,3008,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,24,"DoorF3",4848,3008,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,26,"DoorG",4752,3344,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,27,"DoorG1",4784,3344,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,28,"DoorG2",4816,3344,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,29,"DoorG3",4848,3344,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,30,"DoorH",5072,3248,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,31,"DoorH1",5104,3248,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,33,"DoorH2",5136,3248,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,34,"DoorI",5680,2960,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,35,"DoorI1",5712,2960,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,36,"DoorI2",5744,2960,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,37,"DoorJ",6160,3136,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,38,"DoorJ1",6192,3136,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,39,"DoorJ2",6224,3136,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,40,"Door1B",4240,2496,    -2,-1,4,2, 0,0, doors,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,42,"Door1C",4240,2528,    -2,-1,4,2, 0,0, doors,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,43,"Door1D",4240,2560,    -2,-1,4,2, 0,0, doors,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,44,"Door1E",4240,2576,    -2,-1,4,2, 0,0, doors,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,41,"Door2A",5360,2464,    -2,-1,4,2, 0,0, doors,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,45,"Door2B",5360,2496,    -2,-1,4,2, 0,0, doors,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,46,"Door2C",5360,2528,    -2,-1,4,2, 0,0, doors,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,47,"Door2D",5360,2560,    -2,-1,4,2, 0,0, doors,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,48,"Door2E",5360,2576,    -2,-1,4,2, 0,0, doors,Metala,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+6,v12,49,"Team2MapEnterA",67,67,    50,1,6912,1744,125, 500,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,50,"Team2MapEnterB",163,163,    50,1,6912,1744,125, 500,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,51,"Team2MapEnterC",67,163,    50,1,6912,3296,125, 500,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,52,"Team2MapEnterD",163,67,    50,1,6912,3296,125, 500,0,None,None,0,0,0,0,0,None,None,0,0
+2,v12,53,"Switch1B",4196,2596,    0, 32,40,42,43,44,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckC,0,0,0,0,0,None,None,0,0
+1,v12,54,"DoorZ1",4448,2832,    -2,-2,4,3, 0,0, doors,Metad,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,55,"SwitchZ",4500,2916,    0, 54,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,None,None,0,0
+1,v12,56,"DoorZ2",4480,2864,    -2,-1,4,3, 0,0, doors,Metad,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,57,"DoorX1",5120,2176,    -2,-2,4,3, 0,0, doors,Metad,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,58,"DoorX2",5152,2208,    -2,-1,4,3, 0,0, doors,Metad,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,59,"SwitchZ2",4436,2772,    0, 54,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckF,0,0,0,0,0,None,None,0,0
+2,v12,60,"SwitchX",5172,2276,    0, 57,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,None,None,0,0
+2,v12,61,"SwitchX2",5108,2100,    0, 57,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckF,0,0,0,0,0,None,None,0,0
+2,v12,62,"SwitchB",3956,2100,    0, 7,8,9,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,None,None,0,0
+2,v12,63,"SwitchB2",3812,2052,    0, 7,8,9,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckE,0,0,0,0,0,None,None,0,0
+2,v12,64,"SwitchC",4420,1764,    0, 10,11,12,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckE,0,0,0,0,0,None,None,0,0
+2,v12,65,"SwitchC2",4420,1812,    0, 10,11,12,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,None,None,0,0
+2,v12,66,"SwitchD",4708,2004,    0, 13,14,15,16,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckE,0,0,0,0,0,None,None,0,0
+2,v12,67,"SwitchD2",4900,2052,    0, 13,14,15,16,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,None,None,0,0
+2,v12,68,"SwitchA",3332,1924,    0, 132,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,None,None,0,0
+2,v12,69,"SwitchA2",3476,1876,    0, 132,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckE,0,0,0,0,0,None,None,0,0
+2,v12,70,"SwitchF",4708,2980,    0, 21,22,23,24,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckE,0,0,0,0,0,None,None,0,0
+2,v12,71,"SwitchF2",4884,3028,    0, 21,22,23,24,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,None,None,0,0
+2,v12,72,"SwitchH",5172,3268,    0, 30,31,33,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,None,None,0,0
+2,v12,73,"SwitchH2",5172,3220,    0, 30,31,33,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckE,0,0,0,0,0,None,None,0,0
+2,v12,74,"SwitchI",5652,2980,    0, 34,35,36,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,None,None,0,0
+2,v12,75,"SwitchI2",5780,2932,    0, 34,35,36,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckE,0,0,0,0,0,None,None,0,0
+2,v12,76,"SwitchJ",6260,3108,    0, 37,38,39,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckE,0,0,0,0,0,None,None,0,0
+2,v12,77,"SwitchJ2",6116,3156,    0, 37,38,39,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,None,None,0,0
+2,v12,78,"Switch2A",5396,2436,    0, 41,45,46,47,48,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckG,0,0,0,0,0,None,None,0,0
+2,v12,79,"Switch2B",5316,2612,    0, 41,45,46,47,48,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckC,0,0,0,0,0,None,None,0,0
+1,v12,80,"DoorY1",4480,2176,    -2,-2,4,3, 0,0, doors,Metalb,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,81,"DoorY2",4448,2208,    -2,-1,4,3, 0,0, doors,Metalb,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,82,"SwitchY",4548,2148,    0, 80,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,None,None,0,0
+2,v12,83,"SwitchY2",4388,2212,    0, 80,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckD,0,0,0,0,0,None,None,0,0
+1,v12,84,"DoorU1",5152,2832,    -2,-2,4,3, 0,0, doors,Metalb,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+1,v12,85,"DoorU2",5120,2864,    -2,-1,4,3, 0,0, doors,Metalb,0,0,0,0,0,ambient,Smallfan,0,0,None,None,0,0
+2,v12,86,"SwitchU",5060,2900,    0, 84,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckD,0,0,0,0,0,None,None,0,0
+2,v12,87,"SwitchU2",5220,2804,    0, 84,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,600, ,-1, 0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,None,None,0,0
+4,v12,88,"InitialWarp2",13200,3424,  0,300,1, 2,1,250,
+6,v12,89,"TitanDSport",13568,736,    40,-1,112,112,100, 500,0,uiart,warp,0,0,0,0,0,None,None,0,0
+6,v12,90,"TitanDSport Copy (1)",13664,736,    40,-1,112,112,100, 500,0,uiart,warp,0,0,0,0,0,None,None,0,0
+6,v12,91,"TitanDSport Copy (2)",13568,1120,    40,-1,112,112,100, 500,0,uiart,warp,0,0,0,0,0,None,None,0,0
+6,v12,92,"TitanDSport Copy (3)",13664,1120,    40,-1,112,112,100, 500,0,uiart,warp,0,0,0,0,0,None,None,0,0
+6,v12,93,"CollDSPort",13568,3200,    40,-1,112,112,100, 500,0,uiart,warp,0,0,0,0,0,None,None,0,0
+6,v12,94,"CollDSPort Copy (1)",13664,3200,    40,-1,112,112,100, 500,0,uiart,warp,0,0,0,0,0,None,None,0,0
+6,v12,95,"CollDSPort Copy (2)",13568,3584,    40,-1,112,112,100, 500,0,uiart,warp,0,0,0,0,0,None,None,0,0
+6,v12,96,"CollDSPort Copy (3)",13664,3584,    40,-1,112,112,100, 500,0,uiart,warp,0,0,0,0,0,None,None,0,0
+3,v12,97,"Titan Flag",2880,2512,     0,1000,1,255,1, 0,1,0,0,0, 0,0,2,0, 0,0,100,0,0, 0,0,0,1, ,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v12,98,"Collective Flag",6720,2512,     0,1000,1,255,1, 0,1,0,0,0, 0,0,2,0, 0,0,100,0,0, 0,0,0,1, ,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0

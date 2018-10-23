@@ -1,0 +1,58 @@
+Hockey Zone!  Welcome to Europa Arena.
+
+~BCurrent Mod List:~B
+Baratus
+Will
+Trickdaddy+
+Chuckie
+
+~BZone Information~B
+Updates will occur as settings are tweaked either because of need, or for testing, or whatever. If you have comments on the updates, share them with me (7). I have no issue with people arguing with me about it, that's better than the alternative of not caring.  I'm open to everyone's ideas (for the most part).
+
+
+~BLeague Information~B
+RIHL will be starting up in the next couple weeks.  The initial league format will be 6 teams composed of 12-16 players.  The rules will closely follow those of the RSHL (obviously allowing for some differences due to personal preferences and the differing natures of the games).  More news will follow.
+
+
+~UUpdates~U
+
+~BSaturday, July 15th, 2006~B
+- Minor changes to checking energy costs - attempt to decrease clusterfucking by making it a less viable tactic.
+- Slight nerf to skilled wing (speed lowered, it was too close to that of the speed forward)
+- Slight boost to center (energy increased to 500, gave them a lvl 3 check -> using it with only 500 energy puts the center at a great disadvantage if the check fails)
+- Returned D-man's energy gain to normal, but the lvl 4 check received the largest increase in energy cost
+- Gave each class their own vehicle size (should make checking some classes easier, others harder - also increases catch radius)... order goes: Positional Goalie, Reflex Goalie, Defenceman, Power Forward, Center, Shooting Wing, Skilled Wing, Speed Forward
+- Gave the shooting wing a raised slapshot (didn't change the power on the shot)
+- Removed stop from the speed forward, until I can figure out a way for it to work
+- Gave each class their own check -> not sure why we were trying to copy Subspace in that regard... individual classes can have individual checks, it's stupid not to do it that way
+
+~BFriday, July 14th, 2006~B
+- Lowered prox goalie speed... attempting to kill the stupid technique tech uses (ridiculously far into the crease)
+- Lowered energy gain for D slightly
+- Increased speeds across the board, slightly (5:3 ratio for skaters:goalies)
+
+~BThursday, July 13th, 2006~B
+- Lowered goalie prox
+- Added scramble back in
+
+~BTuesday, July 11th, 2006~B
+- So much for the temp setting... if I can figure out a way to get it to work, I will, till then we're using the same settings as before
+
+~I- Temporary settings: they will be rolled back after a day or so
+	- No hold times for the puck
+	- Only minimal energy gain while holding the puck - CONSERVE YOUR ENERGY and hyper-thrust intelligently
+	- Increased energy + gain across the board while not holding the puck to account for this~I
+
+~BSunday, July 9th, 2006~B
+- Updated news file
+- Made some minor cfg changes (removed scramble, lowered player min, increased # of players required to maintain stats)
+- Lowered Power Forward thrust and rotate speeds, should make it a bit more balanced
+- Gave goalie a second pass that should easily clear the puck for them when thing are tough... still being tested
+- Added a second goalie and edited the existing goalie
+	- Reflex Goalie: Fast, smaller prox
+	- Positional Goalie: Slow, larger prox
+- Added turnover stat
+- Added Stop item for speed forwards... still in testing
+- Increased Heavy D slapshot
+
+~BDeleted the past updates.  If anyone is intersted for historic purposes, I still have them stashed away.~B

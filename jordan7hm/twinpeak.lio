@@ -1,0 +1,25 @@
+4,v12,1,"Trash",416,4176,  0,300,1, 0,0,50,
+6,v12,2,"A4toDS",304,4608,    20,-1,10736,7328,5, 0,0,uiart,warp,0,0,0,0,0,None,None,0,0
+6,v12,3,"DStoA4",10960,7376,    20,-1,992,4160,5, 0,0,uiart,warp,72,0,0,0,0,None,None,0,0
+1,v12,4,"A3DoorA",240,3248,    -1,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,sounds,wav00301,0,0,None,None,0,0
+1,v12,5,"A3DoorB",272,3248,    -1,-1,4,2, 0,4, doors,Metac,0,0,0,0,0,sounds,wav00301,0,0,None,None,0,0
+1,v12,6,"A3DoorC",304,3248,    -1,-1,4,2, 0,4, doors,Metac,0,0,0,0,0,sounds,wav00301,0,0,None,None,0,0
+1,v12,7,"A3DoorD",336,3248,    -1,-1,4,2, 0,4, doors,Metac,0,0,0,0,0,sounds,wav00301,0,0,None,None,0,0
+2,v12,8,"A3 switch",372,3268,    0, 4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,400, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,65,0,0,None,None,0,0
+8,v12,9,"YUO SUK",992,4160,    4,-1,265,YUO SUK
+3,v12,10,"TEH FLAG",896,3985,     20,0,1,4,1, 0,1,0,0,0, 0,20,2,0, 0,0,1,-1,50, 40,50,300,1, ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,None,None,0,0,None,None,0,0
+6,v12,11,"A3 to A7",288,3184,    50,-1,304,8096,50, 2,0,uiart,warp,0,0,0,0,0,None,None,0,0
+6,v12,12,"A7 to A3",304,7952,    50,-1,304,3328,50, 2,0,uiart,warp,0,0,0,0,0,None,None,0,0
+1,v12,13,"A7DoorA",256,8016,    -1,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,14,"A7DoorB",288,8016,    -1,-1,4,2, 0,13, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,15,"A7DoorC",320,8016,    -1,-1,4,2, 0,13, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,16,"A7DoorD",352,8016,    -1,-1,4,2, 0,13, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+2,v12,17,"A7 Switch",388,8036,    0, 13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,400, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,65,0,0,None,None,0,0
+1,v12,18,"A7DoorAa",208,7984,    -1,-1,4,2, 0,13, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,19,"A7DoorBa",208,7952,    -1,-1,4,2, 0,13, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,20,"A7DoorCa",208,7920,    -1,-1,4,2, 0,13, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,21,"A7DoorDa",208,7888,    -1,-1,4,2, 0,13, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,22,"A7DoorAb",400,7984,    -1,-1,4,2, 0,13, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,23,"A7DoorBb",400,7952,    -1,-1,4,2, 0,13, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,24,"A7DoorCb",400,7920,    -1,-1,4,2, 0,13, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,25,"A7DoorDb",400,7888,    -1,-1,4,2, 0,13, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0

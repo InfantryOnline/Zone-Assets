@@ -1,0 +1,72 @@
+~0==========================
+          ~4Contents
+~0==========================
+~61. ~b~0-~6 Quick Overview
+~62. ~b~0-~6 Quest Types
+~63. ~b~0-~6 Reading and Info
+~64. ~b~0-~6 Missions Briefings
+~65. ~b~0-~6 Quest Technical Support
+~b~2
+~b--------------------------------------------------------------------------------------------~b
+~41. ~b~0-~4 Quick Overview~b~2
+~b--------------------------------------------------------------------------------------------~b
+   ~b"~1Quests in Infantry?~2"~b I know right? We are trying to bring more
+   concepts to this RPG zone of ours. To us a RPG zone isnt a RPG at all 
+   without one ~b~6very basic~b~2 thing. Quests. So we aim to do just that. We 
+   realize as with any RPG based game there will ~b~0never be enough~b~2 quests
+   but we will try to offer as many as possible and update as often as 
+   possible to bring you the best, and newest content availble
+~2
+--------------------------------------------------------------------------------------------
+~42. ~b~0-~4 Quest Types~b~2
+--------------------------------------------------------------------------------------------
+   There are ~b~1three basic mission types~b~2 here in the Halycon Trench. 
+         ~b~0a~b)~b~0 - ~5Gohper ~0"~5Go For~0"~5 Types~0:~5~b These are the
+         most basic quest type in the game. Take item 
+         from point A to point B
+         ~b~0b~b)~b~0 - ~5Random Drop Types~0:~5~b Random Drop based
+         quests are probably the most time consuming.
+         and are completed by killing NPC groups
+         ~b~0c~b)~b~0 - ~5Special Action Types~0:~5~b Completed by
+         taking a specific item to a specific place and 
+         preforming an action. Such as mining a rock
+
+   ~2Due to the way Infantry is designed we are somewhat limited on the 
+   types of quests we can offer. I try my best to keep them exciting and
+   in depth to make similar types quests fun each time around.
+~2
+--------------------------------------------------------------------------------------------
+~43. ~b~0-~4 Reading and Info~b~2
+--------------------------------------------------------------------------------------------
+   I realize nobody really wants to read in a strategy action game. Though
+   when it comes to Quests no matter what game they are a part of there 
+   will always be lots of text to read. If you ever ~6~bget lost in a mission~b~2 you
+   may try reading the info for the quest item you have or even info on 
+   a NPC
+
+   The ~b~1missions briefings~b~2 are the best source of information on any quest
+   I willo go over this in depth through the next section
+~2
+--------------------------------------------------------------------------------------------
+~44. ~b~0-~4 Missions Briefings~b~2
+--------------------------------------------------------------------------------------------
+   Mission briefings are located on the skill list. Most when they first see 
+   them go ~1~bwhy cant I buy these skills?~b~2 Well the answer is because that
+   is only the information for the quest and tell you what you need to do.
+   You must ~3first meet the requirements~2 for that specific mission and
+   ~b~6then you will get the skill~b~6
+
+   ~2Most mission briefings tell you where the mission starts, ends, and tells
+   you what you will get for the ~b~6reward~b~2. The primary mission chain usually
+   rewards ~0~bone characteristic point~b~2 along with ~1~bXP~b~2 and ~1~bcash.~b
+~2
+--------------------------------------------------------------------------------------------
+~45. ~b~0-~4 Quest Technical Support~b~2
+--------------------------------------------------------------------------------------------
+   Never contact a moderator about anything dealing with missions. This 
+   has nothing against the in game mods. We apreciate all the help they 
+   give only we dont expect them to have to learn how our game mechanics
+   work to be able to determine what warrents interveining. If you have
+   any problems with rewards, quest items, drops or anything pertaning
+   to missions you may contact one of the zone Developers in game or at 
+   <tfcitydevs@gmail.com>

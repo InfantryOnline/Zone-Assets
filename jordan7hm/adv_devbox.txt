@@ -1,0 +1,34 @@
+~B~1Dev Box
+
+~27/08/2009  ~4NEW!~B~2
+
+~B~15. It would be nice to be notified of what the current EOL dev is planning for the zone. Communication is pretty poor in this department.~B~2
+
+Can't list everything that's being planned, but to paraphrase the highlights of what is..
+
+*deep breath*
+
+PowerfeatsmorehealsmorevehiclesafteragoodsystemcanbeworkedoutwhilestillkeepingplayercountinmindmorepersonalvehiclescapableofaerialcombatmorewarpitemsmorekitsincludinginnoculationtypesmoreweaponsincludingchemicalwiththeabilitytoinfersymptomsordiseasesorimpairmentsweaponsthatcanremovesterontypebuffsweaponsthatcanmutatesterontypebuffsintobetterbuffsordebilitatingbuffsmorerpgstyledgameplayconveyedthroughdifferentaspectsofgameplaysuchasNPC"drops"resultinginrandomoccurencesofprizesandassortmentsand/oradditionstogameplayoutsideofthegametyperealmincludinganachievementsystemwhichisallspecificallyreliantonhowmuchtimethatscontinuouslytakenawayfromaccomplishingthesegoalsbyhavingtoaddressissueswithgameplaywhichcouldresultinthisallbeingcompleted:nevvvvvvvveeeeeeeeeeerrrrrrrrrrr.
+
+*gasp*   *stagger*   *faint*
+
+
+
+~26/30/2009
+
+We've been wanting to do a blog-type posting document for a while. Something to give the players a sense of what's on our mind as well as touch on zone development: implementation of devices, ideas and possible future updates. We would like to note that the main purpose of this 'Dev Box' is to communicate changes to you, but perhaps we won't restrict entries to just that. This allows us to mingle with you a bit since we seem to never have much time to ourselves. :)
+
+As some of you know, we haven't been around in a very long time. We just recently got back into the swing of things in April of this year. Hit some snags on the development end so this was an off and on process. The main priority of things was a fix for the Koth glitch, which we wanted to try a few different angles with and that paid off. So for right now there is a working fix for that glitch. We believe the fix is self-explanatory.
+
+Its of our understanding that when Eol Advanced was originally taken down, it was in favor of other player-developed zones having time in the spotlight, at which point, it came down sometime in October for some updates and was then brought back up. The last run it had was in about December. After that the population dwindled and then it was time for more zones to take it's spot. When we came back to accomplish more, we decided we were going to try to finish something by June, but due to various reasons, such as snags, it proved impossible to do so. We've also been in a very casual mood lately, so that did have an impact on a timeframe for rerelease. We do feel the need to apologize. We were withholding it from rotation for at least a month or so in favor of getting some updates in. Everything has taken a lot longer than what was originally anticipated and we hope this didn't make you think there was some huge overhaul to the zone in progress. We probably won't be doing an expansion like that for a long time. You can thank MP for trying to kick us into gear. His constant nagging through arguments the last month, or so has made us realize the zone can simply be up so should you wish to play it as it was, you could do so. It is a shame that newer zones haven't lived up to public expectations, however.
+
+< Content developed for the PCT is property of SOE. You can squabble about "your content" else where, developer notes are not the place for such things. Furthermore Eol was taken down to have updates and patches put into place. The lack of developer updates was what kept the zone down, not the development of a new zone. I would not recommend bad mouthing a zone that has not been released in this manner again. -SatoriEnd>
+
+Allow us to enlighten you on how long it took us to get something together. One month. Yes, one month. The competition started, we were given a test zone and yes, we did majority of all of that content and additions in that time span. For anyone who were potential devs for Eol during that time, the requirement was to only make Eol the way you thought it needed to be. This would have included just modifiying the existing version at the time, or a past version to something you believed the community would have enjoyed and from there you could have entered it in the competition and at the very least you would have had some up time with it. There was a time we did pull out of this contest and we no longer wanted a submission the community could vote on. We had real life to deal with amoung our list of excuses. Before the competition due date was upon us, we resubmitted our version as we were made aware that there weren't any submissions to speak of. This is why you have Eol today, and this is also why we're stuck with it. We did try our best to put time and effort into updates, but this is afterall only a hobby. We do not get paid for our time spent on this, we only obtain satisfaction through what we accomplish with your like for the work done with it. We have grown attached to it since the launch date and we will hopefully continue to bring you more fond memories in the future.
+
+< Cut. This is not approved by SOE and you have no room to shut other players out of the PCT. -SatoriEnd>
+
+Please accept, or decline by Friday, July 3rd. We await your response. Best of luck to you.
+
+
+~BAdvanced Team~B

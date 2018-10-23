@@ -1,0 +1,5 @@
+v6,1,-2,100,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Fighter Pilot","Pilot Skills","","Fighter pilots are the backbone of the Navy.",  ,,0,0,0,0,0,0
+v6,2,-2,102,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "GunShip Pilot","Pilot Skills","","Gunships are the big guns of the Fighter Arm.",  ,,0,0,0,0,0,0
+v6,3,0,103,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Miner","Pilot Skills","","Miner's play an important part of defense and are good at resource gathering.",  ,,0,0,0,0,0,0
+v6,4,-2,105,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Scout Pilot","Pilot Skills","","Scouts are the eyes of the fleet.",  ,,0,0,0,0,0,0
+v6,5,-2,106,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Fabricator","Pilot Skills","","Fabricators they are the only ship able to build advance vehicles and structures.",  ,,0,0,0,0,0,0

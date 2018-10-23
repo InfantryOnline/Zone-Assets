@@ -1,0 +1,69 @@
+~B~1Updates
+
+~21/12/2010  ~4NEW!~B~2
+
+Made some small changes to the map.
+Fixed killstreaks.
+Lowered the cost of attributes.
+Nerfed the grenade damage.
+Raised the cost of the EZ grenade form 10 to 1000 cash.
+Fixed the weapon bug in the weapon ugrade rooms.
+Raised the ammount of experience you get from picking up "TEH Bonus" after killing a player, also made it give 100 cash.
+Made it when you get a kill it raises your mvp score. Get more kills to get on the MVP top 3 to earn a personal jackpot!
+
+
+~212/08/2009~B~2
+
+No longer able to take flag into Safe Weapon Upgrade spots.
+Fixed the quests so they now work great.
+Fixed all weapon requirements.
+
+~2~B12/08/2009~B~2
+
+~4Item Updates:~2
+
+Nerf'd the Pyro weapons so it doesn't do so much damage.
+Fixed weapon spawns.
+Fixed Master Pyro and Energy lvl 10 weapon requirements.
+Fixed the flag to appear on radar when it is being held.
+No longer allowed to take the flag into the Upgrade Room(Safe Room).
+
+~4~BNewly added:~B~2
+
+Added missions(killstreaks): These work the same way as in TFC. You get a kill, a kill count will appear in your inventory, get the number needed and talk to The Expert at either A6 or D1 to claim your reward.
+Added rare spawns of "boost" items.
+Boost items consist of: Speed Boost(steron), Defense Boost(Combat Armor), and an Energy Boost(raises your energy recharge rate), ALL BOOSTS LAST 20 SECONDS AND THEN DISAPPEARS. These boosts spawn randomly every 60 minutes anywhere on the map.
+
+~4~BList of Killstreaks added:~B~2
+
+You can also see these in F11.
+
+1. 10 kill killstreak.
+2. 25 kill killstreak.
+3. 50 kill killstreak.
+4. 75 kill killstreak.
+5. 100 kill killstreak.
+6. 125 kill killstreak.
+7. 150 kill killstreak.
+8. 175 kill killstreak.
+9. 200 kill killstreak.
+
+Rewards are so high because of the recent raise in EXP REQUIRED for STATS.
+
+~2~B12/07/2009~B~2
+
+Added class - Pyro (Just a new fire type class.)
+Added "Bonus" - A quicker way for newer players to gain exp during low population times.
+Raised the required amount of EXP to buy stats.
+Added a new grenade. "Owned Grenade"
+
+Maxed stats as listed below:   --- NOTE: Still testing the max amount of stats.
+
+Agility: 50
+Dexterity: 50
+Health: 50
+Willpower: 20
+Discipline: 20
+Strength: 20
+
+Hopefully this will balance the game a bit and not let players become too powerful.

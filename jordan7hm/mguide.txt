@@ -1,0 +1,195 @@
+ZZ Guide for n00b Marines 
+by n0b kilza 
+rev1.2 04/16/07 
+
+Basics of game play 
+---------------------------------------------- 
+As a marine, you have 2 goals: to kill as many zombies possible (for xp) and to be on the last team standing. If you are the last person standing, you get a bit of extra xp and you get Lag Armor as a reward. Lag armor is the strongest armor available in zz so sell your other armor as soon as you can. If you win, you also get an “invite” icon in your inventory. Set this icon to a weapon slot, highlight the player you choose to “invite” and click button you selected to give that person super HP and a super gun. This will last until the start of the next game. 
+
+Armor set 
+------------------------- 
+
+ Armor – CMP6 
+ Generator – PF 
+ Suit Charger – OSSC 
+ Misc – Stealth Coating 
+
+Reason for this setup – CMP6 has great energy protection. Couple this with PF and it gets even better. Couple those with OSSC and your energy should go down very slowly when fighting 1v1. Since zombies claws do high damage, its better to have % protection than ignore damage. With cara or lag + IDF, claws will do the almost the same amount of damage at around the same energy level, but with IDF you energy will drop faster. 
+
+**If you win a game, you will get Lag Armor. Go to spec and sell you CMP6. 
+
+Other Useable items 
+-------------------------------------------- 
+
+ AP/Plasma/Bullet Mine Kit – Can have up to 3 active plasma/ap/bullet mines on the ground at once. Use AP/Plasma mines outside of base to weaken zombies. Use bullet mines while running away (zombies have to run around bullet mines or through them to get to you). Uses 5 ammo to lay 1 mine down. 
+
+ Claymore Mine Kit - Can have up to 5 active Claymore mines at once. These mines do decent damage AND has a push back effect. Set them down close to turrets to keep zombies away (less damage to turrets). Uses 2 ammo to lay 1 mine down. 
+
+ Gas Mine Kit - Can have up to 3 gas mines active at one time. It has no damage effect but will stun zombies for 3 to 4 seconds. They are invisible so set them down in the choke points to stop a zombie rush. Uses 3 ammo to lay 1 mine down. 
+
+ Resurrection Kit – Aim this at a corpse on the ground. They are revived on your team will full hp and energy. Keep your distance from the corpse while reviving due to explosions that surround the newly revived player. 
+
+ Stim Pack – 1 time use item that gives you an almost instant heal of 30hp. You automatically pick up stim packs from the ground if you don’t have any in your inventory. 
+
+ Freeze – This creates an AOE effect that immobilizes all zombies within a certain distance around you. Each frozen has 600 hp and can be killed. The effect lasts no more than 10 seconds. When the zombie unfreezes, they start out will full HP once again, so use ONLY when running. 
+
+ Supply Depot – Drop this on the ground for extra supplies. A drop ship will come at a regular interval (~4min) to drop off ammo, stim packs, and engineer equipment. It has a chance to crash (around 3%-40%). Its usually best to put supply depots on top of each other to prevent cluttering. 
+
+ Rail Gun – The gun everyone wants. Its a blue gun that shoots through walls. It has a large proxy and shoots 4 shots at a time. It can damage multiple zombies at once if they are grouped together close enough. 
+
+ Plasma Shotgun – This is basically the same gun as the SG for SL’s. Its decent in close combat as long as you don’t miss. There is a learning curve with the aim on it. Most people RARELY use this gun. 
+
+What should I spend my xp on? 
+------------------------------------------------------------------ 
+-The very first thing you should do is to spend 600xp on a stim pack. When you are a level 1 rine, this stim pack can save your life while your team is trying to organize a defense. Its very cheap and very effective. 
+-The second thing you should buy is the level 2 marine upgrade. This costs 20k xp. While this is a lot, it will allow you to kill zombies much faster and to help you survive in the first couple minutes of a game. 
+-From here, there are a few different paths to choose. You can start to specialize in a certain kits, like an engineer kit, chemist kit, or SL kit. It does cost xp to get everything you need for the kits, so choose wisely. 
+
+Engineer kit – Costs around 50k xp to buy all traits for engy. 
+Chemist kit – Costs around 30k-40k xp to buy all chemist traits. 
+SL kit – Costs 25k xp to buy the SL trait. 
+
+If you chose not to specialize in a certain kit, the next trait I would focus on buying is the mine trait to help yourself get more kills faster. After that, buy the rez kit (costs 10k xp) so each game you will start of with a rez in your inventory. From there save up to level 3 rine(70k or 80k xp). 
+
+**It doesn’t really matter if you buy the level 4 rine or preservation kit 1st. Both have their advantages and their drawbacks. If you tend to die too quickly, buy the pres kit. If you don’t want to worry about having to kill to hit level 4, buy the level 4 rine. 
+
+What are the classes and what are the differences? 
+---------------------------------------------------------------------------------------------------------- 
+
+There are 5 different classes to choose from in ZZ. They are: Marine(default), Chemist, Engineer, Squad Leader, and Heavy Weapons. Each team MUST have an engineer to survive and a squad leader is highly recommended. Chemist class is a bit advanced and should be used by people somewhat familiar with the class. Heavy weapons is a great class to start out with due to its level 1 weapon (incinerator) but at level 4, it pales in comparison to the Marine. Marine is a great class to play. At level 4, it is undoubtedly the strongest class in terms of both firepower and survivability. 
+
+ All classes can mine, but it costs xp to buy the trait to do so. 
+ 5 AP/Plasma mines dropped on each other will automatically kill 70% of zombies. 
+ All classes can kill. While the chemist is the weakest at pure DPS, it can help other classes kill faster due to its stun effect on its projector weapon. 
+ Engineer runs the fastest, while Heavy Weapons runs the slowest. 
+ When you level up (lets say from level 1 to level 2), you automatically get full health and full shields. It takes 14 kills to level from level 1 to level 4. 
+
+
+Kit Classes Broken Down 
+----------------------------------------------------- 
+Engineer 
+
+This class is the most important class in the game. If you are going to go engy, make sure to buy all of the traits. If you only have the basic walls, the zombies will tear your base down in a matter of seconds. Decent armor, the fastest run speed, and decent weapons (can’t run faster than zombies thou). 
+
+Level 1 60hp 600 energy Assault Rifle 
+Level 2 Battle Rifle 
+Level 3 Incinerator 
+Level 4 80hp 750 energy 
+
+Strategies for laying walls and turrets down 
+ There is a limit of 10 similar wall types within a 200 pixel radius. This means you can only have 10 Tall Walls, 10 short walls, 10 advanced walls, and 10 regular walls in the same 200 pixel area, BUT you cannot have more than 10 of 1 type. 
+ Create choke points by using the walls. Make sure your turrets can shoot into this choke point. When making choke points, make them with Tall Walls. These walls can take a lot of punishment before falling, giving time for your turretors to take out the zombies. 
+ Put turrets behind tall walls. Specifically, the Gas Turres should go close to choke point to stun the zombies and Tractor Turret should be put where it will bring in zombies INTO the choke point. The turrets should also be spaced out evenly throughout the base in order for maximum coverage. 
+ Once a choke point is created with Tall Walls, use short walls in the hallway to further enhance your base. Short walls are VERY weak but the point of them is to slow down a zombie rush, allowing your turrets to pick off the incoming zombies. 
+ Don’t put any turrets right next to walls or red physics. They will get wall lamed because zombies can attack through walls. Make sure to keep them at a distance away. 
+ Howitzer Turrets are underused. Zombies CAN steal these turrets so keep them occupied at all times. These turrets have 2 attacks, a very strong AOE rocket and a very strong MG. Both of these can shoot over Tall Walls so place them behind tall walls and lame away. 
+ Basing inside bases is usually the best choice. They are prone to meteor shows and wall laming but usually offer more protection than outside bases.. 
+
+-Here is an example of how to make a base. Its been color coded to help. 
+ 
+Thanks to Memo, I ripped his pic and played with it. 
+
+SL 
+This is THE class to get your team out of trouble when your base gets run over. Its a great idea to pick up the one trait for the SL, Prevailing leader. This will give your team another supply depot, allowing your team to have more ammo (kill more), more stim packs (live longer), and more engy equipment (stronger base). Regular armor, regular run speed, decent up close DPS. 
+
+Level 1 60hp 650 energy SG 
+Level 2 Knife(crap) 
+Level 3 EMP Grenade 
+Level 4 85hp 720 energy 
+
+Strategies for SL 
+ Your main job is to summon people to safety and to get your team safely out of an overran base. Single person summing costs all of your energy. If you get attacked right after this type of summon, you will die. It might be a good idea to use IDF instead of PF with a SL. 
+ The SG is a bit strange to use. Zombies have weird physics. Make sure to aim for the ass of the zombie instead of their head. 
+ EMP nade is great to use against clusters of zombies behind walls. It does a lot of damage and has a large radius. Its better to spam EMP nade than SG as long as your not being attacked (if zombies are behind walls or attacking other rines). 
+
+The hardest part about playing a good SL are #1 Trying to figure out when to get out of a base, #2 Trying to cloak everyone in time and making it out alive, and #3 Summoning the team and finding a new base. 
+
+#1 – You should only leave the base when there is no chance for your team to survive. Sometimes your base may be under a constant stream of attack and it gets to the point where they break through your walls. Sometimes the base might be totally peaceful until someone Calls of the Dead and then you have to deal with 20 zombies. Either way, usually when most of your turrets and/or walls are gone, its a bit past time to leave. 
+
+#2 – As a SL, you should start cloaking at the same time you start running outside. Since there is a delay on cloak, you will probably have to run through multiple zombies slashing at you. Make sure to not run in the middle of the choke path, try to hide yourself by using walls while trying to run. Once you are cloaked your teammates should be cloaked. 
+
+#3 Once your outside the base watch your timer, when there is 1 second left on cloak, TEAM SUMMON your team. They will appreciate it. If there are a few zombies following you, your team can clean them up. If too many zombies are following you, team cloak again and try to get to base. Again, when there is 1 second left on cloak, TEAM SUMMON team again. Do this again if you have to with the cloak and summon. You should be out to cloaks by this time but should have 1 team summon. If zombies are still following you, go ahead and run in a different direction than your team. Hopefully the higher level rines on your team will peel off and cause a distraction, alloying you to get away. As soon as u think u should, team summon them again to save them. 
+
+Chemist 
+This is a more advanced class. As a chemist, your job is to support your team by making rez kits, freezes, and preservation kits out of zombie and human parts (dead zombies and dead humans drop these parts). You turn these parts into the laboratory that you create and each of these has a set # of parts it costs to buy. Normal armor, normal run speed, low DPS. 
+
+Level 1 60hp 600 energy Assault Rifle 
+Level 2 Gas Projector 
+Level 3 Battle Rifle 
+Level 4 80hp 750 energy CL5 
+
+Items you can buy from store 
+ Resurrection Kit – Costs 3 Marine parts to make. You can only have 1 rez kit in your inventory so if you try to make a 2nd one, you will lose the 3 rine parts and not make a rez kit. Droppable. 
+ Bio Grenade – Cost 1 zombie part, can carry 4 at a time. This nade does 250 damage damage and has a very short stun effect. Very effective when used on groups of zombies. Droppable. 
+ Necro nade – Costs 3 bio grenades. This nade is like the bio nade but with more damage. Very effective when used on groups of zombies. Droppable. 
+ Freeze – Costs 5 zombie parts. Can carry 1 at a time. Causes every zombie around you to turn into a frozen statue. They can be killed while in this state. Not droppable. 
+ Laboratory Kit – Costs 1 Marine part. It’s a good idea to always carry an extra lab kit around so you can make it at another base. 
+ Preservation kit – Costs 4 Marine parts. Can carry 1 at a time. When you die, you will instantly be resurrected with full hp and energy. Droppable. 
+ Summoner – Costs 3 Zombie parts. It’s a one time use item, able to summon a teammate. Usually a waste if your team has a SL. 
+ Tranquilizer – Costs 1 Marine part. Stuns a zombie for a long amount of time. This is a waste of a Marine part. Its better to save the parts for rezzes. 
+ Incinerator – Costs 6 zombie parts. This is a great weapon to buy. Raises your DPS by a large margin. 
+
+Strategies 
+ Your DPS isn’t up to par compared to the other classes. When you have level 2, the best way to kill a single zombie is to use your rifle 1st and then use gas projector to stun the zombie to keep you energy level high. For example I hit the zombie 12 times with assault rifle, then I notice I’m taking a bit of damage from the zombie, I switch to gas projector so zombie cant hit me (stun effects stops their rotation). 
+ Another time to use gas projector is in a group of zombies, or if your in a group of marines. The stun effect will give your team time to aim better. 
+ If you’re fighting 2 or 3 zombies, back peddle to safety while spamming gas projector. Since they have to follow you the gas will stun them long enough to let you gain distance between them. 
+ You life as a chemist will consist of always running around the base picking up zombie and human parts. Without these parts, a chemist can’t do anything. Always remember to pick up parts!!! 
+
+Heavy Weapons 
+This is a great class for starters to start out with. At level 4, a heavy weapons becomes obsolete due to its inferiority to the marine class. That being said, at level one it starts out with an Incinerator, a weapon that will rape 95% of zombies if used correctly. Normal armor, hard hitting (but easy to miss) weapons, and the slowest run speed. 
+
+Level 1 55hp 550 energy Incinerator / Rocket 
+Level 2 RR 
+Level 3 MML 
+Level 4 80hp 700 energy 
+
+Strategies 
+ Use incinerator around your team turrets. If a zombie has been stunned by a gas turret or pulled in by a tractor turret, shoot a steaming pile of flaming gas on top of them. It will do the initial damage + more damage while the zombie is standing on top of it. The incinerator can also be used around the manned turrets, if a zombie is meleeing a manned turret, let loose a barrage on top of the turret. The zombie will either die or run away, saving your turret precious HP. 
+ Rocket and RR can be shot over Tall walls. Hug the tall wall and aim it toward the zombie. Just be careful to not stray too far from the wall or you will TK it. 
+ The RR is only good in very certain situations, firing over tall walls or firing into a large group of zombies. A good combo when lots of zombies are surrounding a tractor turret is to RR then follow up with the incinerator. 
+ MML can be used down long passages. It has a great spread with decent damage and it doesn’t TK walls as much as RR does. This can be spammed but chews through ammo quickly. 
+
+Marine 
+This class is the ultimate level 4 DPS and survival class. With an insane amount of hp, armor, and the very best move and fire weapon (AC), this class is THE class to get up and dirty with the zombies. At lower levels, a marine can hold its own 1v1 or even 2v1(depending on skill of both marine and zombie). Since a marine is the default class, you don’t have to spend XP on buying marine only traits. This means you can focus spending your xp on rez kits, mine kits, and start off at a high level faster than others who choose to specialize in a certain kit. 
+
+Level 1 80 hp 650 energy Assault Rifle 
+Level 2 Battle Rifle / Rocket 
+Level 3 Demo Pack 
+Level 4 140 hp 900 energy AC 
+
+General Strategies 
+ You are a meat shield. Your job as a marine is to keep the zombies away from your base as long as possible. This is done by fighting right outside your base to right inside the base. This gives the people in the turrets time to spam into the choke point. Remember: The more you pull zombies into the choke points (plasma spam) the faster the zombies will die, giving everyone on your team kills and making those zombies attack you faster (more xp!). 
+ There is a right time and a wrong time to use demo pack. NEVER start off fighting zombies using demo pack. Make sure you hit the zombie at least 12 times with the rifle or 8 times with AC, THEN use demo pack. It takes a few seconds to reload and will not reload if your using your rifle. 
+ A level 4 marine can usually kill a king 1v1, should be able to kill a queen most of the time 1v1, can kill 2 mid level zombies on a 2v1, and should be able to kill 3 low level zombies on a 3v1. Of course this is dependent on both the skill level of the marine and zombies. But either way this is a good indicator of skill level. 
+ Remember to use rockets if you are fighting zombies from behind tall walls. 
+ Always keep an eye out on your teammates. If you see your engy, SL, or chemist being raped, get over there and help them unless you will be raped too. A lot of times zombies will start attacking the guy who is coming to save the other person. 
+ When fighting gets hectic and swarms of zombies are coming after you while in base, lead them all into a choke point where the turrets are focusing on. This will almost insta kill the zombies right behind you, giving you time to escape. Drop a demo pack or bullet mines for additional hurt. 
+
+Tips and strategies in staying alive 
+------------------------------------------------------------------------ 
+Mines 
+ You can have 3 active AP/Plasma/Bullet mines, 5 active grapeshot mines, and 3 active gas mines at once. Use them to your advantage. 
+ Use mines in choke points and right outside choke points. ALWAYS keep an eye out for suicidal zombies (Vulcan ). I’ve seen entire teams TK each other because they weren’t paying attention to the radar and missed the incoming red dots. 
+ If you need to stop and type a message, STAY OFF the mines when you are doing this. 
+ If you see a zombie go into cloak mode, GET OFF THE MINES!!!. They are cloaking so you can't see them suicide rush you and try to TK you with those mines. 
+ If the entire team is mining the choke points, tell everyone to spread out the mines further away from the choke point. A few mines close to a choke point is great but too many is a total and complete waste of time. 1 zombie can take out 15 mines if those mines are stacked very very close to each other. So spread out the mines and watch out for zombies trying to tk you. 
+ Don’t mine too close to walls and turrets. Mines will go off when close to walls, TK’ing the wall and pissing off the team (especially engy). If a mine is close to a turret and a zombie steps on it, the mine will majorly damage the turret. 
+ Before you set AP mines in a choke point, setup grapeshot mines a bit further out from your base. If a zombie comes close they grapeshot will go off, giving you time to move off you AP/Plasma mines before you get TK'd. Think of it as an early warning system  
+
+Fighting 
+ The best way to hit the smaller zombies is to aim for the center mass or their ass. If you try to shoot them in the head, you will miss. 
+ Remember to strafe in and out of claw attacks. I have found that the slow zombie attacks(bite) do a bit more damage per swing compared to the fast attacks(claw) but overall the fast attacks have more DPS than slow attack. 
+ If your fighting 2 zombies, focus on 1 zombie at a time unless that one runs away. If they both have full hp attack the fast swinging zombie first as that one is more dangerous (due to faster energy drain). 
+ If you’re a higher level player, make sure you have a rez kit on you at all times. Its possible to rez while fighting, just be quick about it. 
+ If you find your base being overrun, MAKE SURE to stock up on ammo and stim packs. The last thing you want happening is to make it out of the base alive only to realize you have 0 ammo. 
+ If you come across a queen or king and cant kill him/her, try to lure them into the forest. The vehicle of the king/queen is large and cannot get through many of the densely packed trees. Use this to your advantage while fighting off swarms of zombies too (it’s hard for them to get though certain parts of forest). 
+ If you find yourself alone in a base with no supplies around, mine wisely. Fight around turrets so they can trap zombies. Don’t stack 5 mines on each other but stagger them. This way you save ammo, force the zombies through a choke point (where you spam into), and will slow down other zombies if they are there too. 
+ Don’t be afraid to try to seek refuge in another marine’s base. Sometimes they will kill you. Other times they will let you in. Just don’t get in their way. 
+
+Choosing the Right Base 
+----------------------------------------- 
+ Bases outside of any buildings are usually far weaker than basing inside. H7 is the exception to this idea because of its natural choke points. H1 is a base that rarely sees any action, so its good to base there ONLY if you want to win the game and are not worried about xp. 
+ Bases inside building offer many more natural choke points. They are usually attacked very quickly due to the proximity of zombie spawns. They are also very susceptible to Meteor showers and to Wraiths summoning zombies behind the walls. Other than that these bases will usually grant more xp, but a lot of times you won’t be the last team standing in these bases. 
+ Try not to base with another marine team unless both teams have experienced players. This sharing bases concept is usually a bad idea due to TK’s and turrets stunning the other team. Move and find a different base. 
+ When basing at the d6/c6 coords, there might be 2 other marine teams baseing in those buildings. There is a global limit on the number of gas/tractor turrets within a certain pixel radius. With 3 teams in such a small spot, this limit WILL be hit quickly. Try and find a better base if at all possible.
+

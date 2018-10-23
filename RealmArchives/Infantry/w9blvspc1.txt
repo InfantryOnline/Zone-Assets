@@ -1,0 +1,25 @@
+"Name","Squad","Points","Kills","Deaths","Play Seconds","MVP Score","GB Wins","GB Losses","GB Goals","GB Assists","GB Catches","GB Steals","GB Passes","GB Fumbles","GB-Carry Time","GB Saves","GB Pinches"
+Dain Gandalf,Samurai Pizza Cats,81,6,6,1206,915,0,0,0,0,28,2,28,3,189,0,0
+combust,Samurai Pizza Cats,91,7,4,1206,846,0,0,1,0,25,0,25,0,139,0,0
+Ak1,Samurai Pizza Cats,149,13,7,1187,779,0,0,0,1,17,0,18,0,119,0,0
+egg,Samurai Pizza Cats,76,7,5,1205,474,0,0,0,0,13,1,12,1,73,0,0
+xius,Samurai Pizza Cats,182,14,9,1206,466,0,0,0,0,11,0,8,1,65,0,0
+Malaki,Backlash,167,8,9,1206,417,0,0,0,0,6,1,9,1,75,0,0
+Legacy,Backlash,238,15,9,1205,372,0,0,0,0,3,1,2,1,23,0,0
+Beelzebub,Samurai Pizza Cats,90,6,11,1205,368,0,0,0,0,9,1,10,0,50,0,0
+Son,Backlash,147,7,8,1206,286,0,0,0,0,10,0,6,1,67,0,0
+Panther,Backlash,36,3,8,1206,268,0,0,0,0,7,1,8,1,46,0,0
+Cutlaz,Backlash,56,2,6,1205,248,0,0,0,0,4,2,5,0,42,0,0
+acid,Backlash,81,7,13,1205,204,0,0,0,0,5,0,5,0,22,0,0
+Severed~Tie,Hooligans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Detrimental,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Allustrious,Godsend,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S|ckness,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OldMan.,Backlash,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+QuietStorm_,Lethal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Darter,Godsend,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Edd87,Backlash,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wolf83,Committed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IGBL[Ref]_Realm,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seraphic Cherub,Hooligans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vince Carter,Hooligans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

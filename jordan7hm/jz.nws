@@ -1,0 +1,99 @@
+Subject: 
+Date: Mon, 3 Mar 2008 16:27:27 -0800
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Unsent: 1
+X-RFC2646: Format=Flowed; Original
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3198
+
+Zone Developer: Axidus
+Map-maker: Qloos
+Various graphics: Marex, kwekly, Yankee
+
+Welcome to Jedi Zone.  You need 3 weapon keys to play this zone.  Your saber
+attack (called Form II, III, IV, or V), your individual block (called Saber
+block, each style having variations of effectiveness), and Push.  The first
+two are the basis of combat, and the keys you will use the most (other than
+basic movement and strafe).  Push is a last resort, when running/dodging
+just doesn't work.  Everything else is extra strategy, but isn't necessary
+to be successful in this zone.
+
+General advice for whatever style of combat you choose:
+
+Form II: Focus on attacking from unexpected positions.  Blocking is not as
+easy or relevant for this style of combat.  A point blank attack will knock
+your opponents away.
+Form III: Focus on patience in timing. Wait for your opponent to make a
+mistake as you repeatedly block their attacks with your main weapon and side
+block.  Your saber has strong interactive properties, and will override the
+power of any other, but is slightly shorter ranged than all others as well.
+Form IV: Focus on confusing your opponent with tricky movements.  Flip is
+recommended as your secondary-use key (use this heavily and you will fare
+well with this style).  Fast spin is for fighting multiple opponents, or
+unexpectedly directing your aim in one way or another (useful for surprise
+attacks).
+Form V: Focus on being aggressive, use hyper run when charging an opponent.
+Use saber throw for groups, vehicles, or players who like to run away from
+you :).
+
+Countering Attacks:
+
+Saber: All sabers can push other sabers back (it is hard to time), excepting
+Form II's blade.  Can also be countered with the individual block, which is
+the recommended choice.
+Choke: Aim "Push" towards the stream of choke projectiles, and it will
+deflect most of them while knocking your opponent back.
+Push/Pull: Can be countered with your individual saber block or "Push".
+Speeders: These vehicles die to almost anything in one hit (Choke being the
+only exception at the moment).  A speeder vs speeder battle can end very
+fast :).
+
+
+
+
+-------------------------------------------------
+UPDATES
+-------------------------------------------------
+March xx, 08
+______
+-Set desired frequencies to 5 (5 solo teams until a 6th person enters)
+-Made the flag not spawn in the warp area
+-Increased Cash reward for victory
+-Typing ?briefing will also play background music now
+-Team switches are allowed anywhere
+-Team sizes = 3
+-Set low energy amount to 101 (Constantly allows you to see energy at the
+side of your character)
+-Added a starfield
+-Decreased the velocity of all sabers from 2400 to 2000, hopefully this
+coincides with the lag better
+-Choke: reduced velocity from 6000 to 4000, decreased lifetime from 70 to 60
+ticks, and now contacts on walls.
+-Removed knockback as a separate item from Form II, and made it passive in
+the blade itself.
+-Push removed from store, gave it to everyone at the start
+-Changed saber names from "Form" to "Saber"
+-Fixed the saber throw bug.
+-Spread the spawns when arena = 21 players
+-When you die, you start with 0 energy now
+-Increased Heal firerate
+-Removed strong saber from Form IV
+-Added descriptions to blades based on damage, width, lifetime, prefire, and 
+collision (Collision is how well the blade repulses other blades or 
+projectiles).
+-ATST's have a 25% chance to spawn every 10000 ticks at B4 with 20 players 
+in-game
+
+
+
+Big thanks to RDX, Sky - Blade, Mastar Singularity, AllYourBase, kwekly,
+STAS, Nirvana06', Basic, Esponex, Qloos, Toriad, Randy, dz, Syco, Qi,
+SofaKing Awesome, my friends Sean and Wade, or anyone else who has helped
+contribute in terms of testing/gameplay/content, no matter how big or small.
+<3 you all, could not have made this without your help.
+
+
+
+
+
+

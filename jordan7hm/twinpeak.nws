@@ -1,0 +1,149 @@
+~BINFANTRY CTF ZONE NEWS~B
+~BTWIN PEAKS~B
+
+CTF v.53
+
+~BWednesday November 24th, 1999 -- Yankee ~B
+
+Mad signifigant changes to who can use what weapon.  Heavy weapons are now limited to their support weapons and to the lighter secondary weapons.  Specifically, Assault Rifle is no longer available to Hvy, nor are any of the dual weapon upgrades. The mines have been added to Heavies inventory however.  This is to enforce the Heavies Support/Defense role.
+The Sniper versions of the Assault Rifle and Carbine have been buffed up.
+Plasma Cannon's reload is now 3 seconds.
+Adjusted energy damage and outer damage of DeathBoard slash attack and Steron Frenzy Attack.
+Took out redundant Medic Items. They were rarely used anyway.
+
+--more--
+
+Further adjusted Sniper weapon fire rates.
+Further adjusted heavies. they can only you backup weapojns that can be used one handed, IE: Pistols and Smg's.
+
+~BTuesday November 23rd, 1999 -- Yankee ~B
+
+Tweaked AutoCannon
+Added Dual Plasma SMG upgrade item.
+
+~BMonday November 22nd, 1999 -- Yankee ~B
+
+Adjusted the map considerably.  I wont elaborate as it is readily apparent what changes were made. ;)
+Took Teleport Beacon out.  Ppl were using it lamely.
+Adjusted some of the heavy weapons, specifically Auto Cannon and Gauss Cannon.
+Adjusted the Flechette Gun. It should be a little more effective for you Engineers and Medics.
+Adjusted the plasma weapons so that you can tell if you hit something, this will be readily apparent as well.
+Tweaked Deathboard slash and Steron Frenzy.
+Other small cosmetic niceties.
+
+Look for another screen shot of Kliest's Ridge to be up soon (Prolly on NMEbase)
+
+Lates!
+
+
+~BTuesday, November 2nd, 1999 -- Yankee ~B
+
+Added a special item to each classes suit.
+
+Added Cloak unit upgrade.
+Got a few little tweaks
+Added IFD Generator (needs Debug)
+Added Decoy Projector (needs Debug)
+more later....
+
+~BThursday, October 28th, 1999 -- Yankee~B
+
+~BWHUPS~B
+
+I forgot and uploaded the wrong version.. Dangit.
+
+BTW I made it so mine explosions will hurt all but the player who placed it.
+
+Sorry..
+
+
+Hey Peeps!
+
+Just some tweaks and such.  Adjusted the things so that 99% of the time you should arrive on a mine free zone when goin up a lift.
+
+Added 2 new goodies:
+
+Close Combat Shotgun. Dual barrels of pain.. This is an upgrade for standard shotgun.
+
+SunSpot.  Special "help me run away" weapon for commando's
+
+Tweaks are very numerous, so I wont recount them all.  Expect a Dbase wipe soon.
+
+Lates!
+~BFriday October 22nd, 1999 -- Yankee~B
+
+Hey!
+
+Sorry about the snafu with the 4 team map.  It just did not work.. Wait for Kliest's Ridge, it will be good.
+
+Back to 2 teams.
+Still no sell.  Be patient
+Incinerator range has been modified.
+everything else is about the same as it was, oh yeah, I trimmed down the initial amounts of Titanium, so there will not be as much initially.  This may still need to be tweaked.
+
+Enjoy!
+
+
+~BWednesday October 20th, 1999 -- Yankee~B
+
+Greetings!
+
+Twin Peaks goes 4 way.
+
+I have made this map a 4 team map.  The additional teams are: Europan Mercs and Morgan's Raiders.
+
+I have not redone sell just yet, there is too much other important stuff going on.
+Adjusted the Incinerator
+Put a limit on mines.  Now you can only have 5 mines on the map at any time, with the exception of Bullet Mines.  This is a per player, not a per team limitation.
+Made the usual slight tweaks and such.
+
+If this map turns out to be good, I will use it as a final revision and move onto some other things I have has sitting idle.
+
+to do list:
+
+More things for engineers to make.
+More weapons for assaulting bases.
+More things for the medic to do.
+Updating "Kliest's Ridge".  I want to see how a fixed flag game pans out.
+Making some more vehicles. I mean graphics, and this is VERY time consuming, but I want to make a wheeled vehicle and a walking mech type vehicle.  I wish to experiment with what we can do.
+
+Yankee out.!
+
+
+~BSunday October 17, 1999 -- ljc~B
+
+I wiped everyones character, scores and inventory. I also turned off selling. I'm sorry for this but so many people had insane amounts of money. I will turn selling back on when the ?sell bug is fixed. Please remember this is beta and you will get wiped many many times.
+
+Added strip shadows flag to the black area of the map. You shouldn't see light shadows out there.
+Added prize expires for all terrain types in the zone. This is temporary until the sell bug is fixed. Any prize left anywhere on the map will dissappear in 10 minutes. If you want to keep stuff carry it.
+Added unoccupied timers to most personal vehicles. If you leave a hoverboard, deathboard, jetpack, flightpack, jumppack or droppack lying around for more than 5 minutes it will be removed from the zone.
+Vehicles no longer have a global remove timer. This is unrelated to the unnoccupied timer above.
+You can no longer change teams. Seems I have to be a dictator :(
+
+
+~BFriday October 15, 1999 -- ljc~B
+
+Fixed the bunker creation kit, it was creating MG Turrets instead of bunkers.
+Fixed the Hull MG takes no damage problem.
+Made FlightPack hitpoints visible to teammates.
+
+~B-Yankee~B
+
+Added Incinerator.
+Adjusted reload time on Rocket Turret.
+Adjusted energy on Plasma Turret so it is more effective.
+Adjusted Mortar blast radius and damage.
+Increased amount of titanium oxide spawned and decreased somewhat the amounts required.
+Added plasma SMG.
+
+
+
+Twin peaks is a new style flag game.  You have 4 flags total, one on each hilltop, and 2 randomly placed.. The flags are moveable.  You need to take then to a good base and defend them.  There is a 60 second carry timer, then you drop the flag and it cannot be picked up again.  When all flags are captured you must continue to hold them for 60 seconds to win.
+
+You cannot place flags in Titan or Collectives spawn/store zones or base areas.
+
+Take care to read the CTF faq in the Help Section.  It gives you a good idea of your objective and describes the classes.  Later updates will give info on weapons/equipment and tactics.
+
+Any bugs or suggestions? Please post them in the Beta Forum at www.infantryzone.com
+
+Yankee OUT!

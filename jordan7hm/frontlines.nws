@@ -1,0 +1,95 @@
+~1-Frontlines Documentation Report-
+~2FL is a player developed zone. It is a realistic zone with little to no armor, no shields, and high speed bullets. The objective is deathmatch, Winning team is decided by the # of kills each team has at the end of the game.
+
+
+~4Developer:
+----------------------------------------------------------------------------
+Vindigore
+**Thanks to Chronologix for the original zone & concepts.**
+----------------------------------------------------------------------------
+
+~4
+~BBong List:~B
+----------------------------------------------------------------------------
+ie: %18
+
+Bong #  says:
+
+
+1	All Clear. Position Under Control
+2	Defend This Position
+3	Enemy Troops Identified
+4	Frag Out!
+5	Requesting A Medic, Over
+6	Move Out!
+7	Negative
+8	Drop Back, Pull Out!
+9	Roger That
+10	We Need Reinforcments
+11	Snipers On Our Peremiter
+12	Hostile Infantry Spotted, Over
+13	Good Deal, Thanks
+14	You'll Live Buddy
+15	Were Losing This Battle
+16	Not Even Death Can Save You
+17	Demon Voice #2
+20	Attention: All Objectives Have Been Captured
+21	Objective Captured
+22	Acknowledged
+23	Affirmative
+24	Attacking Enemy
+25	Defending Position
+26	Enemy Sighted
+27	Request Summon
+28  	We Are Under Attack
+29	Drums~4
+----------------------------------------------------------------------------
+
+
+~4Updates:~4
+----------------------------------------------------------------------------
+~B~2-August 7th [2009]:-~B
+All armors under equipment nerfed.
+SRAW Shrapnel removed.
+MP5/MP7's rotational angle adjusted (little bit more accurate now.)
+Medikit Fixed for Elite/Vets.
+Spec after death issue with Elite/Vet should be fixed.
+Blast Radius on all sniper rifles increased.
+Medikit Fire Delay increased.
+
+
+~B~2-August 6th [2009]:-~B
+Adjusted reverse thrust (slower than forward.)
+Adjusted LOS, (now 180 degrees.)
+Base HP lowered to 80.
+Death/Respawn delay lowered.
+
+~B~2-June 11th [2009]:-~B
+Some major bug fixes.
+Clip pre-fire delays adjusted slightly (longer.)
+M4A1 Inner Dmg lowered to 18.
+M24 SWS's Outer Dmg raised to 50.
+Elite & Veteran classes are now available (25k for veteran, and 100k for elite.)
+Vietcong renamed to Opposing Forces, Marine bug is also fixed.
+
+~B~2-April 24th [2009]:-~B
+Medikit Fire Delay Adjusted.
+Dog tags drop on death. (Will be useable to purchase random aesthetic items later on.)
+Game timer raised to 25 minutes.
+Radar colors adjusted (Yellow for medic, Green for SL classes, and so forth.)
+Raised default HP to 65 (10 HP difference)
+Ammo clips are now replenished upon respawn.
+Prefire delay on all clips raised.
+M203 Attachment for the M16A2 Assault Rifle now available via F10.
+HK MP5 & 7 Now used the correct ammo (4.6x30mm)
+
+
+~B~2-April 23rd [2009]:-~B
+Medikit Fixed.
+Radio (Summoner) Fixed.
+M16A2 Fixed (Its now a burst fire weapon.)
+M9 Beretta Fixed.
+M249 Saw Fixed.
+Game Limit raised to 20 minutes.
+The Goggles received a major nerf.
+----------------------------------------------------------------------------

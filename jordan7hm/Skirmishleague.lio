@@ -1,0 +1,65 @@
+1,v17,44,"VerticalBase",10160,17312,0,0,    -1,0,2,6, 0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,47,"VerticalBase1",10160,17344,0,0,    -1,0,2,6, 0,44, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,48,"VerticalBase2",10160,17376,0,0,    -1,0,2,6, 0,44, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v17,49,"Door Palm lock",9908,17300,0,0,    0, 44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1,  0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,0,bongs,beep1,0,0
+2,v17,50,"Door Palm lock",10468,17236,0,0,    0, 44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1,  0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,0,bongs,beep1,0,0
+1,v17,78,"Armoury1",7584,17536,0,0,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,79,"Armoury2",7616,17536,0,0,    -2,-1,4,2, 0,78, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,80,"Armoury3",7648,17536,0,0,    -2,-1,4,2, 0,78, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v17,82,"Door Palm lock Armoury",7556,17572,0,0,    0, 0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1,  0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,0,bongs,beep1,0,0
+2,v17,83,"Door Palm lock Armoury",7556,17476,0,0,    0, 78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1,  0,0,0,0,0,0, lock,DoorLckE,0,0,0,0,0,0,bongs,beep1,0,0
+3,v17,93,"Laboratory",7664,15840,0,0,     1000,4,999,  3,3,3,3,3,  0,0,0,  0,0,0,0,  0,0,0,0, 0,0,0,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v17,94,"Computer Room",10224,16816,0,0,     1000,4,999,  3,3,3,3,3,  0,0,0,  0,0,0,0,  0,0,0,0, 0,0,0,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v17,95,"Operations Central",10384,15952,0,0,     1000,4,999,  3,3,3,3,3,  0,0,0,  0,0,0,0,  0,0,0,0, 0,0,0,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v17,96,"Living Quarters",9280,14144,0,0,     1000,4,999,  3,3,3,3,3,  0,0,0,  0,0,0,0,  0,0,0,0, 0,0,0,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v17,97,"Water Storage",12240,17968,0,0,     1000,4,999,  3,3,3,3,3,  0,0,0,  0,0,0,0,  0,0,0,0, 0,0,0,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+4,v17,106,"TeamA",2864,16576,500,100,  0,999,0,10,1, 2,0,""
+4,v17,107,"TeamA2",2864,16976,500,100,  0,999,0,500,1, 2,0,""
+4,v17,108,"TeamB2",17360,16768,500,100,  0,999,0,10,1, 2,1,""
+4,v17,109,"TeamB2",17376,16416,500,100,  0,999,0,500,1, 2,1,""
+8,v17,115,"Shuttle1",2336,16816,600,600,    0,-1,"The entrance bay to a battle worn transport shuttle lies open."
+8,v17,116,"Shuttle1A",18048,16544,600,600,    0,-1,"The transport shuttle looks like it recently landed. Footprints are all around."
+8,v17,117,"Vegetation",6752,17056,600,600,    0,-1,"The areas of vegetation look thick enough to hide under."
+8,v17,118,"VegetationA",13008,16064,600,600,    0,-1,"The areas of vegetation look thick enough to hide under."
+8,v17,119,"Base",9472,18112,500,500,    0,-1,"An abandoned base already slightly overgrown looms nearby."
+8,v17,120,"BaseA",6720,15424,500,500,    0,-1,"An abandoned base already slightly overgrown looms nearby."
+8,v17,121,"Armory",10560,16944,400,400,    0,-1,"This room used to be the armory. Although the previous occupants obviously ransaked the place they may have left a few items behind."
+8,v17,125,"Water",11536,16832,300,300,    0,-1,"This used to be the bases water supply but now algae has formed a scum on top of it."
+8,v17,126,"Door",9920,17328,200,200,    0,-1,"The door is slightly rusted but hums indicating it is still operational."
+8,v17,127,"DoorA",7664,17424,200,200,    0,-1,"This door requires a human palm print to open."
+8,v17,128,"Shed",7616,14704,225,225,    0,-1,"An old storage shed. The large drums are empty now their contents long since having been taken."
+8,v17,129,"Door",7664,17424,200,200,    0,-1,"This door requires a human palm print to open."
+8,v17,130,"Living",9792,14624,400,400,    0,-1,"This used to be the bases living quarters. Now all that remains are a few discarded pieces of furniture and some drums which are still full of fuel."
+8,v17,131,"Lab",7840,15680,225,225,    0,-1,"An old research lab which has been gutted. A few crates are still scattered around but they contain nothing."
+8,v17,132,"Water storage",12432,17888,210,210,    0,-1,"This used to be the water storage area and barrels of long tepid water line the walls."
+8,v17,133,"WaterStorageA",12432,17424,210,210,    0,-1,"An old storage shed. The large drums are empty now their contents long since having been taken."
+8,v17,134,"WaterA",11536,17440,300,300,    0,-1,"This used to be the bases water supply but now algae has formed a scum on top of it."
+1,v17,139,"Living area",8704,14640,0,0,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,141,"Living area Copy (1)",8736,14640,0,0,    -2,-1,4,2, 0,139, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,142,"Living area Copy (1) Copy (1)",8768,14640,0,0,    -2,-1,4,2, 0,139, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,143,"Living area Copy (1) Copy (2)",8800,14640,0,0,    -2,-1,4,2, 0,139, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,144,"Living area Copy (1) Copy (3)",8832,14640,0,0,    -2,-1,4,2, 0,139, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v17,145,"Living area lock",8612,14692,0,0,    0, 139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1,  0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,0,bongs,beep1,0,0
+2,v17,146,"Living area lock",8612,14548,0,0,    0, 139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1,  0,0,0,0,0,0, lock,DoorLckE,0,0,0,0,0,0,bongs,beep1,0,0
+1,v17,147,"Living area v",10464,14784,0,0,    -1,0,2,6, 0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,148,"Living area v Copy (1)",10464,14816,0,0,    -1,0,2,6, 0,147, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,149,"Living area v Copy (2)",10464,14848,0,0,    -1,0,2,6, 0,147, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,150,"Living area v Copy (2) Copy (1)",10464,14864,0,0,    -1,0,2,6, 0,147, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v17,151,"East Living area lock",10516,14932,0,0,    0, 147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1,  0,0,0,0,0,0, lock,DoorLckG,0,0,0,0,0,0,bongs,beep1,0,0
+2,v17,152,"East Living area lock",10420,14740,0,0,    0, 147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,bongs,beep1,0,0
+1,v17,153,"Main entrance",9392,17488,0,0,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,154,"Main entrance Copy (1)",9424,17488,0,0,    -2,-1,4,2, 0,153, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,155,"Main entrance Copy (1) Copy (1)",9456,17488,0,0,    -2,-1,4,2, 0,153, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,156,"Main entrance Copy (1) Copy (2)",9488,17488,0,0,    -2,-1,4,2, 0,153, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v17,157,"Main entrance",9620,17652,0,0,    0, 153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1,  0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,0,bongs,beep1,0,0
+2,v17,158,"Main entrance",9284,17348,0,0,    0, 153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1,  0,0,0,0,0,0, lock,DoorLckE,0,0,0,0,0,0,bongs,beep1,0,0
+5,v17,69,"APC",1712,16928,50,50,     1,12000,1000,0, 0,300,0,99999, 1,1,-102, 1,0
+5,v17,70,"APC2",18848,16480,50,50,     1,12000,1000,0, 0,300,0,99999, 1,1,-202, 1,0
+4,v17,1,"TeamA Death",3504,16784,500,350,  0,999,0,500,3, 2,0,""
+4,v17,2,"TeamB Death",16784,16576,500,350,  0,999,0,500,3, 2,1,""
+3,v17,3,"Flitter Pad",9296,18960,0,0,     1000,4,999,  3,3,3,3,3,  0,0,0,  0,0,0,0,  0,0,0,0, 0,0,0,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+1,v17,4,"ArmouryB1",7776,17536,0,0,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,5,"ArmouryB2",7744,17536,0,0,    -2,-1,4,2, 0,4, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v17,8,"ArmouryB3",7712,17536,0,0,    -2,-1,4,2, 0,4, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v17,9,"Door Palm lock ArmouryB",7812,17476,0,0,    0, 4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1,  0,0,0,0,0,0, lock,DoorLckE,0,0,0,0,0,0,bongs,beep1,0,0
+2,v17,10,"Door Palm lock ArmouryB",7812,17572,0,0,    0, 4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "!%1",-1,  0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,0,bongs,beep1,0,0

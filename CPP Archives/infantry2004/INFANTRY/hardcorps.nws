@@ -1,0 +1,167 @@
+~B[SK] HardCorps~B
+
+Current Map: Pleasant Valley, Mars
+
+Current Test Mode: Shield Mode
+
+*************News
+
+Hey all!
+
+We are going to be testing an "energy shield" mode version of HC for a few days. Shield Specifics:
+
+Each player has an energy pool. As long as they have energy they will take not damage. When energy is at 0 you
+will take HP damage.  Energy will recharge at a fixed rate.
+
+It takes about 6-8 good hits to drain shield, and 5-6 to get a kill.
+
+Please be patient and enjoy the fun.
+
+
+
+
+
+
+
+
+
+*************HC test change history
+
+12/21/03
+
+Sapper now has a strafe/top speed advantage.
+
+Sniper now has 90 rounds as opposed to 50.
+
+Lifetime on Incinerator was increased.
+
+All tracers were made more visible.
+
+12/19/03
+
+Sentry Guns were set back to 5 shot bursts.
+
+Ripper gun round colour changed again in order to make it visible.
+
+All classes other than Medic and Marine require EXp to use.
+
+Added periodic reward for flags held, every 3 minutes you get a reward based upon player number in arena.
+
+Increased endgame rewards.
+
+Increased outer damage on all weapons kinetic damage.
+
+Increased Pistol shield damage.
+
+Increased Pistol, AR, and PDW clips
+
+Changed Frag Grenades graphic slightly.
+
+
+
+12/18/03
+
+Increased visibility of Sentry and Ripper shots.
+
+Made GL round more visible by adding a shadow and changing hue.
+
+Energy using utilities drain has been lowered to to 75 units from 125.
+
+Melee weapons bypass shields.
+
+Sniper rifle round bypasses shields.
+
+Grenades/laws totally drain shields on a direct hit.
+
+Energy using classes got their shield recharge increased.
+
+Changed LAW Smoke trail.
+
+Incendiary grenades now leave firespots.
+
+All classes besides Marine require players to reach Veteran Trooper rank before they become available.
+
+All explosive weapons hurt team mates.
+
+Changed some sound effects, specifically Demo Charge and LMG's
+
+Fixed Demo Charge being thrown from vehicles.
+
+Increased armor on all crew positions on vehicles.
+
+Added a "Vehicle first aid unit" to all Passenger positions.  You can use it to self heal inside a passenger slot.
+It can only be used once because it does not reload. It will reload if you leave the vehicle.
+
+Medics can now create Stim Packs for energy.  Players can carry just 1 stim pack. It is good for a single heal.
+Any stims carried by a player are dropped on death.
+
+Engineers can no longer place Barriers and turrets while inside a vehicle.
+
+Mines cannot be laid while inside a vehicle any more.
+
+Passenger spots that allow weapon fire had the rotation rate increased to be more useful.
+
+
+
+
+Changed Titan Militia to Morgan Raiders.
+
+Vehicles blow up and disappear.
+
+Changed the team order so that Collective fills in preference to Morgan Raider side.
+
+
+
+Friendlies now block your fire.
+
+
+Engineer is now armed with a shotgun
+
+Sergeant is now armed with Shotgun and a Chain Sword.
+
+Engineer's begin a game with 3 AT mines.
+
+Sergeant and Squad Leader begin a game with 3 AP mines and 1 AT mine.
+
+Engineers/Sergeants no longer trigger their own mines (durr!)
+
+
+
+
+
+
+
+
+
+Currently testing a CTF game in HardCorps!
+
+For this game type, there are 2 additional classes:
+
+Sergeant and Engineer.
+
+Sergeant is like the Sqaud Leader, except that the Sergeant can also Warp to another players position.
+
+Sergeant's require 100,000 EXP to play.
+
+Engineer's are a new class that have several new functions:
+
+-At game start all Engineer's are given a Point Defense Sentry.
+
+   PDS units can only be placed once.  There can only be a maximum of 4 within a 1500 pixel radius, and
+   there can only be 8 active per team max, and 1 active per Engineer, max.
+
+   PDS units can be destroyed. They can also be repaired.
+
+-At game start all Engineer's will be given 2 Barricades to place.
+
+   Once a Barricade is placed it cannot be moved again.
+
+   Barricades can be destroyed. They can also be repaired.
+
+   Barricades block enemy fire and movement, but do not impede their team.
+
+Engineer's are equipped with an Enercell and a Repair Kit.
+
+   The repair kit requires the user to select what is going to be repaired and
+   requires the user to be within 64 pixels of the object to be repaired.
+

@@ -1,0 +1,13 @@
+4,v12,1,"Team 1 Start",3552,1408,  0,300,1, 2,0,0,
+4,v12,2,"Team 2 Start",848,672,  0,300,1, 2,1,100,
+4,v12,3,"Team 1 Restart",3552,1408,  0,300,0, 2,0,0,
+4,v12,4,"Team 2 Restart",2384,704,  0,300,0, 2,1,100,
+7,v12,332,"pitarea",3552,1408,    -1,1000,50,-1, 0,daytona,pitstop,0,0
+7,v12,5,"pitarea Copy (1)",3344,1408,    -1,1000,50,-1, 0,daytona,pitstop,0,0
+7,v12,6,"pitarea Copy (2)",3136,1408,    -1,1000,50,-1, 0,daytona,pitstop,0,0
+7,v12,7,"pitarea Copy (3)",2928,1408,    -1,1000,50,-1, 0,daytona,pitstop,0,0
+7,v12,8,"pitarea Copy (4)",2720,1408,    -1,1000,50,-1, 0,daytona,pitstop,0,0
+7,v12,9,"pitarea Copy (5)",2512,1408,    -1,1000,50,-1, 0,daytona,pitstop,0,0
+7,v12,10,"pitarea Copy (6)",2304,1408,    -1,1000,50,-1, 0,daytona,pitstop,0,0
+7,v12,11,"pitarea Copy (7)",2096,1408,    -1,1000,50,-1, 0,daytona,pitstop,0,0
+7,v12,12,"finishline",2688,2064,    -1,1000,150,-1, 0,daytona,nascar,0,0

@@ -1,0 +1,83 @@
+
+~b~1Combined Arms FAQ~B~2
+
+Last Updated: 4/15/07
+
+~bPlease Read this FAQ before asking any game related questions.  Its a good reference if you need help figuring out the items in the game.~B
+
+
+~b~4- Why am I overweight?  I'm barely carrying any equipment! ~b~2
+You're using a lightweight setup.  Most standard loadouts will be between 20-30% overweight.  This simply means that if you'd like to move faster, you can carry less equipment, and if you like to hold more, you'll need to sacrifice a bit of speed.  This simulates "class setups" because weapons are designed to be heavier for heavier classes, requiring no difference in minimum and maximum weights.
+
+~b~4- Do I need broadband and a high spec computer to play?~b~2
+No.  This is Infantry :P.  However the graphical strain of this game can be pretty high.  Under options you can set the detail to low, which removes objects or tones down effects on objects in the game.  Nothing can be done for weapons, but they may be modified in the future to be less laggy.
+
+~b~4- Whats up with the weight system?  I can cary 120kg?!~b~2
+Everyone can carry the same weight no matter what class.  Other than being common sense, it's an opportunity to directly influence player speed by how much crap they want to lug around, which feels a lot more realistic.  So a heavy weapons can run around with a machine gun at the same speed as an infantry can... so long as he isn't wearing any armor and doesn't carry much ammo.  Some classes, like the heavy weapons aren't really intended to run around at 20kg (which is the set 'max').  If your weight turns yellow, each added pound will reduce your overall speed by 1%.  You can also carry as much ammo as you like, and there are no restrictions on how much you do or don't carry.  This allows a lot more freedom in how you customize your character in game.
+
+~b~4- My cloak isn't working against turrets!~b~2
+The commando class is the only class that is not shot at by turrets.  This has nothing to do with cloaking.  I repeat, you will be shot at by turrets unless the class you select in the class screen is a commando. 
+
+~b~4- What are Energy Cells?  What are rechargers?~b~2
+In short, energy weapons and equipment use energy cells instead of the typical suit energy like other zones.  They work like ammo, though they weigh nothing.  The max you can "carry" is 600.  Rechargers allow you to manually recover your auxilary energy supplies (Energy Cells).  The size (Light, Medium, Heavy) determines how many energy cells you get each time you hit the recharger key.  You don't have to have a recharger, they can be heavy so some classes may prefer to play without, energy cells are in the store under Ammo.  Everytime you die your energy cells will return to 600.
+
+~b~4- Where are the SSC's?  Where are the generators?~b~2
+This zone doesn't have big thick shields like other infantry zones, you aren't draining to kill people here, however, almost every weapon does a different amount of damage to different armor setups.
+
+~b~4- Why can't I sell some stuff?~b~2
+Add ?sell %tickitem to your macro list (type ?sell %tickitem and hit shift+F1-12).  If you do not find something in the store that you want to sell, click on the item and use this macro.
+
+~b~6Vehicles~b~2
+
+~b~4- How do I build them?~b~2
+First, buy a blueprint for the vehicle you want.  They are one time use and can be dropped...
+Second, you need an engineer to build the vehicle for you, which is where the blueprint dropping comes in ;)
+Third, you need to build the vehicle at a vehicle bay either at G2 or C4.  Try not to build it into the walls...
+
+
+~b~6Armor~b~2
+
+~b~4- Weight~b~2
+Heavy armor will slow you down.  Light armors are good for classes that need to be mobile.
+
+~b~4- Battery Capacity~b~2
+Determines protection vs energy drain.  The larger the capacity the better protection you get against an individual hit.
+
+~b~4- Energy Rate~b~2
+Determines the protection vs successive fire weapons (everything minus rocket launchers).
+
+~b~4- Ignore Damage~b~2
+Determines how much of each type of damage the armor ignores.  Only energy weapons do major electronic damage (plasma does minimal in comparison).  There is very little (although some) electronic ignore items, so its usually a surefire way to penetrate armor without having to use a gauss weapon.
+
+~b~4- Armor Addons and Implants~b~2
+You can have one Armor Addon alongside your normal armor.  You can have two passive implants and one active implant.
+
+
+~b~6Weapons~b~2
+
+(these are the only ones to take note of)
+
+~b~4- Weight~b~2
+A heavy gun will slow your movement, so consider it when choosing your main weapon.
+
+~b~4- Ammo Per Shot~b~2
+Most items that use energy tend to use more than one energy cell per shot.  This will tell you exactly how many energy cells are being used.
+
+~b~4- Jump? Kick? Sprint?  Is this a track simulator?~b~2
+No, use sprint to run away from grenades, shrapnel, and the detpack you just put down.
+Use jump to get over green physics.  You can jump onto yellow physics from there too.
+Use Kick to push somebody away.  It also jams their weapons for 0.8 seconds.
+
+
+
+
+
+
+~b~6If you are still having problems type ?chatadd !911, type your problem like this: ";1; I need help!" and someone will pm you shortly.  Players abusing !911 can be banned from the game.
+
+
+
+
+~b~5Compiled by ryanbe~b~2 ~3& made pretty by STAS ;)~2
+
+---------------------------------------------------------

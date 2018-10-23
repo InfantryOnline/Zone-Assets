@@ -1,0 +1,169 @@
+Classes:
+
+LVL 1 Captain
+HP (1-100): 45
+Top Speed (1-6): 3
+Accel (1-6): 4
+- Summoner (Advanced Summoner)
+- Pistol (Magnum)
+- Combat Knife (Power Sword)
+- AP Mines (adv mine)
+
+LVL 1 Engineer -> Master Engineer
+HP (1-100): 45
+Top Speed (1-6): 6
+Accel (1-6): 6
+- Defense Kit - MG (Rocket)
+- AP Mines (adv mine)
+- Pistol (Magnum)
+
+LVL 1 Storm Trooper -> Rocket Trooper
+HP (1-100): 50
+Top Speed (1-6): 5
+Accel (1-6): 5
+- Assault Rifle (Machine Gun)
+- Incinerator (Heavy Incin)
+
+
+LVL 1 Marine - > Assault Trooper
+HP (1-100): 50
+Top Speed (1-6): 2
+Accel (1-6): 2
+- Combat Knife (Power Sword)
+- Assault Rifle (Machine Gun)
+
+
+LVL 1 Medic - > Doctor
+HP (1-100): 40
+Top Speed (1-6): 4
+Accel (1-6): 3
+- Medic Kit (Advanced Medic Kit)
+- Pistol
+- Combat Knife
+
+LVL 1 Scout - > Commando
+HP (1-100): 40
+Top Speed (1-6): 1
+Accel (1-6): 1
+- Assault Rifle
+- Combat Knife (Power Sword)
+- ECM Goggles (Advanced ECM Goggles)
+
+
+
+
+
+
+
+
+LVL 2 Commando
+HP (1-100): 45
+Top Speed (1-6): 1
+Accel (1-6): 1
+- Magnum
+- Combat Knife (Power Sword)
+- Advanced ECM Goggles
+- Hide
+
+LVL 2 Doctor
+HP (1-100): 45
+Top Speed (1-6): 3
+Accel (1-6): 2
+- Advanced Medic Kit
+- Pistol (Magnum)
+- Combat Knife  (Power Sword)
+
+LVL 2 Assault Trooper
+HP (1-100): 55
+Top Speed (1-6): 2
+Accel (1-6): 3
+- Magnum
+- Assault Rifle (Machine Gun)
+- Combat Knife (Power Sword)
+
+LVL 2 Commander
+HP (1-100): 50
+Top Speed (1-6): 4
+Accel (1-6): 4
+- Summoner (Advanced Summoner)
+- Assault Rifle
+- ECM Goggles (Advanced Goggles)
+- AP Mines(adv mine)
+
+LVL 2 Rocket Trooper
+HP (1-100): 55
+Top Speed (1-6): 6
+Accel (1-6): 5
+- Rocket Launcher (Rocket Launcher x 2)
+- Defense Kit - Rocket
+
+LVL 2 Master Engineer
+HP (1-100): 50
+Top Speed (1-6): 5
+Accel (1-6): 6
+- Defense Kit - MG (Rocket)
+- Incinerator
+- AP Mines (adv mine)
+
+
+
+Weapons:
+
+Guns:
+
+Assault Rifle
+
+Machine Gun
+
+Pistol
+
+Magnum
+
+Incin
+
+Heavy Incin
+
+Rocket
+
+Rocket x 2
+
+Combat Knife
+
+Power Sword
+
+
+
+Mines:
+
+AP Mine
+
+adv Mine
+
+
+Other:
+
+Summoner
+
+Advanced Summoner
+
+Medic Kit
+
+Advanced Medic Kit
+
+ECM Goggles
+
+Advanced ECM Goggles
+
+Hide
+
+Defense Kit - MG
+
+Defense Kit - Rocket
+
+....
+
+Other:
+
+MG PDB at each base
+
+AMT at each base

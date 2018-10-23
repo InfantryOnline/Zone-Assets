@@ -1,0 +1,82 @@
+Walkthrough for New Players
+
+Welcome to Ultra Skirmish (map: Connor's Canyon).  This is a new zone designed by 7hm that has the following features:
+
+- Skirmish based weapons and vehicles!
+
+- RTS-lite base building!
+
+- 30+ classes!
+
+- 20+ vehicles, bunkers, turrets!
+
+- Unique "questing" system (Challenges)!
+
+- In-game stores and skill selection items!
+
+- Private team gaming with up to 14 players!
+
+This is a very different zone from other zones you may have played.  While you can always just jump in, the following is a quick walkthrough of how to set up a base.  It will also introduce you to the zone's major concepts.
+
+......
+
+
+The first thing you'll notice is that the F10 and F11 screens do no work.  This is intentional, and no it does not mean you don't get to pick your class.  You are given the choice right away to play one of seven classes.  To access them, unspec and you'll find yourself in the warping area - the Drop Portal.  Directly above you, you will see two machines.  The one on the left is called the Drop Portal Store and the one on the right is called the Drop Portal Academy.  
+
+We will use the Store later, for now go over to the Academy.  Right click on it and you will see that you have the choice to switch to one of six classes.  The seventh class is actually the Militiaman, which you unspecced as.  You will also notice that beside the class name it says (0 soda).  This refers to the cost to switch.  The cost of an item is always expressed in this manner.  Your intial class change, as you can see, is free.  Switch to whatever class you are comfortable with and let's move on.
+
+To get to the action, walk onto the warp pad.  You are now on the field of battle.  Go ahead and do your thing.  When you get a kill you will see an item drop off of your opponent's corpse that looks like a six-pack.  This is called AkenCo Soda.  It is the base resource of the zone.  Everytime somebody dies they drop one item of soda, and whoever goes over and picks it up (walks on it) gets it.
+
+Soda is a very important feature of the zone.  If you want to change into the Marine class for example, this costs 1 Soda at the Drop Portal Academy.  Other items, such as Dropship Recalls and Base Recalls also cost 1 Soda (at the Drop Portal Store).  Let's go see how that works now.
+
+After you get 1 Soda in your inventory make your way to the Drop Portal, either by dying (easiest way) or by using the Dropship Recall item.  Don't worry about getting back - the Dropship Recall item is given to you every time you respawn after death.  A free pass back to the safe zone and the store.  Once you're in the Drop Portal, head over to the Store and right click it.  You will see a couple options, including Buy Drop Portal Recall (which you're welcome to do if you want another pass back to the safe zone) but more importantly the option: Convert 1 Soda to 1 BP.  
+
+BP refers to Build Points.  Build Points, as well as Soda, are the base resource of the zone.  Build Points are required to build any zone structures.  Zone structures are required to build any of the cool stuff like tanks, turrets, and different classes.  By converting 1 Soda to 1 BP, you are removing the soda from your inventory and placing it in your team's collective inventory for use in building these structutes.
+
+*** A side note on teams.  This zone is designed primarily for private teams.  While the public teams are certainly enjoyable, you will get the most out of this zone by playing with your friends and squadmates.  It is HIGHLY recommended that you join a private team.  Even the most mediocre private team will likely be a more enjoyable playing experience than playing on a public team - insofar as the base building aspect of this zone is concerned.  Insofar as the pure action is concerned, you will find enjoyment in either team type.  ***
+
+To see how many resources your team has (how many BP) you type ?resources.  This will also give you a list of structures that belong to your team as well as their location.
+
+Now that you have some Build Points and that you understand how to get soda, you're going to try to build towards your first base.  Obviously this information is assuming that your team does not already have a base - if they do, talk to your teammates and go enjoy!  If not, keep reading.  
+
+The first base is the Mass Converter.  This base is purchased in the Drop Portal Store at a cost of 10 Build Points (look for the Mass Converter Junk).
+
+To get this base, all you have to do is convert 10 soda into 10 BP.  When you type ?resources and see that you have 10 BP, then you can go to the Store and buy the Mass Converter Junk.  Then, go find a safe location on the map and build your base.
+
+From here you have a lot of different options.  You can focus on defense first by working towards the Defense factory and defensive structures.  You can decide to get different classes using the Training Institute and the class change structures, or you can go full bore offense with some sweet rides using the Tank Factory and the various vehicle structures.  Learn more about the available structures by reading the Structure guide.
+
+I'm going to leave you here at that, but there are still a couple important things to note:
+
+- When you die, you always drop 45% of the soda you have.  You will never drop your last soda.
+
+- Structures always cost Build Points
+
+- Vehicles and Classes always cost Soda
+
+- The Soda Storage structure stores your Soda (for a fee) when you're trying to save up for vehicles this can be a good option.
+
+- When you build a structure, if you don't move out of the way, it will be built right on top of you.  This is a game bug - be careful when building.
+
+- Challenges are an interesting way to get more out of the zone (read the Challenge guide).  Rewards have not yet been implemented for completing a challenge though.  Just for fun right now.
+
+- Mods will NEVER give you back BP or Soda that were wasted by someone dumb on your team.  Be careful who you play with.
+
+- When you pick a new class, you remain that new class until you change again.  That means that if you really like the Ninja for example, you don't need to get a base every time you play.  Get it once, and stick to it forever.
+
+- You cannot win the flagging game.  This is intentional.  Flagging rewards are slight but important for experience gaining.
+
+- Banners are awarded for 10,000 experience.  This is intended to be difficult.  When someone has a banner, you know they've earned it in this zone.
+
+- Many weapons do damage directly to the driver or passenger of a vehicle.  Vehicles need support on a constant basis - and anyone in them needs the occasional heal as well.
+
+- You get a better Soda : BP conversion rate when you convert more at once.  You'll also get a better rate at your Mass Converter than by going to the Drop Portal Store.  
+
+- You'll find the best way to organise your team is to have one player in charge of storing or holding your Soda and creating and spending the BP.  This also lets you get that better conversion rate.
+
+And the most important advice I can give you: This is not your daddy's Skirmish.  There are a lot of features here that are more familiar to players of Eol or CTFX.  The Ninja class has an item that makes him invincible for 4 seconds.  The Rocketman flies by on a pack shooting rockets at you.  The Assassin can warp to anyone in the zone, including enemies.  Be aware of the gameplay changes that these classes bring to the zone, and expect the unexpected.
+
+If you have any questions or suggestions about the zone, direct them to me (7hm).
+
+Thanks
+
+-7hm

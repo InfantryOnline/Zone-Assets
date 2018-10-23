@@ -1,0 +1,77 @@
+1,v25,1,"Top Left 1-1",10880,10248,0,0,0,-3,    -8,0,16,1, 500,0,0,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+9,v25,2,"Planets - Jupiter",10272,12208,0,0,0,-3,    35,35,1,Planets,jupiter,0,0,0,0,0,0
+1,v25,3,"Top Mid 1-1",13992,8704,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+9,v25,31,"Planets - Mars",17296,13968,0,0,0,-3,    35,35,1,Planets,mars,0,0,0,0,-5,0
+9,v25,32,"LNebula2",14285,12790,0,0,0,-3,    30,30,1,BackgroundSprites,Lnebula2,0,0,0,0,-20,0
+9,v25,33,"Planets - Moon1",14128,14656,0,0,0,-3,    35,35,1,Planets,moon1,0,0,0,0,-2,0
+9,v25,34,"Planets - Moon0",13040,10992,0,0,0,-3,    40,40,1,Planets,moon0,0,0,0,0,-7,0
+5,v25,39,"ECM Hide",13792,13456,32000,32000,0,-3,     10,500,500,1, 0,200,0,99999, -1,15,13, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,40,"MultiBomb Hide",13792,13456,32000,32000,0,-3,     10,500,500,1, 0,200,0,99999, -1,8,8, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,41,"Repel Hide",13792,13456,32000,32000,0,-3,     0,1000,500,1, 0,200,0,99999, -1,5,101, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,42,"Stealth Hide",13792,13456,32000,32000,0,-3,     10,500,500,1, 0,200,0,99999, -1,10,12, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,43,"SuperBurst Hide",13792,13456,32000,32000,0,-3,     10,500,500,1, 0,200,0,99999, -1,8,11, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,44,"SuperMine Hide",13792,13456,32000,32000,0,-3,     10,500,500,1, 0,200,0,99999, -1,8,9, 1,0,,0,-1, 0,0,-2,0, -1
+4,v25,60,"Central Warp Left",11072,12352,3100,1150,0,-3,  0,500,0,500,0, 0,0,""
+6,v25,54,"The Wormhole",20304,13168,56,56,0,-3,    -1,0,, 0,0,1600,CRMiscEffects,wormhole,0,0,0,0,0,400,None,None,0,0,0,0,0,0,UtilitySounds,teleport,0,0
+1,v25,38,"Top Left 1-3",11328,10248,0,0,0,-3,    -4,0,8,1, 500,1,0,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,67,"Top Mid 1-2",13992,8832,0,0,0,-3,    0,-4,1,8, 500,3,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,98,"Top Left 1-4",11424,10248,0,0,0,-3,    -2,0,4,1, 500,1,0,0, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,99,"Top Left 1-5",11472,10248,0,0,0,-3,    -1,0,2,1, 500,1,0,0, crdoors,EnergyDoorHorz,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+7,v25,100,"Safe Left",8242,11506,96,128,0,-3,    -1,1000,1,0,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v25,10,"SpaceBaseAmbientLeft",8242,11554,260,350,0,-3,    -1,1000,1,-1,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,ambience_lp,0,0
+7,v25,11,"LargeBaseAmbientCenter",13794,13458,1200,1000,0,-3,    -1,1000,1,-1,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,space_radio_lp,2,0
+7,v25,5,"Safe Bottom",12962,16898,96,128,0,-3,    -1,1000,1,0,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v25,18,"Safe Right",18066,9970,96,128,0,-3,    -1,1000,1,0,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+1,v25,19,"Top Left 1-2",11136,10248,0,0,0,-3,    -8,0,16,1, 500,1,0,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,21,"Top Mid Left 2",12576,11192,0,0,0,-3,    -4,0,8,1, 500,20,0,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,20,"Top Mid Left 1",12576,11176,0,0,0,-3,    -4,0,8,1, 500,0,0,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,22,"Top Mid Right 1-1",15584,12200,0,0,0,-3,    -4,0,8,1, 500,0,0,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,23,"Top Mid Right 2-1",15584,12216,0,0,0,-3,    -4,0,8,1, 500,22,0,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,24,"Top Mid Right 1-2",15664,12200,0,0,0,-3,    -1,0,2,1, 500,22,0,0, crdoors,EnergyDoorHorz,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,25,"Top Mid Right 2-2",15664,12216,0,0,0,-3,    -1,0,2,1, 500,22,0,0, crdoors,EnergyDoorHorz,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,28,"Top Mid 1-3",13992,8912,0,0,0,-3,    0,-1,1,2, 500,3,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,29,"Top Mid 2-1",14008,8704,0,0,0,-3,    0,-4,1,8, 500,3,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,30,"Top Mid 2-2",14008,8832,0,0,0,-3,    0,-4,1,8, 500,3,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,45,"Top Mid 2-3",14008,8912,0,0,0,-3,    0,-1,1,2, 500,3,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,46,"Top Left 2-1",10880,10264,0,0,0,-3,    -8,0,16,1, 500,1,0,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,47,"Top Left 2-2",11136,10264,0,0,0,-3,    -8,0,16,1, 500,1,0,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,48,"Top Left 2-3",11328,10264,0,0,0,-3,    -4,0,8,1, 500,1,0,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,49,"Top Left 2-4",11424,10264,0,0,0,-3,    -2,0,4,1, 500,1,0,0, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,50,"Top Left 2-5",11472,10264,0,0,0,-3,    -1,0,2,1, 500,1,0,0, crdoors,EnergyDoorHorz,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,73,"Bottom Left 1-1",11496,13824,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,74,"Bottom Left 2-1",11512,13824,0,0,0,-3,    0,-4,1,8, 500,73,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,75,"Bottom Left 1-2",11496,13920,0,0,0,-3,    0,-2,1,4, 500,73,0,0, crdoors,EnergyDoorVert2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,77,"Bottom Left 2-2",11512,13920,0,0,0,-3,    0,-2,1,4, 500,73,0,0, crdoors,EnergyDoorVert2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,78,"Bottom Right 1-1-1",18024,15648,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,81,"Bottom Right 1-1-2",18024,15776,0,0,0,-3,    0,-4,1,8, 500,78,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,82,"Bottom Right 1-2-1",18040,15648,0,0,0,-3,    0,-4,1,8, 500,78,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,84,"Bottom Right 1-2-2",18040,15776,0,0,0,-3,    0,-4,1,8, 500,78,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,85,"Bottom Right 2-1-1",18024,16320,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,86,"Bottom Right 2-1-2",18024,16448,0,0,0,-3,    0,-4,1,8, 500,85,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,87,"Bottom Right 2-2-1",18040,16320,0,0,0,-3,    0,-4,1,8, 500,85,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,88,"Bottom Right 2-2-2",18040,16448,0,0,0,-3,    0,-4,1,8, 500,85,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+7,v25,4,"SpaceBaseAmbientRight",18066,9954,260,350,0,-3,    -1,1000,1,-1,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,ambience_lp,0,0
+7,v25,26,"SpaceBaseAmbientBottom",12962,16898,260,350,0,-3,    -1,1000,1,-1,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,ambience_lp,0,0
+4,v25,6,"Central Warp Right",15360,13632,3350,1400,0,-3,  0,500,0,500,0, 0,0,""
+3,v25,7,"ObjectiveB",11148,15820,1000,1000,0,-3,     1000,1,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0
+3,v25,8,"ObjectiveC",13708,10236,1000,1000,0,-3,     1000,1,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0
+3,v25,12,"ObjectiveD",13420,15436,1000,1000,0,-3,     1000,1,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0
+3,v25,16,"ObjectiveA",10748,10252,1000,1000,0,-3,     1000,1,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0
+5,v25,9,"ECM Hide BaseA",21248,8624,500,500,0,-3,     3,800,500,1, 0,200,0,99999, 3,-1,13, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,13,"ECM Hide BaseB",21248,17744,500,500,0,-3,     3,800,500,1, 0,200,0,99999, 3,-1,13, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,14,"MultiBomb Hide BaseA",21248,8624,500,500,0,-3,     3,800,500,1, 0,200,0,99999, 2,-1,8, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,15,"MultiBomb Hide BaseB",21248,17744,500,500,0,-3,     3,800,500,1, 0,200,0,99999, 2,-1,8, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,17,"Repel Hide BaseA",21248,8624,500,500,0,-3,     3,1000,500,1, 0,200,0,99999, 1,-1,101, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,27,"Repel Hide BaseB",21248,17744,500,500,0,-3,     3,1000,500,1, 0,200,0,99999, 1,-1,101, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,35,"Stealth Hide BaseA",21248,8624,500,500,0,-3,     3,800,500,1, 0,200,0,99999, 3,-1,12, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,36,"Stealth Hide BaseB",21248,17744,500,500,0,-3,     3,800,500,1, 0,200,0,99999, 3,-1,12, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,37,"SuperBurst Hide BaseA",21248,8624,500,500,0,-3,     3,800,500,1, 0,200,0,99999, 2,-1,11, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,51,"SuperBurst Hide BaseB",21248,17744,500,500,0,-3,     3,800,500,1, 0,200,0,99999, 2,-1,11, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,52,"SuperMine Hide BaseA",21248,8624,500,500,0,-3,     3,800,500,1, 0,200,0,99999, 2,-1,9, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,53,"SuperMine Hide BaseB",21248,17744,500,500,0,-3,     3,800,500,1, 0,200,0,99999, 2,-1,9, 1,0,,0,-1, 0,0,-2,0, -1
+6,v25,55,"BaseAPortal",22128,8624,100,100,0,-3,    0,0,, 0,0,3200,CRMiscEffects,wormhole,0,0,0,0,0,400,None,None,0,0,0,0,0,0,UtilitySounds,teleport,0,0
+6,v25,56,"BaseBPortal",22128,17744,100,100,0,-3,    1,0,, 0,0,3200,CRMiscEffects,wormhole,0,0,0,0,0,400,None,None,0,0,0,0,0,0,UtilitySounds,teleport,0,0
+4,v25,57,"StartGameTeamA",20448,8624,500,500,0,-3,  0,500,0,500,1, 2,0,""
+4,v25,58,"StartGameTeamB",20464,17744,500,500,0,-3,  0,500,0,500,1, 2,1,""
+3,v25,59,"ObjectiveE",16620,9996,1000,1000,0,-3,     1000,1,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0
+3,v25,61,"ObjectiveF",17276,15196,1000,1000,0,-3,     1000,1,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0

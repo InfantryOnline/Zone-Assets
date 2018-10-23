@@ -1,0 +1,8 @@
+4,v12,100,"DeathEntry1",432,1616,  0,300,0, 0,0,100,
+4,v12,2,"PlayerEntry1",432,1616,  0,300,1, 0,150,300,
+6,v12,14,"Forest",64,1472,    15,-1,752,656,600, 0,0,effects,gfx00305,0,0,0,0,0,None,None,0,0
+6,v12,15,"Center",64,1632,    15,-1,2096,1616,600, 0,0,effects,gfx00305,0,0,0,0,0,None,None,0,0
+6,v12,16,"Wastes",64,1760,    15,-1,2176,2512,550, 0,0,effects,gfx00305,0,0,0,0,0,None,None,0,0
+8,v12,3,"Last Stand Hill",3984,3088,    0,-1,350,A brave archer and her friends whos name has now been forgotten made their last stand upon this hill with bow and arrow. Her skill with the bow was unequalled
+5,v12,5,"Trader X",736,1800,     1,0,0,1, 0,2000,0,99999, 1,1,-401,1, -1,0
+3,v12,1,"Kings Castle",4656,1841,     0,1000,5,300,1, 0,0,1,1,0, 0,0,0,100, 12,6,1000,0,0, 0,0,0,1, ,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,flagCTF1,0,0,0,0,0,None,None,0,0,None,None,0,0

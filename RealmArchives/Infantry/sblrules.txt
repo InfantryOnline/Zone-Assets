@@ -1,0 +1,138 @@
+~B~1SBL Rules~B~0
+(official ruleset is at http://sbleague.net)
+
+
+~B~0
+1) Team Requirements
+2) Player Requirements
+3) Field Rules
+4) Game Rules
+5) Match Procedures
+6) Latency
+7) Substitutions
+8) MVPs
+9) Representative Requirements
+10) Rules of Conduct in SBL
+11) Miscellaneous ~B~0
+
+~B~0
+1) Team Requirements~B~0
+1.1) ~2Each team must have all their participating players on the roster on the official site (http://sbleague.net) and squadjoined in-game.~0
+1.2) ~2Each team must have at least 8 eligible, permitted players before entering a match.~0
+1.2b) ~2The only exception is when eligibility is waived (Entrance Tournament, etc).~0
+1.3) ~2Each team has a roster limit of 20 players.~0
+1.4) ~2If a team does not show at least 6 players, then they will submit a forfeit and lose the game.~0
+1.4b) ~2Unless the opposing team agrees on extending the timer and/or playing, and a referee is present, the team that fails to show 6 will forfiet at the end of the delay(s) used.~0
+1.4c) ~2If a team forfiets three (3) games overall in a season or two (2) games in a row, they may be removed from the league.~0
+1.5a) ~2Each team captain may use one (1) ten (10) minute delay on the game start to gather extra players. They may be used consecutively.~0
+1.5b) ~2Team delays begin at 5 minutes past gametime and continue on for 10 minutes. (6:00 is gametime, delay starts at 6:05 and runs to 6:15)~0
+1.6) ~2Teams will be permitted to play with two (2) Non-Team Players, provided the opposing captain agrees to the selections.~0
+1.6b) ~2Non-Team Players do not count towards the minimum of 6 players from a squad. (may be waived by opposing captain) ~0 
+1.7) ~2Team captains may choose to use the "8-day ineligible" players that are on their team, provided the other cpatain agrees and the player does not violate any other requirements.~0
+1.8) ~2A team is eligible to play for the match if they abide by all the requirements.~0
+
+~B~0
+2) Player Requirements~B~0
+2.1) ~2All participating players must have a permit, shown on the official site.~0
+2.2) ~2All participating players must be on the roster on the official site (http://sbleague.net), and squadjoined in-game.~0
+2.2b) ~2If the player is a Non-Team Player, they must be in the Player Pool.~0
+2.3) ~2Players may only be in one squad. Players found double-squadding or attempting to double-squad will face penalties.~0
+2.4) ~2Players may only play for one squad per week, providing they are eligible. (applies mainly to Non-Team Players)~0
+2.5) ~2All players must serve an 8 day ineligibility period for joining a squad or leaving a squad (Non-Team Players).~0
+2.6) ~2All modded players must play on their alias without powers.~0
+2.6b) The only exception is if the player is the only referee available.~0
+2.7) ~2A player is eligible for the match if they abide by all the requirements.~0
+
+~B~0
+3) Field Rules~B~0
+3.1) ~2Only two (2) players on each team can be a designated goalie. They must be decided on and assigned before the game.~0
+3.2) ~2Goalies may be changed in the middle of a game by the captain, but only after a lagout or substitution.~0
+3.3a) ~2The white goalie box (crease) is off limits to any non-goalie on the defending team. If any defending player is found inside, the team will be warned.~0
+3.3b) ~2If a team's warning is used, the violator's player slot will be lost for the two minutes. No substitutions may be allowed in during that time.~0
+3.4a) ~2Defenders who are checked into the crease by the attacking team will be allowed the opportunity to immediately leave the crease to avoid being penalized. If they do not leave immediately, Rule 3.3b will be enforced.~0
+3.4b) ~2Any non-designated goalie that intentionally creases to save a shot will be specced for the remainder of the game with the loss of their slot, and face a post-game punishment.~0
+3.4c) ~2Any shots blocked by a player that was checked into the crease will be deemed a legal save.~0
+3.5) ~2Players on the opposite team are allowed to enter the enemy's crease.~0
+3.6) ~2If a goalie lags out, a player on that team may defend from within the crease until a substitute goalie is put into play.~0
+
+~B~0
+4) Game Rules~B~0
+4.1) ~2Each game will be played 8v8, unless both captains agree on more players per side. The maximum team size is 11v11.~0
+4.2) ~2Each game will be played with a 5 goal mercy rule. If a team is able to achieve a score of 5 points higher than their opponent's, they win the game.~0
+4.3) ~2Regulation will last for forty-five (45) minutes, unless Rule 4.2 comes into play.~0
+4.4) ~2If neither team reaches Rule 4.2 before the regulation timer runs out, the team with the most goals wins.~0
+4.5) ~2An overtime will occur at the end of the timer if the score of both teams is tied.~0
+4.6) ~2Overtime is played sudden-death style. The first goal in overtime wins the game.~0
+
+~B~0
+5) Match Procedures~B~0
+5.1) ~2Each match will be coordinated by 2 staff members.~0
+5.2a) ~2In the event of a mass disconnection or server crash, the time and score of the match will be noted.~0
+5.2b) ~2If the match is postponed the captains have the option of requesting the match to be replayed or continuing the game with the previous score/time. ~0
+5.3) ~2Both participating captains and their squads are recommended to be present 5-10 minutes before the scheduled game time.~0
+5.4) ~2Any situation in-game that surfaces (but is not yet addressed in these rules) will be dealt with by the referees at the match. If needed, the SBL will review the decision and allow proper changes to be made.~0
+
+~B~0
+6) Latency~B~0
+6.1a) ~2Players are allowed three (3) lagouts. After all three (3) are used, the player will be ineligible for the rest of the match.~0
+6.1b) ~2Examples of lagouts are listed in 6.2. One (1) lagout is assigned per incident. Teams do not lose player slots of a player lags out.~0
+6.1c) ~2Lagouts can only be given to players currently in the game.~0
+6.2a) ~2Lag limits are 300ms current / last and 3.0% combined packet loss.~0
+6.2b) ~2Negative packet loss is allowed up to the same numbers as Rule 6.2a. For example, a player may have up to –3.0% combined packet loss.~0
+6.2c) ~2Visual lag will warrant a spec. Visual lag is decided by the head referee at the match. Examples of visual lag are jumping from place to place, and ignoring foot checks.~0
+6.2d) ~2If a player is spectated by the server, disconnected, or otherwise leaves the game (without the referees being notified), a lagout will be counted against that player.~0
+6.3) ~2Each lagout will warrant a thirty (30) second penalty.~0
+6.4) ~2If a team loses 3 or more of its players simultaneously due to a mass server disconnection, that team will be permitted to substitute for those players without losing substitution slots.~0
+6.5a) ~2If a lag goal goes through two players (deemed by the head referee, may be brought up to other referee witnesses), it can be taken off with vote of both participating captains, and by the head referee at the game (2/3). ~0
+6.5b) ~2If a goal is scored due to server lag (deemed by the head referee, may be brought up to other referee witnesses), it can be taken off with the consent of both participating captains, or by the head referee at the game (2/3).~0
+6.6b) ~2An example of a goal scored by server lag (5.5b) is when the ball is passed to a player, but the ball is shown to go through the player and into the net. Another example is if the ball hops into the net (a player is carrying it, then the ball suddenly appears somewhere else).~0
+
+~B~0
+7) Substitutions~B~0
+7.1) ~2Substitutions may only be made by request of the representatives in the game chat.~0
+7.2) ~2Each team is granted a total of 3 substitutions slots at the start of each game.~0
+7.3) ~2Whenever a substitution is made, the player effected will be specced first and immediately, and then the player being subbed in may be unspecced.~0
+7.4) ~2When substituting goalies, it will be the goalie's responsibility to reenter the net.~0
+7.5a) ~2A thirty (30) second penalty can be avoided at the cost of a substitution slot.~0
+7.5b) ~2A two (2) minute penalty (from Rule 3.3b) can not be avoided at the cost of a substitution slot.~0
+
+~B~0
+8) MVPs~B~0
+8.1) ~2MVPs will be decided by the winning team's captain (or representative). The MVP may be on either the winning or losing team.~0
+8.2) ~2The MVP must be a player that has participated in the match.~0
+8.3) ~2The MVP may not be a Non-Team Player.~0
+
+~B~0
+9) Representative Requirements~B~0
+9.1) ~2Two (2) representatives from each squad must enter an assigned game chat designated by the referee.~0
+9.2a) ~2The captain of the squad must enter the chat.~0
+9.2b) ~2If the captain is not available, an assistant captain must take his place.~0
+9.2c) ~2If both the captain and an assistant captain are not available, a squad representative must enter the chat.~0
+9.2d) ~2If no one steps up to represent their squad, the referee will choose a representative.~0
+9.3) ~2The roster and goalies must be submitted through the captains chat.~0
+9.4a) ~2All requests must be done through the captains' chat. Any typing by any player (including captains) that requests actions in public, team, or spec chat will not be granted. 9.4b) Any substitutions must be requested through the captains' chat.~0
+9.4b) ~2It is recommended to make your substitutions noticable. (ie. two consecutive lines or caps) ~0
+9.5) ~2Any change of goalies must be notified to the referee via the captain chat.~0
+9.6) ~2Only the captain can submit an official complaint to the league.~0
+
+~B~0
+10) Rules of Conduct~B~0
+10.1) ~2Spamming in any SBL arena will not be tolerated. SBL defines spam as 4 lines of back-to-back text, or 4 lines of (unneeded) repetitive scrolling (random letters, etc).~0
+10.2) ~2SBL will not tolerate excessive harassment or racist remarks of players, referees, or administration made in any SBL arena. If this is violated, the player(s) will be removed from the arena for the remainder of the match, even if they are participating in the match. Their team will not lose his or her player slot; they may substitute another player in.~0
+10.3) ~2Punishments include, but are not limited to: warn, silence, removal from game (arena), removal from the SBL. (not in any specific order)~0
+10.4) ~2The administration of SBL reserves the right to remove a player from league matches and events if the player cannot abide from the rules listed above. The player may face short-term or long-term removal from the league and its arenas~0
+
+~B~0
+11) Miscellaneous~B~0
+11.1) ~2Playing upon the SBL acknowledges a few rights for the SBL:~0
+11.2) ~1The SBL reserves the right to request termination of, removal of, or editing of accounts, refuse participation for a player, or ban a player (set time or indefinitely) at the discretion of the administrators.~0
+11.3) ~2The SBL reserves the right to deny a squad entrance to the SBL or to remove a squad from the SBL at the discretion of the administrators.~0
+11.4) ~2Any issue that surfaces (but is not yet addressed) may be dealt with by the SBL.~0
+
+
+~B~0
+Documented Changes:~B~0
+- May 1st, 2005: Rules rewritten and ordered. 6.6 (lag goals) implemented. 
+- June 8th, 2005: Wording changes. Representative (Ruleset 9) rules edited (two representatives). 7.5b (penalty rule) added. 
+- August 24th, 2005: "Revamped." Wording changes for 2.2/7.4 (goalies). Added 6.1/6.2/6.3 (lagouts), 1.4c (forfiets), 9.4a (requests). 
+- October 10th, 2005: Reordered. Section 1 (Team Requirements) and 2 (Player Requirements) created. Section 6 (Requirements) removed. Ineligible timer and rule added (1.7, 2.5). Rule 6.5a/6.5b edited (removing lag goals re-defined, two players). Added 6.6b (examples of lag goals). Section 11 (Miscellaneous) added.

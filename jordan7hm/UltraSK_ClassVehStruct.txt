@@ -1,0 +1,113 @@
+Ultra Skirmish is designed as a team game where building up a base is your main objective.  While the sheer amount of options might lead to some initial confusion, the design of the class / base structure is not all that complex.  
+
+Essentially there are 3 "stages" of base growth, and these stages mirror the classes that you have available at your disposal.  
+
+A simple graph demonstrates the growth of a base:
+
+      Mass Converter (STAGE 1)
+	     |
+ Parent-Stream Structures (STAGE 2)
+	     |
+  Output Structures (Stage 3)
+
+You can learn more about each structure in the Structure Information Guide, but as a quick run down, the Mass Converter is the headquarters of your base and is the control building that is required for all other structures.  The Parent-Stream Structures are the second tier of buildings... they don't offer a lot of cool stuff on their own, but you can build the third tier of buildings with these bases.  The Output Structures are the third tier of buildings, and include all the buildings that allow you to build stuff - tanks, train to be a new class, buy items, etc.  Pretty simple when presented like this, isn't it?
+
+There are also a couple other buildings such as the soda Storage Facility and the Drop Portal Store / Academy that don't really fit into this structure map.
+
+Below is a listing of the classes in Ultra Skirmish as well as where you can train as said class and a small description.  This is by no means a definitive list, merely the more common classes found in this zone.  There are also "hidden" classes that are obtainable by building certain structures, having certain equipment, or fulfilling certain objectives.  And new classes will be added where appropriate.
+
+Classes correspond to base development and can be described as STAGE 1,2,3 or Hidden.  The stage corresponds to the level of structures that a team needs to have before players can train as that class.  Higher stage classes normally cost more. Hidden classes have other requirements than just the overall development of your team's base.
+
+....
+
+Every player starts as a Militiaman.  The Miliaman is described: "Joining the militia is the first step in many a young lad's career with the army."  He carries a Battle Rifle and a long knife.
+
+...
+
+The following classes are first available at the Drop Portal Academy and the Training Institute (Stage 2 Buildings):
+
+-	Infantry Grunt.  The Infantry Grunt is described: "Your basic Infantry grunt.  One step up on the path to military greatness."  He carries a Battle Rifle, a Shotgun and a combat knife.
+
+-	Nader.  The Nader is described: "The Nader uses a short range Grenade Launcher to wreak havok on his enemies."  He carries a Grenade Launcher (short range), a Shotgun and a long knife.
+
+-	Black Ops.  The Black Ops is described: "Your all around utility Special Operative."  He wears Spec Ops Gear and carries an Energy Pistol, a Shotgun, an Incinerator and a Chain Sword.
+
+-	Team Leader. The Team Leader is described: "The Team Leader leads by example.  Not content to sit back and watch his troops duke it out miles away, he's always in the think of it with his guns and his knives and his bloodlust..."  He can use the Leader Teleport ability and carries an Assault Rifle and a combat knife.
+
+-	Ripper Gunner.  The Ripper Gunner is described: "Carries the powerful 'Ripper' gun.  Can tear apart both tanks and opponents at will."  He carries a Ripper gun and a combat knife.
+
+-	Field Medic.  The Field Medic is described: "The bravest men in the medical profession, the Field Medics get out there on the front lines and keep their valiant comrades from perishing." The Field Medic can use the Medikit and carries a PDW and a combat knife.
+
+...
+
+The following classes are first available at the Defense Factory (Stage 2 Building):
+
+(THIS CLASS IS JUST BEING PLANNED, IT IS NOT YET IMPLEMENTED)
+
+Engineer
+
+...
+
+The following classes are first available at the Vehicle Factory (Stage 2 Building):
+
+-	Field Tech.  The Field Tech is described: "Need a hand keeping that tank running?  The Field Tech is your greatest ally."  He carries a Field Repair Kit, a PDW and a combat knife.
+
+...
+
+The following classes are first available at the ITF Factory (Stage 2 Building):
+
+(THIS CLASS IS JUST BEING PLANNED, IT IS NOT YET IMPLEMENTED):
+
+Item Maker (working on the name :))
+
+...
+
+The following classes are first available at the Army Base (Stage 3 Building):
+
+-	Grenadier.  The Grenadier is described: "The Grenadier uses his long range Mortar to damage opponents and bases from afar."  He carries a Mortar (long range), a Shotgun and a long knife.
+
+-	Inferno. The Inferno is described: "There isn't quite anything like the feel of the gas around your body, the heat on your face, the smell of charred enemy remains... if you truly believe that, become an Inferno and live your dreams." He carries an Inferno Projecter, a PDW and a combat knife.
+
+-	Sapper.  The Sapper is described: "Pure destriction... the sapper rips apart his enemies with wave after wave of explosive attack." He carries a Shotgun and a variety of explosives (grenades and mines, and more!).
+
+-	Assault Trooper.  The Assault Trooper is described: "Twin pistols and a quick attack define the Assault Trooper."  He carries Twin Pistols, a Shotgun and a combat knife.
+
+-	Light Machinegunner.  The Light Machinegunner is described: "Carries a submachinegun.  Has a large clip and can cause lots of havoc on the battlefield." He carries a Light Machinegun, a Shotgun and a combat knife.
+
+-	Machinegunner. The Machinegunner is described: "He carries a massive gun and wears a suit that protects him from smaller arms.  Watch yo'self homie." He wears an Assault Suit and carries a Machinegun and a combat knife.
+
+-	Elite.  The Elite is described: "The Elite are a little known branch of the Army trained in the use of energy weapons." He carries a Fusion Rifle, an Auto Pistol and a combat knife.
+
+-	Scout.  The Scout is described: "Scouts hear and see everything, and then dispatch what they see quite easily with their pump action shotguns."  He is equipped with EM Imagine Goggles and carries a Shotgun, an Auto Pistol and a combat knife.
+
+-	Sturmjager.  The Sturmjager is described: "The Sturmjager is an elite commando trained for close attacks.  He relies on his Twin Pistols and his Assault Suit to carry the pain to the enemy while deflecting it from himself." He wears an Assault Suit and carries Twin Pistols and a combat knife.
+
+-	Marine.  The Marine is described: "The Marine is the consumate Every-Man.  He has no one great skill, but on the battlefield, sometimes a little of everything is better than a lot of nothing." He carries an Assault Rifle, a Shotgun, an Incinerator and a combat knife.
+
+...
+
+The following classes are first available at the University (Stage 3 Building):
+
+-	Doctor.  The Doctor is described: "A master at his craft, the Doctor can bring even the most critically wounded soldier back to full strength."  He carries a Doctor's Kit, an Auto Pistol and a combat knife.
+
+-	Sergeant. The Sergeant is described: "Not so interested in the glamour of battle, Sargeants are often found back at base sipping on brews and holding down the fort."  He can use the Area Summon ability and carries an Auto Pistol, a Mine Layer and a Chain Sword.
+
+-	Commander.  The Commander is described: "The supreme commander?  Maybe not, but he thinks he is.  Commanders think they can do everything and be everywhere."  He can use the Leader Summon and Leader Teleport abilities and carries an Auto Pistol and a combat knife.
+
+-	Driver.  The Driver is described: "The Driver isn't needed most of the time, but when you've got a 'Very Special' kind of tank, he's usually the only one who can handle it."  He carries a Field Repair Kit, a Shotgun and a Chain Sword.
+
+-	Base Techician.  The Base Technician is described: "The Base Technician keeps your base running smoothly and enemy tanks at bay."  He carries a Base Repair Kit, an Auto Pistol, a Mine Layer and a combat knife.
+
+...
+
+The following classes are first available at the Spec Ops Academy (Stage 3 Building):
+
+-	Assassin.  The Assassin is described: "The Assassin is your worst nightmare.  With his Assassin Warp he sneaks in behind enemy lines and destroys the enemy from within!"  He wears Spec Ops Gear, can use the Assassin Warp ability and carries an Assassin's Blade and an Energy Pistol.
+
+-	Camo Trooper.  The Camo Trooper is described: "Now you see him, now you don't.  The Camo Trooper uses his special abilities to blend into the background and launch sneak attacks when you least expect it."  He wears Spec Ops Gear and carries a Camoflage Unit, a Shotgun and a Chain Sword.
+
+-	Ninja.  The Ninja is described: "When you stop paying attention, that's when the ninja stabs you through the heart sixteen times."  He can perform the Ninja Sneak and Ninja Dodging abilities and carries a Chain Sword, a long knife and an Assassin's Blade.
+
+-	Sniper.  The Sniper is described: "Snipers are an annoyance on the battlefield.  You think you're safe, when all of a sudden a bullet fired from that ridge miles away slams into your head.  A sniper did it."  He carries  a Sniper Camo Unit, a Sniper Rifle and a combat knife.
+
+-	Field Operative.  The Field Operative is described: "The Field Operative will blow your brains out with his Sniper Rifle, but doesn't have the luxury of blending into the background when trouble approaches.  That's what his pistol is for."  He carries a Sniper Rifle, a PDW and a combat knife.

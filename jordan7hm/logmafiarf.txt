@@ -1,0 +1,1423 @@
+5			Game started
+1		7hm-	*timer 20
+1		7hm-	*setscore -100,-100
+1		7hm-	*arena GAME ON 
+5			GAME ON 
+9			Entering: Chillaxer
+0		Agent K1	If you don't want to play in a league run like shit feel free to leave
+6	~rbl	7hm-	check the lag charts and player charts
+8			Vess(57) killed by Stabbed
+0		Agent K1	no one would care
+8			Theos(57) killed by babylon5
+6	~CRStuds	7hm-	shush
+0		7hm-	?playerchart
+2		~Guest66	back in i got out for some reason sorry
+3		88	7, you ready to lose?
+9			Entering: RuFo
+2		SCREAM01	ok i hit export to file then saved as pc1
+3		7hm-	we'll beat you 35-0
+3		88	true
+8			Homus(64) killed by babylon5
+3		88	but are you ready to lose?
+6	crleague	Lunatic	<< Entering Chat >>
+6	~D'Haran	Wyle	<< Entering Chat >>
+2		~Guest66	..
+8			Vess(13) killed by Stabbed
+9			Entering: Lunatic
+0		Famous Anus	all I ask is that game times get posted on the cr board
+8			Atap(68) killed by Rally Girl
+9			Entering: dcman
+2	~Guest66	7hm-	*team mafia
+6	~raptor	Steven.	<< Leaving Chat >>
+8			Theos(18) killed by Stabbed
+8			Sayne_(74) killed by babylon5
+9			Entering: Space Monkey
+0		SCREAM01	go rally
+8			Homus(13) killed by Rally Girl
+5			Enemy Goal=dizzeguy  Team=Mafia  (assist: Rally Girl)
+5			SCORE:  Mafia=-99  Rift Force=-100
+0		7hm-	yeah sorry about that FA, I'll make sure to do that next week
+0		7hm-	*arena 1-0 Mafia
+5			1-0 Mafia
+0		Famous Anus	I thank you
+0		7hm-	?playerchart
+0		Krazikarl	THEY SCORED ON THE FIRST POSSESSION, ITS SO NOT FAIR NOT TO HAVE REPS
+0		Krazikarl	OMFG
+0		rynsxmnky007	erm
+0		rynsxmnky007	hi
+0		Blood	agreed
+0		Krazikarl	hi
+2	Famous Anus	7hm-	who in?
+2		Famous Anus	me
+6	~D'Haran	Wyle	<< Leaving Chat >>
+2	Famous Anus	7hm-	*unspec Mafia
+6	[mog] [squad]	Falling Empire	<< Entering Chat >>
+6	~rbl	7hm-	note that FA came in
+8			Sayne_(24) killed by Blood
+0		rynsxmnky007	this shits fucking trippy
+6	~rbl	acid	he was just subbed?
+3		Space Monkey	hey rufo
+5			!SCREAM01: *arena &  Rally with the first miss of the season on an open goal    Dizz finished it up and scored   Go Mafia!!   1-0 to Mafia
+5			&  Rally with the first miss of the season on an open goal    Dizz finished it up and scored   Go Mafia!!   1-0 to Mafia
+8			Homus(26) killed by dizzeguy
+8			dizzeguy(102) killed by Homus
+8			Atap(34) killed by Stabbed
+0		Famous Anus	can I be arach?
+0		7hm-	*arena FA subbed in for Rally
+5			FA subbed in for Rally
+3		RuFo	hi
+0		Famous Anus	or we have too many
+6	~rbl	acid	got it
+0		7hm-	?playerchart
+3		Agent K1	look what u did yankee
+6	sexxie	Altema	<< Leaving Chat >>
+0		7hm-	you have too many
+6	~CRstuds	Noto+	<< Leaving Chat >>
+3		Agent K1	now rally hates u
+0		Universal Constant	D Nide
+9			Entering: ~Guest49
+0		Achille.	how can i spec the ball?
+0		Krazikarl	tab
+6	[mog] [squad]	skm-	<< Leaving Chat >>
+0		Universal Constant	weapon 2
+5			Goal saved by Sayne_
+0		Chillaxer	bomb button
+8			Homus(31) killed by babylon5
+0		babylon5	CHOKE
+3		7hm-	press the mine key
+3		7hm-	or bomb
+8			Atap(22) killed by Blood
+3		7hm-	whatever
+8			Stabbed(0) killed by Blood
+6	[mog] [squad]	Cerberos	<< Leaving Chat >>
+6	[mog] [squad]	skm-	<< Entering Chat >>
+3		7hm-	one or the other :)
+6	~CRstuds	Noto+	<< Entering Chat >>
+8			Blood(102) killed by Vess
+9			Entering: ~Guest86
+9			Entering: Noto+
+3		~Guest49	the heavyweapon key :p
+3		Universal Constant	press whatever you have weapon 2 set for
+5			!SCREAM01: *arena &  Sayne_ with a super save
+5			&  Sayne_ with a super save
+3		acid	weapon 2
+3		acid	and 3 =P
+8			Vess(76) killed by dizzeguy
+8			dizzeguy(39) killed by Vess
+6	sexxie	Altema	<< Entering Chat >>
+3		~Guest86	did game start?
+3		7hm-	yes
+3		Achille.	ty
+3		acid	yes
+6	[mog] [squad]	Cerberos	<< Entering Chat >>
+3		Achille.	acid$$
+2		SCREAM01	you dont mind me doing that ?
+6	~raptor	Steven.	<< Entering Chat >>
+9			Entering: Atomsk+
+2	SCREAM01	7hm-	doing what?
+3		acid	achille centscents
+3		acid	=P
+2	SCREAM01	7hm-	not at all
+2		~Guest66	stabbed isnt even on the website ...
+2	~Guest66	7hm-	its ok, that was a db problem
+2		SCREAM01	adding the saves and goals scorers
+2	~Guest66	7hm-	he's eligible
+2		~Guest66	k
+6	~crstuds	Agent K1	u running scrim or anything after this?
+8			Vess(20) killed by Stabbed
+8			Sayne_(52) killed by Blood
+6	~CRStuds	7hm-	no, i going out to get trashed after this
+6	sEXXiE	Thor	<< Leaving Chat >>
+8			Homus(32) killed by Famous Anus
+3		Krazikarl	too bad that was a shitty shot, he had it
+3		~Guest49	7, are refs allowed to give comments during game or u do it just becuz u are mod too? :p
+6	~CRstuds	Noto+	 like a responsible capt would!
+9			Entering: ~Guest86
+6	~CRstuds	Noto+	 =)
+3		7hm-	im not, scream is
+8			Atap(37) killed by Blood
+3		7hm-	and i dont mind
+3		dcman	WHeres Yank
+3		~Guest49	k
+3		POLLUTANT	fa looks weird in krag
+3		acid	hehe
+3		7hm-	long as they are game related, they're ok
+3		Lunatic	i was just gonna say that poll
+8			Vess(20) killed by Stabbed
+6	[mog] [squad]	Cerberos	<< Leaving Chat >>
+6	~rbl	88	<< Entering Chat >>
+3		7hm-	so
+3		POLLUTANT	ninjas think alike playah
+3		7hm-	predictions?
+3		SCREAM01	oh  Mafia 10  Rift Force 1  final score
+8			Famous Anus(83) killed by Atap
+8			Homus(22) killed by dizzeguy
+8			Atap(24) killed by dizzeguy
+3		7hm-	im thinking mafia 6 rf 2
+5			Enemy Goal=Stabbed  Team=Mafia  (assist: dizzeguy)
+5			SCORE:  Mafia=-98  Rift Force=-100
+3		dcman	Rift wont score
+3		7hm-	maybe mafia 9 :)
+0		Sayne_	ew
+3		acid	8-1 mafia
+0		7hm-	*arena 2-0 Mafia
+5			2-0 Mafia
+0		Universal Constant	that was $$ Zig
+0		Stabbed	thank you sir
+3		7hm-	at this rate, we're looking at 16 goals from mafia
+8			babylon5(103) killed by Atap
+8			Sayne_(40) killed by Famous Anus
+3		acid	hehe
+3		Krazikarl	um
+3		Krazikarl	no
+5			!SCREAM01: *arena & Stabbed with a great turn around goal    Mafia 2-0 up
+5			& Stabbed with a great turn around goal    Mafia 2-0 up
+0		Atap	wtf
+9			Entering: ~Guest86
+3		Krazikarl	8 goals
+3		7hm-	2 in 5 minutes
+8			Theos(100) killed by Stabbed
+0		Atap	dizze tanks
+3		7hm-	4 in 10
+3		Krazikarl	its 5 mins in
+3		7hm-	8 in 20
+3		7hm-	16 in 40
+0		~Guest66	no theres 2 second waiting period
+6	Sexxie	Polo	<< Entering Chat >>
+0		~Guest66	when someone warps
+3		Universal Constant	you play to the end of the clock, not just to a set number of goals?
+9			Entering: DarkWolf555
+9			Entering: Happy'
+3		7hm-	yeah
+3		Krazikarl	thats right, we are playing two halves now
+8			Famous Anus(34) killed by Sayne_
+8			Sayne_(17) killed by babylon5
+3		7hm-	for 40 minutes
+8			Blood(87) killed by Vess
+8			Atap(43) killed by babylon5
+3		Universal Constant	right on. Long games. :)
+3		DarkWolf555	BAH, I waste my time goign to the CRPL and I didnt know it was a rift ball game....
+3		7hm-	rf is actually pretty good
+6	~crstuds	Agent K1	isn't universal contestant yankee?
+6	~CRStuds	7hm-	yeah
+6	~D'Haran	Universal Constant	<< Leaving Chat >>
+8			Theos(20) killed by dizzeguy
+6	Sexxie	Polo	<< Leaving Chat >>
+3		POLLUTANT	for me to poop on
+3		SCREAM01	lol
+9			Entering: girls gone wild
+8			Famous Anus(13) killed by Vess
+8			babylon5(33) killed by Homus
+3		Krazikarl	if by pretty good you mean "better than weakbow at least"
+6	inc	Despised	<< Leaving Chat >>
+6	crleague	Soup!	<< Entering Chat >>
+6	~rbl	Soup!	<< Entering Chat >>
+8			Stabbed(100) killed by Homus
+9			Entering: Soup!
+0		Krazikarl	fumble
+3		7hm-	i dunno
+3		Krazikarl	and probably cowled figures
+3		7hm-	i think they'll have at least 2 or 3 wins this season
+3		SCREAM01	what 7hm said is going to be the Highlight of this log  :P
+3		Duff'	vess is a good player. the rest are ok
+9			Entering: ~Guest22
+3		7hm-	i think they'll upset rbpp
+9			Entering: ~Guest4
+8			Homus(71) killed by Famous Anus
+3		Krazikarl	maybe
+3		Krazikarl	rbpp is pretty horrible
+8			Vess(76) killed by Famous Anus
+8			Sayne_(32) killed by Stabbed
+8			Famous Anus(34) killed by Sayne_
+3		SCREAM01	yes
+8			Atap(30) killed by Stabbed
+3		Agent K1	Vess worsens his team with his dumb ass mouth
+3		7hm-	yeah... but rf could be really good with just a little improvement
+8			Theos(28) killed by Stabbed
+3		acid	agrd 7
+3		7hm-	and they all play rb
+3		POLLUTANT	whos vess
+3		rynsxmnky007	um
+3		7hm-	well, the 5 in now :)
+3		rynsxmnky007	where are the goals?
+3		SCREAM01	i've not seen many RF players in rb for the last week or 2
+8			dizzeguy(100) killed by Vess
+0		dizzeguy	$
+3		7hm-	the things at n/s ryns
+3		rynsxmnky007	okay thanks
+3		7hm-	i've not seen many people in rb in the last 2 weeks :)
+8			Vess(35) killed by Stabbed
+8			babylon5(44) killed by Vess
+8			Stabbed(52) killed by Homus
+8			Blood(55) killed by Theos
+3		~Guest4	same
+3		rynsxmnky007	i only came to see what dain was babbling about..
+0		Stabbed	1v4
+0		Stabbed	GOAL
+6	inc	LObas	<< Leaving Chat >>
+3		rynsxmnky007	but i keep forgetting im in here..
+6	~raptor	BLIssID911	<< Entering Chat >>
+6	~d'haran	BLIssID911	<< Entering Chat >>
+8			dizzeguy(17) killed by Homus
+0		Lunatic	in
+8			Famous Anus(32) killed by Atap
+0		~Guest4	almost a nice turtle
+3		7hm-	2 in 10 minutes
+6	crleague	Lady Stardust	<< Entering Chat >>
+9			Entering: ~Guest118
+3		acid	like i said 8-1 mafia =P
+8			Blood(19) killed by Vess
+3		girls gone wild	hah
+3		Krazikarl	rf greens too much
+3		Lunatic	rf can kinda of kill and play D, they just cant shoot or move the ball off the field
+8			Theos(48) killed by Stabbed
+3		SCREAM01	RF zag isnt doing much he should be spraying
+8			Vess(33) killed by babylon5
+3		~Guest49	i think 6-1 mafia
+6	~CRStuds	xWaNg	<< Entering Chat >>
+9			Entering: xWaNg
+3		Krazikarl	they keep leaving the ball to green
+3		Krazikarl	it makes me ill
+8			Famous Anus(28) killed by Homus
+6	~raptor	BLIssID911	<< Leaving Chat >>
+6	~d'haran	BLIssID911	<< Leaving Chat >>
+8			Sayne_(63) killed by babylon5
+3		~Guest4	ick
+8			dizzeguy(31) killed by Theos
+3		~Guest86	uhm whats the CRBL site?
+3		~Guest4	lmao
+3		~Guest4	what he doin?
+3		Lunatic	lol
+3		SCREAM01	more greens
+3		Krazikarl	and back to greens
+3		~Guest4	hahaha
+3		7hm-	hostilegaming.com/riftball
+3		SCREAM01	HAHAHAHAH
+3		Krazikarl	where they will be crushed
+3		~Guest86	thank you 7hm
+3		girls gone wild	2 wasted reps
+2		SCREAM01	wasted reps
+3		girls gone wild	before goal
+3		~Guest4	just used up all their reps
+3		7hm-	ew
+2		SCREAM01	oops
+8			Stabbed(57) killed by Atap
+8			Sayne_(18) killed by Famous Anus
+6	[mog] [squad]	skm-	<< Leaving Chat >>
+3		7hm-	bbaaaad move
+3		Krazikarl	they use all their reps to get back to greens
+3		acid	yup
+3		7hm-	they're used to gb
+6	[mog] [squad]	skm-	<< Entering Chat >>
+3		xWaNg	GB ROX
+8			Famous Anus(29) killed by Homus
+3		Agent K1	The whole D was up, why not go back and green?
+3		Krazikarl	where they pick up reps, advance a foot, use all their reps
+3		Krazikarl	and repeate
+3		~Guest4	^
+3		DarkWolf555	Hey 7hm
+3		7hm-	the whole d was there because they greened the first time
+0		Famous Anus	rally in
+8			dizzeguy(34) killed by Sayne_
+0		7hm-	she can't
+3		~Guest4	try really elaborate passes too
+3		Agent K1	the whole D was there because they killed no one
+0		Famous Anus	soup in
+3		Lunatic	maybe they'll wear mafia out
+9			Entering: ~Guest93
+2	Soup!	7hm-	*unspec Mafia
+0		7hm-	*arena Soup in for Blood. -7hm
+5			Soup in for Blood. -7hm
+0		~Guest4	lol what 66 doin there?
+8			Homus(100) killed by Famous Anus
+0		7hm-	?playerchart
+2	Soup!	7hm-	change ships
+5			Enemy Goal=Atap  Team=Rift Force  (assist: Vess)
+5			SCORE:  Mafia=-98  Rift Force=-99
+3		acid	bam
+3		Lunatic	lol
+0		Krazikarl	EZ
+2	Soup!	7hm-	now
+3		~Guest49	$$
+0		dcman	G
+0		dcman	O
+0		7hm-	*arena 2-1 Mafia
+5			2-1 Mafia
+0		dcman	A
+0		dcman	L
+8			Soup!(12) killed by Theos
+2		Soup!	 sorry
+3		Krazikarl	mafia doesnt pressure the ball very well
+0		xWaNg	rofl
+0		Duff'	very nice
+0		7hm-	ew, lame theos :)
+0		xWaNg	stfu
+3		Agent K1	as long as CLB doesn't show up Mafia is fine
+2	Soup!	7hm-	sok :)
+3		dcman	g
+0		dcman	o'
+3		dcman	o
+0		Soup!	bah
+0		Stabbed	subtract that goal its illegal we had 3 sprayers
+3		dcman	a
+0		7hm-	ew
+3		dcman	l
+3		acid	lol agent
+8			Homus(16) killed by Famous Anus
+3		Krazikarl	clb is better than rally at least
+5			!SCREAM01: *arena &   Atap with the needed goal  2-1 Mafia
+5			&   Atap with the needed goal  2-1 Mafia
+0		Soup!	put me back in p.z
+2	Famous Anus	7hm-	keep trying to put soup in?
+2	Soup!	7hm-	*unspec Mafia
+8			Famous Anus(52) killed by Sayne_
+3		7hm-	ew
+2		Famous Anus	hes in
+3		~Guest93	lol
+8			Homus(11) killed by Stabbed
+8			Sayne_(63) killed by babylon5
+2	Famous Anus	7hm-	i know, i put him back, he lagged out
+8			Vess(81) killed by Stabbed
+8			Stabbed(66) killed by Atap
+8			babylon5(106) killed by Theos
+3		DarkWolf555	7hm, how do I play???
+3		7hm-	frig theos
+3		SCREAM01	didnt i say 10-1  ?   they scored  hehe
+0		Krazikarl	elite passing
+3		7hm-	play the ball a bit more
+8			Soup!(15) killed by Sayne_
+8			Atap(106) killed by dizzeguy
+0		Atap	wtf
+0		babylon5	YES
+8			dizzeguy(57) killed by Sayne_
+0		Lunatic	choke
+0		babylon5	this is what will win the game
+0		Krazikarl	repeatedly making bad passes?
+0		babylon5	yes
+3		7hm-	the game is closer than it should be
+3		~Guest86	i think mafia might win 4-2 or 4-3
+6	[mog] [squad]	Falling Empire	<< Leaving Chat >>
+9			Entering: JoKe69KiLLer
+6	~raptor	Steven.	<< Leaving Chat >>
+8			Vess(23) killed by Stabbed
+3		POLLUTANT	mafia is horrible
+3		7hm-	mafia's nowhere near as good as they should be :/
+8			Theos(101) killed by Soup!
+3		7hm-	no teamwork
+3		~Guest86	lol
+3		Krazikarl	they have horrible D
+8			Atap(22) killed by Soup!
+8			Sayne_(40) killed by babylon5
+3		7hm-	nightmare will be the squad to beat
+5			NOTICE: 5 minutes remaining.
+3		Krazikarl	especially when rally and accident are in
+9			Entering: Kura
+6	~raptor	Steven.	<< Entering Chat >>
+3		Krazikarl	nightmare is ez
+3		Krazikarl	YOU HEARD ME KURA
+3		Kura	when is our game
+8			Theos(14) killed by Soup!
+3		SCREAM01	i think they are playing in the wrong ships  dizz should not be in mast
+8			Atap(13) killed by babylon5
+8			babylon5(43) killed by Atap
+8			Stabbed(42) killed by Vess
+8			Vess(22) killed by babylon5
+9			Entering: ~Guest103
+5			Enemy Goal=Famous Anus  Team=Mafia  (assist: Stabbed)
+5			SCORE:  Mafia=-97  Rift Force=-99
+3		7hm-	ns
+0		Sayne_	gay ass rep
+0		7hm-	*arena 3-1 Mafia
+5			3-1 Mafia
+3		~Guest93	RF is from infantry?
+0		Stabbed	gay ass rape
+3		7hm-	yes
+0		~Guest4	lol
+3		~Guest86	woot go Mafia!
+6	Sexxie	Polo	<< Entering Chat >>
+3		Kura	anyone know when nightmare game is
+0		Stabbed	4 that was an age test
+3		dcman	RF is from Gravball
+5			!SCREAM01: *arena &  GOAL! LALalaaallaalll    3-1 Mafia   FA with the goal
+5			&  GOAL! LALalaaallaalll    3-1 Mafia   FA with the goal
+3		~Guest49	tomorrow 7 pm est
+0		Stabbed	you are the only one here under 8 yrs old
+3		dcman	Did anyone see that lag?
+8			Vess(16) killed by babylon5
+0		dcman	G
+0		dcman	O
+0		dcman	A
+0		dcman	L
+3		Noto+	ppl actually play CR exclusively?
+3		xWaNg	dc
+3		7hm-	nm is tuesday at 8:30
+3		xWaNg	shut the fuck up
+3		Duff'	who do nightmare play?
+3		~Guest49	eww
+3		Krazikarl	im getting nost to get a contest the goal due to lag macro
+8			Atap(26) killed by Famous Anus
+8			Homus(64) killed by Soup!
+0		Atap	hmm....
+3		7hm-	cf
+3		~Guest49	who was 7 pm est tomorrow than? :s
+3		Kura	we play cowled gifure
+0		Stabbed	so good
+8			Theos(28) killed by Soup!
+8			Vess(11) killed by Soup!
+3		7hm-	umm, tilde and rbpp
+8			Sayne_(40) killed by dizzeguy
+8			Soup!(89) killed by Atap
+0		Kura	GO BAB
+8			babylon5(37) killed by Atap
+3		~Guest49	no
+5			Enemy Goal=Stabbed  Team=Mafia  (assist: babylon5)
+5			SCORE:  Mafia=-96  Rift Force=-99
+0		dcman	g
+3		7hm-	yes
+0		Kura	GO ZIG
+0		dcman	o
+8			Vess(9) killed by dizzeguy
+3		~Guest49	we are at 8:30
+0		babylon5	i just wanted the assist
+3		7hm-	then noone is at 7 :)
+0		7hm-	*arena 4-1 Mafia
+5			4-1 Mafia
+0		Kura	go SOUP
+0		Stabbed	banned
+5			IDENTIFY ~Guest4=The Piar Prodigy
+9			Entering: dcman
+5			!SCREAM01: *arena & 4-1 Mafia    Stabbed scored!!
+5			& 4-1 Mafia    Stabbed scored!!
+9			Entering: Kura
+3		7hm-	the 7 oclock game is today
+3		~Guest49	aw mb
+0		Soup!	KURAPIKA
+8			dizzeguy(84) killed by Vess
+3		7hm-	nice
+3		~Guest86	ow
+0		Atap	at end of timer is this game over?
+3		JoKe69KiLLer	woot
+3		7hm-	ew
+0		dizzeguy	ow
+8			Vess(25) killed by Stabbed
+3		7hm-	no
+0		7hm-	no atap
+0		acid	no atap...first half is over
+0		Atap	oh
+2		dcman	Wheres yank.
+2	dcman	7hm-	he left
+8			Stabbed(59) killed by Sayne_
+8			Sayne_(33) killed by Soup!
+2		dcman	aw
+6	~rbl	acid	wont happen...but id like to see RF win lol
+8			Soup!(32) killed by Atap
+6	~rbl	7hm-	same :)
+2		dcman	was he hidden?
+8			babylon5(30) killed by Atap
+5			Enemy Goal=Famous Anus  Team=Mafia  (assist: babylon5)
+5			SCORE:  Mafia=-95  Rift Force=-99
+3		dcman	g
+0		Blood	omg
+3		~Guest86	WOOT
+0		Kura	OMfg
+3		dcman	o
+0		~Guest93	NS
+0		~Guest4	nice fa
+3		dcman	a
+0		7hm-	*arena 5-1 Mafia
+5			5-1 Mafia
+3		dcman	l
+0		7hm-	ns
+0		Blood	elite
+6	~rbl	acid	i dont dislike mafia or anything
+3		JoKe69KiLLer	rofl
+0		Famous Anus	tx
+0		Stabbed	texas?
+6	~rbl	7hm-	they'll be dangerous at the end of season i think
+0		acid	that's what he wagered
+0		Stabbed	Texa$
+5			!SCREAM01: *arena &   5-1 Mafia    FA with the  Micman slam!!
+5			&   5-1 Mafia    FA with the  Micman slam!!
+6	~rbl	acid	if they practice ya
+8			Soup!(18) killed by Atap
+8			babylon5(0) killed by Stabbed
+0		~Guest93	lol
+0		babylon5	gg
+3		Kura	that's not a micman slam
+3		SCREAM01	hahah
+0		Atap	WTF
+3		Krazikarl	yeah you idiot
+3		7hm-	not even close
+3		JoKe69KiLLer	goal
+3		JoKe69KiLLer	goal
+3		Krazikarl	you have to die and turn it over
+3		acid	if it was a micman slam it wouldnt have gone in =P
+3		acid	^^
+8			babylon5(9) killed by Vess
+3		SCREAM01	just having some fun
+5			NOTICE: 1 minute remaining.
+8			Soup!(12) killed by Vess
+3		7hm-	micman slam is straight down anyway
+8			Stabbed(33) killed by Homus
+8			Vess(42) killed by dizzeguy
+8			dizzeguy(47) killed by Atap
+0		Krazikarl	zig could you possible take more horrible shots?
+3		SCREAM01	k
+0		Blood	Stabbed trying to immitate his idol
+3		SCREAM01	i'll remember that
+0		Stabbed	Freddy Mercury?
+3		acid	wonder which alias micman is under now heh
+3		Krazikarl	Blood/Jay
+3		Krazikarl	or whatever
+3		SCREAM01	^
+8			Theos(76) killed by babylon5
+3		acid	oh lol
+6	[mog] [squad]	skm-	<< Leaving Chat >>
+3		Agent K1	micman is xwang...
+0		~Guest93	rofl
+3		acid	lol
+3		7hm-	hoho
+8			Atap(100) killed by Soup!
+3		acid	i thought so
+3		acid	!
+3		Kura	micman is minzoku-bokumetsu's replacement
+3		SCREAM01	omg let soup  score
+6	crleague	Lady Stardust	<< Leaving Chat >>
+5			NOTICE: Timer expired
+0		7hm-	*spec all
+5			Too few players, game aborted
+5			Individual Best
+5			~_   Most Goals (2):  Famous Anus, Stabbed
+5			~_   Most Assists (2):  babylon5
+5			~_   Most Kills (17):  Stabbed
+5			~_   Most Deaths (16):  Vess
+5			~_   Most Catches (16):  babylon5
+5			~_   Most Steals (6):  dizzeguy
+5			~_   Most Fumbles (4):  Stabbed, Atap
+5			~_   Most Passes (19):  dizzeguy
+5			~_   Most Saves (1):  Sayne_
+5			~_   Longest Carry-Time (163 seconds):  dizzeguy
+5			!MVP-1st (1107):  dizzeguy
+5			!MVP-2nd (80.49%):  Stabbed
+5			!MVP-3rd (75.97%):  babylon5
+5			Team Stats
+5			~_   Mafia: Kills=63  Deaths=44  Catches=66  Steals=10  Fumbles=10  Passes=60  Saves=0  Pinches=0  Carry-Time=511  MVP=3972  PowerIndex=0
+5			~_   Rift Force: Kills=42  Deaths=61  Catches=41  Steals=9  Fumbles=10  Passes=40  Saves=1  Pinches=0  Carry-Time=385  MVP=2419  PowerIndex=0
+5			#Team Statistics Breakdown
+5			!_   1st (K=63 D=44):  Mafia
+5			!_   2nd (K=42 D=61):  Rift Force
+5			~_   Most Deaths (61):  Rift Force
+5			#Individual Statistics Breakdown
+5			!_   1st (K=17 D=8):  Stabbed
+5			!_   2nd (K=14 D=9):  babylon5
+5			!_   3rd (K=12 D=12):  Atap
+5			~_   Most Deaths (16):  Vess
+0		7hm-	*arena 5-1 after the first half
+2		dizzeguy	not that i care much but homus sc'ed
+5			5-1 after the first half
+2	dizzeguy	7hm-	sigh, thanks
+6	crleague	Lady Stardust	<< Entering Chat >>
+3		Noto+	why dont they just call it a game?
+6	~rbl	SCREAM01	ok got pc1 and stats1
+0		7hm-	*teamname Rift Force,Mafia
+5			Team names have been set
+6	~rbl	7hm-	ty
+3		JoKe69KiLLer	atap nub :p
+6	~rbl	acid	k
+6	~rbl	SCREAM01	should i check
+0		7hm-	*timer 5
+5			NOTICE: 5 minutes remaining.
+9			Entering: T O R N
+6	~rbl	acid	10 mins now =)
+3		Vess	why does noto love the cock
+3		Theos	 does avalon call a game noto? then the avalon of rb won't =p
+0		7hm-	*arena Remember that there is no ship changing during the game.
+5			Remember that there is no ship changing during the game.
+3		Vess	and think he's actually good
+3		Noto+	call a "half" a game
+6	~rbl	acid	isnt it 10 min not 5?
+0		7hm-	*timer 8
+6	~rbl	7hm-	ty :
+3		Noto+	instead of first half    first "game"
+3		Agent K1	is he on the squad?
+2		~Guest49	didny u change the intermission lebgth to 10? :/
+6	~rbl	acid	hehe np
+2		~Guest49	didnt*
+2	~Guest49	7hm-	did
+3		SCREAM01	SOUP
+3		SCREAM01	YOU MUST SCORE
+3		Soup!	 NEVER
+2		~Guest49	oh, nm, mb again :s im sleepy tofday
+3		Soup!	 that is not my role
+0		7hm-	*arena &Captains please PM me your lineups. -7hm
+5			&Captains please PM me your lineups. -7hm
+3		SCREAM01	PLZ SCORE
+3		Soup!	 i kill the nme
+0		~Guest93	y?
+3		~Guest93	y?
+6	~rbl	acid	gotta switch sides
+9			Entering: Blood
+2	Sayne_	7hm-	*team spec
+2	~Guest66	7hm-	*team spec
+2		Atap	me, homus, vess, sayne, theos
+2	Rally Girl	7hm-	*team spec
+2	Sayne_	7hm-	*unspec Rift Force
+2	Blood	7hm-	*team spec
+2	Sayne_	7hm-	*team spec
+2	Sayne_	7hm-	*unspec Rift Force
+2		Theos	 ohh ooh do a plug for me =] , BBXL preseason starts in 2 weeks 
+6	~crstuds	Agent K1	let me get on someones account pls...can't stand to see this
+2	Vess	7hm-	*unspec Rift Force
+2	Theos	7hm-	*unspec Rift Force
+2	Homus	7hm-	*unspec Rift Force
+2	Atap	7hm-	*unspec Rift Force
+6	~CRstuds	Noto+	 get on Theos
+6	inc	USL 911 Medic[Ref]	<< Entering Chat >>
+0		7hm-	*arena &And remember the BBXPL preseason starts in two weeks.
+5			&And remember the BBXPL preseason starts in two weeks.
+4	Vess	7hm-	guys, no changing ships during the game please
+0		~Guest93	bbxpl?
+2		Famous Anus	me, dizz, rally, blood, stabbed
+6	~CRstuds	Noto+	 this isnt preseason?
+2	Famous Anus	7hm-	*unspec Mafia
+2	Rally Girl	7hm-	*unspec Mafia
+0		Sayne_	addballz plz
+6	~crstuds	Agent K1	i have one of their accounts, i just don't really want to be banned from league
+2	Blood	7hm-	*unspec Mafia
+2	dizzeguy	7hm-	*unspec Mafia
+5			Game started
+3		~Guest49	we have a cr - bbx squad?
+0		7hm-	*arena NO GREENING
+5			NO GREENING
+3		Soup!	 yes
+3		acid	i think there's like 3
+0		Vess	\//getting reps
+0		Theos	Boom Ball X League - www.forsakenguild.net/bbxl/
+0		~Guest4	lool
+3		acid	lol
+3		SCREAM01	RF to score again?
+0		Famous Anus	give me some points so I can change to arach\
+3		~Guest49	aw
+0		Atap	start at end of this timer?
+3		~Guest49	n00b me
+0		7hm-	yeah
+0		Famous Anus	give me some points so I can change to arach\
+3		xWaNg	lemme in
+0		Famous Anus	^
+6	~CRstuds	Noto+	 doh wrong chat
+3		~Guest49	should join one fast :
+2	Famous Anus	7hm-	*points 10000000
+5			Point adjustment made.
+3		xWaNg	F12 sint working
+3		xWaNg	F12 sint working
+2		~Guest66	team?
+2	Stabbed	7hm-	*unspec Mafia
+2	~Guest66	7hm-	*team mafia
+0		~Guest4	lmao
+0		~Guest4	that enuf?
+0		xWaNg	F12 isnt workign
+2		acid	i got time to go smoke real quick?
+0		xWaNg	You are currently not allowed to enter the game.
+2	acid	7hm-	yeah
+0		Atap	Do they give mvps of game here at the end?
+0		Atap	mvps
+2		acid	k
+0		~Guest4	duh
+6	inc	Melov	<< Entering Chat >>
+2		acid	brb
+0		Noto+	You are currently not allowed to enter the game.
+0		~Guest93	duh
+5			NOTICE: 5 minutes remaining.
+0		Noto+	stole yo thunda wanger
+0		7hm-	*arena Captains want to shorten the timer to 1 minutes?
+5			Captains want to shorten the timer to 1 minutes?
+0		Atap	yes
+0		7hm-	*arena minute*
+5			minute*
+6	inc	Melov	<< Leaving Chat >>
+0		Vess	aye
+6	inc	Melov	<< Entering Chat >>
+0		~Guest93	1 minuteS :D
+0		xWaNg	stole ur mom
+8			Homus(0) killed by Theos
+0		xWaNg	kaakka
+0		xWaNg	pwtn
+6	inc	Melov	<< Leaving Chat >>
+0		7hm-	haha
+6	inc	Melov	<< Entering Chat >>
+6	inc	Melov	<< Leaving Chat >>
+6	crleague	Soup!	<< Leaving Chat >>
+6	~rbl	Soup!	<< Leaving Chat >>
+6	inc	Melov	<< Entering Chat >>
+0		Noto+	hahaha  you late   2 min reply
+0		Noto+	nt
+0		xWaNg	nt
+0		Sayne_	Hey mafia 4 said hes a legend and to ask u
+0		xWaNg	i was raping ur mom
+0		Stabbed	i win rally
+0		xWaNg	pwtn
+0		Atap	skip timer?
+0		Rally Girl	lol
+0		Stabbed	first to make it through both wins
+5			Player Info: ~Guest66  Squad: 
+5			~-    PING Current=90 ms  Average=90 ms  Low=70 ms  High=120 ms  Last=90 ms
+5			~-    PACKET LOSS  Unknown at this time.
+0		~Guest4	Hey rally, am i good at rb???
+0		Stabbed	I WIN
+0		~Guest4	its piar
+5			IDENTIFY ~Guest4=The Piar Prodigy
+0		Rally Girl	:P
+2		acid	back
+6	inc	Melov	<< Leaving Chat >>
+2	acid	7hm-	k
+0		~Guest4	vess is sayin he dont kno me
+2	acid	7hm-	can you start this?
+6	inc	USL 911 Medic[Ref]	<< Leaving Chat >>
+2		acid	ya need grant though
+0		Rally Girl	Hiya piarew
+2	acid	7hm-	make sure you get the timer done right
+2	acid	7hm-	*grant
+0		~Guest4	:)
+2		acid	of course =P
+6	sEXXiE	Thor	<< Entering Chat >>
+2	acid	7hm-	k
+2		acid	havent had a complaint yet =)
+0		Vess	I dont?
+6	inc	911 Combat Engineer	<< Entering Chat >>
+6	inc	Melov	<< Entering Chat >>
+0		7hm-	*arena Acid is taking over reffing for the rest of this match.  Please direct all sub stuff to him. -7hm
+5			Acid is taking over reffing for the rest of this match.  Please direct all sub stuff to him. -7hm
+0		7hm-	?playerchart
+6	~rbl	SCREAM01	i think the break should be only 5mins  10 is too long
+0		~Guest4	woot go acid
+0		Krazikarl	DONT SCREW UP NEWB ACID
+0		Krazikarl	IM WATCHING YOU
+0		~Guest4	lol
+6	~CRStuds	xWaNg	<< Leaving Chat >>
+6	~rbl	7hm-	it's there in case we need it
+0		acid	AND IM IGNORING U AS ALWAYS KK
+6	~rbl	7hm-	there are sometimes problems
+0		~Guest4	kk lookin over the shoulder at the internet cafe
+6	~rbl	acid	scramble off and locked alrdy right
+6	~rbl	SCREAM01	k
+0		~Guest93	lol, friends huh?
+6	~rbl	7hm-	captains can ask to shorten it if everything is set right
+6	~rbl	7hm-	yes
+0		~Guest4	93, u dice?
+6	~rbl	acid	yup
+6	~rbl	7hm-	remember, when it hits one minutes, do endgame
+6	~rbl	7hm-	minute
+6	~rbl	acid	i know =P
+0		~Guest93	no..
+0		~Guest4	k
+0		~Guest4	he left
+6	~rbl	7hm-	and both of you email me your logs and charts
+6	~rbl	7hm-	7hm@nmebase.net
+6	~rbl	7hm-	thanks
+6	~rbl	SCREAM01	ok
+6	~rbl	7hm-	ill be afk for the next little bit
+6	~d'haran	F l a r e	<< Entering Chat >>
+9			Entering: SS41
+9			Entering: F l a r e
+0		~Guest4	ral, u had a kid while u were gone, rigth?
+0		Lunatic	acid is the worst ref
+6	sEXXiE	Thor	<< Leaving Chat >>
+5			!acid: *endgame
+5			Individual Best
+5			~_   Most Kills (1):  Theos
+5			~_   Most Deaths (1):  Homus
+5			!MVP-1st (21):  Theos
+5			Team Stats
+5			~_   Rift Force: Kills=1  Deaths=1  Catches=0  Steals=0  Fumbles=0  Passes=0  Saves=0  Pinches=0  Carry-Time=0  MVP=18  PowerIndex=387
+5			~_   Mafia: Kills=0  Deaths=0  Catches=0  Steals=0  Fumbles=0  Passes=0  Saves=0  Pinches=0  Carry-Time=0  MVP=0  PowerIndex=731
+5			#Team Statistics Breakdown
+5			!_   1st (K=1 D=1):  Rift Force
+5			~_   Most Deaths (1):  Rift Force
+5			#Individual Statistics Breakdown
+5			!_   1st (K=1 D=0):  Theos
+5			~_   Most Deaths (1):  Homus
+5			NOTICE: 1 minute remaining.
+5			!acid: *arena &Go when the timer reaches 0 and the game restarts. -acid
+5			&Go when the timer reaches 0 and the game restarts. -acid
+0		~Guest4	thats what i heard
+6	sEXXiE	Thor	<< Entering Chat >>
+5			!acid: *timer reset
+6	~rbl	SCREAM01	geting rdy for pc2
+6	inc	911 Combat Engineer	<< Leaving Chat >>
+6	inc	911 Combat Engineer	<< Entering Chat >>
+0		Vess	\//At Greens -K4-
+0		~Guest93	lol nice macro
+0		Atap	gl
+5			Game started
+5			!acid: *arena &GO GO GO!!!  Good luck to both teams -acid
+5			&GO GO GO!!!  Good luck to both teams -acid
+5			!acid: *timer 20
+0		~Guest4	GO!
+6	sEXXiE	Thor	<< Leaving Chat >>
+6	sEXXiE	Medic	<< Entering Chat >>
+6	sEXXiE	Medic	<< Leaving Chat >>
+9			Entering: babylon5
+6	~rbl	SCREAM01	k  done
+6	sEXXiE	Medic	<< Entering Chat >>
+6	~rbl	acid	dont have to announce it..it's cool =)
+6	crleague	DUCK KILL@	<< Entering Chat >>
+8			Atap(101) killed by Rally Girl
+6	~rbl	SCREAM01	just letting you no  :)   
+8			Theos(101) killed by Rally Girl
+0		Atap	whoa
+6	crleague	DUCK KILL@	<< Leaving Chat >>
+5			!acid: *setscore -100,-100
+8			Sayne_(101) killed by dizzeguy
+6	crleague	DUCK KILL@	<< Entering Chat >>
+8			Vess(101) killed by Stabbed
+6	~rbl	acid	what's score
+6	~rbl	acid	5-1?
+5			Enemy Goal=dizzeguy  Team=Mafia  (assist: Rally Girl)
+5			SCORE:  Rift Force=-100  Mafia=-99
+6	~d'haran	F l a r e	<< Leaving Chat >>
+8			Theos(10) killed by Rally Girl
+6	~rbl	SCREAM01	6-1 now
+6	~crstuds	xWaNg	<< Entering Chat >>
+5			!acid: *arena 6-1 Mafia
+5			6-1 Mafia
+6	~rbl	acid	scrolled up to check
+8			Stabbed(110) killed by Vess
+6	crleague	Lunatic	<< Leaving Chat >>
+5			!SCREAM01: *arena & dizz with a Choke Slam 6-1 Mafia
+5			& dizz with a Choke Slam 6-1 Mafia
+5			!acid: *setscore -99,-94
+8			Rally Girl(121) killed by Sayne_
+8			Vess(36) killed by Stabbed
+8			Stabbed(14) killed by Vess
+8			Blood(100) killed by Sayne_
+6	inc	Melov	<< Leaving Chat >>
+3		~Guest49	i hate the score restting between halfes.. y not just go on with -94  -99 ?
+5			Enemy Goal=Famous Anus  Team=Mafia  (assist: Blood)
+5			SCORE:  Rift Force=-99  Mafia=-93
+6	crleague	USS-San Fransisco	<< Entering Chat >>
+5			!acid: *arena 7-1 Mafia
+5			7-1 Mafia
+0		Stabbed	scream to never announce again
+0		Sayne_	luky
+9			Entering: USS-San Fransisco
+0		Agent K1	ya...nice choke slam dizze
+6	inc	Melov	<< Entering Chat >>
+0		~Guest4	lol
+3		acid	are u looking at score board
+3		acid	=P
+3		USS-San Fransisco	yes
+8			Stabbed(18) killed by Homus
+5			!SCREAM01: *arena & that was a Micman Slam from FA   7-1 Mafia
+5			& that was a Micman Slam from FA   7-1 Mafia
+8			Homus(102) killed by dizzeguy
+3		acid	i was afk and didnt know score before half so had to put -100 -100
+0		Famous Anus	^
+0		Vess	rofl, fa looks like a fucking fag
+0		USS-San Fransisco	haha
+0		Krazikarl	hahhaa, you tell him
+3		~Guest49	yeh u changed it :) but strictly by rules i heard we were not allowed too, are we?
+8			Vess(27) killed by Blood
+3		acid	until im told not to that's what i'll do
+8			dizzeguy(120) killed by Homus
+3		acid	always did that when reffing
+8			Atap(64) killed by Famous Anus
+8			Famous Anus(106) killed by Vess
+3		~Guest93	lol a ref that goes afk
+0		Famous Anus	dfasdf
+0		Agent K1	haha
+8			Vess(25) killed by Rally Girl
+3		~Guest49	its ways clearer
+3		acid	i wasnt reffing the match
+8			Theos(60) killed by Blood
+3		~Guest49	^^
+3		acid	i just took over
+0		Famous Anus	you cant spell fag without the fa
+0		Rally Girl	lol omg
+0		acid	lol
+0		Krazikarl	TO THE GREENS
+0		SCREAM01	TO THE BATCAVE
+0		Krazikarl	THERE ARE SOME GREENS THAT HAVNET BEEN PICKED UP YET
+0		Krazikarl	MAKE SURE YOU GET THEM TOO
+0		babylon5	lol
+0		SCREAM01	GO BACK GO BACK
+9			Entering: Cicatriz
+3		acid	they'll score here
+8			dizzeguy(34) killed by Atap
+8			Famous Anus(30) killed by Atap
+0		dizzeguy	lol
+3		SCREAM01	what what
+0		Cicatriz	:88;I OWNED THAT FUCKING ARENA MAN
+8			Stabbed(51) killed by Vess
+8			Blood(77) killed by Homus
+3		SCREAM01	HAHAHHA
+8			Rally Girl(75) killed by Sayne_
+5			Enemy Goal=Atap  Team=Rift Force  (assist: Vess)
+5			SCORE:  Rift Force=-98  Mafia=-93
+3		acid	see =)
+0		~Guest93	lloll
+3		~Guest49	$$
+5			!acid: *arena 7-2 Mafia
+5			7-2 Mafia
+3		7hm-	nice
+0		~Guest93	come back!!
+5			!SCREAM01: *arena &  Atap with another goal  shame on you Mafia    7-2 Mafia
+5			&  Atap with another goal  shame on you Mafia    7-2 Mafia
+8			Theos(46) killed by dizzeguy
+3		Agent K1	give atap mvp or else
+8			Blood(20) killed by Atap
+3		acid	i think it has to be from winning team =\
+3		~Guest93	lol nice pass
+3		7hm-	you shoud do what acid did with the score gg
+3		~Guest49	aw, that sounds unfair against rf
+8			Vess(63) killed by Famous Anus
+8			Blood(8) killed by Homus
+3		acid	 ?
+8			Famous Anus(44) killed by Homus
+8			Theos(16) killed by Rally Girl
+3		SCREAM01	score again
+8			dizzeguy(45) killed by Sayne_
+3		acid	nope
+5			Goal saved by Stabbed
+8			Blood(11) killed by Homus
+8			Homus(105) killed by Rally Girl
+0		7hm-	oooo
+3		~Guest49	the one time i reffed i did :)
+0		~Guest93	almost
+8			Vess(12) killed by Rally Girl
+5			!SCREAM01: *arena & and Stabbed saves
+5			& and Stabbed saves
+3		~Guest49	but i heard from some1 U had said we shouldnbt :p
+0		Atap	thought i had that shit
+0		Krazikarl	YOU DIDNT
+3		7hm-	they were really patient
+3		acid	not from me =)
+0		~Guest93	and its almost 2-8 then
+6	crleague	POLLUTANT	<< Leaving Chat >>
+8			dizzeguy(24) killed by Sayne_
+0		dizzeguy	cash
+8			Vess(20) killed by Blood
+8			Rally Girl(71) killed by Homus
+8			Stabbed(62) killed by Sayne_
+8			Homus(30) killed by Rally Girl
+0		SCREAM01	lol
+6	inc	911 Combat Engineer	<< Leaving Chat >>
+3		acid	7hm
+3		7hm-	yo
+3		Cicatriz	Is dizzeguy a CR regular?
+6	inc	911 Sarge	<< Entering Chat >>
+3		acid	mvps are from winning team only correcy?
+3		7hm-	yes
+6	SeXXiE	KaB00m	<< Entering Chat >>
+8			Atap(100) killed by Blood
+3		acid	correct*
+0		Atap	wtf
+3		7hm-	no
+9			Entering: GMP-JLP
+3		acid	ok
+3		7hm-	refs pick one too
+3		Cicatriz	ah, thought so. so him in BBX a bunch.
+8			Homus(15) killed by dizzeguy
+3		7hm-	yeah
+3		SCREAM01	I PICK FA FOR THAT MICMAN SLAM
+3		~Guest93	wtf is that bbx?
+3		~Guest49	he means some1 of los=ing team can be mvp too? or didnt u mean that acid :/
+3		acid	boom ball x
+8			Theos(51) killed by Stabbed
+3		acid	yes i meant that
+3		Cicatriz	oh, yeah. Infantry
+0		Krazikarl	ALL STAR
+3		7hm-	they have fairly good d
+8			Rally Girl(33) killed by Vess
+3		7hm-	improving at least
+8			Vess(36) killed by Blood
+3		acid	nice
+8			Famous Anus(60) killed by Homus
+3		7hm-	way better than first half
+3		SCREAM01	trick pass
+3		SCREAM01	lolz
+0		Famous Anus	silence KK
+3		~Guest49	less greening :p
+0		7hm-	*specqueit
+3		acid	more like pass like that or turnover pass
+3		Cicatriz	7, do you know offhand who Weakbow plays tomorrow?
+0		babylon5	owned
+3		acid	=)
+0		Krazikarl	NO
+0		7hm-	*specquiet
+5			Spectators can only talk to other spectators now (except on squad/chat channels)
+3		7hm-	bt
+3		7hm-	my squad
+3		~Guest93	lol make a third "half" and then even score :p
+3		Cicatriz	ahahaha
+0		7hm-	*arena Specquiet has been turned on
+3		Cicatriz	this is gonna be fun
+5			Specquiet has been turned on
+0		Famous Anus	$
+8			Vess(18) killed by Rally Girl
+6	crleague	Lady Stardust	<< Leaving Chat >>
+3		Cicatriz	Dins here. we're gonna get rolled. please let me score
+3		7hm-	hoho no
+8			Homus(44) killed by Stabbed
+9			Entering: ~Guest111
+3		~Guest93	Oo
+3		SCREAM01	ololololololo
+3		Cicatriz	1. ONE.
+0		Famous Anus	^
+3		Cicatriz	Please for god's sake
+6	crleague	Lady Stardust	<< Entering Chat >>
+3		~Guest111	is it best of 3?
+5			!acid: *arena just under 10 mins remaining in game -acid
+5			just under 10 mins remaining in game -acid
+3		7hm-	lol k if you score, its cuz we let you
+8			Vess(12) killed by Blood
+3		acid	lol
+3		Cicatriz	I can accept that.
+3		Cicatriz	you have yourself a deal.
+3		~Guest93	rofl
+3		acid	they wont let you though =(
+6	SeXXiE	KaB00m	<< Leaving Chat >>
+3		~Guest111	is this match best of 3?
+3		acid	no 111...it isn't best of 3
+3		7hm-	no
+3		~Guest49	but mafia is doing some leet fumbles :s
+3		7hm-	its 2 halfs
+3		7hm-	mvp?
+3		~Guest111	o ok
+3		Cicatriz	Maybe I'll accidentally score. If I was born by accident, I can score by accident
+3		7hm-	i'd say FA
+8			Theos(52) killed by Blood
+3		~Guest111	 i say dizze
+3		Krazikarl	i say me
+3		acid	i wasnt really watching first half
+3		~Guest93	FA had a very nice goal any ways
+3		7hm-	sayne is the best from rf
+8			Theos(11) killed by Stabbed
+3		~Guest93	atap is :p
+8			Rally Girl(62) killed by Sayne_
+8			Homus(37) killed by dizzeguy
+8			dizzeguy(96) killed by Homus
+6	inc	The_Dominion	<< Entering Chat >>
+6	~CRStuds	The_Dominion	<< Entering Chat >>
+3		SCREAM01	see that tanking from stabbed
+8			Stabbed(100) killed by Vess
+3		Krazikarl	the bio was a bit close
+8			dizzeguy(9) killed by Vess
+8			Atap(90) killed by Famous Anus
+3		Agent K1	the bio was direct and he hit at least 3 shrap and took 200 dmg
+8			Vess(52) killed by Famous Anus
+3		7hm-	theos is pretty useless as zag
+3		SCREAM01	^
+8			Stabbed(11) killed by Theos
+6	sEXXiE	Medic	<< Leaving Chat >>
+3		7hm-	sayne has the best positional play though
+3		7hm-	on d at least
+8			Theos(27) killed by Rally Girl
+3		7hm-	he's always where he needs to be
+3		Cicatriz	hey! Blood was also in BBX bitching about strafe!
+8			Stabbed(9) killed by Vess
+8			Vess(14) killed by Rally Girl
+6	sEXXiE	Pn0iX5i0	<< Entering Chat >>
+3		Agent K1	FA wants to score so bad
+5			Enemy Goal=Rally Girl  Team=Mafia  (assist: Famous Anus)
+5			SCORE:  Rift Force=-98  Mafia=-92
+3		7hm-	cept that time :)
+5			!acid: *arena 8-2 Mafia
+5			8-2 Mafia
+3		~Guest111	nice
+8			Blood(105) killed by Homus
+8			Homus(54) killed by Blood
+3		~Guest93	how many sprayers are u allowed to have in team?
+3		Agent K1	atta girl
+3		acid	2
+3		acid	only 1 of them can be a zag
+5			!SCREAM01: *arena & and Rally makes the game look sexy by scoring  8-2 Mafia
+5			& and Rally makes the game look sexy by scoring  8-2 Mafia
+8			Vess(14) killed by dizzeguy
+8			Sayne_(127) killed by Famous Anus
+3		7hm-	i said what
+3		acid	nice
+3		7hm-	8-2 or 9-2
+5			Enemy Goal=Famous Anus  Team=Mafia  (assist: dizzeguy)
+5			SCORE:  Rift Force=-98  Mafia=-91
+8			Theos(36) killed by Rally Girl
+0		7hm-	no more scoring!
+5			!acid: *arena 9-2 Mafia
+5			9-2 Mafia
+3		~Guest49	yeh, fa for mvp :)
+0		Stabbed	ok
+5			!SCREAM01: *arena &  What... FA again  9-2 Mafia
+5			&  What... FA again  9-2 Mafia
+6	~crstuds	xWaNg	<< Leaving Chat >>
+8			Atap(57) killed by Rally Girl
+8			Blood(38) killed by Atap
+3		7hm-	how many points for fa this game?
+3		~Guest49	3?
+8			Vess(34) killed by Famous Anus
+8			dizzeguy(64) killed by Homus
+3		~Guest49	n sure
+0		dizzeguy	lol
+3		7hm-	3 this half
+8			Homus(45) killed by Rally Girl
+3		7hm-	and at least 2 last half
+5			!SCREAM01: *arena & heh that was a sideways Micman Slam lmao
+5			& heh that was a sideways Micman Slam lmao
+3		7hm-	a point being an assist or goal
+3		~Guest49	oh
+5			NOTICE: 5 minutes remaining.
+3		7hm-	no!
+6	[mog] [squad]	SLS[Ref] Kaga	<< Leaving Chat >>
+3		7hm-	good
+8			Theos(29) killed by Rally Girl
+8			Rally Girl(103) killed by Vess
+3		~Guest93	choke!!
+3		acid	nice
+8			Blood(21) killed by Homus
+0		Famous Anus	that was a krazikarl
+3		Agent K1	i like to call that
+3		Agent K1	an acid
+3		SCREAM01	lol
+3		~Guest49	he just showed some sportmanship :p
+3		acid	lol
+8			Stabbed(68) killed by Atap
+8			Sayne_(53) killed by Famous Anus
+8			Famous Anus(121) killed by Homus
+0		Stabbed	sideways micman slam? kind of like how asian girls have sideways vaginas
+3		SCREAM01	lol
+0		Famous Anus	kind of
+3		acid	i dont take opinions from people that have 2 or more of their macros refering to me =P
+3		acid	sorry agent
+8			Vess(44) killed by Blood
+3		Agent K1	np
+8			Homus(48) killed by Stabbed
+8			Blood(24) killed by Atap
+8			Sayne_(12) killed by dizzeguy
+6	crleague	IAAT	<< Entering Chat >>
+9			Entering: IAAT
+3		acid	aw they coulda had that
+3		7hm-	ech theos :/
+3		Agent K1	i knew it
+3		acid	^^
+3		~Guest93	Y SHOTT
+8			Blood(10) killed by Homus
+8			Homus(12) killed by Blood
+8			Theos(32) killed by Blood
+3		~Guest93	shoot*
+3		Krazikarl	thats all rally does
+6	~crstuds	xWaNg	<< Entering Chat >>
+3		7hm-	they're pretty patient most of the time
+8			dizzeguy(50) killed by Vess
+3		Krazikarl	is wait for idiots to shoot it into her
+6	[mog] [squad]	Sonic Flare	<< Entering Chat >>
+8			Atap(69) killed by Stabbed
+3		7hm-	i dunno kk
+8			Vess(26) killed by Rally Girl
+3		7hm-	she's doing soemthing right
+3		7hm-	16-6
+5			!acid: *arena &3 minutes remaining...current score is 9-2 Mafia
+5			&3 minutes remaining...current score is 9-2 Mafia
+3		Krazikarl	every time she was in against good squads in preseason
+3		Krazikarl	mafia got raped
+8			Rally Girl(49) killed by Homus
+3		Krazikarl	badly
+3		~Guest93	RF GOT THIS EZ
+3		7hm-	yeah, but that's the case with everyone they played
+8			Blood(25) killed by Theos
+8			Atap(15) killed by Stabbed
+3		7hm-	you could just as well blame fa or zig
+3		Krazikarl	no, they always did better when she wasnt in
+8			dizzeguy(22) killed by Theos
+3		acid	lol
+3		Krazikarl	when stabbed played they did better
+0		dizzeguy	haha
+8			Stabbed(65) killed by Vess
+3		SCREAM01	hahah
+0		Stabbed	aw
+3		SCREAM01	mirved
+3		Krazikarl	mafia game with here in they went down 0-2
+3		Krazikarl	with stabbed in the went 2-1
+0		Stabbed	like that steal?
+6	~rbl	7hm-	make sure you spec all the second the timer ends
+8			Famous Anus(55) killed by Atap
+3		Krazikarl	NM was similer
+0		Stabbed	all planned my friend
+3		acid	they changed more than her and stabbed
+6	~rbl	acid	end game first no?
+6	[mog] [squad]	kaga	<< Entering Chat >>
+8			Atap(32) killed by dizzeguy
+8			Theos(52) killed by Blood
+8			Vess(45) killed by dizzeguy
+6	~rbl	Agent K1	when u spec all
+3		Krazikarl	they had horrible defensive problems and she is a horrible defender
+6	~rbl	Agent K1	the game ends
+8			dizzeguy(33) killed by Homus
+0		Theos	z
+3		7hm-	damn
+6	~rbl	acid	o ya
+3		7hm-	nice moves by sayne to get away from that
+3		Krazikarl	clb and others were not happy about it
+3		~Guest93	YUP
+6	~rbl	acid	stats will be left at score current game still though right?
+3		7hm-	not nice moves by homus :)
+8			Homus(65) killed by Famous Anus
+6	~rbl	7hm-	if you spec all, yes
+6	~rbl	acid	k
+6	~rbl	7hm-	if you restart, no
+5			NOTICE: 1 minute remaining.
+8			Sayne_(70) killed by dizzeguy
+0		Sayne_	wtf
+9			Entering: C0MBO
+0		Sayne_	i never hit that
+3		~Guest93	sayne dodged very well there
+8			Theos(19) killed by dizzeguy
+3		7hm-	maybe kk
+8			Atap(21) killed by Stabbed
+3		7hm-	but she's doing well this game
+3		Krazikarl	its against rift force
+3		7hm-	ewwwww
+0		Stabbed	make it interesting
+3		Krazikarl	who cares?
+8			Vess(27) killed by Famous Anus
+3		~Guest93	lol right
+3		7hm-	every game counts
+8			Famous Anus(51) killed by Homus
+8			Sayne_(17) killed by dizzeguy
+8			Atap(13) killed by Famous Anus
+0		Sayne_	watever
+0		Sayne_	gg..
+0		dizzeguy	gg guys
+3		Krazikarl	you could put buzzzy in there and he wouldnt have bad stats
+0		Atap	gg
+0		Stabbed	gg
+6	crleague	Lady Stardust	<< Leaving Chat >>
+5			NOTICE: Timer expired
+5			!acid: *spec all
+5			Too few players, game aborted
+5			Individual Best
+5			~_   Most Goals (2):  Famous Anus
+5			~_   Most Assists (1):  dizzeguy, Famous Anus, Rally Girl, Vess, Blood
+5			~_   Most Kills (17):  Homus
+5			~_   Most Deaths (18):  Vess
+5			~_   Most Catches (14):  dizzeguy
+5			~_   Most Steals (4):  Rally Girl, Vess
+5			~_   Most Fumbles (5):  Stabbed
+5			~_   Most Passes (13):  dizzeguy, Famous Anus, Rally Girl
+5			~_   Most Saves (1):  Stabbed
+5			~_   Longest Carry-Time (136 seconds):  dizzeguy
+5			!MVP-1st (1017):  Rally Girl
+5			!MVP-2nd (89.18%):  Famous Anus
+5			!MVP-3rd (76.11%):  dizzeguy
+5			Team Stats
+5			~_   Rift Force: Kills=45  Deaths=59  Catches=38  Steals=12  Fumbles=11  Passes=37  Saves=0  Pinches=0  Carry-Time=405  MVP=2498  PowerIndex=0
+5			~_   Mafia: Kills=59  Deaths=45  Catches=57  Steals=10  Fumbles=12  Passes=52  Saves=1  Pinches=0  Carry-Time=538  MVP=3668  PowerIndex=0
+5			#Team Statistics Breakdown
+5			!_   1st (K=59 D=45):  Mafia
+5			!_   2nd (K=45 D=59):  Rift Force
+5			~_   Most Deaths (59):  Rift Force
+5			#Individual Statistics Breakdown
+5			!_   1st (K=17 D=11):  Homus
+5			!_   2nd (K=16 D=7):  Rally Girl
+5			!_   3rd (K=12 D=10):  dizzeguy, Blood
+5			~_   Most Deaths (18):  Vess
+3		7hm-	disagreed
+3		~Guest111	gg
+3		7hm-	they're not buzzy
+3		Famous Anus	gg guys
+3		Atap	is there mvps in here or no?
+3		~Guest93	yup
+3		~Guest111	DIZZE 4 MVP!
+3		Atap	who picks them
+5			!acid: *arena &Final score 9-2 Mafia
+5			&Final score 9-2 Mafia
+3		~Guest66	winning capt and ref
+0		7hm-	*arena Winning captain please pm me with MVP -7hm
+5			Winning captain please pm me with MVP -7hm
+3		~Guest93	ref will tll
+5			!acid: *arena &Good game guys
+5			&Good game guys
+6	~rbl	7hm-	who should be mvp?
+6	~rbl	7hm-	i say fa
+9			Entering: Edd87
+6	~rbl	acid	same
+9			Entering: babylon5
+6	~rbl	SCREAM01	agreed
+3		Krazikarl	5 passes 5 fumbles
+3		Krazikarl	well played stabbed
+3		~Guest93	lol
+3		Vess	stats recorded or w/e?
+3		Agent K1	hah
+2		Atap	Famous Anus
+2		Stabbed	Stabbed
+3		Vess	_?quit
+3		acid	yes stats recorded
+2		Atap	i didnt get stats :(
+2		Atap	mb
+3		Edd87	Woot Rift Force
+2	Atap	7hm-	sok
+2	Atap	7hm-	we got em this time
+0		7hm-	*arena Stats should be up around monday.
+5			Stats should be up around monday.
+3		SCREAM01	We need a RBTV
+9			Entering: ~Guest111
+3		Agent K1	bet you guys would have a lot more fun whether you win or lose if u drop vess
+3		~Guest66	We need a new commentator
+0		7hm-	*arena I know CR guys are used to second after the match stats, but we're going to be doing the slower SL style stuff, sorry :)
+5			I know CR guys are used to second after the match stats, but we're going to be doing the slower SL style stuff, sorry :)
+3		Blood	yes, RB would be more fun to watch then CR,  especially since camera will always be on the action
+3		SCREAM01	what
+3		acid	lol agent
+2		dizzeguy	Famous Anus
+6	sEXXiE	Pn0iX5i0	<< Leaving Chat >>
+3		Rally Girl	Seeya later everyone
+0		7hm-	*arena Everyone agrees, Famous Anus was the MVP.
+5			Everyone agrees, Famous Anus was the MVP.
+3		babylon5	 bye
+3		Famous Anus	bye
+0		7hm-	*arena GJ FA
+5			GJ FA
+3		Krazikarl	IM THE MVP
+0		7hm-	except zig, but he sucks
+3		Famous Anus	thanks
+5			!acid: *arena &congrats FA! -acid
+5			&congrats FA! -acid
+3		~Guest66	whos fa
+6	CRLeague	Rally Girl	<< Leaving Chat >>
+3		Stabbed	rally
+3		acid	famous anus
+3		Stabbed	ok go
+6	~rbl	7hm-	make sure you record the mvp
+3		Sayne_	THey dont have mvp for both teams ?
+6	~rbl	acid	it's in log
+5			!SCREAM01: *arena & only because he did a micman slam  - SCREAM01
+5			& only because he did a micman slam  - SCREAM01
+6	~rbl	acid	closing log
+3		Krazikarl	no he didnt
+3		babylon5	who was MVP on other team
+3		Krazikarl	you newbs dont know what micman slams are
+3		Atap	who got mvps?
+3		babylon5	bitches show some respect!
+3		babylon5	stupid acid
+3		acid	there are 2 MVPs
+3		Atap	mvps for both teams?
+9			Entering: ~Guest111
+3		Atap	or for the match'
+3		acid	winning capt chosen
+3		7hm-	just the one
+3		Atap	oh
+3		acid	and ref
+3		7hm-	winning captain picks mvp from either team
+3		Krazikarl	i was mvp of spec
+3		Atap	well thats obviously biased :)
+3		Sayne_	^
+3		dizzeguy	u are mvp of my nuts
+3		7hm-	refs pick one too, if its the same, doesnt matter, if its different, they both are mvp
+3		Famous Anus	you are the mvp of my heart kk
+9			Entering: ~Guest97
+3		~Guest66	ref picks one too
+3		Atap	Have mvp for each team
+3		~Guest66	thats not biased
+3		Sayne_	U should have 1 mbp for each team
+6	~rbl	SCREAM01	ok dying for crap  i'll e-mail you the stuff in a min
+3		~Guest93	FA from mafia and Sayne from RF
+3		Sayne_	mvp*
+3		acid	i agree sayne
+3		7hm-	definately sayne

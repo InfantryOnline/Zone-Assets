@@ -1,0 +1,72 @@
+v5,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Conscript","1:Starting Classes","@150&!@500","Civilian drafted into the army and undergoing training in the military academy."
+
+v5,2,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Cadet","1:Starting Classes","1&(@500&!@1000)","Soldier that has gained endurance and other strengths through training in the academy."
+
+v5,3,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Graduate","1:Starting Classes","(2&@1000&!@1500)|@50000","Soldier that has passed all the physical training and is almost ready for the frontlines.  Advance to 2:specialized Classes"
+
+v5,4,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Infantry","2:Specialized Classes","3&@1500","Infantry are the all around warriors on the battlefield. From light machine guns to automatic pistols, the infantryman is the most versitle combatant, making them the most common soldier on the battlefield. Advance to 3:Infantry Classes."
+
+v5,5,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"BlackOps","2:Specialized Classes","3&@15000","BlackOps are the undercover warriors on the battlefield. Trained for stealthy operations and use of advanced technology. Advance to 4:BlackOps Classes."
+
+v5,6,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Supporter","2:Specialized Classes","3&@2000","Trained to support the main forces in many ways. Advance to 5:Supporter Classes"
+
+v5,7,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Heavy Weapons","3:Infantry Classes","4&@2500","The Heavy Weapons trooper is the large scale destruction machine of the battlefield. They carry some of the larger caliber slug weapons and mid sized explosives."
+
+v5,8,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Demolitions Expert","3:Infantry Classes","7&(@4000&!9)","The Demolitions Expert is a master of explosive force. Is a critical artilleryman in an assault, but can also be the key factor in your squad surviving a run in with a tank."
+
+v5,9,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nova Trooper","3:Infantry Classes","7&(@6000&!8)","The Nova Trooper is a master of high-tech energy based weaponry. Is great for close combat or in closed spaces."
+
+v5,10,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hover Trooper","3:Infantry Classes","4&@10000","Hover Troopers are a combination assault/light infantry used as scouts and raiders. Capable of using most personal weapons and moving faster than most other Soldier types, the Hover Troopers are also trained to fight with special Jet Packs and Boards."
+
+v5,11,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Skirmisher","3:Infantry Classes","10&(@10000&!12)","Master of Jet Boards with access to a wider variety of close-range weaponry. Very fast but hard to handle, is great for scouting and weaking enemy soldiers."
+
+v5,12,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Drop Trooper","3:Infantry Classes","10&(@10000&!11)","Master of Jet Packs with access to a variety of long-range weaponry."
+
+v5,13,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Corporal","3:Infantry Classes","4&@25000","Officer ranking just below a Sergeant. Leader of a battalion of soldiers equipped with stronger weapons and equipment."
+
+v5,14,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sergant","3:Infantry Classes","13&@50000","Officer ranking just below a Captain. Leader of a regiment of soldiers equipped with stronger armor and equipment."
+
+v5,15,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Captain","3:Infantry Classes","14&@75000","Officer ranked above Sergeant. Has high authority in the military and is equipped advanced equipment."
+
+v5,16,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Commando","4:BlackOps Classes","5&@30000","Soldier trained at stealth tactics and can quickly dispatch the enemy."
+
+v5,17,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Infiltrator","4:BlackOps Classes","16&(@60000&!18)","Soldier trained at breaking through enemy lines and ambushing enemies. Restricted to energy based weapons."
+
+v5,18,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Assassin","4:BlackOps Classes","16&(@90000&!17)","Soldier trained at ambushing and dispatching enemies quickly. Restricted to short-ranged weapons."
+
+v5,19,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Brawler","4:BlackOps Classes","5&@20000","Soldier trained at close he distance between the enemy and saturates the area with covering fire."
+
+v5,20,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ninja","4:BlackOps Classes","19&(@28000&!21)","Soldier trained at close combat on hover boards."
+
+v5,21,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Spy","4:BlackOps Classes","19&(@34000&!20)","Soldier trained at stalking the enemy on a jet pack."
+
+v5,22,0,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Field Officer","4:BlackOps Classes","5&@20000","Officer of a special blackops unit."
+
+v5,23,0,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tatical Officer","4:BlackOps Classes","22&(@40000&!24)","Officer in charge of strategies and tactics."
+
+v5,24,0,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Squad Leader","4:BlackOps Classes","23&(@60000&!23)","Officer in charge of leading the squad throung enemy lines."
+
+v5,25,0,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Combat Medic","5:Supporter Classes","6&@3000","Combat Medics are Infantrymen that have been trained to use medical equipment on the battlefield. Though intended to support small squads, they are still very capable soldiers. A combat medic can make the difference between life and death in a skirmish."
+
+v5,26,0,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"BioChem Trooper","5:Supporter Classes","25&@6000","Equipped with advanced biological and chemical weaponry to disable enemy forces."
+
+v5,27,0,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Combat Engineer","5:Supporter Classes","6&@5000","Able to fortify areas and build small vehicles. Necessary in maintaining a base or vehicle."
+
+v5,28,0,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Siege Engineer","5:Supporter Classes","27&@10000","Able to build bunkers and large vehicles."
+
+v5,29,0,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Psionic","5:Supporter Classes","6&@4000","Special soldier that uses mental powers to attack and defend against the enemy."
+
+v5,30,0,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ritualist","5:Supporter Classes","6&@4000","Special soldier with the power to envoke powers through chants and rituals."
+
+
+v5,31,0,100,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"TEst","5:Supporter Classes","6&@4000",""
+
+
+
+
+
+
+
+
+
+

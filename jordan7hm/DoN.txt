@@ -1,0 +1,68 @@
+~1Overview~2
+The end of the world is near. The few countries left are in tourmoil and are in war with eachother with what is left of thier armies. There are few resources left. Each country is fighting for global dominance. The objective of each is to conquer. There is an objective at each countries home base. Capture all four objectives and your country wins.
+
+~1Introduction~2
+The very first thing you need to do is pick a class. Press F11 to get to the skills screen. 
+
+Now enter the game, by pressing F12. Decay Of Nations has a pretty basic class system. Choose your character class according to what role you want to play in the game. Character descriptions are provided below. You need ammo for most weapons here. To buy ammo or other goods press F10 to go to the store. At the store 
+
+~1Changing Teams~2
+There are no private teams allowed in Decay Of Nations so you have to be on an existing team. Public teams do not have passwords so leave the space blank. To change teams type:  ?team namehere:passwordhere
+
+~6Example:~2 ?team United States
+
+If there is no password, then type:  ?team namehere
+
+~6Example:~2 ?team Public1
+
+Then hit enter, and if the teams are not uneven, you'll be placed on that team.  
+
+~BNOTE:~B You may only change teams at one location, that is your home base.  Team changes are not permitted anywhere else.
+
+~1Team Work~2
+Team work is an important element in Decay of Nations.  To talk with your team type ' or // before each message.  Messages appearing in yellow are coming from your team.
+
+~6Example:~2 //Hi guys, this is a team message
+
+When you have the objective, be certain to tell your team both "I have the Flag!" and your coordinates. 
+
+~6Example:~2 //I have the Flag!  I'm at A2, come help!
+
+When someone on your team has an objective or needs help for another reason, use the coordinates on the top left corner of you mini map and get to them fast. 
+
+~1Macros:~2
+Macros are stored messages that you can recall with the touch of a button.  Type something in and hit Shift+ any FKey (F1, F2, F3, etc).  Then, to send that message, hold Shift+FKey and it'll be automatically sent.  Refer to Gambit's Command Listing to see all the commands you can use in your macros (Esc > Help > Gambit's Command Listing)
+
+~1Getting Cash:~2
+The best way to gain cash is to get the objectives and return them to your home base. Hold all flags for 90 seconds or have the most points at the end of the game.
+
+~1Auto Turrets:~2
+Auto Turrets can be made by a team and some spawn throughout the map, such as the turrets that spawn at the entrance to each base. The turrets that have auto-spawned at the entrance to each base can not be destryed. However turrets can not function below 100hp. Turrets can be re-programed for a certain amount of time by engineers.
+~6Item                          Accepts      Returns~2
+Armory                           Cash   The goods you have selected.
+
+~1Tips:~2
+~0-~2 You will always gain more cash and experience when you retrieve the objectives.
+~0-~2 Working together and progressing as a team is the best way to improve and get cash and experience.
+~0-~2 Always buy ammo at every death, this will ensure that you have ammo once you walk into the open.
+~0-~2 It's easier to kill someone when you have a teammate helping you.
+~0-~2 Use frag grenades to take out tank/turrets or to clear a confined area.
+
+~1Classes and thier Importance:~2
+
+~5Marine~2
+Marines are the most basic and most important part of your team. They can't carry weapons as large as the Heavy Class weaponry. But they are more agile and can use their weapons while moving.
+~P
+~5Medic~2
+Also a very vital part of your team. Since this is a high intensity zone, you can die very fast. So having full health and being able to take a few more hits can often make the difference. Medics use Medical Equipment to heal thier teammates. But Medical Equipment requires Medical Supplies which you must purchase from the store before use, so make sure you do that.
+~P
+~5Engineer~2
+Probably the most important and also complicated class for holding your base and continuing a steady cash flow. The Engineer class is identical to the engineer class in other zones. Engineers are capable of re-programming enemy turrets. They can also construct walls, turrets, sandbags, and gates to fortify your compound. They have a Repair kit that is helpful in repairing almost anything. 
+~P
+
+
+~5Vehicles~2     
+~4Anavrin- Has a spot for a driver complete with a flame thrower. Has a turret equipped with a flame thrower and mobile howitzer
+~P
+
+Last updated by: Nirvana06' 23, January 2007

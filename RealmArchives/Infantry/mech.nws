@@ -1,0 +1,148 @@
+~B~3Skirmish~2~B
+
+~B[SK] Battle of Kliest's Ridge~B
+~B[SK] Skirmish at Outpost Delta~B
+~B[SK] No Man's Land~B
+~B[SK] LZ Assault~B
+~B[SK] Boarding Action~B
+~B[SK] Small Unit Tactics~B
+~B[SK] Sniper School~B
+
+Overview:
+
+Skirmish is a game consisting of 2 teams trying to capture between 3 and 6 (depending on mission) static map locations.
+
+No Man's Land is the exception; NML the only objective is to shoot the enemy.
+
+Each game lasts 30 minutes or less.
+
+Each game can have between 3 and 6 flags to capture. (Except NML)
+
+Each team has up to 40 players.
+
+
+---------------------------------------------------------------------------------------------------
+The object is to find, capture, and hold between 3 and 6 flags at strategic points on the map.
+A team can win one of 2 ways, either by holding all flags for 20 seconds OR by having the most flags
+at the end of the game timer. 
+---------------------------------------------------------------------------------------------------
+
+
+~3~B[SaOD addendum] When you die, you will respawn near a flag that your team owns. There is a limit to it: THe more ppl near the flag
+in question, the less likely anyone will respawn there.  If you cant be placed, you will respawn at base.~B~2
+
+Use the keywords ?score or ?flags at game start to keep track of flags.
+
+Ranks
+
+Trooper		         5000
+Veteran Trooper 	  15000
+Squad Leader 	      25000
+Corporal		        50000
+Elite Corporal	       75000
+Sergeant                 100000
+Elite Sergeant 	     150000
+SubLieutenant 	     200000
+Lieutenant	           265000
+SubCommander	     350000
+Commander	         400000
+Elite Commander 	   450000
+Captain 		         525000
+Elite Captain 	       600000
+Storm Commander	 1000000
+Campaign Commander  1500000
+Lord Commander        2000000
+Storm Lord	          3000000
+
+Voice Macro's are EFFECTIVE. Dont be afraid to use them. Remember to use %coord to tell your map coordinates!
+___________________
+Voice Macro Sounds
+Bong #        says:
+22	Acknowledged
+23	Affirmative
+24	Attacking
+25	Defending
+26	Enemy Sighted
+27	Request Summon
+28     Under Attack
+
+Macro syntax (for you newbies) is //your message here %<bong number>
+					Ie  //I am under attack! %28
+
+
+
+
+*************Notes*****************
+
+*********November 8th, 2005
+
+Energy drain removed from all weapons.
+
+Flag Stats have been activated again.
+
+Ripper has Shotgun again.
+
+*********Further Updates October 26th, 2005
+
+Respawns will start with max ammo.
+
+LMG speed has been increased to match the Marine.
+
+Ripper Gun damage to players has been lowered to 15, to match the Marine.  It still does the same damage to vehicles.
+
+*********October 25th, 2005
+
+Sniper Rifle now does 79 damage, the earlier damage was simply overlooked when changing the stats.
+
+LAWs min range was lowered to that of the Assault Rifle.
+
+Rippers rounds were dropped to 30 from 50.
+
+Bullets should stop when they hit teammates, sorry for that.
+
+Flags spawn at 20 players now, but stats should stay recorded below that.
+
+
+*********October 24th, 2005
+
+Major changes done.
+
+Settings were changed to mirror the Skirmish League's current settings.
+
+Skins were changed to the "old" skins.  Scout is the only class with the Bughunt skins, as it has no original skin.
+
+Vehicles should not respawn, as I'm told they didn't before.
+
+Flags were changed to spawn when 30 players are there.  Before 30, it will be a deathmatch style zone.
+
+Some vehicles were changed from 60 players required to spawn to 50.
+
+Elites, Assault Troopers, Infantry, and Engineer have been removed.
+
+Mines have been removed.
+
+Vehicles only require 5000 experience to enter.
+
+Bounty added to match NML's.
+
+*********April 4th, 2005
+
+GL damage was adjusted.
+
+*********January 6th, 2004
+
+Sniper damage was lowered from 80/1 to 65/30
+
+Ripper Gunners now get shotgun shells after a respawn.
+
+Grenade Launcher splash radius was increased slightly
+
+Friendlies are now color coded on radar:
+
+Grunts=Light Blue
+Commanders=Green
+Medics=Yellow
+Snipers=Blue
+Vehicles=Light Grey
+
+

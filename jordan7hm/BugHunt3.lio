@@ -1,0 +1,114 @@
+7,v13,31,"Inside ship",15120,3792,    -1,1000,300,-1, 1,ambient,SHIPAMB,0,0
+7,v13,34,"Airlock",13824,6432,    -1,1000,180,1000, 0,mordred,rememberr,0,0
+6,v13,39,"Upstairs red",19760,6688,    64,-1,11856,7424,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,40,"Upstairs blue",21856,3344,    64,-1,14048,3952,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+1,v13,44,"Vertical base",10160,17312,    -1,0,2,6, 0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,47,"Vertical Copy (1)",10160,17344,    -1,0,2,6, 0,44, DOORS,Metala,0,0,50,0,0,0,voice,acknowlg,0,0,None,None,0,0
+1,v13,48,"Vertical Copy (2)",10160,17376,    -1,0,2,6, 0,44, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v13,49,"Door Palm lock",9908,17300,    0, 44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,50,"Door Palm lock",10468,17236,    0, 44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckF,0,0,50,0,0,0,voice,acknowlg,0,0
+1,v13,74,"RedBridge",8352,7824,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,75,"redbridge2",8384,7824,    -2,-1,4,2, 0,74, DOORS,Metac,0,0,90,0,0,0,mordred,conff,0,0,None,None,0,0
+2,v13,77,"Red Bridge",8500,7876,    0, 74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,90,0,0,0,voice,acknowlg,0,0
+2,v13,81,"Red Bridge",8308,7748,    0, 74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckE,0,0,90,0,0,0,voice,acknowlg,0,0
+2,v13,82,"Door Palm lock Armoury",7764,17588,    0, 74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,83,"Door Palm lock Armoury",7572,17428,    0, 74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+4,v13,106,"SkrallWarpA",21328,3648,  0,999,1, 2,1,400,""
+4,v13,107,"SkrallWarpB",20336,3632,  0,999,1, 2,1,400,""
+4,v13,108,"MarinesWarpA",21488,6976,  0,999,1, 2,0,400,""
+4,v13,109,"MarineWarpB",20336,7008,  0,999,1, 2,0,400,""
+1,v13,139,"Living area",8704,14640,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,141,"Living area Copy (1)",8736,14640,    -2,-1,4,2, 0,139, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,142,"Living area Copy (1) Copy (1)",8768,14640,    -2,-1,4,2, 0,139, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,143,"Living area Copy (1) Copy (2)",8800,14640,    -2,-1,4,2, 0,139, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,144,"Living area Copy (1) Copy (3)",8832,14640,    -2,-1,4,2, 0,139, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v13,145,"Living area lock",8612,14692,    0, 139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,146,"Living area lock",8612,14548,    0, 139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckE,0,0,50,0,0,0,voice,acknowlg,0,0
+1,v13,147,"Living area v",10464,14784,    -1,0,2,6, 0,0, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,148,"Living area v Copy (1)",10464,14816,    -1,0,2,6, 0,147, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,149,"Living area v Copy (2)",10464,14848,    -1,0,2,6, 0,147, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,150,"Living area v Copy (2) Copy (1)",10464,14864,    -1,0,2,6, 0,147, DOORS,Metala,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v13,151,"East Living area lock",10516,14932,    0, 147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckF,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,152,"East Living area lock",10404,14740,    0, 147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+1,v13,153,"Main entrance",9392,17488,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,154,"Main entrance Copy (1)",9424,17488,    -2,-1,4,2, 0,153, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,155,"Main entrance Copy (1) Copy (1)",9456,17488,    -2,-1,4,2, 0,153, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,156,"Main entrance Copy (1) Copy (2)",9488,17488,    -2,-1,4,2, 0,153, DOORS,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v13,157,"Main entrance",9620,17652,    0, 153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckB,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,158,"Main entrance",9284,17348,    0, 153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckD,0,0,50,0,0,0,voice,acknowlg,0,0
+1,v13,76,"redbridge3",8416,7824,    -2,-1,4,2, 0,74, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,78,"redbridge4",8448,7824,    -2,-1,4,2, 0,74, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+6,v13,38,"Upstairs red Copy (1)",19760,7280,    64,-1,11856,7424,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,41,"Upstairs red Copy (2)",21856,6704,    64,-1,14000,7072,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,79,"Upstairs red Copy (2) Copy (1)",21856,7280,    64,-1,14000,7728,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,80,"Upstairs blue Copy (1)",19760,3952,    64,-1,11856,4336,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,162,"Upstairs blue Copy (1) Copy (1)",21840,3952,    64,-1,14048,4624,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,163,"Upstairs blue 3",19744,3328,    64,-1,11808,4352,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+3,v13,3,"Flag2",7568,4352,     0,1000,2,999,1, 0,0,1,1,0, 0,0,0,250, 0,0,5000,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+3,v13,4,"Flag3",15024,7424,     0,1000,2,999,1, 0,0,1,1,0, 0,0,0,250, 0,0,5000,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+3,v13,5,"Flag1",15024,4304,     0,1000,2,999,1, 0,0,1,1,0, 0,0,0,250, 0,0,5000,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+7,v13,26,"Battle red",20224,6944,    -1,1000,600,2000, 0,mordred,ALERTr,0,0
+7,v13,27,"Battle blue",20224,3648,    -1,1000,600,2000, 0,mordred,b9f,0,0
+1,v13,28,"redbridge2a",8352,7088,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,90,0,0,0,mordred,conff,0,0,None,None,0,0
+1,v13,29,"redbridge2",8384,7088,    -2,-1,4,2, 0,28, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,30,"redbridge2 Copy (1)",8416,7088,    -2,-1,4,2, 0,28, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,32,"redbridge2 Copy (2)",8448,7088,    -2,-1,4,2, 0,28, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,33,"redbridge33a",13888,8112,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,35,"redbridge33",13856,8112,    -2,-1,4,2, 0,33, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,36,"redbridge33 Copy (1)",13824,8112,    -2,-1,4,2, 0,33, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,37,"redbridge33 Copy (2)",13792,8112,    -2,-1,4,2, 0,33, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,43,"redbridge33 Copy (3)",13760,8112,    -2,-1,4,2, 0,33, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,45,"redbridge33 Copy (4)",13728,8112,    -2,-1,4,2, 0,33, DOORS,Metac,0,0,90,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v13,46,"Door Palm lock Copy (1)",10468,17236,    0, 44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckF,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,51,"Red Bridge",8500,7140,    0, 28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,90,0,0,0,voice,acknowlg,0,0
+2,v13,52,"Red Bridge",8276,6996,    0, 28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckF,0,0,90,0,0,0,voice,acknowlg,0,0
+2,v13,53,"Red Bay Door",13700,8148,    0, 33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,90,0,0,0,voice,acknowlg,0,0
+2,v13,54,"Red Bay Door",13940,8020,    0, 33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckF,0,0,90,0,0,0,voice,acknowlg,0,0
+1,v13,55,"Blue Bridgea",8368,4736,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,56,"Blue Bridge",8464,4736,    -2,-1,4,2, 0,55, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,57,"Blue Bridge Copy (1)",8400,4736,    -2,-1,4,2, 0,55, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,58,"Blue Bridge Copy (2)",8432,4736,    -2,-1,4,2, 0,55, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v13,59,"Blue Bridge",8292,4628,    0, 55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckE,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,60,"Blue Bridge",8308,4804,    0, 55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+1,v13,64,"Blue Bridge2a",8464,4000,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,65,"Blue Bridge2",8432,4000,    -2,-1,4,2, 0,64, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,66,"Blue Bridge2 Copy (1)",8400,4000,    -2,-1,4,2, 0,64, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v13,67,"Blue Bridge2 Copy (2)",8368,4000,    -2,-1,4,2, 0,64, DOORS,Metac,0,0,50,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v13,68,"Blue Bridge",8324,4068,    0, 64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,50,0,0,0,voice,acknowlg,0,0
+2,v13,69,"Blue Bridge",8324,3908,    0, 64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",-1, 0,0,0,0,0,0, lock,DoorLckH,0,0,50,0,0,0,voice,acknowlg,0,0
+7,v13,70,"Battle red",21280,6976,    -1,1000,600,2000, 0,mordred,ALERTr,0,0
+7,v13,71,"Battle blue Copy (1)",21296,3568,    -1,1000,600,2000, 0,mordred,b9f,0,0
+7,v13,72,"Inside ship Copy (1)",15136,4864,    -1,1000,300,-1, 1,ambient,SHIPAMB,0,0
+7,v13,73,"Inside ship red",15120,6896,    -1,1000,300,-1, 1,ambient,SHIPAMB,0,0
+7,v13,84,"Inside ship red Copy (1)",15120,7968,    -1,1000,300,-1, 1,ambient,SHIPAMB,0,0
+7,v13,85,"Airlock B",13824,5360,    -1,1000,180,1000, 0,mordred,ff,0,0
+7,v13,86,"Airlock Copy (4)",13824,8464,    -1,1000,180,1000, 0,mordred,rememberr,0,0
+7,v13,87,"Airlock B Copy (3)",13824,3344,    -1,1000,180,1000, 0,mordred,ff,0,0
+7,v13,88,"Energy",10624,7440,    -1,1000,180,-1, 0,ambient,slomdply,0,0
+7,v13,89,"Energy Copy (1)",10624,4352,    -1,1000,180,-1, 0,ambient,slomdply,0,0
+7,v13,90,"Computer",7600,4336,    -1,1000,180,1000, 0,ambient,acomp,0,0
+7,v13,92,"Computer Copy (1)",7600,7424,    -1,1000,180,1000, 0,ambient,acomp,0,0
+7,v13,93,"Beop",9712,4336,    -1,1000,180,1000, 0,ambient,beop (2),0,0
+7,v13,94,"Beop Copy (1)",8992,4336,    -1,1000,180,1000, 0,ambient,beop (2),0,0
+7,v13,95,"Beop Copy (2)",8976,7408,    -1,1000,180,1000, 0,ambient,beop (2),0,0
+7,v13,96,"Beop Copy (3)",9728,7424,    -1,1000,180,1000, 0,ambient,beop (2),0,0
+6,v13,98,"Downstairs Blue NE",11888,4000,    64,0,19744,3664,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,99,"Downstairs Blue SE",11840,4640,    64,0,19744,3664,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,100,"Downstairs Blue Sw",14240,4640,    64,0,21840,3648,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,101,"Downstairs Blue NW",14256,4032,    64,0,21840,3648,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,102,"Downstairs Red NE",11856,7104,    64,1,19776,6992,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,103,"Downstairs Red SE",11840,7728,    64,1,19776,6992,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,104,"Downstairs Red NW",14224,7120,    64,1,21840,6992,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+6,v13,105,"Downstairs Red SW",14224,7712,    64,1,21840,6992,64, 0,0,effects,gfx00305,0,0,0,0,0,0,robo,mech3sel,0,0
+3,v13,1,"Flag4",7568,7456,     0,1000,2,999,1, 0,0,1,1,0, 0,0,0,250, 0,0,5000,0,0, 0,0,0,0, "",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, flag,Flag2,0,0,0,0,0,0,sounds,Lure,0,0,None,None,0,0
+5,v13,2,"Bullets1",20784,6992,     100,10,5,1, 0,300,0,99999, 50,100,2000,350, 50,0
+5,v13,6,"Grenades",20560,6992,     25,200,0,1, 0,300,0,99999, 25,50,1007,350, 1,0
+5,v13,7,"RGrenades",20560,6992,     25,200,0,1, 0,300,0,99999, 25,50,1082,350, 1,0
+5,v13,8,"Ripper",20560,6992,     2,50,100,1, 0,300,0,99999, 2,4,1013,350, 100,0
+5,v13,9,"Incinerator",21328,6992,     4,50,0,1, 0,300,0,99999, 4,8,1013,350, 50,0
+5,v13,10,"Shotgun",21312,6992,     4,50,100,1, 0,300,0,99999, 4,8,1013,350, 50,0
+5,v13,11,"AP Rockets",20560,6992,     4,500,100,1, 0,300,0,99999, 4,8,1013,350, 2,0
+5,v13,12,"Marine Changers",20784,6992,     3,0,0,0, 0,300,0,99999, 3,3,1,350, 1,0
+5,v13,13,"Skrall Changers",20784,3648,     6,0,0,0, 0,300,0,99999, 6,6,2,350, 1,0
+5,v13,14,"Bullets2",20016,6992,     50,10,5,1, 0,300,0,99999, 50,100,2000,350, 50,0
+5,v13,15,"Bullets3",21616,6992,     50,10,5,1, 0,300,0,99999, 50,100,2000,350, 50,0

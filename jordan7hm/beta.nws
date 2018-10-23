@@ -1,0 +1,87 @@
+~B~1Beta Zone~2~B
+
+
+Welcome Folks for a trip down memory lane. This is Beta zone, the first zone up during Infantry's public beta release way back in September 1999 during the Harmless Games era. 
+
+For those Vets like me, this may bring back nostalgic memories. For new players, enjoy the feel of Infantry in an earlier stage of development and see the genesis for zones like CTF. 
+
+
+Enjoy!
+
+-Skin
+
+
+Below is the original documentation for Beta Zone.
+
+
+
+---------------------------------------------------------------------------------------------
+~B~4v0.51	Tuesday, October 5th, 1999~2~B
+
+New shotgun graphic added.
+The cloak utility item should now be fixed. You should be able to see yourself if you have it turned on. Teammates will however not be able to see you unless you get really close to them, this will be fixed eventually as well.
+
+~B~4v0.51	Monday, October 4th, 1999~2~B
+
+Sniper rifle has been slightly modified to reduce its damage
+Rocket launcher has been tweaked.
+
+
+
+~B~4v0.51	Saturday, October 2nd, 1999~2~B
+
+Apologies for the mass dumps and server blackouts which have been occuring we are working on the problem thanks for your pateince.
+
+Medic area heal should now work
+Rockets tweaked again
+Engineer items are now droppable.
+
+
+
+~B~4v0.51	Saturday, October 2nd, 1999~2~B
+
+CLoaking cost is now reduced. (remember you still need a STEALTH unit to be invisible on radar.
+Medics now have sensors built in to detect cloakers and stealthers.
+Rockets power reduced.
+Tanks slightly tougher. Tank turrets no longer invincible.
+Prices for engineering items reduced.
+
+
+~B~4v0.51	Friday, October 1st, 1999~2~B
+
+Flag game has been added. Capture all 5 flags to win the game. Characters are not reset until flag game is won. A succesful team will have to use all team members to succeed. Engineers to build the base with bunkers and turrets, healers to heal defenders most of all a psionic to warp himself and team members.
+
+
+
+
+~B~4v0.51	Friday, October 1st, 1999~2~B
+
+Ok I have added safe zones to the map so you can equip your guy without getting vulched every 2 seconds. Hope that alleviates some the the frustration for you guys.
+
+~B~4v0.51	Thursday, September 30, 1999~2~B
+
+Just a few tips to get started.
+
+1.) At start you should select a CLASS Via the ESC - GAME OPTIONS - SKILLS menu
+2.) If at a later date you want to try another class go into spec mode (F12) and type ?wipecharacter
+3.) To assign your weapons right click on it and assign it to one of the key slots. These slots can be reassigned to whatever you want in the boot up screen options drop down menu.
+4.) The STORE can be accessed from the ESC menu. This is where you spend your money.
+5.) Medics can heal and engineers can repair dead vehicles. Make sure you buy the correct items from the store.
+
+~B~4v0.51	Thursday, September 30, 1999~2~B
+
+Added new engineering weapons (bunker creation, turret and barricade) also increased number of portals. New players also now start off with 2000 cash to spend.
+
+
+~B~4v0.49	Thursday, September 30, 1999~2~B
+
+First test of beta zone. Zone uses class system to allow players to test skills on a large scale without a full skill tree.
+
+When you first enter you should select a character by using the ESC - GAME FUNCTIONS - SKILLS area. If you wish to delete your character type ?wipecharacter when in spectator mode (F12).
+
+In the zone you will find crystals these are worth cash which you can then use to buy items in the store. The store is accessed via ESC - GAME FUNCTIONS - STORE.
+
+This zone probably wont survice very long as its a first test to handle load etc. In the coming weeks we will work on gameplay getting the thing fun as we did in Subspace.
+
+
+	

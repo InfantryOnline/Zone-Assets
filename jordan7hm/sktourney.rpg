@@ -1,0 +1,11 @@
+v6,1,0,100,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Marine","Classes","","Collective Marine or Titan Regular.",  ,,0,0,0,0,0,0
+v6,5,0,103,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Medic","Classes","","Collective Medic or Titan Medic",  ,,0,0,0,0,0,0
+v6,6,0,104,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Ripper Gunner","Classes","","Collective Ripper Gunner or Titan Ripper Gunner.",  ,,0,0,0,0,0,0
+v6,7,0,105,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Grenadier","Classes","","Collective Grenadier or Titan Grenadier.",  ,,0,0,0,0,0,0
+v6,2,0,111,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sniper","Classes","","Collective Sniper or Titan Sniper.",  ,,0,0,0,0,0,0
+v6,4,0,116,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Light Machinegunner","Classes","","Collective Light Machingunner or Titan Light Machinegunner.",  ,,0,0,0,0,0,0
+v6,8,0,119,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Squad Leader","Classes","","Collective Squad Leader or Titan Squad Leader.",  ,,0,0,0,0,0,0
+v6,9,0,121,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sapper","Classes","","Collective Sapper or Titan Sapper.",  ,,0,0,0,0,0,0
+v6,10,0,122,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Infantry","Classes","","Collective Infantryman or Titan Militiaman",  ,,0,0,0,0,0,0
+v6,13,0,120,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Scout","Classes","","Lightly armed soldier equipped with enhanced vision gear.",  ,,0,0,0,0,0,0
+v6,14,0,128,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Assault Trooper","Classes","","Trooper specially trained and equipped for close assault.",  ,,0,0,0,0,0,0

@@ -1,0 +1,58 @@
+~BDeathMatch ver. .02~B
+
+DEATHMATCH!
+
+Recent news is below the weapons/equipment listings.
+
+Simple pickup items and kill game.
+
+You start out with nothing more than a pistol.
+
+There are all sorts of weapon and equipment powerups scattered around the map.  Pick them up and start blasting.
+
+Your energy is your shield. As long as you have 1 energy point you take no damage.  Energy management is key.
+
+You can increase your thrust and top speed by pressing "Shift", but it uses energy.
+
+Your momentum is imparted in your shots, ie: the faster forward you move, the faster and farther a shot goes.
+
+Weapons:
+
+~BRocket Launcher~B	Shoots a big mean rocket.
+~BGrenade Launcher~B	Shoots bouncy Grenades.
+~BRifle~B		Long ranged.  Shots bounce off walls.
+~BSMG~B		Lots of bullets, but short ranged.
+~BFlamer~B		Short ranged, but hurts.
+~BGrenade~B		Pull the pin and throw it.
+~BMine~B		Drop it when pursued.
+~BShotgun~B		Short ranged, but hurts.
+~BPistol~B		Standard weapon.  You start with this.
+
+Equipment:
+
+~BWarp~B 		Warps you randomly around the map when activated.
+~BTeleport~B 		Allows yout to attach (teleport) to another team member.
+~BRepulsor~B		Repels weapons and enemies away from you.
+~BStimPack~B		Gives you 10 health points.
+~BHealAll~B		Gives you full health.
+~BEnergy~B 		Gives you 100 energy back.
+~BFullCharge~B	 	Fully charges your energy.
+~BSpeed~B 		Increases your speed to a maximum of 100.
+~BThrust~B 		Increases your thrust to a maximum of 100.
+~BInviso~B 		Makes you invisible, but you still show on radar.  Uses energy.
+~BStealth~B		Makes you invisible on radar.  Uses energy.
+~BSensors~B		Allows you to see enemies with Inviso or Stealth.  Uses energy.
+~BSuper Weapon~B	Upgrades all carried weapons to SUPER WEAPONS.
+
+Good Luck!
+
+Yankee
+
+~BJanuary 26, 2000 -- ljc~B
+
+Added a 5 minute prize expire to all prizes.
+
+~BJanuary 20, 2000 -- ljc~B
+
+Fixed some map bugs.
+Removed some leftover portals.

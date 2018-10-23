@@ -1,0 +1,11 @@
+4,v12,1,"Warp",9856,3456,  0,14,0, 0,0,500,
+6,v12,3,"Portal1",9808,2176,    30,-1,1856,352,1000, 3,1,effects,gfx00305,0,0,0,0,0,weapons2,movingar,3,0
+6,v12,4,"Portal2",9840,3296,    30,-1,2464,2304,1000, 3,1,effects,gfx00305,0,0,0,0,0,weapons2,movingar,3,0
+6,v12,5,"Portal3",9552,3392,    30,-1,6976,2320,1000, 3,1,effects,gfx00305,0,0,0,0,0,weapons2,movingar,3,0
+7,v12,11,"Flower",2240,2752,    -1,1000,15,1000, 0,ambient2,howl,0,0
+1,v12,201,"Door1",1696,624,    0,0,32,608, 0,0, doors,Metac,0,0,0,0,0,sounds,Magicbow,0,0,sounds,Magicbow,0,0
+1,v12,202,"Door1 Copy (1)",1728,624,    0,0,32,608, 0,201, doors,Metac,0,0,0,0,0,sounds,Magicbow,0,0,sounds,Magicbow,0,0
+1,v12,203,"Door1 Copy (2)",1760,624,    0,0,32,608, 0,201, doors,Metac,0,0,0,0,0,sounds,Magicbow,0,0,sounds,Magicbow,0,0
+1,v12,204,"Door1 Copy (3)",1792,624,    0,0,32,608, 0,201, doors,Metac,0,0,0,0,0,sounds,Magicbow,0,0,sounds,Magicbow,0,0
+1,v12,205,"Door1 Copy (4)",1824,624,    0,0,32,608, 0,201, doors,Metac,0,0,0,0,0,sounds,Magicbow,0,0,sounds,Magicbow,0,0
+2,v12,210,"Door1Lock1",1620,644,    0, 201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 300,0,0,0,0, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,uiwav,pickup,0,0

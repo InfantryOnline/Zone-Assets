@@ -1,0 +1,63 @@
+The following is a list of common offenses that moderators watch for. This is not a perfectly concise list and moderators will use their best judgment from case to case. It is recommended that you learn these rules. 
+
+1. Inappropriate names, squad names, or team names. 
+This includes, but is not limited to: Racist names, obscene names, and any material a game moderator, super moderator, or sysop deems inappropriate. 
+
+2. Flooding/spamming. 
+Flooding is defined as (but not limited to) multiple lines of text a person types in order to cover something said up, (moving it out of view of the default sized chatbox,) forcing disconnection to avoid death, or a "joke" to log off. The moderator, super moderator or sysop shall determine this at the time of incident. Spam is defined as (but not limited to) 2 or more lines of text directly after the first line of text of the same message, or group of messages (pertaining to macros.) 
+
+
+3. Intentional charges to obtain flags / score goals with excessively high lag/latency (a.k.a. lag-flagging). 
+This includes, but is not limited to: flagging while your lag info is above the legal limit. Please use the ?lag command to determine your latency. If you are found to be above the legal limit, you may be locked in spec until your connection becomes stable (This limit is 400ms ping, and 6% Packet Loss (5% Ploss for flagging, 6% Ploss for staying in game.) 
+
+If you are intentionally forcing lag to flag / score goals, you will be banned for a period of time. 
+
+Please do not download files or use file sharing programs (Bit-Torrent, KazAA, Ares, Soulseek etc.) while in the game. 
+
+
+4. Statistics Padding (a.k.a Stat-Padding). 
+This Includes, but is not limited to: feeding (or receiving) kills to someone in order to increase their bounty, better their kills to death ratio, increase their experience.
+
+5. Excessive derogatory behavior. 
+Examples include, and are not limited to: excessive racism or anti-religious remarks, excessive vulgarity, excessive harassment of other players. Isolated words or actions will not get you banned, repeated derogatory behavior will. 
+
+6. Impersonating a game moderator, super moderator, or sysop for ANY reason. 
+
+7. Impersonating a player in order to cause a bad reputation for that player. 
+
+8. Intentionally leaving an arena/game with the intent to avoid a lock/silence/ban. 
+
+9. Intentionally misleading players in/out of spectator mode or out of the arena/game for ANY reason. 
+
+10. Excessive promotion of other Infantry servers, including SOE. Up to the discretion of the moderator. 
+
+11. Using a hack, trainer, exploit, cheating and/or abusing bugs. 
+This includes but is not limited to using the "hack" programs, forcing lag, abusing map or item bugs, and placing flags in warp areas. 
+
+12. Using a secondary account to spectate players in game to assist in finding them on the map. An example would be to use a "dummy" account to watch someone with a bounty so you could hunt them easier. 
+
+13. Griefing or 'lame' behavior. Determined on a zone-by-zone basis - behavior that goes against the objectives or main theme of the zone. 
+Examples of griefing include but are not limited to : TK'ing, random summoning, scoring on your own net. Check with the zone's developer or mods if you are unsure what the acceptable behavior in a zone is. 
+
+14. ANY activity a game moderator, super moderator, or sysop determines is inappropriate. 
+
+Punishments 
+------------------- 
+
+Punishments for violations may include, but is not limited to, any combination of the following: 
+
+Wiping of character 
+Deduction of money 
+Deduction of experience 
+Deduction of equipment 
+Being silenced 
+A temporary zone ban 
+A temporary game ban 
+A permanent zone ban 
+A permanent account ban 
+Being locked in spectator mode 
+Being warned 
+Any other action a moderator/super moderator/sysop deems appropriate 
+
+**Note that moderators need not give a warning before issuing a ban if they deem it unnecessary. 
+**Note that moderators are here to help make the game a better place. Harassing mods for any reason is not tolerated

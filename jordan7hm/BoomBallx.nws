@@ -1,0 +1,135 @@
+~BBoom Ball X v.50.0~1
+
+Boom Ball X
+
+A variation on Boom Ball, almost like multiplayer FoosBall.  Basically you have the Boom Balls and other items from Normal BB.
+
+ The playing field is layed out in zones, alternating for each side.  Your Team has Fore, Back and Goal zones.  At each end of the arena is the Tachyon and Ice Demons goals.
+
+ From the ready room you will find portals to each of the zones.  You cannot leave the zone you choose till you are killed.
+
+ You want to throw a ball up court, moving from zone to zone and then throw the ball into the goal.  Your oppponents will either attempt to intercept the ball or smack you up with Boom Balls.
+
+Ctrl throws low/hard, Tab throws the ball High/slow.
+Pressing shift while moving enables hyperthrust.  Hyperthrust uses energy.
+You have 8 seconds in which to pass or otherwise throw the ball. Pass Wisely.
+Games are 20 minutes long, with a 5 minute overtime period.
+If you run out of energy and get hit with a boom ball, you will likely die.
+
+
+********************************************************************************************
+Boom Ball X League Match Rules
+- Matches will consist of two teams of 7 players each
+- If a squad has less than 7 players, they will forfeit the game and
+this will be classed as a no-show
+- Games will last a length of 30 minutes
+- Games will be held in a private arena created by the REF who must be a 
+member of the squad BBX Refs for the match to be deemed official
+- The two squad captains will co-ordinate with the REF before the game
+begins
+- The ref will put players onto their respective teams as neccesary
+- All players will start with a certain amount of experience in the
+private arena they may use this as they see neccesary
+- To win the game a team must:
+A- Score five goals
+B- Have scored more goals than their opponent by the end of 30 minutes
+- Players are permitted to play as long as their ping is below 600ms and
+their packetloss below 6%, captains may ask the ref to lagcheck players
+who they think might be lagging.
+- Should the ball go out of play (i.e. into the Teams warp area), it
+should be left to respawn at the centre of the arena at which point play
+will continue . Players bringing the ball back into play may will be
+dealt with at the discretion of the referee in charge.
+- Captains must notify the Referee of all substitutions, for which the
+arena may need to be unlocked.
+- Before the match begins the referee will give a one-minute warning.
+- The referee will announce any substitions using an arena wide message
+- The referee will announce the start of the game
+- In the event of the game being a draw after 30 minutes if needed an
+extra 15 minutes will be played whereby the first team to score will be
+declared the winners
+- If no goal is scored in this the game will be replayed at a later date
+- If a player is disconnected they may return to the game 3 times if
+this happens again they will not be allowed to play again within the
+match.
+- There will be a 10 minute wait time after the scheduled match time for
+both teams to show up
+- In each 'zone' (fore, back, goal) a maximum of 4 players is allowed,
+if at any point more than 4 is in any teams zone they will be initially
+warned, if this happens again, it will be at the discretion of the
+referee though forfeiting of the match is possible 
+
+- Depending on the number of squads participating in a season the
+league will be made up of 1 or more divisions
+- If only 1 division is in place the league winner will be the leader
+at the end of the season
+- If there is more than one division in place playoffs between the
+leaders of different divisions will be held at the end of the season.
+- Each squad will play each other squad in their division once during
+the season.
+-3 points will be awarded for winning a match
+-1 point will be awarded for drawing a match
+-0 points are awarded for losing a match
+-In the event of teams being tied on points the team with the lowest
+goal difference shall go through (Goals Scored - Goals Conceded)
+-Also through the season a knockout cup competition will be held, should
+demand for the league be greater than capacity then those squads that
+did not make the league will be allowed to compete in the cup
+competition.
+-Double Squadding will not be permitted within the league and will be
+dealt with on a case by case basis, any player found double squadding
+will find themselves banned from the league.
+-A squad that no shows (has less that 7 players) 3 times will be axed
+from the league.
+- Matches will be arranged between captains according to the match
+schedule, the captains will then both e-mail the league co-ordinator
+(bbx@gomms.demon.co.uk) to confirm the time and day, this must be done
+by Thursday to ensure a referee can be assigned to referee the match. 
+
+
+~BMonday January 3rd, 2000 -- Yankee~B
+
+Increased Player speeds and energy usage for hyper thrusting.  Should increase the pace without things being ridiculous. I hope.
+
+~BSaturday January 1st, 2000 -- Yankee~B
+
+Changed the map again.  This should make upcourt passing and ball handling a little more important without it becoming too tedious.  I also made it nigh impossible for a back court shot to make a goal.
+
+Adjusted the attribute rate incrememental upward and the effect down.  This way you still ahve something to work towards without it becoming too much of an advantage over off and on players.
+
+Next i am going to adjust the damage model.
+
+Yankee
+
+
+~Btuesday December 21st, 1999 -- Yankee
+
+Added StickyBombs. Get hit, lose rotationa and thrust for 5 secs.
+Flag carriers cannot use any Boom Balls when they have the flag.
+You are now limited to carying 2 BoomBalls, not 3.
+Odds an ends, also Flag and carrier should always appear on radar now.
+
+
+More later...
+
+--More
+
+Put it back to 3 Boom Balls
+Allowed Flag carrier to have Boom Balls again, also, Flag Carrier gets a bonus for kills.
+Ppl get experience for kills now.
+Bounty should rise faster for kills, etc.
+
+Yankee
+
+
+Boom Ball!!
+
+Plays just like dodgeball, pick up a Boom Ball, and throw it at your opponents.  You are trying to hit the guy on the other team with the flag.  If your team has the Flag, defend your Flag Holder.  First team to hold the flag 90 seconds wins.  When you win you get to spend your experience to beef up your attributes.
+
+Speed=Increased Top Speed
+Agility=Increased Rotation
+Health=Increased Hit Points
+
+
+
+--Yankee

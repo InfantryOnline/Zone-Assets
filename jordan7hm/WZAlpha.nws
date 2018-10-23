@@ -1,0 +1,134 @@
+~1~BWelcome to WZA~B
+
+This is a Warzone.  What's the point?  WAR.  Build a base and defend it.  Gather a team and go attack others.
+~5
+If you have any mod related issues, please join ?chat !911
+If you have any general WZA questions, please join ?chat wza
+~1
+The tank turrets are STILL bugged.  Being in a tank turret without a driver is an automatic spec.
+~4
+~BDeveloper~B
+dangerz
+
+~BModerators~B
+Stan
+OpPoSiNgFoRcE
+~2
+~B Monday, September 11, 2006 ~B
+- Duo Bike has 1 hit kill rifle.  Not anymore!
+
+~B Sunday, September 10, 2006 ~B
+- Gauss Rifle Inner Damage has now gone from 5 to 3.
+- The tanks / objects are now still visible when they die.
+- The Hornet and Thor are back.  The Salamander is out.
+- The vision bug in B4 is fixed.
+- The missing tile in C2 should be fixed now.
+- Jumpboots have been added.
+- You can no longer shoot from the red bike.
+- Added Duo Bike.
+- The physics in the E4 area have been fixed.
+
+~BFriday, September 08, 2006~B
+- Changed physics in D4.
+- Nerfed Gauss Rifle a little bit.  If it's not enough, I'll do it more.
+- Disabled Teleport Beacon in the dropship.
+- Fixed the bug with 2 Salamanders spawning on top of eachother.
+- Fixed tank bug in Thor and Trident.
+
+~BMonday, September 4, 2006~B
+- Fixed the physics in I7.
+- Lowered the ceiling.
+- I added 3 more military bikes and 1 more normal bike.
+- Removed the Leviathan, Hornet and Thor.  Once the zone gets bigger, I'll start adding bigger tanks.
+- Fixed the I4 sandbags.
+- Opened up b4 building.
+- Fixed the h6 sandbag physics.
+- Added more Tox spawns.  One at H7 and one at H1.
+- Hopefully noone will be spawning on the right side anymore.
+- Fixed the methane around the front of the island.
+- The PDB's are back ingame.  Build some bases and defend!
+- Opened up C2 building.
+
+~BSunday, September 3, 2006~B
+- Fixed C5 and H2 spawn bugs.
+- Removed a MASH from I1.
+- Removed Trident from the game until the tank bug is fixed.
+- Fixed physics at H1 for the sandbag.
+- D4 base now spawns rifle and shotgun ammo.
+- Fixed red physics at top.
+- Fixed B4 door.
+- Pulled out 1 APC; we don't need 2.
+- Re-added TWAINS Rock.  (Who removed this?!)
+- Moved the Hornet Spawn.
+- Fixed dish at H2.
+- C5 and H1 building are now open due to popular demand.
+- The mechs no longer spawn next to eachother.
+- Fixed Thor turret to take damage with no driver.
+- Raised starting cash to $30k.
+
+~BSaturday, September 2, 2006~B
+- Shrunk the map a bit.
+- Removed the flags.  This is a Warzone.
+- Removed some vehicles and changed the min players for the other vehicles.
+
+Monday, August 21, 2006
+-Raised auto-turret HP, but raised their HP to operate(they'll take around the same amount to disable as before, but will make it easier to keep them up in a base)
+-Added Auto Turret-Maser
+-Moved flag and added another one
+
+
+
+Monday, July 31, 2006
+
+-Added a flag (theres actually 2 listed in ?flags, but the other one was needed for the zone to work properly)
+-Flag is a static flag with an operational base controled by a switch, the team holding the flag should remember to take control of these)
+	This flag has a point/exp/cash reward based on how many players are in the arena
+	Reward comes every 3 minutes
+
+
+-Slightly increased bounty gain(again :~( )
+-Fixed BlackOps so that it could actually use items...
+-Tranq no longer hits vehicles
+-Removed Weapon Upgrades, and just put the items into the store
+-Energizers now 3 Unilennium
+-Stim Pack now 3 toslvy crystals
+-Steron slightly nurfed, but lowered to 5 pandora's element
+-Cloaking Unit now uses less energy than Imp. Cloak
+-Increased Stealth Carapace weight and description
+-Lowered Sonic Rifle's energy cost(was completely useless before)
+-Can now create packs/boards in the Dropship, and turn on/off generators
+-LAW and AT Rocket no longer hit Packs/boards
+-Stealth Coating now works in conjunction with other armors
+-Vehicles have a death timer(1minute) now, giving engineers time to repair it back to a usable state and to cut down on all the vehicles running around rampant
+-Increased armor sell values(YOU PEOPLE CRY ALOT OKAY?)
+
+
+Thursday, July 27, 2006
+
+-Armor adjustment changes(expect more with next update to work out balance issues)
+-increased weight on hoverboard to make it easier for Engs
+-Added in vehicle death timer(unoccupied vehicles will despawn after 5 minutes of no one inside)
+-Removed the 'no spawn if person in area' pixil radius on vehicle spawns
+-Increased bounty rate, its not quite as high as CM or CTFX, but its higher, if its still really bad I'll look into changing it
+-Fixed upgraded weapon drop bug with CCS
+-Raised starting cash to 20000
+-Added idle time check (no more afking in the trees)
+-Carbine(Sniper) now has a min range
+-Gave DemoTrooper a better version of Demo Pack
+-Bio:Viral, Bio projector
+-Sci:sonic rifle
+-Eng:dismantle
+-Thor and Levi MLRS rockets now "fall" meaning they should hit other things now instead of going over them
+-Slightly nurfed GC
+-tank turrets should take proper damage if theres no driver
+
+
+
+Previous updates:
+
+-Vehicles added(and bug fixes included with them)
+-Privite team size reduced to 8(helps newer people that play on pub teams)
+-Increased share range of experience(still have to be somewhat close to teammate)
+-Fixed imp. cloak bug
+-Teleport beacon energy cost put at 200
+-Raised max ultilities to 5(if you REALLY want to run TD/gen/ES then you're going to take a big hit on your energy regen)

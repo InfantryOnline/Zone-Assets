@@ -1,0 +1,206 @@
+~b~1Combined Arms~2~b
+---------------------------------------------------------------------------------------------
+~6Developed by Free Imagination Group~2
+You can contact the developers with any comments, questions, suggestions, or critiques at the forum on ~Binfantryarena.com~B
+
+
+
+~4~BMini-FAQ~B
+
+~BQ:What's the difference between basic classes and the rest?~B
+	The basics classes are preset configurations meant for new players.
+	Inventory for these classes are restored every time you fall in battle,
+	essentially providing you with free ammuniton.
+	However, keep in mind that these setups will wipe any new equipment that
+	you purchase from the store, wasting your cash. If you want to have a
+	customizable setup, switch to non-basic classes.
+	It is recommended for new players to stick to basic classes until they
+	have gained enough experience and cash to purchase a full-kit.
+
+~BQ:What's with all these warps?~B
+	The main warp (the space craft in the center) scales in size relative to 
+	the arena population.  If you just want to jump in and fight, this is 
+	usually a good choice, plenty of people to fight, never too many.  The 
+	directional warps are for getting to specific areas of the map.
+
+~BQ:How do I build a vehicle?~B
+	You can buy a blueprint from the store (under Ammunition).
+	You must have one to create vehicles.
+	You can purchase vehicles from various spots on the map that have vehicle pads.
+
+~BQ:Why am I so overweight?~B
+	In CA weight affects your speed.  An average setup is 10-20% overweight. 
+	You can opt for less firepower or armor for higher mobility.
+	25kg worth of equipment can be carried before you begin to suffer
+	a 1% decrease in acceleration for every 1kg over 25.
+
+~BQ:Sprint, Jump, Kick?~B
+	Sprint will help you cover ground quickly, escape overwhelming odds, or seek cover.
+	Jump gets onto green (and from there yellow) physics.
+	Kick has knockback which is useful if someone is too close to you,
+	and will momentarily jam weapons fire from your opponent.
+
+~BQ:What's an Energy Cell?~B
+	Energy cells are like energy in other zones.
+	It is used to fire weapons and use certain devices.
+	You will get a free recharge when you die,
+	or you can buy a recharger in Equipment - Rechargers.
+	EMP weapons will drain Energy Cells and prevent you from recharging.
+
+~BQ:How much armor can I have?~B
+	You can have 1 Armor, 1 Armor Add-on, and 3 Implants.
+	Custom / Special Armors count as Armor.
+	Generators are more complicated:
+	IDF, PF and SF Generators cannot be used together.
+	Active Integrity, Gravitec Barrier and Phase Shift systems share the same slot.
+	Similarly, the final three non-defensive Field Generators cannot be stacked.
+	All defensive bonuses and speed bonuses can be stacked.
+
+~BQ:Speaking of Armor, how does it work?~B
+	Thickness protects against larger single impacts,.
+	Anti-Multihit is helpful for burst fire and reducing consecutive damage.
+	The damage types of Kinetic, Explosive, Energy and etc are pretty obvious.
+	Cloaking and Stealth is list as (X/YYY):
+	where X = how many seconds you will Un-Cloak/Un-Stealth for after firing,
+	and YYY = the radius in pixels where your cloak/stealth is useless.
+	Unliked defense and speed bonuses, multiple cloaks and stealth do not stack.
+
+
+
+For more help getting started with Combined Arms be sure to check out the 
+CA Official Starting Guide (hit ~BF1~B, and choose ~BCA Official Starting 
+Guide~B).
+
+
+
+~b~1Recent Updates~2~b
+---------------------------------------------------------------------------------------------
+~b~4Thursday, July 29th, 2010~2~b
+
+~0Semifinal HQ level expansion~2
+
+~1HQ support up to lvl 50 enabled, expect massive rewards for adequately defending a base!
+Upgrading your HQ is easier now. The cost starts at 50 HQ credits, and increases by 5 once for every five levels after.
+Please note that vehicle prices have been halved. Yes, all of them.~2
+
+	~b~3Zone Features~2~b
+		Headquarters can now reach lvl 50
+		Headquarters upgrade costs drastically lowered
+		Headquarters destruction reward adjusted
+		Fiddled around with Roamer Credit spawn behaviour
+		Editted HQ Rewards to reduce DC Bug
+
+	~b~3Map~2~b
+		Fixed remaining directional physics heights
+		Vision and physics fixes around H1/I1 building
+		Vision tiles fixed along B5 and A1
+
+	~b~3Class~2~b
+		Pistols and SMGS for the Laser and Plasma weapon categories have been restributed
+
+	~b~3Weapons~2~b
+		~bAM Grenade~b - suction effect reduced to 128 from 160 to match damage radius, price increased
+		~bAR247 RGAM42~b - suction effect reduced to 128 from 160 to match damage radius, price increased
+		~bVortex Grenade~b - price increased
+		Grenades and AR247 Rifle Grenade max holds reduced to 6 from 12
+
+	~b~3Armor~2~b
+		No changes
+
+	~b~3Equipment~2~b
+		~bHedgehogs and Vectors~b - added 32 concurrent projectile vector force
+		~bSingular Vector Field~b - newly added
+
+	~b~3Vehicles~2~b
+		All bikes and skimmers have their reverse acceleration set to 50% of their forward
+		~bBikes~b - backthrust decreased to 45 from 80
+		~bSkimmers~b - backthrust decreased to 40 from 60, sidethrust decreased to 60 from 70
+		All vehicle requisitions costs at the vehicle pads have been reduced by 50%
+		~bTank Autocannon~b - momentum inheritance removed
+		~bVehicle Autocannon~b - momentum inheritance removed
+
+	~b~3Misc~2~b
+		Wall limits reduced to 60 per type from 80
+		Expire lifetime of walls reduced to 5 hours now
+
+
+
+~0~BINTRODUCTION~B
+Like the name implies, if you know the military terminology, Combined arms is a strategy utilizing a
+variety of units working together to perform more effectively than as standard, similar units.
+As a result, though the game is a shooter, and has RPG elements, being effective in Combined Arms is
+often in large part up to your tactical choices.  And with a large diversity of vehicles and equipment,
+there's plenty of ways to "Combine Arms".  With creativity, intelligence, and a bit of skill,
+you can quite easily take on a much larger force.  In many ways (though not necessarily in every case),
+the philosophy that guides balance choices in Combined Arms is that of tradeoffs.
+
+Any vehicle, any weapon, or any item, offers something different, and understanding how to use it
+specifically to your advantage is where you build a knowledge of the tactics in the game.
+Your real combat experience, your real skill, is then internalized as much as possible, rather than
+being arbitrary stats you endured months of painfully boring gameplay for.  In this way, the game is honest,
+and since it's free, there's no reason to try to lock you into a subscription with exploitative gameplay
+(like having you grind for levels to achieve a false sense of accomplishment). 
+
+You do unlock things as you gain experience, but this is an expansion factor, as none of the classes are
+truly "overpowered", some just better at certain things.
+
+The true intent of the game is to be fun and rewarding at any point.  There 
+are no required objectives; you're free to create your own team and bounty 
+in tanks, hold a base and make lots of cash (which you can use to "unlock" 
+the more expensive toys to play with), or compete on the score charts.  It's 
+very sandbox.  And it's the cumulation of years of hard work, so enjoy!  And 
+have fun.
+
+
+
+~B~6Free Imagination Group~B
+Combined Arms has been developed by an autonomous development collective 
+known as FIG.  We are an experienced group of developers interested in the 
+~Bart~B of game design.  We treat our creations with respect, and envision 
+the way games would be made without the usual limitations.  We hope you 
+enjoy Combined Arms, and will look for other games by us in the future.
+
+
+~2~BCredits~B
+These credits specifically refer to the re-release version for SOE, not 
+including any previous versions.  Developers from older versions are still 
+mentioned in the Special Thanks.~B
+
+Lead Designers:~B
+STAS
+ryanbe
+
+~BProducer:~B
+ryanbe
+
+~BContent Programmers:~B
+STAS (Lead)
+LooseCannon
+AllYourBase
+Axidus
+
+~BLevels:
+
+Suburban Warfare~B
+Marine (Lead)
+Mode
+ryanbe
+
+~BOn The Water~B
+ryanbe
+
+~BUrban Chaos~B
+dz
+
+~BTesters:~B
+a blue ball
+Plocks
+1 < a z e
+Animoo
+Cuddly
+dolche
+A!tair
+Shipter
+
+~BSpecial Thanks:~B
+dz

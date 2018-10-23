@@ -1,0 +1,93 @@
+~B~1Beta Zone~2~B
+---------------------------------------------------------------------------------------------
+
+~B~4Monday December 23rd, 2002~2~B
+- Working on getting the psionic projectiles looking good.
+- Added two new sniper rifles, the CAS 'Silent' SR, and the CAS x1 (GG).  Both rifles use modified rifle ammunition to shoot near invisible projectiles.
+- Added two new ammos for the sniper rifles, and screwed around a bit with ammo categories.
+- Gave all sniper rifles a small amount of explosive damage.
+- Altered class speeds.  Now the fastest class is the skirmisher, followed by the sniper, followed by the spy.  
+- Added a new armor class: Armor - Jacket.  Jackets can be put on overtop most armor for extra protection.  The two first entries are the TK Flak Vest, and the CAS BP Jacket.
+- Got rid of the old armors and replaced them with a few new ones.  Check them out for yourself.
+- Added Warp Restrictor for Medics and Squad Leaders to prevent players from warping while within 250 pixels of them.
+- Added TK BlackOut Field, an enhanced cloak.
+- Added helmets.
+- Removed the portals, since they don't seem to work.
+
+
+
+~B~4Sunday December 22st, 2002~2~B
+
+- Did more tuning of the mines, the shotgun, and the assault rifles.  Should be done after this update.  
+- Changing the grenades so that they do more explosive damage.  Gave the concussion grenade anti effects.
+- Introducing Collective Arms Suppliers, known as CAS, a group of merchats and arms dealers who have been given so many contracts by the Collective Government that they have become essentially the official arms supplier.  
+- The first CAS product to grace the shelves is the CAS Fast Action Shotgun, which fires 15 small pellets that do much less damage than normal shotgun pellets.  The CAS FAS weighs more than normal shotguns, but has a much larger clip size.
+- Also new is the Sawed Off Shotgun, which fires less pellets than the normal shotgun, and has a smaller clipsize.  The sawed off is smaller than the normal shotgun, however.
+- Have also given CAS credit on a number of other weapons, which had somehow slipped through the cracks and were being sold as "by Unknown".
+- Added a new shotgun called the TK 'BlowBacker'.  This sg can temporarily stun an opponent, but it does use up extra ammunition to do so.
+- Added Psi Stun, and started fooling around with psionic values.
+
+~B~4Sunday December 22st, 2002~2~B
+
+TONS of changes this update.
+- Have recently visited an EXTREMELY well done zone, and that kind of led to me wanting to make my own zone more organised.  As such, I've gone over the item categories (again).  This should be the last time I do this.
+- Added fire graphic to the Assault Rifles.
+- Changed fire angle for Pulse Damper.  It no longer bounces, but rather goes in a straight line
+- Added [GL] Gas Grenade.  Is is the same as the old Gas Grenade.  There is now a new Gas Grenade, which does not require the Grenade Launcher.
+- Did some tuning of the mines, they were dropping too high.  Also changed Scatter Pack to Unique weapon, and removed the Space Mine.
+- Changed a lot of the SMGs' shot capacity, and slightly lowered damage.
+- Added a Pump Action Shotgun that uses shotgun pellets.  Plan to get rid of the old shotgun.
+- Added Pistol Ammo, and renamed Bullets to Rifle Ammo.
+
+~B~4Sunday December 22st, 2002~2~B
+
+- Significantly altered the way High Explosives work.  Now rather than being a mine that you throw, they are a small group of explosives that explode after 9 seconds.  They are ideal for destroying turrets and bunkers.
+- Changed a number of turret settings to make it easier for engineers to quickly set up bases.
+- Added the Melee Category, and the Combat Knife.  Melee weapons are very important for classes like the Skirmisher and the Spy, who depend on fast, short range damage to complement their speed.
+- Added the Combat Sword.  The Combat Sword is an effective weapon used primarily by advanced classes.  It weighs more than the Combat Knife, but has a larger trigger radius, and does more damage.
+- Added the Chain Sword and the TK6 Ripper (a modified chain sword)
+- Changed the way mines work.  Now rather than bouncing and then exploding, they get placed on the ground using height adjust.
+
+~B~4Sunday December 22st, 2002~2~B
+
+Starting again for the morning.  Have added in the first step for both Laser and MG Turrets - meaning engineers can now purchase them and use them.  Like in CTF, turret construction is a two step process.
+
+-Added: Machine Gun Turret Kit, Laser Turret Kit
+
+In other news, I've done some testing, and have added a Permitlist, a Modlist, and a SModlist.  What I think the problem is, is that the server and the Infantry.exe are not the correct versions, and thus the only way to use them together is to bypass the security encryption (in other words, to be either an smod or a sysop).  Sucks :/  
+I'll be using the SMod list for people who want to play I think.
+
+~B~4Sunday December 22st, 2002~2~B
+
+Last update for the night.  Have given all starting players 100000 cash and experience for aid in the TESTING process.  If ever this reaches the point where a game can actually be played, then I'll change that - but that's not very likely. :/
+
+~B~4Sunday December 22st, 2002~2~B
+
+- Completely changed the item file categories - the way I had them set up pissed me off WAAAAAY too much.  As it stands now, almost all classes have fairly even item distribution, so I'm satisfied.
+
+Introducing TK Industries, the newest competitor for your hard earned credits.  TK Industries prides itself on well crafted weaponry, often a more destructive nature, but it also has a few rifles and smaller arms to choose from.  For now, we will be introducing three of their products, including a new weapon they have just begun to test:
+
+- Added TK422 Fire Starter: an incindiary device
+- Added TKx02 Double Torcher: an incindiary device that shoots out 2 flamethrower projectiles
+- Changed Pulse Rifle name to TK12 Pulse Rifle
+
+~B~4Saturday December 21st, 2002~2~B
+
+- Removed Light & Heavy Mechanised Troopers from the skill file
+- Added Demolitions Expert, known affectionately as DEx.  The Demolitions Expert has access to a wide variety of explosive weapons, but his main feature is a small device used to clear mines.  He has a cost of 10000$, and is intended for use by advanced players - his stats resemble that of the Heavy Weapons man.
+- Added Remote Mine Detonator.  This is a small device that allows DEx to clear mines in the immediate vicinity with a short repulsor charge.  It does not use ammunition.
+
+~B~4Saturday December 21st, 2002~2~B
+
+Changed the names of the itm/veh/rpg/cfg/nws files so that I wouldn't be overwriting other peoples' BZ files if they entered the zone.
+
+~B~4Saturday December 21st, 2002~2~B
+
+Have been working off and on on this zone for about 2 months now, but only recently have I decided to make an attempt at actually completing it (due to my newfound ability to host a server other people can see).  So far I've added a few new classes, several new weapons, and am currently attempting to bring some semblance of order to the item set.  As I add and change things from this point forth, I will comment on them, just to get into the habit.
+-7hm
+
+Changes:
+
+New classes - ST Trooper, Shock Trooper, Sniper, Squad Leader, Light and Heavy Mechanised Troopers (soon to be removed, at least temporarily).  Redefined the class objectives for the medic and the spy.
+
+New items/ Item changes - In addition to Class specific items (Grenade Launcher, Gas Grenade, Grenade Charge, Enhanced Stealth Field, Repulsor Charge/Field, new Sniper Rifles, etc) I've changed the way a number of weapons work, particularly anti vehicle weapons and grenades.  The new emphasis for anti vehicle weapons will be on destroying bases (which have been added), whereas grenades will take a more specialised role, as powerful anti personal weapons.  I've also, temporarily, changed the weapon categories to make it easier for myself to determine which class is lacking in weaponry.  Until all classes have been added, I will continue to use this somewhat odd method of categorising.

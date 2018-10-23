@@ -1,0 +1,337 @@
+~B~1Cosmic Rift Release Notes~2~B
+---------------------------------------------------------------------------------------------
+~b~4v1.55	Monday, March 9, 2010~2~B
+	- Upgraded compiler.  This may help with hacking temporarily, but if hackers continue, they will bust this version too.
+
+~b~4v1.54	Friday, September 7, 2007~2~B
+	- Apparently the last patch messed up the graphics for a few people. I can't say for certain at this point what is causing the problem, but I have made a fix that I think has a pretty good chance of fixing things. The best way to know for sure is to just put it up and try it, so here it is.
+
+~b~4v1.53	Thursday, September 6, 2007~2~B
+	- Upgraded to new compiler.  This should have little impact on the players, though in theory if Microsoft improved their compiler you might see better performance.
+	- Changed patching scheme to cause all art-assets to be patched during game-launch instead of during zone-selection.  This will increase the size of the initial download, but make entering new zones faster.
+	- Some anti-hacking methods were changed to make some (if not all) of the existing hacks quit working for now.  As is always the case with hackers, there is little doubt that eventually they will modify their hacks to work again -- hopefully this will be later rather than sooner.
+	- Client now supports running in windowed-mode when desktop is in 32-bit color depth.  This should make a lot of people happy.  It has not been tested on very many video cards and there may be an unacceptable performance-hit on some hardware.  For what it's worth, it works fantastic on my machine, so I'm sure at least some people will have good luck with it.
+
+~b~4v1.52	Thursday, Jan 11, 2007~2~B
+    - Updated internal networking protocol to be more robust. This may or may not stop the denial-of-service attacks from taking down the servers as has been happening recently.  If it doesn't do the trick, then we will have to more actively program a fix for this particular problem.
+    - Did some code structure re-organization that should make most of the current crop of hacks stop working.  As always, the hackers can modify their hacks to work around these changes if they are diligent enough.  The rumor I have heard is that they no longer desire to make hacks -- we'll see.
+
+~b~4v1.51	Monday, Auguest 22, 2005~2~B
+    - Added a few security measures.  This should prevent the current crop of hacks from running as-is, but there is little doubt that the hackers will modify their hacks to work again.  Unfortunately due to the nature of the game, if the hacker is diligent enough, there is little we can do to prevent them from finding hacks down the road.  Hopefully this will at least slow them down for a while and we will try to be more responsive to hacks in the future.
+
+~b~4v1.50	Saturday, January 30, 2005~2~B
+	- This update did not add any new features, but was needed to update our back-end infrasture to better communicate with some changes that were made to the billing and subscription system used by all SOE games.
+	- Since it has been so long since we have released a new version, we took this opportunity to upgrade the code-base to some later technologies.  In particular, we have compiled it with a new better optimizing compiler, so you may actually see some performance improvements.
+	- Upgrading to the new compiler also required that we upgrade to the latest DirectX version.  Even though we don't make use of any DirectX 9 specific features, players will still need to upgrade to the latest DirectX 9 in order to run the game.  Upgrading DirectX versions is free and can be done at www.microsoft.com/directx.
+	- While there are no feature upgrades in this release, the changes will also allow us to better maintain the product in the future.
+	
+~b~4v1.49	Monday, May 17, 2004~2~B
+	- Added a few security measures
+
+~b~4v1.48	Thursday, February 26, 2004~2~B
+	- Fixed a few issues that were causing people to have trouble logging into servers.
+	- Added a few security measures
+
+~b~4v1.47	Tuesday, August 19, 2003~2~B
+	- Upgraded the communications package.
+	- Fixed a bug that allowed a hack to be used.
+	- Rolled back some changes that were not working as desired.
+
+~b~4v1.46	Tuesday, August 5, 2003~2~B
+	- Upgraded the communications package.
+	- Fixed a few security holes.
+
+~b~4v1.44	Wednesday, May 7, 2003~2~B
+	- Computer Turrets may now be set to allow them to be picked up by players.
+	- ?score_<whatever> may be sent straight to file by adding f:<filename>.
+
+~b~4v1.43	Thursday, April 24, 2003~2~B
+	- Computer turret creation may now be also limited by player, not just team, density, ...  So the designer may decide to only allow a player to place N turrets of a particular type, regardless of team.
+	- Computer turrets may now be chained to other turrets for creation or operation.  This means that in order to build or operate a turret, it may be necessary to have another turret(s) in the area.  (eg: you need to have a "power turret" near a "powered laser turret" in order for it to fire)
+
+~b~4v1.42	Thursday, April 17, 2003~2~B
+	- Computer turrets now use proper radar colors defined for them (defined by the designer) instead of the default red/green.
+	- Leading whitespace is not allowed in menu input boxes.  There was an issue where if a player used <space> to select a menu option and it opened an input dialog, the space would carry through into the input box.  This no longer happens.
+	- Terrain has been modified to allow the designer to set delays the player must wait before quitting, going to spec, or switching arenas.  Going to spec and switching arenas may also be disabled on terrains.
+
+~b~4v1.41	Friday, March 28, 2003~2~B
+	- fixed bug that allowed some cheating (not going to say how...).
+
+~b~4v1.40	Wednesday, March 12, 2003~2~B
+	- Fixed the steal logic so that computer turrets may only be stolen when their hit points are in the red.
+	- Modified the packet loss bans so that the player gets a warning before they get auto-banned due to repeated and excessive packet loss.
+
+~b~4v1.39	Wednesday, February 19, 2003~2~B
+	- Added ability for computer vehicle/turrets to drop items.
+
+~b~4v1.37	Thursday, December 19, 2002~2~B
+	- Added priority for paying subscribers to enter full games.
+
+~b~4v1.35	Tuesday, October 15, 2002~2~B
+	- Added ability for players to not allow themselves to be spec'd in certain zones.
+	- Updated the mark command to allow any character to be set as a mark via the ?mark command.  Usage: "?mark <player>:<mark>"  Example: ?mark Player:X
+	- Squad management has been redesigned.  Players must now be invited to join a squad by the squad admin.
+	- Updated the reward structure in RTS games to adjust the reward based on team inbalance.
+
+
+	- fixed daily history chart to display the last 100 days instead of the oldest 100 days.
+
+~B~4v1.30	Tuesday, November 27, 2001~2~B
+	- added support for simple objective based games (currently very limited, but will be expanded in the future)
+	- fixed bug in computer turret tracking when limited tracking angles are used
+	- fixed bug where computer turrets were not obeying firing radius limitation
+	- enhanced computer turret to not fire at vehicles in situations where the projectile doesn't have the lifetime to reach the target
+	- added support for inverse switches and initial door states
+	- added a fix for a lag-cheat that has been going around.
+	- fixed bug in zone password system
+	- added a full-arena queing system (will only be used for special events to be explained later)
+
+~B~4v1.29	Wednesday, October 10, 2001~2~B
+	- increased maximum server capacities
+	- added ability to password protect access to zones.
+	- added ability to control flag timer on a terrain basis
+	- fixed bug with long-messages getting corrupted
+	- fixed prize pickup bug that allowed picking up of unqualified prizes
+	- fixed prize auto-pickup problem to prevent multiple requests in rapid succession
+	- fixed bug where projectile trail graphics with rotational points were rendering 180 degrees out of phase (oddly enough, it seems like I had gone out of my way to make it out of phase, for the life of me I can't remember why...the code in question is about 3 years old)
+	- fixed bug where anti-effects were occuring to players in safe zones.
+	- enhanced relativeId system to pick a random anchor point instead of first-found
+	- enhanced ?resources command to show team assets as well (try it in the Rogue Trader zone)
+
+~B~4v1.28	Wednesday, August 29, 2001~2~B
+	- added support for computer turret generated vehicles
+	- added support for utility items adjusting held category limits along with several other utility item enhancements for adjusting other parameters
+	- added support for confirm menus for trading things
+	- added support for dropping items from the players inventory when they die.
+	- added %facing macro that will translate into which direction you are facing (8 directions supported, north/south/east/west and diagonals)
+	- added %heading macro that will translate into which direction you are heading (8 directions supported, north/south/east/west and diagonals)
+	- added ability to not reward players who kill the same player twice in a certain period of time
+	- enhanced multi items to be able to expand child items upon dropping (similar to lio clumping only allows diverse types and can be linked to vehicle deaths, etc)
+	- fixed bug that was causing initial inventory and skill setup not to execute properly
+	- added the ability to get the score chart for the previous game after the next game has already started.  It will only show you scores from the previous game for players who still happen to be online.  Current-game stats are cycled into previous-game stats when the next game starts.  Changing arena's will cause your previous-game stats to be lost.
+	- the command ?score_lastgame has been replaced by ?score_current and ?score_previous
+	- added the ability to get the score chart for everybodies current session.  The current session will represent the total points that player has gotten since they logged in.  These current session stats will be reset at midnight California time.  Only stats that get recorded to your permanent record will appear in the current-session stat chart (for example, in GravBall scores aren't recorded to your permanent record unless there are at least 10 people in the game; likewise, private-arena scores are not kept on your permanent record either).
+	- the command ?score_session has been added.
+
+~B~4v1.27	Friday, August 24, 2001~2~B
+	- added support for progressive weapon energy cost for firing multiple times in a row
+	- improved configurability of point blank prevention code
+	- added the ability to do vehicle-specific radar coloring
+	- added the ability to do prize-clumping (for a future zone)
+	- fixed a few server side bugs
+	- enhanced the way anchored lio's work (for a future zone)
+	- added a new flagging statistic; the number of times you get killed while you are carrying a flag (used in the MVP formula as a penalty as well)
+	- increased the number of zone-profiles that can be stored on the client (so if you visit a lot of different zones you won't lose your key-settings and such)
+	- fixed bug that allowed teams to grow larger than the maximum specified
+	- fixed bug that allowed experience/cash to go negative.
+
+~B~4v1.26	Wednesday, July 25, 2001~2~B
+	- added ability to turn off team line of sight sharing (zone configuration option)
+	- added mvp statistics system for flag games
+	- added jam-timer for when all your weapons have been jammed by the enemy.
+	- due to popular demand, the fire-ticked key has been re-added to the game (ALT+DELETE key by default).  You can also now scroll the inventory list using Alt+PgUp and Alt+PgDn.
+	- added a %crownexpire macro which translates into the number of seconds you have left before you crown/medal expires. (not currently used in Cosmic Rift)
+	- enhanced computer turrets to support firing animations
+	- enhanced font manager to allow customized colors (internal use only)
+
+~B~4v1.25	Friday, July 13, 2001~2~B
+	- fixed bug where high-score requests in stand-alone mode were crashing the game server (yikes).
+	- increased max typed message length substantially, it will auto-split the message up into the smaller messages as appropriate.  Macro's are still limited to the previous size.  Be careful to avoid the spam-code from kicking you as long messages count as several smaller messages.
+	- added support for taking direct control of computer turrets
+	- added support for grouped inventory limits on a per vehicle basis
+	- improved external database interface to allow querying of historical score data by third party programs.
+	- added a new advanced-option that allows you to turn of page-flipping on the vertical blanking interval (VBI).  Some users (particularly of GeForce cards) may find that turning this off improves performance significantly.
+	- fixed several bugs in the way turret animations and elevations worked.
+	- some minor bug fixes.
+
+~B~4v1.24	Wednesday, June 27, 2001~2~B
+	- New scoring system and chart changes
+		- there is now a menu-option for the chat channel chart and the online squad members chart
+		- the chart display has been modified to include row-numbers, chart-title, and help-instructions
+		- you can now get the top 100 scores for any day, week, month, or year
+			- when selecting these charts you will be asked for the date you wish to see the chart for.  You can leave it blank for todays date or specify a specific date.  You can also specify a negative number to represent the previous period (-1=yesterday/last-week/etc)(-2=two-days-ago/two-weeks-ago/etc)
+			- when specifying the week to view, you can specify any day in that particular week.  Weeks run from Sunday through Saturday.  Weeks display themselves as the first day of the week.
+			- looking up dates that don't exist or don't have data will result in a blank chart
+			- these charts are also quickly available through typed commands ?score_top100_year, ?score_top100_month, ?score_top100_week, ?score_top100_day.  You can specify the date as a parameter to the command (ex: ?score_top100_day 2001-06-26)
+		- you can now get a historical track record for any player on a daily, weekly, monthly, or yearly basis
+			- a historical track record is a list of a players score for each period of time for as far back as we are tracking the data.
+			- when selecting these charts you will be asked for the name of the player you wish to see.  Leave this blank to see the chart for yourself.
+			- these charts are also quickly available through typed commands ?score_history_year, ?score_history_month, ?score_history_week, ?score_history_day.  You can specify the player name as a parameter to the command (leaving it blank retrieves the chart for yourself)
+		- historical data will not be kept forever.  We don't know how much data we will keep yet, it depends on how much data there is.  The most likely scenerio is we will delete day-data that is over 30 days old, weekly-data over 52 weeks old, and we should be able to keep monthly and yearly data forever.
+		- we will likely be adding other charting options in the future (in particular, we will likely provide a way to get the historical top player for each period, and a way to get the scores of a particular squad for a selected date.)
+	- when running application in high-priority mode, it will now switch back to normal process priority when the game is not the active application.
+	- disabled the ALT+F4 exit-application key while in the game.
+	- change the precision-adjustment feature of the score-chart to include other factors (num-plus and num-minus while in the score chart doing column ratios).  Instead of simply moving the decimal place, it now has the following multiplier factors: 1,10,60,100,1000,3600,10000,100000.  The value 60 is a useful multiplier if you are using Play-Seconds as the ratio column as it will effectively make the other columns represent per-minute statistics instead of per-second.  Likewise 3600 can be used with the Play-Seconds column to effectively get stats like points/hourPlayed.
+	- possible fix for sound-problem people have been having.
+
+~B~4v1.23	Tuesday, June 26, 2001~2~B
+	- reworked the way scores are tracked internally on the back-end. The effect of this change won't be apparent to users until the next version.
+	- fixed bug where arena-owner commands were being forwarded to everybody (and you thought this was a feature)
+	- fixed problem where left/right shift key was not being distinguised (bug introduced in version 1.22)
+	- further enhanced joystick/gamepad support (mouse configuration menu has been changed to a movement-configuration menu and has other options for configuring joysticks)
+	- fixed problem where gamepad buttons couldn't be assigned to things that were only expected to be assigned to keys (like F3 and F4 for example)
+
+~B~4v1.22	Tuesday, June 19, 2001~2~B
+	- enhanced joystick/gamepad support. This change is going to cause some grief for players who use game controllers. For starters, you will be REQUIRED to have DirectX 8.0 or later installed (this will prevent NT users from using controllers, sorry, we may address this in a later version). Second, you will have to redo all your keyboard settings that were assigned to the controller. The good news is that the game will be able to make better use of the features of your controller.
+	- added support for announcing of prize hiding
+	- added support for having lio entries relative to existing/moving objects in the game
+	- added support for child vehicles having firing animations
+	- I have relaxed one of the lag checks that has been kicking a lot of players, and when it does kick them, it will attempt to send them a message telling them why.
+	- added support for dropping prizes upon death
+	- added support to the graphic engine for non-hsv shifting palette ranges on graphics
+	- fixed bug where you could get stuck in the wall coming back to life
+	- fixed bug that allowed team switches to the winning flag team (improved auto team-assignment algorithm in general)
+	- improved security to help prevent false-alarms (should result in less people getting kicked for no apparent reason)
+
+~B~4v1.21	Monday, June 11, 2001~2~B
+	- added an additional stat which tracks the number of seconds you've actually been in the game recording stats.  (This stat only adds up seconds if you are scoring other stats as well; so if kills aren't being counted for some reason, play-seconds won't be counted either.  Some zones only record stats to your permanent score if there are more than a certain number of people playing).
+	- added additional flagging statistics to some flagging zones as follows:
+		- Flag Wins = number of flag games you have won
+		- Flag Losses = number of flag games you have lost
+		- Carry Time = number of seconds you have carried one or more flags
+		- Carry Time+ = number of 'flag seconds' you have carried flags (if you carrying multiple flags, you get 1 second for each flag carried on this stat)
+		- Flag Captures = number of times you have taken over ownship of a flag for your team
+		- Carry Kills = number of kills you have gotten while carrying a flag
+		- Team Ownage = number of seconds your team has owned one or more flags
+		- Team Ownage+ = number of 'flag seconds' your team has owned flags (if your team owns multiple flags, you get 1 second for each flag owned on this stat)
+	- when in score-chart and doing column ratios (right click column header), you can use NumPad Plus/Minus to move the decimal point (useful for when a ratio stat starts with 0.000xxx)
+	- added a ball-trail length option to the Misc Options menu (previously only available via ?showballtrail)(only applicable to zones with balls -- currently none in Cosmic Rift)
+	- added the ability to edit messages that you are currently typing. You hit ALT+ENTER to begin message edit-mode.  If you use the ENTER to type messages option, then you are automatically in edit-mode whenever you are entering a message.  The following keystrokes are available in edit-mode:
+		- ~BLEFT / RIGHT~B = move cursor backward/foward 1 character at a time
+		- ~BHOME / END~B = move cursor to beginning/end of message
+		- ~BCTRL+LEFT / CTRL+RIGHT~B = move cursor forward/backward 1 word at a time
+		- ~BBACKSPACE~B = delete character before the cursor
+		- ~BCTRL+BACKSPACE~B = delete everything before the cursor.
+		- ~BDELETE~B = delete character under the cursor
+		- ~BCTRL+DELETE~B = deleted everything under and after the cursor.
+		- ~BESCAPE~B = exit edit mode
+		- ~BENTER~B = send message
+		- ~BUP / DOWN~B = scroll back through previous messages you have typed
+		- ~BCTRL+UP / CTRL+DOWN~B = scroll back through previous messages anybody has typed
+		- ~BCTRL+C / CTRL+INSERT~B = copy current typed line into clipboard
+		- ~BCTRL+V / SHIFT+INSERT~B = paste current clipboard data into cursor position
+	- *history command syntax changed, now it's "*history filter,page"
+	- added ability to prevent manual switching to public teams (attempts to do so will auto-assign you to a public team as-if you had just joined the game)
+	- fixed bug where player-list would not scroll all the way to the top to display team-name.
+	- fixed bug where computer-turrets weren't inheriting team HSV coloring.
+	- made away message not auto-reply to help request (for moderators).
+	- fixed view-adjust for turret-positions (only noticeable bug if you had view-adjust percentage set above 0)
+
+~B~4v1.20	Wednesday, May 23, 2001~2~B
+	- improved vehicle/wall collision physics (made them much more accurate, particularly in relation to diagonal walls)
+	- added moderator logging system whereby moderator commands are logged and can be reviewed by other moderators.  The intent here is to allow moderators to police each others behavior.  To this end, there have been a few changes to facilitate this (these only apply to moderators):
+		- *history command added that will display the last 50 moderator commands that have been issued (note: you will only be able to see moderator commands from mods of the same or lower access level than yourself)
+		- the *history command can take an optional page number (by default it displays page 0), specifying a page number will allow you to display even further back into the history.
+		- using * commands to communicate with other mods is generally discouraged, but fearing that I can't stop it, I have decided to formalize it somewhat.  If you wish to do this, use the * followed by a SPACE, then the message.  This will cause the message to not be logged in the command history and will also cause that a super-moderator issuing the "* message" format will have the message forwarded to all moderators as well instead of only other smods as before.
+		- using **message will cause that a message-entry be posted in the command-history at a moderator-level, regardless of level of player issuing it.  This can be useful for a super-moderator who may want to leave a message for the other moderators in the command-history.
+	- added *teamname arena-owner command that allows arena-owner to set the team-name for public teams (useful for making score display reflect teams actually playing).  Syntax is *teamname team1,team2,team3,etc...
+	- enhanced damage modelling (just gives us more flexibility in how damage is caused)
+	- improved flag-hiding so they are more likely to stay nearby
+	- made dropping flags as unowned (through various techniques) result in flags going back to their previous position (zone setting, may not apply to all zones)
+
+~B~4v1.19	Monday, May 14, 2001~2~B
+	- added help-request system.  Users can type ?help followed by their help request and it will be forwarded to any available moderators in the zone.  There is also an F1 help-menu call for help option.  Abuse of help-system is grounds for banning.
+	- added moderator commands for dealing with help.  Commands are: *helplist, *helpclear (sent privately or * to clear all), *helpmonitor, and *helplistall (smod only).
+	- added support for winning-streak based team scrambles
+	- added ?breakdown command that will give you a mid-game breakdown (only in game types that have game-breakdown information)
+	- added *endgame command to terminate games without restarting next game automatically
+	- added support for nested configuration files (users won't see anything different, but it will make it easier for us to manage the configurations and share settings between zones)
+	- added ability to link turrets to particular flag ownership
+	- added support for other types of flag games.
+
+~B~4v1.18	Tuesday, May 8, 2001~2~B
+	- added a new message option to auto-convert all upper-case messages into lower case
+	- made anti-spamming code smarter, so it identifies people spamming better and kicks them
+	- made it so gravity-bombs (and wormholes) can't pull somebody out of a safe zone.
+	- made stationary projectiles do physics checks
+	- added support for accessibility rules for damage (effectively allows us to prevent damage from going through walls)
+	- enhanced it to show player portal points on radar (for self only).
+	- fixed bug that prevented mapping of combination keys in-game.
+	- fixed bug where projectile items weren't getting properly destructed
+	- fixed bug that allowed warping to dead players previous location
+	- made it so cloaked players appear cloaked to themselves
+	- fixed bug in vehicle empty animations
+	- new clock sync mechanism fixed a lot of problems, but also created some new problems for a few people.  To solve this, I am letting the user select which clock method they wish under advanced options.  Leave this setting alone unless you start getting kicked to spectator mode for clock problems.  If that happens, try turning the alternate timing mechanism on and see if that solves your problem.
+	- fixed various cloaking related bugs.  Multiman vehicles cloak-status is now tied completely to the driver position, if driver is cloaked, everybody else is cloaked.  However, any vehicle position firing will disable the drivers cloak.
+	- fixed bug that allowed daggir ship to go very fast. (for the curious, was caused when the previous occupant of the ship had died while being repelled (or was moving fast for various other reasons))
+	- fixed bug where dragging player-list scroll bar when it disappeared would cause a crash.
+	- fixed energy-bar display when you were in turret positions
+
+~B~4v1.17	Tuesday, May 1, 2001~2~B
+	- fixed team-coloring for dependent vehicles
+	- increased how agressively the client attempts to synchronize clocks (trying to combat some bad-sync problems some people have been having)
+	- got rid of ?ping command (was redundant -- use ?lag instead as it also gives you packetloss numbers too)
+	- changed clock sync mechanism.  I am hoping this will solve some of the clock problems that have been sending people to spectator mode and may reduce the appearance of lag substantially in some cases as the prediction code will be able to be much more accurate.
+	- fixed roll effect for unowned vehicles
+	- added ability to set default hsv values for unowned vehicles
+	- fixed bug that was causing a lot of players to crash when trying to login.
+	- fixed bug where when you hit ctrl to spectate a particular player it would sometimes advance to the next player on the list.
+	- fixed bug where certain upper-case letters were displaying incorrectly on login screen.
+	- fixed energy gauge display when in spectator mode
+	- hopefully fixed bug that was causing people to get stuck in closing doors once in a while.
+	- fixed bug that was causing weapon-key and inventory-counts to disappear when mouse was over the player list area.•
+	- fixed a serious bug in the prediction code that was causing ship positions to appear quite a ways off.  I think you will notice the improvement.
+
+~B~4v1.16	Friday, April 27, 2001~2~B
+	- apparently I forgot to update the release notes with the last revision, so this is now the official 1.16 release.
+	- made prizes increase your bounty as you pick them up.  (Note: the server tracks your bounty and only updates your personal display every 3 bounty points)
+	- switched everything over to the smaller ship settings as they seem to be more popular, we will keep the big ships around and perhaps use them in some future zones.
+	- had server reset ping stat tracking on arena entry to prevent downloading from starting you out with a bad ping stat.
+	- fixed bug that was causing bullets to occassionally go through enemy when fired point-blank
+	- added in-game keyboard reconfiguration.  Keys can now be changed on the fly under Options/Keyboard Config.
+	- added ability to turn right-side energy-guage completely off (under Graphic Options)
+	- added an auto-log messages feature.  You have to turn this on from the Options dialog box at the zone-selection screen.  This will automatically log every message for your sessions under a file called "MessageYYYY-MM-DD.LOG" for each day.  If you login multiple times per day, messages will simply be appended.  All messages for the current session are logged under the day that the session started, so if you change days mid-session it does NOT change log files.
+	- changed the format of the message logs to be tab-delimited instead of that screwy format it was.  This should make importing logs into other programs much easier.
+	- improved smart-proximity sensor to more accurately determine if it is really as close to the enemy as it is going to get.
+	- more improvements to prediction code, should make ships that are reversing thrust and rapidly changing direction appear less laggy
+
+~B~4v1.15	Wednesday, April 25, 2001~2~B
+	- added option to disable displaying of your own personal name/banner next to your ship
+	- added option to disable displaying of aiming-tick line (under Graphic Options)
+	- fixed bug that allowed joining of a flag team that was about to win the game.
+	- hopefully fixed bug where flags were sometimes not getting hidden next to where they were dropped in some zones.
+	- added option for transparent player-list (right-click on player-list and select option to turn it on, also available under Graphic Options)
+	- made F2 toggle player-list to previous setting OR if there was no previous setting, it toggles the player-list off-screen.
+	- made scrolling the player-list-box auto open it up for viewing (when player list is in closed mode), then auto-reclose it.
+	- fixed the shaking-vehicle problem when in spectator mode (really this time :)
+	- improved prediction code (nothing major, shouldn't really be noticeable, though technically it will operate better)
+	- made message-area transparent by default
+	- added the ability to do transparent messages.  Right-click on message-area and select option to turn this feature on/off, or it can be set in ESC/Options/Message Options screen.
+	- added ability to prevent team switching to winning team during flag victory countdown.
+	- added death respawn timer
+	- added crude copy/paste ability.  Right-click on the message area for a list of copy/paste options.
+	- made ships inherit speed and direction of target when team attaching
+
+~B~4v1.14	Saturday, April 21, 2001~2~B
+	- added auto-spec flagger for flagging zones.  Hit the Bomb key (TAB) to cycle through flags that are being carried.  When player loses flags, another player carrying them will automatically be selected.
+	- added the ability to sort player list by team (made it the default mode, if you like the old method better, then right-click on player list and select the Sort by Name option)
+	- display carried-flag counts next to player-list
+	- fixed bug where fire delay wasn't properly being imposed on items requiring server authorization
+	- fixed up display of flaggers on radar to be more clear
+	- extended ECM device distance for seeing through stealth, reduce distance slightly for anti-warp effect
+	- made utility devices turn off upon death.
+	- made utility devices not subject to full fire delays imposed by other weapons.
+	- bug fixes
+
+~B~4v1.13	Thursday, April 19, 2001~2~B
+	- added option to display energy bar at top or bottom of screen.
+	- added %flagcount macro to display how many flags you are currently carrying
+	- added %flagger macro to display the name of the closest enemy player carrying flags that is visible to you
+	- added %flagdrop macro to display how long before you will drop any flags you are carrying
+	- added product name to chat and squad charts
+	- added ?online command to display the total player counts for all zones
+	- enhanced ?find command to specify a product name
+	- fixed bug in patching system that caused executeable to download multiple times
+	- added flag status display for flag games.
+	- fixed bug where energy was being drained when warp was being denied (for various reasons)
+	- added misc support for flagging game.
+	- put in ability to prevent ship-selection unless player has a certain energy level
+	- enhanced engine to allow event strings to set energy level (setenergy)
+	- added option to have flags auto-pickup when touched.
+	- prevented summoning and warping from occuring to players who were in safe zones
+	- fixed bug where flag carry timers weren't getting reset properly
+	- enhanced roll mode option to allow you to turn ship-roll effect completely off.
+
+~B~4v1.12	Tuesday, April 17, 2001~2~B
+
+	- Initial open-beta release of Cosmic Rift

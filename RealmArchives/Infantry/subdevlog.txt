@@ -1,0 +1,1502 @@
+~b~1Combined Arms Development Log~2~b
+---------------------------------------------------------------------------------------------
+~b~4Wednesday, July 28th, 2010~2~b
+
+~0Objective expansion update.~2
+
+~1Flags are back in along with HQ level cap being raised to 20.~2
+
+	~b~3Zone Features~2~b
+		Headquarters can now reach lvl 20
+		Periodic Flag Reward timer changed to 60 seconds
+		Ten Roamer Flags added, these spawn HQ credits every 60 seconds
+
+	~b~3Map~2~b
+		Raised heights for directional physics to match yellow physics height
+
+	~b~3Class~2~b
+		Reworked innate vehicles to prepare for alternate modes
+		~bHeavy Weapons~b - loses one level access to Shield Armor
+		~bDemolitions Expert~b - loses one level access to Shield Armor
+		~bField Medic~b - loses one level access to Shield Armor
+
+	~b~3Weapons~2~b
+		~bKPS 'X1.2' Gauss Minigun~b - weight increased to 40kg from 32kg
+		~bCZ-347 Grenade MG~b - ammo capacity increased to 6 from 4
+						fire delay increased to 30 from 20
+						reload delay increased to 240 from 150
+
+	~b~3Armor~2~b
+		No changes
+
+	~b~3Equipment~2~b
+		~bHedgehogs and Vectors~b - added 32 concurrent projectile vector force
+		~bSingular Vector Field~b - newly added
+		~bSTC-A1 ADi~b - reload increased to 10 seconds from 6 seconds
+
+	~b~3Vehicles~2~b
+		Reworked some automated vehicles for expanded basing
+
+	~b~3Misc~2~b
+		Expanded HQ Defense sound notifier to cover the same 3600 pixel range as the defense effect
+		HQ Credit drop lifetime doubled to 1 minute, has wall bounce, slows down when vectored
+
+
+~b~4Thursday, July 22nd, 2010~2~b
+
+~0Bug fix update.~2
+
+~1Outposts shouldn't trigger the HQ Kit to dissolve into 5000 cash anymore. Added HQ Credit pickups, and removed defense kill 2x rate.~2
+
+	~b~3Zone Features~2~b
+		Major behind the scenes work on HQs to fix Outpost bug and prepare for levels beyond 10
+		HQ Credit drops also drop from fallen enemies now. But you can only pick up those from opposing players.
+
+	~b~3Map~2~b
+		Even more fixes for Suburban Warfare map
+
+	~b~3Class~2~b
+		~bSquad Leader~b - loses 1 tier access to ~bShield Armor~b series
+
+	~b~3Weapons~2~b
+		~bG-Labs SG5 EMP Shell~b - fixed to require ~bG-Labs SG5 Pump Shotgun~b to fire
+		~bX Corp 'Fenrir' SR-X~b - submunitions requirement fixed
+
+	~b~3Armor~2~b
+		~bArmor Combing~b - explosive ignore corrected to match description
+		~bArmor Sloping~b - description corrected to match drain protection
+		~bPhase Shift Armor~b - effect is now removed when other generators are activated, and AMH corrected to 10 from 1
+
+		~bVariable Armor~b - explicit required skills added
+
+	~b~3Equipment~2~b
+		Switch delay fixed for so many things I can't remember
+
+	~b~3Vehicles~2~b
+		No changes
+
+	~b~3Misc~2~b
+		Schrapnel sounds altered
+		Added a sound that plays when you're in defense range of your HQ
+
+
+~b~4Tuesday, July 20th, 2010~2~b
+
+~0Several changes have been made to even the odds for public teams~2
+
+~1Experienced players should look into the Armor - Generators, re-enabled Mobility Addons and Custom/Special Armors.
+We encourage you to try to find the most overpowered setups possible and report any bugs/issues regarding them.~2
+
+	~b~3Zone Features~2~b
+		Store has been enabled in spectator mode again
+		Public team size increased to 18 from 10
+		Private team size increased to 10 from 8
+		Desired public teams increased to 4 from 3
+		Player Score chart categories made clearer
+		HQ Credit has been temporarily increased by 2x (KillCredit x1 -> x2)
+		Reliability of HQ Credit gain from increased by 5 fold (DefenseKillChecker x1 -> x5)
+
+	~b~3Map~2~b
+		Vision, terrain and physics fixes for Suburban Warfare map
+
+	~b~3Class~2~b
+		Experience requirements now match Ranks
+		Mobility Addons and Passive Implant requirements have been adjusted for all classes
+		All classes that can build ~bSandbag~b can now also build ~bSandbag x2~b
+
+	~b~3Weapons~2~b
+		~bSonic Charge~b - weight decreased to 0.25kg from 0.50kg
+		All Explosive packs gained a 1000ms Fire Delay
+		~bVortex Grenade~b - reload decreased to 1500ms from 2000ms, to match all Hand Grenades
+						projectile behaviour changed to match all Hand Grenades
+		~bLaser Grenade~b - weight decreased to 0.50kg from 1.00kg, cost decreased to 300 from 400
+		~bFlash Grenade~b - weight decreased to 0.25kg from 0.90kg, cost decreased to 150 from 250
+
+		~bRy-Tek LMG2~b - reload increased to 800ms from 600ms
+		~bRy-Tek LMG2 Bipod~b - reload increased to 800ms from 700ms
+		~bMMG277~b - reload decreased to 1200ms from 1400ms
+		~bSI-7 'Nodachi' Sling~b - reload decreased to 1000ms from 1400ms
+		~bAFP 'BF' Heavy Machine Gun~b - reload decreased to 1200ms from 1400ms
+		~bAFP 'BF' HMG Harness~b - reload decreased to 1200ms from 1400ms
+		~bAFP 'BF' HMG Tripod & Cooler~b - reload decreased to 800ms from 900ms
+		~bPantcore '900x' SAW~b - reload increased to 1400ms from 1300ms
+		~bPantcore '900x' SAW EB~b - reload increased to 1400ms from 1300ms
+		All ~bMachinegun~b and ~bCAW~b recoils have been standardized
+		All ~bMachinegun~b damages and muzzle velocities have been standardized
+		All ~bZlite Rifles~b recieved a decrease in reload by 200ms
+
+		~bAR247 RGAM42~b - reload decreased back to its original 2400ms from 3000ms
+		~bAR247 RGFS42~b - reload decreased back to its original 2400ms from 3000ms
+
+
+	~b~3Armor~2~b
+		~bArmor - Active~b category has been completely overhauled and is now under ~bArmor - Generator~b
+		All generators now expire in two increments of 15 seconds, for a total of 30 seconds
+		Generators have been organized into sets of three for stacking purposes.
+		Fields cannot be stacked and Systems cannot be stacked: This means you can have two generators active
+
+		~bArmor - Custom/Special~b armors have been recalculated:
+		~bCarapace - Micro~b - buy and sell prices switched with ~bCarapace - Partial~b
+		~bCarapace Refits~b = ~bCarapace~b  +  ~bArmor Plating~b  -  ~bArmor Combing~b
+		~bCeramax V - SpecOps~b = ~bCeramax V~b  +  ~bPassive Sensors +~b  +  ~bThermographic Sights +~b
+							 +  ~bStealth Coating (Medium)~b  -  ~bArmor Coating (Medium)~b
+		~bCeramax VII - Custom~b = ~bCeramax VII~b  +  ~bArmor Grounding~b  +  ~bArmor Skirts~b  -  ~bArmor Plating~b
+		~bFlexible Polonium Armor~b = ~bRigid Polonium Armor~b  +  ~bArmor Combing~b x2
+							+  ~bArmor Skirts~b  -  ~bArmor Coating~b
+		~bSW Combat Armor~b = ~bCMP2 Combat Armor~b  +  ~bPassive Sensors ++~b  +  ~bThermographic Sights ++~b
+							+  ~bStealth Coating (Heavy)~b  -  ~bArmor Combing (Heavy)~b
+		~bVariable Armor~b = ~bKevlite Armor~b  +  ~bActuators~b x3
+
+		~bG-Labs Chameleon Plate~b - cloak recovery time decreased back to its original 0 seconds from 0.5 seconds
+
+	~b~3Equipment~2~b
+		Mobility Addons enabled again
+		~bDermal Protein Graft~b - fixed to provide correct bonus amount of 10 AMH instead of 1
+		~bSTC-A1 ADi~b - Speed bonus duration increased to 10 seconds from 5 seconds
+
+	~b~3Vehicles~2~b
+		~bHeadquarters Kit~b - cost reduced to 5k (automatic refund set to 5k when an existing HQ is detected)
+		Standardized engineering kits so that constuction constraints have been loosened (80 of each wall type, 20 of each gate type)
+		Encasement Field build limits have been corrected
+
+	~b~3Misc~2~b
+		Added sounds to schrapnel and shockwaves so that people know what's laming them
+
+
+~b~4Wednesday, July 14th, 2010~2~b
+
+~0Replacements for buffouts are in. You will notice a new (old) item called Sprint Shoes in the Equipment - Boots section of the Store (F10). These do not do anything by themselves, rather they upgrade the effect of your innate Sprint.~2
+
+~1Severely nerfed flags in anticipation for increased HQ level cap.~2
+
+	~b~3Zone Features~2~b
+		Flags are exactly 50% of one levels worth of HQ rewards, considering the a 5 minute reward period
+
+	~b~3Map~2~b
+		~bSafe Zone terrain type~b - will boot people into spec after 15 seconds
+
+	~b~3Class~2~b
+		All troops recieved a 5kg carry weight boost to 25kg carry and 125kg stop max
+		~bLight Infantry~b - corrected addinv=VibroKnife to addinv=Vibro Blade
+
+	~b~3Weapons~2~b
+		~bCZ-PM552 'Bozar' Sniper MG~b - Changed fire behaviour to prevent DC bug
+		~bThrowing Knife~b - moved to Weapons - Melee
+
+	~b~3Armor~2~b
+		No changes
+
+	~b~3Equipment~2~b
+		~bBoosted Strength~b - changed from acceleration bonus to 5kg carry and max carry bonus
+		~bDermal Protein Graft~b - Anti Multi Hit recovery bonus decreased to 10 from 12.5
+		~bNerve Acceleration~b - added, now takes over the acceleration bonus
+		Implant maximums increased to 3 from 2
+		Mobility Addons and Implants increased to 20% from 15% to match bonus baselines
+		Mobility Addons disabled
+		~bSprint Boots~b - added, causes your sprint
+		~bVortex Grenade~b - vehicle suction effect quadrupled
+
+	~b~3Vehicles~2~b
+		~bWarp Point~b - accepts HQ credit deposits
+		~bHeadquarters~b - upgrade costs reduced
+		~bHeadquarters Kit~b - weighs 10kg instead of 0kg, included description warns of automatic reconversion to 10k cash
+		~bHQ Credit Station Kit~b - renamed to Outpost Kit and weighs 20kg instead of 40kg
+		~bHQ Credit Station~b - renamed to Outpost and acts as an extension to the HQ's kill credit conversion effect.
+		Enabled Encasement Field, use it to cover your HQ for an extra layer of protection from mario-wannabes
+
+	~b~3Misc~2~b
+		No changes
+
+
+~b~4Friday, June 11th, 2010~2~b
+
+~0Switched to different map to test HQ viability.~2
+
+~1Buffouts are removed. Various strength vectors added. Map changed. Sorry didn't have time to fix generators and sprint.~2
+
+	~b~3Zone Features~2~b
+		Tweaked anti-rigormortis death effect (this shit ain't working)
+		Tweaked HQ barrier (neither is this)
+		HQ gains 50 max HP per level
+		HQ Defense Credit area effect increased to 3600 radius, previously was 2400 radius
+
+	~b~3Map~2~b
+		Map changed to Kliest's Ridge Airport
+
+	~b~3Class~2~b
+		No changes
+
+	~b~3Weapons~2~b
+		~bCZ-347 Grenade MG~b - explosive inner damage increased to 45 from 40
+		~bSI-4 'Zanbatou' EX Round~b - blast radius decreased to 36 from 48
+		~bAR247~b - kinetic damage increased to 20 from 17
+		~bAR247 API~b - drain increased to 20 from 17
+		~bAR247 EX~b - explosive damage increased to 30 from 25
+		~bAR247 RGAM42~b - reload increased to 3000ms from 1800ms (formerly 2400ms)
+		~bAR247 RGFS42~b - reload increased to 3000ms from 1800ms (formerly 2400ms), weight decreased to 0.9kg from 1.3kg
+		~bRy-Tek AR4 ~b - kinetic damage increased to 20 from 17
+		~bSI-8 'Keibou' AR~b - kinetic damageincreased to 22 from 19
+		~bSTC-S4ND11 'Sterilizer' AR~b - kinetic damage increased to 23 from 20
+		~bTS AG-80~b - drain increased to 21 from 18
+		~bZlite G1 Battle Rifle~b - no changes yet
+		~bZlite G2 Battle Rifle~b - no changes yet
+		~bZlite G3 Battle Rifle~b - no changes yet
+		~bZlite G4 Battle Rifle~b - no changes yet
+		~bCZ-PM552 'Bozar' Sniper MG~b - weight decreased to 12kg from 15kg, ammo type changed, added loader
+		~bSI-5 'Yumi' Silenced Sniper~b - ammo type max increased to 6 from 5, magazine adjusted accordingly
+		~bSI-6 'Yari' Sniper Cannon~b - ammo type max increased to 6 from 5, magazine adjusted accordingly
+		~bX Corp 'Fenrir' SR-X~b - reload decreased to 1800ms from 3000ms
+		~bZlite G9 Survival Rifle~b - is now fire on the run
+
+	~b~3Armor~2~b
+		No changes
+
+	~b~3Equipment~2~b
+		~bHQ Recall~b - now takes 600 energy cells and reduces your armor to 0 to activate
+		~bBuffout Pill~b -  sell price set to 1000, usage disabled
+		~bDrug Pusher - Buffout~b -  sell price set to 1000, usage disabled
+		Buffout Effects set to expire immediately
+		~bHedgehog~b - repulse effect adjusted
+		~bPersonal Vector Field~b - renamed to ~bVector Field - Full Strength~b
+		~bVector Field - Micro, Strong~b - added
+		~bVector Field - Narrow, Strong~b - added
+		~bVector Field - Wide, Strong~b - added
+		~bVector Field - Wide, Weak~b - added
+		~bVortex Grenade~b - only effects enemy projectiles and vehicles
+		All Vectors and Hedgehogs had their recoil power standardized, with added item descriptions
+		All Rechargers and Converters recieved back their prefire
+		~bFlashPack~b - cost reduced to 300 from 1500, weight dropped to 2kg from 4kg, max carry increased to 5 from 2
+		~bLasPack~b - cost reduced to 400 from 2000, weight dropped to 2.5kg from 5kg, max carry increased to 5 from 1
+		All explosives reload increased to 2000ms from 1500ms
+
+	~b~3Vehicles~2~b
+		~bTrident Vector Field~b - ammo use reduced to 40 from 60 akin to Power Armor Vector Field
+
+	~b~3Misc~2~b
+		No changes
+
+
+~b~4Tuesday, May 25th, 2010~2~b
+
+~0Headquarters testing continues for the second half of rotation~2
+
+~1Please note that HQ Kits will disappear from your inventory upon death or entering into spec mode. This is a temporary safety measure.~2
+
+	~b~3Zone Features~2~b
+		~bHeadquarters~b - added a GTFO effect against JTs
+
+	~b~3Map~2~b
+		Marine is working on updates to the Urban map
+
+	~b~3Class~2~b
+		No changes
+
+	~b~3Weapons~2~b
+		~bHedgehog Grenade~b - added switch time delay
+		~bVortex Grenade~b - now pulls in enemy players, enemy bullets and friendly bullets
+		~bHand Grenade~b - held category increased to 12 from 10
+		~bThrowing Knife~b - held category seperated from Hand Grenades
+
+		~bOMB Sonic Cannon~b - added lower trigger limit
+		~bOMB Fuel Canister~b - clip increased to 60 from 50
+
+		~boMAF-STC Gauss Cannon~b - muzzle velocity increased to 7000 from 6800, fire delay decreased to 300ms from 400ms
+		~bSTC-3 Gauss Pistol~b - inner bypass damage increased to 1.5 from 1.0, reload decreased to 800ms from 900ms
+		~bSTC-4 Gauss Rifle~b - inner bypass damage increased to 2.5 from 2.0, fire delay decreased to 100ms from 110ms
+		~bSTC-5 Gauss SMG~b - inner bypass damage increased to 2.0 from 1.5, clip increased to 6 from 5
+		~bSTC-6 Gauss Assault~b - fire delay decreased to 60ms from 80ms, reload decreased to 1200ms from 1500ms
+		~bSTC-7 Gauss MG~b - inner bypass damage increased to 3.5 from 3.0, blast radius decreased to 4 from 12
+						clip increased to 6 from 5, reload decreased to 1200ms from 1400ms
+
+		~bFlashlight~b - clip increased to 6 from 5
+		~bFlashlight Overload~b - reload decreased to 3000ms from 3400ms
+		~bFlashlight Spread-Shot~b - reload decreased to 1500ms from 2000ms
+		~bKPS '.013' Pistol Laser~b - clip increased to 6 from 4, Energy Cell cost decreased to 4 from 5
+		~bKPS '.016' Rifle Laser~b - clip increased to 6 from 5, Energy Cell cost decreased to 5 from 6
+		~bKPS '.016' Rifle Overload~b - reload decreased to 3000ms from 3400ms
+		~bKPS '.016' Rifle Spreadshot~b - reload decreased to 1500ms from 2000ms
+		~bKPS '.024' SMG Laser~b - clip increased to 8 from 6, Energy Cell cost decreased to 6 from 8
+		~bKPS '.035' MG Laser~b - clip increased to 12 from 10
+		~bPulse Laser Rifle~b - clip increased to 6 from 5
+		~bSTC-X16 'Sunbeam' Minigun~b - clip increased to 24 from 20
+		~bULF Laser Shotgun~b - reload decreased to 1500ms from 2000ms
+		~bULF Maser Rifle~b - clip increased to 6 from 5, reload decreased to 1500ms from 2000ms
+						Energy Cell cost increased to 15 from 12
+		~bULF Maser Rifle Overload~b - reload decreased to 3000ms from 3900ms
+						Energy Cell cost increased to 90 from 60
+		Laser Pistol, Laser SMG, Laser Grenade and Maser projectiles alive times increased to 2000ms from 1500ms/1000ms
+
+		~bSI-4 'Zanbatou' Autocannon~b - reload back to 1500ms from 1800ms
+		~bCZ-5P4MM3R Minigun~b - clip increased to 36 from 30
+		~bSI-9 'Tenmou' Minigun~b - clip increased to 30 from 25
+		~bZlite G7 Snub Cannon~b - weight decreased to 14kg from 16kg
+
+		~bG-Labs PAR4~b - weight decreased to 6kg from 7.5kg
+		~bG-Labs Plasma AR4 PGa~b - weight decreased to 1.5kg from 2.5kg
+		~boMAF 'Skeeder' Plasma Rifle~b - clip decreased to 6 from 8, weight decreased to 6kg from 8kg
+
+		~bAR247~b - weight decreased to 3kg from 3.5kg
+		~bAR247 API~b - weight decreased to 0.02kg from 0.03kg
+		~bAR247 EX~b - weight decreased to 0.03kg from 0.04kg
+		~bAR247 RGAM42~b - reload delay decreased to 1800ms from 2400ms
+		~bAR247 RGFS42~b - reload delay decreased to 1800ms from 2400ms
+		~bAR247 Rifle Grenade~b - holds increased to 12 from 10
+		~bBattle Rifles~b - decreased in weight
+		~bZlite G6 Carbine~b - clip increased to 8 from 6, reload decreased to 800ms from 1200ms
+
+		~bRy-Tek SMG7~b - reload decreased to 850ms from 1000ms
+		~bSTC-S4ND90 'Purifier' SMG~b - clip increased to 11 from 9
+		~bTS AG-21~b - clip increased to 15 from 10
+
+	~b~3Armor~2~b
+		No Changes
+
+	~b~3Equipment~2~b
+		~bPower Armor Field~b - removed prefire
+		Vector overlay effect corrected to originate with vector projectile
+		All vector fields fire delay/reload/switch time/Energy Cell use doubled, effectiveness doubled as well
+		All engineering items gain switch time delay
+
+	~b~3Vehicles~2~b
+		~bAssault Bike~b - HP decreased to 40 from 50
+		~bDart Bike~b - HP decreased to 40 from 50
+		~bMBT Brummbar~b - HP increased to 200 from 150
+		~bLynx Turret~b - added Tank Occupant Protection
+
+	~b~3Misc~2~b
+		Rigormortis disabled
+
+
+
+~b~1Combined Arms Update Archives~2~b
+---------------------------------------------------------------------------------------------
+~2~4Monday, May 24th, 2010~2
+
+~b"Fixes"~b
+
+-Equipment related-
+Hedgehogs (Grenade, Active Protection System, Array) and vectors have been corrected to reasonable strengths.
+Vortex Grenades actually 'suck' now.
+OMB Sonic Cannon anti-wall 250 damage should be working, use it on walls for safer base attacking at a distance.
+Teleport Summoner has been disabled in DMZ.
+Tank and Trident Vector Fields lose their 0 switch time in order to prevent Energy Cell DC bug.
+All Warp recall equipment prefire/switch delay adjusted.
+
+
+-Misc-
+Exit Spectator warp event repaired.
+Trying to get into Subway area will warped you out.
+
+
+~b"Changes"~b
+
+-Additions-
+New bastard child of PCU 'Lite' and Chameleon Plate available in store.
+
+
+-Balance-
+Composite armor series reduced by 2kg across the board
+Sloped Armor weight reduced to 9kg from 14kg
+Ry-Tek PCU 'Lite' cloak effectiveness increased to 150 from 225, explosive ignore decreased to 1 from 2, recovery decreased to 45 from 45
+G-Labs Chameleon Plate explosive ignore increased to 3 from 2, cloak recovery time increased to 0.5 from 0
+SilenTech SymAC kinetic ignore increased to 2 from 1, thickness and recovery increased to 38 from 32, cloak and stealth nerfed by 6 pixels
+oMAF LCa cloak recovery time decreased to 0 from 1
+STC Close Assault Weapons lose their 10ms fire delay buff from previous update
+SI-4 'Zanbatou'Autocannon clip increased to 6 from 5, reload increased to 1800ms from 1500ms
+G-Labs 86 'Apple' Plasma Pistol clip increased to 6 from 5, reload increased to 1200ms from 1000ms, fire delay decreased to 120ms from 150ms
+G-Labs PAR4 fire delay decreased to 100ms from 130ms
+G-Labs Plasma MG-08 clip increased to 12 from 8
+G-Labs Plasma MG-08 Harness clip increased to 6 from 4
+G-Labs Plasma SMG-08 Energy Cell use decreased to 8 from 10, clip increased to 10 from 8
+G-Labs PPJ-06 Energy Cell use increased to 40 from 30, clip increased to 4 from 3 (No really)
+oMAF 'Skeeder' Plasma Rifle clip increased to 8 from 5, Energy Cell use decreased to 10 from 12, fire delay decreased to 120ms from 150ms
+oMAF 'Unifier' Plasma SMG clip increased to 16 from 12, blast radius decreased to 4 pixels from 6 pixels
+All plasma weapon outer damages set to one less magnitude
+CCP-8 'Aldous' Handcannon clip increased to 6 from 5, reload decreased to 2000ms from 2500ms
+Both handguns' clip increased to 8 from 6
+Both machine pistols' fire delay decreased to 50ms from 60ms
+All pistols offset changed to 0 pixels center from 4 pixels right-hand
+OMB Sonic Cannon prefire decreased to 1500ms from 2000ms, switch time decreased to 2000ms from 2500ms
+All basic class preset weapons and armor match their store equivalent
+
+~b"Notifications to players"~b
+Refrain from glitching yourselves into the subway portion of the map. If this becomes a problem then an auto DS warp will be placed in the area.
+
+
+
+~2~4Friday, May 21st, 2010~2
+
+~b"Fixes"~b
+
+-Equipment related-
+HQ Attk. Bonus (use) prefire decreased from 50ms to 0ms, Fire/Reload/Switch delays increased from 50ms to 100ms
+HQ Def. Bonus (use) prefire decreased from 50ms to 0ms, Fire/Reload/Switch delays increased from 50ms to 100ms
+All Ammo Creators and Energy Rechargers lost their prefires. Stupid DC bug.
+Route Ranges for Sniper weapons and HQ area effect set to 3096
+
+
+-Misc-
+Repaired skill logics for HQ reward pick ups. You can no longer pick up rewards from a destroyed HQ belonging to your own team.
+
+
+~b"Changes"~b
+
+-Additions-
+Fenrir Sniper Rifle submunitions are ready.
+
+
+-Balance-
+Zap Glove loses screenshake
+Power Fist, Mega Power Fist and Zap Glove prefire decreased from 400ms to 150ms
+Power Fist, Mega Power Fist and Zap Glove cost for Energy Cells reduced by 40%
+Power Fist and Mega Power Fist recieved a beef of 50% for Inner Drain and direct Electonic Damage
+Ry-Tek LMG2 fire delay increased to to 70ms from 60ms
+Ry-Tek LMG2 Bipod fire delay increased to 70ms from 60ms
+STC-S2 'Conciliator' CAW fire delay decreased to 40ms from 50ms, clip increased to 8 from 6
+STC-S2 'Conciliator' CAW Bypass fire delay to 30ms from 40ms, clip increased to 20 from 16
+STC-S3 'Mitigator' CAW fire delay decreased to 40ms from 50ms, clip increased to 8 from 6
+MMG277 clip increased to 15 from 10
+SI-7 'Nodachi' Machine Gun fire delay decreased to 80ms from 100ms, clip increased to 6 from 5
+SI-7 'Nodachi' Machine Gun Sling fire delay decreased to 80ms from 100ms, clip increased to 12 from 10
+AFP 'BF' Heavy Machine Gun fire delay decreased to 90ms from 100ms, clip increased to 12 from 10
+AFP 'BF' HMG Harness fire delay decreased to 90ms from 100ms, clip increased to 6 from 5
+AFP 'BF' HMG Tripod & Cooler fire delay decreased to 70ms from 80ms, clip increased to 12 from 10
+Pantcore '900x' SAW clip increased to 12 from 10
+Pantcore '900x' SAW EB clip increased to 12 from 10
+
+
+~b"Notifications to players"~b
+Please keep an eye out for disconnections when using the HQ rewards or Energy Cell consuming/restoring items. Let us know if you are DCed and by what.
+
+
+
+~2~4Wednesday, May 19th, 2010~2
+
+~b"Fixes"~b
+
+-Equipment related-
+Hedgehog double up effect removed.
+Battle Armor and Combat Armor for basic classes Medic, Machinegunner, Grenadier fixed.
+20 Ammo - Rocket reset for Grenadier.
+
+-Misc-
+Main DS surface warp circumference decreased from 300 width 270 height to 220 width and 196 height
+
+
+~b"Changes"~b
+
+-Misc-
+Flags rewards have been halved.
+
+-Features-
+Reworked renewable generators, again.
+
+-Balance-
+Remote Detonators recieved 750ms prefire and are max 20 per player, 30 per team.
+
+
+~b"Notifications to players"~b
+HQ system will be phasing out flags.
+
+
+
+~2~4Friday, April 2nd, 2010~2
+
+~b"Additions"~b
+HQ System is in
+Heavy Armor Addons
+
+~b"Fixes"~b
+
+-Class related-
+Drop Trooper and Hover Trooper vehicle IDs changed to 5, preventing them from using speed modifier equipment and jumping into vehicles
+Sniper and SciOps torso colours when dead have been corrected
+Squad Leader loses access to Ceramax VII Custom (they were never supposed to have any ceramax armor access)
+
+-Vehicle related-
+Assault Bike and Dart Bike armor now matches Mortar Bike armor (-1 kin, -1 exp, -1 psionic)
+Beam Bunker hp now matches other bunkers' HP (245 HP -> 195HP )
+Endymion Skimmer speed now matches other skimmers' speed (4100 Max -> 4000 Max)
+
+-Equipment related-
+All Warp equipment now have a switch time of +500ms of their prefire to prevent arming things prior to returning to the DMZ
+Hedgehog Grenade category corrected to be moved to Equipment - Defenses
+All Ammo Creators and Energy Rechargers prefire decreased from 1500ms to 750ms to reduce DC bug occurence (reload remains at 1500ms asynch)
+Autogun Rocket and Autogun Broiler kits are now stand-and-fire
+Power Armor Vector to requires Power Armor instead of Nanocomposite Armor
+Ceramax VII Custom kinetic ignore reducted to 4 from 5 (100% it was 4 kin before it got fucked up somewhere)
+Armor Melt effect expires in 3 seconds, max of 3 (from 3 -> 300)
+
+
+~b"Changes"~b
+
+-Misc-
+Main DS surface warp circumference increased from 200 width 180 height to 300 width and 270 height
+^To stop people from shooting into the DMZ from empty space tiles near the dropships.
+Basic class Vibroknife renamed to Vibro Blade to avoid confusion
+
+-Features-
+Reworked renewable generators, hope this works
+
+-Balance-
+STC UltraBlack kinetic and explosive ignores down to 3 from 4
+Ry-Tek PCU 'Lite' effective cloak distance to 225 radius from 150 radius, cloak recovery to 1.5 seconds from 2 seconds
+Ry-Tek LMG2 fire delay to 60ms from 70ms, clip to 6 from 4
+Ry-Tek LMG2 Bipod fire delay to 60ms from 70ms, clip to 12 from 9
+Pantcore '900x' SAW weight to 26kg from 30kg, EB to 2kg from 3kg
+SI-7 'Nodachi' Machine Gun and Brace fire delay to 100ms from 80ms
+SI-9 'Tenmou' Minigun fire delay to 30ms from 20ms
+AR247 RGs prefire to 75ms from 120ms
+AR247 RGs share seperate hold limit of 10 from hand grenades
+G-Labs PPJ-06 fire delay increased from 100ms to 150ms
+G-Labs PPJ-06 clip decreased from 5ms to 3ms
+Innate Sprint should be 1.5 second duration, 2.0 second switch time, 2.5 second asynchro reload
+Innate Jump is a single launch of 1200 vertical force instead of three hops of 425 vertical force
+
+
+
+~2~4Sunday, March 21st, 2010~2
+
+~b"Additions"~b
+Hedgehog APS + Hedgehog Grenade (Under Equipment - Defense)
+Personal Vector Field selection (Under Equipment - Defense)
+Fenrir Sniper Rifle
+
+
+~b"Fixes"~b
+
+-Class related-
+Back to the old class names. What the heck is an officer anyway?
+Corrected Conscript carry weight to 5kg max
+DropTrooper loses access to TSG-80 Underbarrel Shotgun addon
+
+-Vehicle related-
+MBT Trident physics height decreased from 45 to 42 to avoid self-tk
+Tank Autocannon [Trident and Bison] fire angle changed from -1 (1 degree down) to 0.
+Platypus GMG Delta z decreased from 4 to -1
+Platypus HV Rocket Delta z decreased from -6 to -11
+APC adapters corrected to require source weapon to fire
+Names for Autoguns and Defense structures restored
+Autogun Tractor unable to fire in DMZ
+Cash Crate disabled because of the amazing amount of settings wrong with it
+
+-Equipment related-
+Skill logic 5000 EXP syntax for LAWs, AVMs and EMP Grenades, AM Grenades, AR247 RGAMs corrected
+HQ Recall, WP Recall, and other warp items set to hard limit of 1
+Cash Crate Kit is now consumed upon use
+oMAF OSM energy cell use increased from 9 to 12
+oMAF OSM fire delay increased from 100ms to 120ms
+oMAF OSM shielding restore increased from 75kj to 90kj (offset slower rate and higher cost)
+oMAF OSM (Overshield Module) adjusted to prevent DC
+^all energy equipment recieved same treatment to reduce DC bug
+-G-Labs PPJ-06 prefire reduced from 100ms to 0ms
+-oMAF 'Unifier' Plasma SMG prefire reduced from 80ms to 0ms
+-All move and fire Laser weapons changed to 0ms prefire
+-KPS '.035' MG Laser prefire reduced from 80ms to 70ms
+-All Ammo Creators, Energy Rechargers and energy using Repair kits given appropriate Fire Delays and Reloads to match their prefire
+Fixed Explosive Box giving non appropriate items (Thanks for letting me know Crim)
+Removed SI-5 'Yumi' SSR proj and set it to expire (Sorry guys, you had your fun)
+^added expire timer to most stuff that players shouldn't have in inventory as a precaution
+Corrected UV-9 Ultraviolet to cause Armor Melt condition via addinv Event rather than multi-item explosion
+OMB Sonic Cannon trigger corrected to include vehicles weighing 115 and up (it was 116 before)
+
+
+~b"Changes"~b
+
+-Misc-
+Zone setting 'Even Teams' autobalance disabled
+Combat Awareness Time increased to 45 from 0
+Starting cash for new players is 25,000 instead of 0
+
+-Flags-
+Flag Drop Time reduced from 60 seconds to 30 seconds
+Flag Carry Amount increased to 3 from 1
+
+-Features-
+Phase Shift armors now renew the expire timer of an existing generator effect
+Warp Modules and Warp Points are no longer rewarded on death
+Warp Equipment no longer require a Warp Module to function
+Shield Armor series loses 5 Anti Multi Hit to gain 0.5 Kinetic/Explosive protection (and comes in four flavours of 180, 150, 120 and 90 thickness)
+
+-Balance-
+Buffout max bonus increased to 15kg from 12kg
+CZ-F4 MGL muzzle velocity reduced from 5800 (wtf?) to 5500, bringing it inline with other GLs
+Innate Sprint duration doubled (temporary)
+G-Labs Particle Accelerator min range reduced from 525 to 450
+Sprint has been beefed to 2.0 second duration and switch delay with 4.0 second asynch reload
+Ry-Tek Ry-Tek PCU 'Lite' is changed from 225/225 to 150/150 cloak and stealth
+Ry-Tek SMG7 no longer has skewed accuracy
+Zlite G9 Survival Rifle is now Move and Fire
+
+~b"Notifications to players"~b
+Due to restructuring of the games files, some players will notice items from their inventory missing.
+
+
+~2~4Tuesday, February 2nd, 2010~2
+(AYB)
+~b"Changes"~b
+"Armor Melt" condition added - all weapons do 20% more penetration (drain) while it's active
+Vehicle targeting systems now have a spread 
+Sterons fixed and slightly buffed
+UV-9 now has Armor Melt
+
+~2~4Saturday, January 2nd, 2010~2
+(AYB)
+~b"Fixes"~b
+Vehicle AC wall trigger redone
+Skill logics for primary AT
+oMAF OSM 0 energy DC bug
+
+~b"Changes"~b
+CCP-8 'Aldous' - more accurate, + damage, - drain
+SI-9 'Tenmou' - weight +1kg
+CZ-347 Grenade MG - weight +2kg
+Ry-tek LSR4 Armshot - weapon jam increased by 2 seconds
+Ry-tek LSR4 Headshot - does +10 drain
+Ry-tek LMG was left behind during the big AR beef - it's been brought up to speed, hopefully (load reduced, bipod +1 shot)
+Snub Cannon - ROF slightly increased, lol
+Gauss Cannon functionality changed to suit its description and to give it a niche without supplanting GMini's flexibility
+Buffout max bonus reduced by 2kg
+
+Additions:
+Added a vector field for Infantry that requires power armor - lasts 50% longer when pressed down
+
+~2~4Saturday, December 26th, 2009~2
+(AYB)
+~b"Changes"~b
+All combat vehicle costs increased by 60%-100% (except strider)
+Primary AT weapons now have a minimal point requirement
+Tank & Artillery turrets no longer have hp; gunner will always survive a vehicle death
+Trident passenger armor thickness slightly increased
+Cash crate option no longer destroys workbench
+
+~2~4Thursday, December 24th, 2009~2
+
+(AYB)
+~bItem "Fixes"~b
+Vehicle AC beefed - now no longer TK's self, and has speed inherits
+Sprint shoes removed for now
+Uber Mortar shells gravity increased by 3.8%
+Tank Vector Nerfed
+Trident Vector beefed - 20 energy to fire (was 30)
+Gungnir weapon now TK's
+TD range increased from 600 to 800
+SW Combat Armor weight reduced by 4.5kg
+Money should no longer DC the user
+
+~bVehicle "Fixes"~b
+Fixed Bunker Factory graphics
+Fixed Cash Crate pickup
+Trident no longer gets hit by its own AC
+ 
+~2~4Monday, December 21st, 2009~2
+
+(AYB)
+~bVehicle "Fixes"~b
+Commando height reverted
+Firing heights for several tanks fixed
+Factory structures graphics raised slightly 
+Platypus can now skim over green
+Combat Bikes' armor slightly boosted
+HQ should no longer count as a "turret"
+
+~bItem "Fixes"~b
+oMAF OSM DC bug fixed for the nth time
+Platypus HV fixed
+RPG Tandem penetrator fixed
+Sonic Cannon now triggers on intended structures
+
+~2~4Wednesday, September 28, 2009~2
+
+(Axidus)~b
+Combat Awareness time has been set to 0
+GMG fixes:
+	Clip size 4
+	20 prefire 0 fire delay (from 0/15)
+	Explosive damage (45 > 40)
+Factory Bunker graphic changed
+Commandos - 10 pixels shorter (test)
+Thor removed for now (beefs outdoor basing)
+Tank firing heights have been reduced, bunkers remain high (beef outdoor basing)
+Cash crate added to work bench
+Sprint shoes back in...
+CCP-8 'Aldous' Handcannon accuracy increased 33%
+
+~2~4Wednesday, September 23, 2009~2
+
+(AYB)
+"Fixes":~b
+Heimdall projectiles' speed and gravity increased by 5% and 10% respectively
+SAW slightly reduced drain
+Pistols' "Max Fire Delay" from 3 to -1
+oMAF OSM dc bug fixed for sure this time
+Staff innates modified
+Victory Bong changed
+
+~b~2~4Friday, September 18, 2009~2
+
+(AYB)
+New "Fixes":~b
+ADi can no longer be stacked with Sprint
+STC Ultrablack armor went from 2 to 4; bulletproof ninja
+Throwing knife reduces strafe thrust
+PF Gen made available to Officer and SciOp
+Fixed PAR4 shadows to be red from blue
+Heimdall HEAT lowered from 128 radius to 84, reduced shrapnel
+Heimdall projectile gravity increased by 10%
+Hedgehog duration lowered from 1 second to 0.92 seconds
+Gauss Rifle, Pistol & SMG reloads reduced to make them comparable to their chemical cousins
+GAR given +1 energy drain
+Grenade MG radius reduced to 48 from 84
+Grenade MG velocity reduced by 5%
+Grenade MG trails reduced; some people complained about fps issues
+AFP HMG stats modified; tripod made slightly better
+Mortars have visible prefires now
+MGL: functionality changed to have its own niche, radius reduced to it's not as easy to use as before, so it needs more aim.
+SAW cooldown extended to 1.3 seconds
+SAW extended barrel now reduces recoil too!!1
+Lite Tech Kit functionality changed to a low prefire, less-efficient unit-it should see some use now
+Money should no longer DC the user
+oMAF OSM's should no longer DC the user, also beefed
+AdjustRotateSpeed increased by 50%
+AdjustSpeed decreased by 33%
+Changed collisions from empty tanks to address getting stuck when exitting
+Fixed bounty-on-pick-up glitch for several thousand items
+Fixed some item descriptions, spelling, grammar, etc
+Platypus electronic ignore from 0 to 2, turret explosive ignore from 20 to 25
+Re-implemented pistol-change velocities; switching to(or between) pistols is fast now
+Naga backblast fixed
+Several tanks have had turret displacement adjusted to be more aft of center
+Zanbatou IAP rounds reduced in velocity to futureproof their usage
+Steron now gives +4kg max, but movement bonus reduced from 5% to 2%
+Gave Tandem & Armor Breaker penetrator graphics
+All combat vehicles have had prices increased by 0-100% to reflect inflation
+Brummbar self-tk fixed
+
+~bReverted some changes:~b
+Sprint delay 2.6s to 4.5s
+Light HE 0.15kg to 0.2kg
+Sniper Ammo no longer purchasable in store so new players will know to use manuals
+Hedgehog & Hedgehog APS taken out of store for now;
+MGL rate-of-fire to 0.9s
+Ceramax V - Specops sellback back to 30k from 50k
+Cat & Cyber Eye Actives to 15 seconds from 30
+Sprint Shoes no longer purchasable in store
+Ry-Tek LSR4 regular shot rate to 1.25s, from 1.5s
+Bison & Beam Turret hp to 300, from 525
+Some burst-style weapons now reload synchronously instead of manual
+Endymion made 2.5% faster than other skimmers
+Zanbatou AC EX round blast radius lowered so they don't kill MI's on orange
+
+
+~bOther notable changes in the past ~2 months:~b
+Heavy HE weight decreased from 2kg to 1.5kg
+Medium HE weight decreased from 1kg to 0.75kg
+Ceramax VII - Custom sellback increased from 7500 to 10500
+
+
+~b~2~4Thursday, July 31, 2009~2
+
+(Axidus)~b
+Basics FIXED (finally)
+CombatAwarenessTime=20 (from 150)
+Added individual Duel Arena Portals
+Added [Event] classes
+Removed UI Tags from all AutoGuns and other inactive structures
+Fixed factory prefire graphics
+Fixed explosion waves (angles not set on some)
+Fixed Vortex grenade (I think)
+Some descriptions more accurate now...
+EMP wave now goes through walls (originally intended)
+EMP waves now disrupt prefires
+
+*Prize only:
+Equipment - Officer (new Heat Goggles)
+Equipment - Officer (new Tazer)
+Mod Item List
+Event Item List
+Test Item List
+
+
+~b~2~4Saturday, July 25, 2009~2
+
+(Axidus)~b
+Added new EMP Shockwaves to some EMP weapons: EMP grenade, among others
+-All cells are wiped if you get hit
+Basic's ammo reprizing fixed temporarily:  Will improve this later.
+Unobtainable flag added to the Event Area
+
+
+~b(STAS)~b
+PDBs and Bunkers now have vehicle collision physics so you can't stack them.
+Added Factory Ammo Boxes choice to Factory AutoGuns production menu
+Workbench Kit added to HQ
+HQ and Encasement Field limited to 1 max in inventory
+HQ now sells for 5000 in store, just as it does in production facilities
+Allowed team to walk through Factory - Ammo Boxes so that Parzival does not get stuck when built
+HQ now sells all the Factories
+MGL and DZGL switch delay (fire delay other) increased to match Tetsubo's, 1sec->1.65sec
+Lowered Flashlight and Flashlight burst switch 1500ms->800ms to match other laser weapons
+Multi Missiles renamed to x# format instead of #x
+Grenadier's Multi Missile renamed to Double Missile
+Buffout price down to $1k, you can only carry 50 pills max though
+Made $1000 money droppable outside DS, left $10 and $100 undroppable to prevent spam
+Fixed Laser Grenade white overlay bewm, sigh... picked big one before by accident
+Changed Zanbatou explosion graphics to what original CA used...
+
+
+
+~2~4Friday, July 24, 2009~2~b
+
+(STAS)~b
+Grenade MG given proper GL-type shrapnel with a penetrator to do 1.5dmg vs tanks
+Removed penetrator from Shrapnel Cluster G (RR and GL Frag rounds use it)
+Forgot to assign the proper weapon to Bubble Vector yesterday, oops <3
+Repair Kits fixed to actually be different...
+APC Drivers/Gunners now have Occupant Protection as intended.
+Platypus GMG fixed up a little...
+Fixed Wespe's stop graphic...
+
+
+~2~4Thursday, July 23, 2009~2~b
+
+(STAS)~b
+Screen shake on shockwaves won't do it to tanks anymore, only infantry
+Shock Grenade -> renamed back to Concussion Grenade as per original CA
+Tetsubo Shock Grenade renamed to Concussion as well
+AR247 rifle nades assigned same category code as grenades, max 10
+AR247 rifle nades given proper reload times as per original CA
+Anti-Stealth/Cloak Active Implants duration doubled
+Gauss MG weight reduced from 24kg to 21kg
+Gauss Rifle reload set at 1500ms like other gauss weapons
+Gauss Pistol added
+Armor Generators no longer stack, except for Phase Shift
+CZ-5P4MM3R velocity increased to give it an edge other than weight over Tenmou
+AutoGun Minigun got its own projectile to keep the old velocity
+Renamed Demolitionist -> Grenadier
+Renamed Demolitions Expert -> Demolitionist
+Renamed Combat Engineer -> Engineer
+Renamed Squad Leader -> Officer
+Improved Sprint in some ways... lowered reload and stuff...
+Added Sprint Boots back into the store.
+Vector Field no longer usable while sprinting, but takes longer to switch to from other weapons as well
+BlackOps limited to one type of Monoblade at a time
+Shredder removed from BlackOps
+Monoblade got its old power back... 50 damage/100 drain on inner hit
+Kick no longer pushes you forward when you use it
+Zanbatou API now has a slightly larger explosion graphic
+Zanbatou normal round now has a little splash graphic
+Zanbatou API bypass now has a small splash... should affect turrets better
+Grenade MG radius increase from 80->84, outer damage reduced to 0 from 15 to match other GLs
+Zanbatou Explosive rounds radius increase from 60->64 to match other ACs, outer drain nerf to 0
+Laser/Flash grenades given their old combination color
+Zap Glove now drains all Energy Cells when used on a person
+Kunai removed from BO, given to everyone, limit = 10, uses up grenade slots
+Kunai renamed Throwing Knife
+MMG277 velocity increased to match other MGs
+Made Zap Glove/Throwing Knife anti-sprint functionality actually work...
+Throwing Knife screen shake reduced
+Power Fist now does screen shake on personnel
+Changed radar colors of some projectiles
+Sonic Cannon maximum range decreased by 10%
+Adjusted Sonic Cannon triggers so that it should now only trigger on walls
+All vehicle turrets had their HPs increased to +25-50 over the top of the base vehicle hull
+Above entry is to prevent losing bounty when your vehicle dies and you live, lets people collect bounty
+Most vehicles renamed to have a designation in front, like MBT = Brum/Beam tanks
+Maybe fixed Goddog, not sure, but gave it some rockets to shoot...
+Decreased Loki's and Goddog's prices...
+ATR Manticore got a crappy laser added to its other two weapons
+
+
+
+~2~4Wednesday, July 22, 2009~2~b
+
+(STAS)~b
+Mortar Bike's mortar got an outer damage/drain nerf to 0 from 30
+Demo's mortars revised a little, technically nerfed, but ammo weighs less now.
+Ry-Tek SRM3 now weighs 12kg, as originally intended
+Ry-Tek SRM2 now weighs 6kg, think of it as a counter part to MGL
+MGL now has ROF of 1000ms
+Sniper Cannon ROF put back at original 2000ms, up from 1500ms
+Sniper weapons in general got proper routing range in direction fired
+Forgot to add AutoGun - Sentry to Workbench... *facepalm* anyway... fixed
+Jump no longer propels you forward...
+Renamed class vehicles to have a CA prefix instead of Class prefix.
+
+
+
+~2~4Tuesday, July 21, 2009~2~b
+
+(STAS)~b
+Modified the produce menus of Engineering structures
+Refinery renamed to Factory - AutoGuns, when was the last time somebody refined something in this zone?
+Mobile Infantry Jump replaced with Kick
+MI Hop Thrusters now cost 100 Energy Cells/hop
+Jump power increased to appropriate levels...
+Ry-Tek Thrustboots should work indoors now.
+Heimdall rounds damage increase to 100, HE-Frag does 40 to tanks, HEAT does 108
+Made Auto Guns no longer so stackable...
+All jumping disabled in DS
+Thermobaric damage increased to 80, since it was useless as anti-material before
+Separated Jump and Kick, gave to whoever deserves it.
+Removed vectors from foot classes, buy it in the store.
+Some Factories got the smaller graphic...
+Indoor terrain had shadows reenabled
+
+
+
+~2~4Monday, July 20, 2009~2~b
+
+(ryanbe)~b
+Spawns tighter, scales to 200 active players.
+Changed the following bases J8, I3-I4, K3, B1-C1, H1-I1, A3, F7-G7
+Added Public Explosive Boxes
+Centered the Vehicle Vendors to make them harder to hack
+Added the CA Official Guide
+
+~b(Axidus)~b
+Headquarters now gives Stimpacks, not Stimpack Kits
+Jump Kick was removed from MI's (they were given Kick), and now can be used to jump on green physics for standard classes.
+STC A2-Clo stays in your inventory after you buy it, now
+Bunkers given 10 second death timers (you can repair them now if they die, 10 seconds = disappear)
+APC passenger weapons can now be fired (made it more newbie friendly)
+Squad Leaders given 300 combat awareness time to beef their support role (test, probably will be removed)
+
+~b(STAS)~b
+Stimpack Kit renamed to Kit - Stimpack to prevent buying it at HQ.  It's an old bug with produce menus.
+Demo classes got a big fat firing tick mark instead of the puny one
+Outdoor wall radius increased by a single pixel...
+HQ limited to 1/team/player etc
+Bubble Vector added to Bunker Factory
+Attempted to make Warp Point pick-upable
+Moved Warp Point to Equipment - Warp section...
+Added a new skill, upon which all Basics depend, to protect Conscripts from accidental wiping of themselves...
+
+
+~2~4Saturday, July 18, 2009~2~b
+
+(STAS)~b
+Thor turret now requires driver to be in his seat
+Sell prices for custom Ceramax armors increased
+Added sniper ammo to the store for easier reload
+Beam Cannon lifetime got an upgrade... let me know if you see it disappear
+Increased Thor's minimum range by 50%, should be 750 pixels now
+Targeting system on Tank Commanders no longer has a Fire Delay Other
+Wespe/Lynx/Loki turret HP upped to 125 from 100
+Cyberdeck+ and ++ no longer require Cyberdeck to use, SL/Engi/SciOps can use them too
+Added Hedgehog APS for Engies and SLs with its own ammo
+Platypus GMG fixed to fire as intended
+Hopefully you get your Energy Cells refilled on death/going to DS now...
+More hopeful still is that Basic Classes get their ammo refilled <- unlikely
+Modified Platypus trails...
+Endymion canisters now do 1.5 damage to tanks on a direct hit...
+Endymion minigun drain increased to 10 from 8, psionic 1dmg deleted
+APC minigun drain increased to 10 from 8
+Hedgehog repulse time increased to 1 second from 800ms
+RR Time Fuse set to 1.5 seconds instead of 1 second, as per original CA
+RR outer damage set to 0 instead of 20
+AR4 UGL set to same arc as other arcing GLs
+Reworked the way Thor rockets function... they should now blow up on physics without the cluster munition shower going off.
+You now get 300% cash for bounty killed, so thats $90,000 for killing a 30ker
+You now get 25% exp for bounty killed, so that's 7500 exp for killing a 30ker
+Pzf 9 Armor Breaker got a damage beef, now does 124ish damage vs tanks
+Shredder given to BlackOps
+Monoblade Gash nerfed drastically from 50/100 to 15/30 damage/drain, no longer OHKOs super heavy armor
+Monoblade no longer a disposable item, now it uses 160 energy cells/shot
+BlackOps given access to Ry-Tek PCU Lite, o noes
+Stealth class category renamed to SpecOps, $
+MG/HMG Harness now usable from APC Passenger
+Bounty gain reduced from 20% to 15%
+Added a warning to the Basic Classes descriptions
+Minor tweaks to class descriptions (don't bother checking, nothing exciting, ran a spell check really)
+Endymion canister launcher outer damage/drain dropped from 5 to 0 both
+Tripled Laser Grenade's drain to 60... let's see how it goes now
+Tried to differentiate the death sounds a little bit more...
+LSR-4 ROF changed from 750ms to 1sec
+Zlite G9 Survival Rifle added, a true POS in most cases...
+Kill cash reward base doubled to 200 from 100
+Heimdall got a HEAT Shell that does around 68 damage vs tanks
+Heim angles changed to 1-25 from 5-25
+Fafnir has 0-5 angles now with 5 having a 3 sector range
+Thor now has 2-7 angles with a 1.5-5 sector range
+Heim/Faf outer damage set to 0 from the small amount it was before
+Beam Cannon, Heim's two ammo types, Fafnir's rocket and Thor's trigger man set to have radar colors
+
+
+~2~4Friday, July 17, 2009~2~b
+
+(ryanbe)~b
+Set team sizes to 10 Public 8 Private
+Removed the Relics (did not work)
+Tightened up the spawns, looking for a good balance on this map.
+The offical guide is up, please, please point new players to it, it's not perfect and it's still being written, but it should help them figure out some basic concepts.
+Natural regen rate DOUBLED!  (oh no)
+
+~b(STAS)~b
+GL blast radius nerfed and standardized at 84 from 128
+GLs given a penetrator, should do 1.5 damage to tanks, more to light vehicles
+Light HE weight decreased to .15kg from .20kg
+Medium HE weight decreased from 1kg to .75kg
+Heavy HE weight decreased from 2kg to 1.5kg
+MGL "fixed"
+Fixed Trident Vector
+Removed vector graphics
+Fixed sell-back of Hedgehog Grenades and lowered their price
+EM-1 now drains 30 energy cells/shot intead of 0
+EM-4 now drains 120 energy cells/shot instead of 30
+Smaller EMP grenades (like GL) now drain 450 instead of 300 energy cells
+Buffout no longer gives bounty...
+Vulcan Cannon no longer TKs under itself...
+BO's cloak implant no longer disappears from inventory...
+Endymion speed made to match other Skimmers
+
+
+~2~4Thursday, July 16, 2009~2~b
+
+(ryanbe)~b
+Added Relics to play with
+Don't grab all the flags, share :)
+Spread out spawns, to test density.  They also track and spawn you near 2 or more other players.
+Team sizes now 7 private, 9 public.
+
+~b(STAS)~b
+DS Recall -> Store Recall
+Suit Teleport -> Team Teleport
+Fixed skill logics on certain items that allowed basic classes to use them
+Added smaller/lighter derivatives of Shield Armor
+Renamed armor to appear more coherent in the store
+Fixed Laser Pistol appearing in store and being sellable
+Fixed Plasma Grenade asking for the wrong weapon type to fire itself
+Flashlight -> default key = 1
+Hedgehogs/Vectors -> repulsion values updated, we'll see how it plays out now
+Nodachi/Machine Gun -> weight increase to 9.5kg as originally intended
+Changed armor values of some walls (lowered a little)
+Outdoor wall now has proper sizing to reflect the graphic...
+Maybe some other stuff I forgot
+
+~2~4Wednesday, July 15, 2009~2~b
+
+(Axidus)~b
+All tanks/pdbs/bunkers Set to Enemy Collision Only (you will no longer 	get stuck in your own vehicle while exiting or warping to 	someone) as well as death time = 1
+OMB Sonic Cannon increased reload (140 to 250 ticks)
+Fafnir explosion fixed
+PF System (Infantry only)
+Market Recall renamed to DS Recall (some people get confused)
+Jump and Kick are now combined (Jump kick)
+PowerFist and shockwaves have slight screenshake now
+ChainFist/Sword removed jams
+Ry-tek Jump boots disabled indoors
+Encasement Field $10000 (from $2000), also drops $10000 upon death
+Platypus Grenade MG = 5 shot clip (from 2)
+DartBike death graphic = fixed
+KPS-T summoner = 100 fire delay, no stand-n-fire
+Vector graphic fixed (I Think?)
+Foot-vector's = Support Classes only
+All grenades limited to 10 (hold category = 25)
+
+~b(STAS)~b
+Fixed the Basic Classes
+Brum Laser has proper red tint now <- most important update ever made
+Thor had its ABS rockets taken away for now
+Thor missile explosion radius reduced to 64 from 128, relies on the cluster bombs more now
+Thor rockets should may now go over orange physics...
+Tried to fix Hedgehogs... let's see what they do now.
+Lynx had erroneous extra autocannon removed
+Vulcan nerfed temporarily against foot people
+Vulcan penetrator had erroneous damage value of 37 instead of 33.5, fixed
+
+
+
+~2~4Tuesday, July 15, 2009~2~b
+
+(Axidus)~b
+Classes have been given experience requirements
+Powerfist no longer pushes (pulls, but weaker)
+SendPositionDelay changed to 8
+"Stunned..." and "Disoriented..." no longer have -1000 strafe adjust
+WarpDamageIgnoreTime=0
+RPG HV (first projectile) bounce=1
+"Blueprint" can now be bought from the Ammunition section (used to make vehicles)
+Testing absolute vector for Hedgehog Grenades/Turret
+flag victory = 99999999 seconds
+Steron weight adjust removed
+Thor removed from Fab - Artillery
+Steron Injector no longer can be fired from tanks or other vehs
+Ry-tek Custom purpose boots don't work on tanks anymore
+
+
+~2~4Monday, July 14, 2009~2~b
+
+(ryanbe)~b
+Setup DS properly
+Added Physics and Vision to map
+Fixed draw order issues, etc
+Changed the spawns/warp system
+~b
+(Axidus)~b
+Fixed targeting system (you set the route friendly of the projectile, not the multi-use)
+Fixed Heimdall's angle range (was 2-45, now 5-30)
+Fixed autogun hedgehog skill logic (was it intended to be "Infantry & ! Infantry"?)
+Basics now require cash to purchase (no profits on resells)
+Warp delay no longer has invulnerability times.
+Zlite G5 Sniper Rifle removed from Infantry and Mobile infantry
+Removed Jump Boots from store
+Removed Bunker Mortar from bunker factory
+Sonic Cannon lifetime 150 (From 100)
+AutoGun density radius 10 (From 100)
+Blueprint - Vehicle removed from store (its now auto-prized on death and initial entry)
+
+SendPositionDelay=14 (from 20), this may cause more lag but will make enemies more fluid on your screen. I may end up having to revert this change.
+
+~2~4Thursday, June 25, 2009~2~b
+(LooseCannon)~b
+Made rpg tandem double the damage as rpg rocket
+Added bounty 1k
+APC AT no longer hits itself
+Made cloaks old CA values for timing and distance etc
+Made oMAF overshield match CA
+Sniper gets ONLY the Ry-Tek Lite cloak
+Vulcan  HE should do 30-35 damage to hurt sandbags and stuff
+Map updates: Some vision added.  Reduced the safe zone area in the ds.  Will work more on safe zones later
+Set the delay to goto spec to GoToSpecDelaySecs=5  
+Fixed the outdoor wall graphic
+
+~2~4Wednesday, June 24, 2009~2~b
+(LooseCannon)~b
+Some of these updates are odd.  Blame STAS.  This entire zone and your addiction is all his fault!
+Set TD vehicle's HP so they can be seen by all
+Add outdoor walls
+Removed cat code from lag armor 
+Set PrizeBountyPoints on "bounty" to 100 instead of 1.
+Removed PDB, Factories, HQ, and Encasement fields from indoors because their graphic was too big.
+Flamethrower residue hits friendlies now
+Added vehicle factory back in.  We are testing.  Let's see how it can be abused
+Removed the logic on workbenches, factories, etc which restricted them to just engineers.  
+HQ is now droppable
+Adjusted the bounty rate.  Let's see how many kills it takes to get to 30K
+
+~2~4Tuesday, June 23, 2009~2~b
+(LooseCannon)~b
+Corrected Sniper dead gfx
+Skin Sheathe -> 4 sec delay on fire
+CZ-F4 MGL changed fire delay to 70 from 90 
+Put flag nades in the store for 10K.
+Took Laser SMG away from Snipers
+Removed sprint shoes from store 
+Regenerator removed from store 
+Changed Thor fire angles from 0 to 90 to test
+Encasement Fields/HQ/Factories walk through, hit by everyone
+Flag 8 set offset back to normal
+HT/DT -> no heavy combat armor
+Remove default key assignment to "Sprinting..." type items...
+Removed GF and PF from DT/HT.  Put hard limits on all phase shift armor
+EMP -> addinv:energy cells:-30 for other EMP weapons like shotgun and EM-4.  Yup, they drain your cells now
+Flamer -> no min range
+Doubled range on spec sensors
+Set vehicles to share all kills
+DS Terrain -> automatically gives cells
+Anti-health/repair/nrg etc multi items put back in.  Neg cash is AntiCash, etc
+Steron -> Reduced max speed and but increased weight loss
+CFG -> Vehicle Building Terrain -> "You must have a Blueprint, which you can buy from the store, in order to build anything"  For some reason we have two light vehicle pads.  Odd.
+Death timers on all vehicles -> 0 
+Unoccupied vehicles -> disappear after an hour 
+Set PrizeBountyMultiplier=10000 for all terrains
+Readded Lag Armor (no, you can't have it)
+Fixed the TD vehicle
+Deleted Yankee
+Adjusted the naga animation time to 96 (the same as the man vehicle)  Let's see if this prevents the skating effect.  
+  -- sigh, no effect at all.  Tried 200, no noticable effect.  Reverted to old values
+Removed the base from the WP.  I may have to adjust the graphic
+
+
+~2~4Monday, June 22, 2009~2~b
+(STAS)~b
+Tank Vector -> 30nrg/shot, 50ms ROF, no prefire, so all nrg gone in 2 secs
+Tank Vector Proj -> 310 force, duration 12, 256 radius (300 trident)
+Hedgehog -> 325 force, 0.95 second duration
+Targeting System proj -> proper explosion graphic, route friendly
+Brum Twin Lasers -> red colors all the way
+Ry-Tek LSR4 Scope Off -> rename to LSR4 Scope Off
+Lasers -> Lengthened trail by 50%, Laser Rifle got +1 kin damage (lulz why, ikno)
+Summoner -> no energy cost, got a reload
+Game Start -> removed bong sound
+Hedge/Vector/Vortex on everything -> like sprint, no delay to fire
+Sonic cannon -> nerfed its range in half, from 2800 to 1400 pixels
+Shock Armor -> +1 explosive ignore
+Artillery Shield -> converted to Shield Generator, vector and all
+Comp turrets set to hurt each other in cfg file
+Staff got a power up >:D
+
+
+~2~4Thursday, June 18, 2009~2~b
+(STAS)~b
+Starting cash and exp added at ridiculous levels for testing.
+Game Start no longer warps you...
+Sentry turret -> removed casing, added crosshair
+AutoGun Cannon -> did not have a penetrator, now does
+AutoGuns now start firing at you at longer distances...
+Blueprint:Vehicle renamed to not have :, moved to different store section, description grammar fixed
+Vulcan -> HE warhead had a penetrator when it needs none
+Vulcan -> AP warhead given proper trigger
+HMG blow up graphic on Strider/Naga -> set to proper animation time
+EMP -> fixed the smaller EMP explosion to not wipeinv, but reduce 300 energy cells, half of EMP Grenade
+EMP -> should now wipe cells of yourself and friendlies as well
+EMP -> due to added cell wipe effect, all extra damage was removed
+Cloak/Stealth -> Disabled inside vehicles
+Anti-Stealth/Anti-Cloak Armors and Addons -> Disabled inside vehicles
+Grenades -> now show a prefire graphic warning of their use
+Banner/Flag grenades -> no longer have a prefire timer or get delayed by other weapons
+HT/DT -> removed more armors (Rigid Polonium, Heavy Drop)
+Ry-Tek AR4 UGL -> fixed trail
+Shockwaves/Shrapnel -> Trigger mode: everyone, beware!
+Laser SMG -> allowed more classes to use it
+ULF Laser Shotgun -> usable by Light Infantry instead of Marine, as intended
+KPS Laser weapons -> Renamed to follow a different convention, should now show up properly in inventory...
+Brum's Twin Pulse Laser -> Twin Burst Laser, back to red color, it matches the vehicle better, ROF unchanged
+Red Lasers -> shortened length of projectile to match SMG/Pistol, want to see if it looks better
+Fixed Twin Laser to bounce off walls once
+Messed around with Hedgehogs, Vector Fields and Vortex Suction, no clue what will happen.
+Bunkers don't stop AutoGun fire... pretended to attempt to fix that... :\
+Sandbags -> now 18 pixel radius, up from 16
+Armor Sloping (Heavy) -> 10% drain protection as description claims
+
+
+~2~4Wednesday, June 17, 2009~2~b
+(STAS)~b
+Made necessary vehicles (namely tanks) hittable when unoccupied
+Fixed AutoGun HMG in store
+Fixed AutoGun Rocket firing sound
+Fixed Beam gfx
+Fixed Astraea's Railgun gfx
+Tank/Arty fabs set to unbuildable on Terrain 5
+Removed creatable fabs
+Reset jump/sprint to CA values
+SI-7 -> dead accurate as intended
+Fixed Sonic Cannon
+Grenades limited to 10x max each
+Laser SMG -> made inaccurate as intended
+Fixed Shell Casing animation (maybe)
+Made sure ammo/detpacks/nades are droppable
+Grenades now have icons and prefire graphics
+Passive Sensors Addons fixed to have the advertised detection ranges
+EMP grenades/canisters now should wipe your energy cells...
+Set most utility items to be usable inside vehicles, since they don't stealth/cloak inside on this client...
+PDB AC = zero damage, fixed
+Fixed Broiler AutoGun
+Maximum Carried amount fixed on relevant items found at fault before
+Messed with dead buggy turret gfx, hopefully work as intended now...
+DropTroopers got Laser Rifle removed, they only get the pistol now
+DT/HT = 70kg max carry weight now, testing to see how this affects the classes...
+Fire Delay on Hedgehogs removed.
+Sloped/SilenTech Armors had % on drain fixed
+Grenade MG -> +5 drain
+Renamed Vehicle Pads to "Pad - Purpose" format
+Renamed Vehicle Fabs to "Fab - Purpose" format
+Endymion Minigun -> standardized with other miniguns
+Astraea EMP -> fixed gfx
+EMP in general got reduced outer damage
+Tank AutoCannons -> 45dmg penetrator, up from 33.5dmg
+
+~b(LooseCannon)~b
+Made more graphics for concrete walls and the updated razorwire
+Adjusted the warp point turret z to hopefully make it look ok
+removed the physics from the HQ in the DMZ
+Put the new wall graphics on the concrete walls
+
+~2~4June 13, 2009~2~b 
+(LooseCannon)~b
+Set the steron injector projectile's lifetime back to the previous value.  This thing should be done now
+Fixed the HMG not reloading.  Kept the broiler the same.
+Put together a tractor turret
+The sentry shouldn't go off around staff now
+Summoner is now stand and fire
+Staff dismantle shouldn't trigger on people now.   Oh that was fun while it lasted
+Set the "flags" back to "turds"
+Set some of the shrap back to normal now that the "shrap bug" is fixed.  Look for any shrap which looks suspicious.
+Adjusted the vector graphic again.  No setting changes though
+Improved the ultrablack again
+Redid the .cfg so it would set the prizebountymultiplier.  Let's see if it updates this time.
+Adjust some warps until ryan can look at the lio
+Attempted a new arty shield graphic
+Added marine's new graphic to a few base items
+
+~2~4June 12, 2009~2 ~b
+(LooseCannon)~b
+Tested the problem with the steron injector and fixed it.  Note to other devs: The projectile has 
+ to actually do damage.  I set the projectile to .1 and .1 bypass and it works like a charm even 
+ if you have armor to protect all damage from bypass.
+Players can now see the HP on the vehicle fabs
+Adjusted vector again to see if that silly graphic will show.  It probably still won't work
+ until we set it back to the original setting
+The tank and arty fabs can't be built indoors
+Set some elevation angles on thor and heim.  Let's see what problems that causes.
+Adjusted the auto cannons to use the 33.5 damage penetrator instead of the 100.
+Added Marine's alterations to the beam shield.  It's so pretty... so hypnotising.... oh I feel so wonderful
+
+~2~4June 11, 2009~2 ~b
+(LooseCannon)~b
+Fixed the tank fab glitch.  They should be droppable now too.
+Fixed the hq not prizing the encasement field when purchased from the HQ.
+Adjusted the encasement field's animation time to 300 so it doesn't look like a working fleshlight.
+Set the encasement field to walk through by team but not fire through.
+Adjusted the steron injector.
+Added Steron Injector (Personal).  Someone else (like ryan) add some neato sounds to this.
+Made the fab kits droppable.
+Took away the "oops" on the purifier.
+Tried an adjustment to the encasement field to prevent it from blinking.
+Set skill logic on sterons (oops).  This thing seems a little bit buggy.  I'm not sure how it works.  
+ Perhaps it calculates the hit servers side and that is what determines if the projectile actually hits.
+Reduced the lifetime on the injector.  Maybe that will help make the hits more likely if this is server side.
+Also set to 1 energy drain in case you need to "damage" the target.
+Changed the flag graphic again.  One can't go wrong with ctf graphics for flags.
+Toyed with the razorwire graphic again.
+Adjusted cloaks per stas
+...
+Made the vehicle fabs equivalent in armor to a wall
+You can drop the encasement field now
+Restored the fire delay other to jump boots
+Sent in the blob for the graphics updates.  DOH
+Changed the razorwire's hue
+
+~2~4June 10, 2009~2 ~b
+(LooseCannon)~b
+Fixed the refinery being set at 0
+The graphic for the vector won't show for others without changing the projectile.  I'll let diety stas do that
+Removed the graphic for the DS wp and DS hq
+Set the steron injector to trigger on everyone and removed the damage it does
+Renamed 1 bounty to Bounty
+Adjusted the animation time on the kunai graphic
+Redid razorwire to add more detail
+Worked on the steron injector.  It fires in DS now.  Sterons will be 5% for 60 sec and 5kg until we see the soon to be abuse.
+Fixed the green color of the beam walls back to the original color.  Yes, they need work
+Added razorwire 2x graphic
+Renamed energy spheres to objectives and gave them a new graphic
+Set PrizeBountyMultiplier to 1 for all terrain
+Trying the vector a new way per stas so if it doesn't work, die like a man
+
+
+~2~4June 09, 2009~2 ~b
+(LooseCannon)~b
+I don't know why the news keeps getting deleted but let's add some updates
+Added tons of new graphics.  I'm always proud of graphics custom made for the zone.  
+I made these ones myself.  We have new beam walls (I'll let stas adjust the paramters later), 
+a new arty shield graphic (which needs work), beam shield now "glows", new razor wire which matches
+the physics of the vehicles, and a new warp point graphic.
+Changed all projectiles' PreventPointBlank value to 0 (most likely fix to the "shrap bug")
+Set the Icon for all items without icons to Icons,gfx00008 using the database. (God I love this database)
+Set the staff dismantle to fire in the DS.  Hopefully this will stay this time.
+Added Headquarters to the workbench
+Fixed the problem with stimpacks and the HQ
+I can't get the graphic to work right with vector shields.  Devs, you can see how I did it by prizing vector shield proj
+and trident vector proj
+(update to the above.  I got it to work.  A projectile must have a velocity for it to use rotation points)
+Improved the Ultrablack
+Beefed the flesh light by .5 inner electronic damage
+Tried a new take ownership logic for the WP.  If it works, we should apply to the veh pads
+Fixed the WP so it can't be built in DS
+Added the Steron Injector yet again
+Removed the beam explosion from the HQ
+Put some sensors on the spec vehicle
+Updated the graphics for the throwing knife and added an icon for it.  It's giving me a boner just looking at it.
+Put a timer on the recall pack so it won't crash the client
+
+~2~4June 01, 2009~2 ~b
+(LooseCannon)~b
+Fixed up the warp point and added a warp to it from DS along with the warp item previously used
+Added a warp to the mosh pit (A switch and door still needs added.  I will wait until the map develops even further.)
+Create a new graphic from scratch for the Kunai
+Added a warp for the HQ which we can test later
+Moved the Market Recall warp to land on the safe zone/nuclear bomb shelter
+Created a graphic for vectors
+~b
+(Axidus)~b
+
+For VEH,
+Fixed two graphics errors (in demolitions and light infantry)
+Added events to reprize ammo/laws/nades for Preset Classes
+Demolitions renamed to Demolitionist
+Added descriptions (took from RPG)
+Increased physics radius on factories by 10
+Assigned vehicles to produce computers. (set in lio, as well)
+
+For ITM,
+Vector now adds energy cells to affected teammates/enemies (everyone but 
+self)
+This will reward teammates using vector simultaneously
+Fixed remaining skill logic errors for Preset Classes
+KPS Teleport Summoner renamed to KPS T-Summoner
+KPS T-Summoner takes 300 energy cells to fire
+Set key preferences for some items (kps mainly)
+Kick now has 500% inherit momentum (testing :P)
+Hedgehog Grenade added to the store, added projectile resistance.
+Set all shrapnel projectiles to -99 floor bounce (this should fix the Roach 
+bug)
+ULF Recall Pack set to 0 buy until it can be fixed
+Standardized vector field (tank/man are the same), it is now innate
+Longrange RPG arc is 4 (7 before)
+Ry-Tek Ar4 UGL arc is 10 (15 before)
+Hoverboard slash now works like it used to in WZA:UC
+Kunai stun increased to 150 (100 before)
+
+For RPG,
+Fixed the Laser pistol quantity on field medic (it wasn't firing)
+
+For LIO,
+Produce computers for vehicle pads added
+APC Recall warp group added (group:300, id:301)
+
+
+
+
+~2~4Prior to June 01, 2009~2
+
+Weapon combos:
+TS F-80 UBS can be used to combo (0.25s combo time, same as sawed off)
+Laser Rifle Spread-Shot can combo (0.5s combo time)
+Ry-tek Thrust Boots 6 (air combo or double jump)
+Power Armor SI-8 has stealth component removed
+Sloped Armor energy regen decreased. .
+Vector Field cost increased slightly
+Vehicle building animation visible.
+Plasma Machine Gun damage increased
+
+Following weapons received inner energy drain boost: Have fun!
+Battle rifle 1-4
+AR247 and add-ons
+STC-S4ND11
+TS F-80
+Zlite Carbine G6
+SI-4 'Zanbato' Auto Cannon and all addons
+SAW
+
+Explosive boxes and ammo crates now sell additional items
+Ammo creators weight reduced.
+A mysterious valuable box was rumored to be lost in the development store. 
+(event)
+New vehicles and walls spawn in faster.
+Electron minigun damage boost
+
+
+
+~b"Incomplete Additions"~b
+Squad Leader area buffs
+Air combat dimension
+HQ System
+
+
+
+~0gray~2
+~b~0white~2~b
+~1darkred~2
+~b~1red~2~b
+~2darkgreen~2
+~b~2green~2~b
+~3darkblue~2
+~b~3blue~2~b
+~4darkyellow~2
+~4yellow~2~b
+~b~5darkpurple~2
+~b~5purple~2~b
+~6darkcyan~2
+~b~6cyan~2~b
+

@@ -1,0 +1,24 @@
+*wipe all
+*restart
+*getball
+*timer off
+*timer 20
+*arena &The game has begun!  Goodluck to both teams!%21
+
+?score_current
+
+
+//Take it Back!%10
+?loadmacro switch
+
+
+
+
+
+
+
+
+
+
+
+

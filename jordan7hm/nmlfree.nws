@@ -1,0 +1,56 @@
+~B~3No Man's Land~2~B
+Overview:
+
+---------------------------------------------------------------------------------------------------
+No Man's Land is the exception; in NML the only objective is to shoot the enemy.
+
+Each game lasts 10 minutes.
+
+Each team has up to 20 players.
+
+Team with the most kills at the end wins.
+---------------------------------------------------------------------------------------------------
+
+
+Ranks
+
+Trooper		         5000
+Veteran Trooper 	  15000
+Squad Leader 	      25000
+Corporal		        50000
+Elite Corporal	       75000
+Sergeant                 100000
+Elite Sergeant 	     150000
+SubLieutenant 	     200000
+Lieutenant	           265000
+SubCommander	     350000
+Commander	         400000
+Elite Commander 	   450000
+Captain 		         525000
+Elite Captain 	       600000
+Storm Commander	 1000000
+Campaign Commander  1500000
+Lord Commander        2000000
+Storm Lord	          3000000
+
+Voice Macro's are EFFECTIVE. Dont be afraid to use them. Remember to use %coord to tell your map coordinates!
+___________________
+Voice Macro Sounds
+Bong #        says:
+22	Acknowledged
+23	Affirmative
+24	Attacking
+25	Defending
+26	Enemy Sighted
+27	Request Summon
+28     Under Attack
+
+Macro syntax (for you newbies) is //your message here %<bong number>
+					Ie  //I am under attack! %28
+
+
+
+
+*************Notes*****************
+
+Converted from SOE by s.

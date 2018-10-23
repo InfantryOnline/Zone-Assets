@@ -1,0 +1,66 @@
+As noted in other help guides Ultra Skirmish is designed to have three stages of base growth and can be explained through the use of a simple graph:
+
+A simple graph demonstrates the growth of a base:
+
+Mass Converter (STAGE 1)
+
+Parent-Stream Structures (STAGE 2)
+
+Output Structures (STAGE 3)
+
+...
+
+The Stage 1 (and Drop Portal) Buildings are as follows:
+
+-	Mass Converter: The Mass Converter is the headquarters of your base and the basis for all that follows.  It is required to build new structures and destroying other teams' Mass Converter is one of the main objectives of the zone.
+
+-	Drop Portal Store: The Drop Portal (the area where you respawn upon death) always houses a Drop Portal Store.  From here you can buy ammunition and various additional supplies.  This store is also where you can first convert Soda into Build Points and buy your team's Mass Converter.
+
+-	Drop Portal Academy: The Drop Portal (the area where you respawn upon death) always houses a Drop Portal Academy.  From here you can train as various classes.
+
+...
+
+The Stage 2 Buildings are as follows:
+
+-	Vehicle Factory: The Vehicle Factory opens up the Vehicle Output stream of structures.
+
+-	Defense Factory: The defense Factory opens up the Defense Output stream of structures.
+
+-	Training Institure: The Training Institure opens up the Training Output stream of structures and also allows you to train in various classes at your base.
+
+-	Storage Facility: The Storage Facility gives your team the ability to stockpile Soda for a fee.  Once Soda is stockpiled and added as a team resource, it can be removed at any Storage Facility.
+
+-	Item Transmission Facility:  Purchase the Reload item as well as other standard items.
+
+
+...
+
+The Stage 3 Buildings are as follows:
+
+..
+
+Vehicle Output Stream ---
+
+-	Light Vehicle Factory: With this structure you can create medium 1-3 man attack vehicle such as ExoSuits and train as vehicle classes.
+
+-	Tank Factory: With this structure you can create large 3-8 man attack vehicles such as Tanks.
+
+..
+
+Defense Output Stream ---
+
+-	Barrier Fabrication Unit: With this structure you can build walls, sandbags and other passive defensive structures.
+
+-	Automated Turret Factory: With this structure you can build Automated Turrets such as the AT - Incin Turret, AT - Rocket Turret and other automated defensive structures.
+
+-	Bunker Creation Facility: With this structure you can build the PDB - Gatling, Sniper Bunker and other manned defensive structures.
+
+..
+
+Training Output Stream ---
+
+-	Army Base: Train as front line attack based classes such as the Marine or Scout.
+
+-	University: Train as support and leadership classes such as the Commander or Doctor.
+
+-	Spec Ops Academy: Train to work behind enemy lines as Special Ops classes such as the Sniper or Assassin.

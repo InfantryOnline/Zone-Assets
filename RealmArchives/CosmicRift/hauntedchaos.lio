@@ -1,0 +1,188 @@
+1,v25,100,"Duel DoorA",2536,2224,0,0,0,-3,    0,-2,1,4, 500,0,0,0, crdoors,EnergyDoorVert2,0,0,17,50,-10,0,crbongs,gong,2,0,None,None,0,0
+5,v25,1,"prizeYellows",4576,4720,3200,2380,0,-3,     4,200,200,1, 0,500,0,99999, 4,17,101, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,2,"prizeReds",4576,4720,3200,2380,0,-3,     3,200,200,1, 0,500,0,99999, 4,14,8, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,3,"prizePurps",4576,4720,3200,2380,0,-3,     3,200,200,1, 0,500,0,99999, 4,14,11, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,4,"prizeBlues",4576,4720,3200,2380,0,-3,     3,200,200,1, 0,500,0,99999, 4,14,9, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,201,"shipArmakiths",4675,4150,1800,1800,0,-3,     0,2000,2000,1, 15,200,0,99999, -1,3,-2101, 0,0,,0,0, 0,0,-2,0, -1
+5,v25,202,"shipDag'girs",4675,4150,1800,1800,0,-3,     0,2000,2000,1, 15,200,0,99999, -1,3,-2100, 0,0,,0,0, 0,0,-2,0, -1
+5,v25,200,"shipShrike",4675,4150,1800,1800,0,-3,     0,1000,65535,1, 20,200,0,99999, -1,1,-604, 0,0,,0,0, 0,0,-2,0, -1
+5,v25,203,"shipBarrage",4675,4150,1800,1800,0,-3,     1,2000,2000,1, 0,200,0,99999, -1,1,-603, 0,0,,0,0, 0,0,-2,0, -1
+5,v25,5,"prizeGreens",4576,4720,3200,2380,0,-3,     4,200,200,1, 0,500,0,99999, 5,15,13, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,6,"prizePinks",4576,4720,3200,2380,0,-3,     4,200,200,1, 0,500,0,99999, 5,15,12, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,204,"shipReaver",4675,4150,1800,1800,0,-3,     0,6000,6000,1, 40,200,0,99999, -1,1,-601, 0,0,Warning!  Reaver pod has been spawned!,0,0, 0,0,-2,0, -1
+5,v25,205,"shipDefender",4675,4150,1800,1800,0,-3,     0,6000,6000,1, 40,200,0,99999, -1,1,-600, 0,0,,0,0, 0,0,-2,0, -1
+1,v25,101,"Duel DoorB",2536,2176,0,0,0,-3,    0,-1,1,2, 500,100,0,0, crdoors,EnergyDoorVert,0,0,15,50,-10,0,crbongs,gong,2,0,None,None,0,0
+4,v25,300,"Default Warp",4576,4720,3200,2380,0,-3,  0,500,0,500,0, 0,0,""
+6,v25,401,"Portal",6736,4224,36,36,0,-3,    -1,1,, 0,0,1000,CRMiscEffects,wormhole,0,0,80,70,0,400,None,None,0,0,0,0,0,0,None,None,0,0
+4,v25,301,"Portal Warp",3088,1392,150,134,0,-3,  0,500,0,500,1, 0,0,""
+1,v25,102,"Pipe DoorA",5120,6744,0,0,0,-3,    -4,0,8,1, 500,0,0,0, crdoors,EnergyDoorHorz4,0,0,0,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,104,"Pipe DoorB",5200,6744,0,0,0,-3,    -1,0,2,1, 500,102,0,0, crdoors,EnergyDoorHorz,0,0,0,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+9,v25,900,"Stars1",0,0,8000,9000,0,-3,    10,30,20,starback,star5A_0000,0,0,20,0,0,0
+9,v25,901,"Stars2",0,0,8000,9000,0,-3,    10,30,20,starback,star4A_0000,0,0,50,0,0,0
+9,v25,902,"Stars3",0,0,8000,9000,0,-3,    10,30,20,starback,star3A_0000,0,0,85,0,0,0
+9,v25,903,"Stars4",0,0,8000,9000,0,-3,    10,30,20,starback,stars,0,0,60,0,0,0
+1,v25,7,"Duel DoorC",2552,2224,0,0,0,-3,    0,-2,1,4, 500,100,0,0, crdoors,EnergyDoorVert2,0,0,17,50,-10,0,crbongs,gong,2,0,None,None,0,0
+1,v25,8,"Duel DoorD",2552,2176,0,0,0,-3,    0,-1,1,2, 500,100,0,0, crdoors,EnergyDoorVert,0,0,17,50,-10,0,crbongs,gong,2,0,None,None,0,0
+1,v25,9,"Pipe DoorC",5120,6760,0,0,0,-3,    -4,0,8,1, 500,102,0,0, crdoors,EnergyDoorHorz4,0,0,0,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,10,"Pipe DoorD",5200,6760,0,0,0,-3,    -1,0,2,1, 500,102,0,0, crdoors,EnergyDoorHorz,0,0,0,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+6,v25,402,"Dash Portal",7824,7152,50,50,0,-3,    -1,2,, 0,0,0,Effects,gfx00305,0,0,0,0,0,0,None,None,0,0,0,0,0,0,bongs,XTRALIFE,0,0
+6,v25,403,"Dash Portal GreenA",5408,8288,50,50,0,-3,    -1,3,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,bongs,Ding1,0,0
+6,v25,405,"Dash Portal YellowA",5152,8288,50,50,0,-3,    -1,4,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,bongs,Ding1,0,0
+6,v25,407,"Dash Portal RedA",4896,8288,50,50,0,-3,    -1,5,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,bongs,Ding1,0,0
+4,v25,302,"Dash Warp",5728,8112,125,125,0,-3,  0,500,0,500,2, 0,0,""
+6,v25,409,"Dash Portal PurpA",4640,8288,50,50,0,-3,    -1,6,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,bongs,Ding1,0,0
+6,v25,410,"Dash Portal PurpB",4848,7824,50,50,0,-3,    -1,16,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,bongs,Ding1,0,0
+6,v25,404,"Dash Portal GreenB",5616,7824,50,50,0,-3,    -1,13,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,bongs,Ding1,0,0
+6,v25,406,"Dash Portal YellowB",5360,7824,50,50,0,-3,    -1,14,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,bongs,Ding1,0,0
+6,v25,408,"Dash Portal RedB",5104,7824,50,50,0,-3,    -1,15,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,bongs,Ding1,0,0
+4,v25,303,"Dash Warp GreenA",5504,7936,50,50,0,-3,  0,500,0,500,3, 0,0,""
+4,v25,304,"Dash Warp GreenB",5728,8112,50,50,0,-3,  0,500,0,500,13, 0,0,""
+4,v25,309,"Dash Warp PurpB",4752,8176,50,50,0,-3,  0,500,0,500,16, 0,0,""
+4,v25,310,"Dash Warp PurpA",4736,7936,50,50,0,-3,  0,500,0,500,6, 0,0,""
+4,v25,307,"Dash Warp RedA",4992,7936,50,50,0,-3,  0,500,0,500,5, 0,0,""
+4,v25,308,"Dash Warp RedB",5008,8176,50,50,0,-3,  0,500,0,500,15, 0,0,""
+4,v25,305,"Dash Warp YellowA",5248,7936,50,50,0,-3,  0,500,0,500,4, 0,0,""
+4,v25,306,"Dash Warp YellowB",5264,8176,50,50,0,-3,  0,500,0,500,14, 0,0,""
+5,v25,11,"Stash Blues",4464,8064,120,170,0,-3,     2,50,10,1, 0,500,0,99999, 4,14,9, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,12,"Stash Reds",4464,8064,120,170,0,-3,     2,50,10,1, 0,500,0,99999, 4,14,8, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,13,"Stash Purps",4464,8064,120,170,0,-3,     2,50,10,1, 0,500,0,99999, 4,14,11, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,14,"Stash Greens",4464,8064,120,170,0,-3,     2,50,10,1, 0,500,0,99999, 4,15,13, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,15,"Stash Pinks",4464,8064,120,170,0,-3,     2,50,10,1, 0,500,0,99999, 4,15,12, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,16,"Stash Yellows",4464,8064,120,170,0,-3,     3,50,10,1, 0,500,0,99999, 5,17,101, 1,0,,0,-1, 0,0,-2,0, -1
+6,v25,320,"PushA",5920,7760,0,0,0,0,    -1,0,, 0,0,-500,None,None,0,0,1,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+6,v25,321,"PushB",6000,7872,0,0,0,0,    -1,0,, 0,0,-500,None,None,0,0,1,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+6,v25,322,"PushC",6016,8000,0,0,0,0,    -1,0,, 0,0,-500,None,None,0,0,1,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+6,v25,323,"PushD",6000,8128,0,0,0,0,    -1,0,, 0,0,-500,None,None,0,0,1,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+6,v25,324,"PushE",5984,8224,0,0,0,0,    -1,0,, 0,0,-500,None,None,0,0,1,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+6,v25,325,"PushF",5904,8336,0,0,0,0,    -1,0,, 0,0,-500,None,None,0,0,1,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+6,v25,420,"Dash Portal Return",4288,7680,50,50,0,-3,    -1,0,, 0,0,-500,CRMiscEffects,wormhole,0,0,50,54,-10,0,None,None,0,0,0,0,0,0,bongs,Gong1,0,0
+5,v25,504,"prizeBluesB",5328,1712,2440,620,0,-3,     1,200,200,1, 0,500,0,99999, 1,14,9, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,502,"prizeRedsB",5328,1712,2440,620,0,-3,     1,200,200,1, 0,500,0,99999, 1,14,8, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,505,"prizeGreensB",5328,1712,2440,620,0,-3,     1,200,200,1, 0,500,0,99999, 1,15,13, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,506,"prizePinksB",5328,1712,2440,620,0,-3,     1,200,200,1, 0,500,0,99999, 1,15,12, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,503,"prizePurpsB",5328,1712,2440,620,0,-3,     1,200,200,1, 0,500,0,99999, 1,14,11, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,501,"prizeYellowsB",5328,1712,2440,620,0,-3,     1,200,200,1, 0,500,0,99999, 1,17,101, 1,0,,0,-1, 0,0,-2,0, -1
+6,v25,430,"Race Portal",672,2816,132,68,0,-3,    -1,30,, 0,0,0,CRMiscEffects,wormhole,0,0,25,70,0,400,None,None,0,0,0,0,0,0,UtilitySounds,portal,0,0
+4,v25,330,"Race Warp",2592,656,93,61,0,-3,  0,500,0,500,30, 0,0,""
+6,v25,451,"Machine North",4352,1776,18,82,0,-3,    -1,51,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,snd0126,xradar,0,0
+6,v25,450,"Machine East",4400,1888,82,18,0,-3,    -1,50,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,snd0126,xradar,0,0
+6,v25,453,"Machine West",4240,1824,82,18,0,-3,    -1,53,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,snd0126,xradar,0,0
+6,v25,452,"Machine South",4288,1936,18,82,0,-3,    -1,52,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,snd0126,xradar,0,0
+4,v25,350,"Machine East Warp",4144,1824,13,13,0,-3,  0,500,0,500,50, 0,0,""
+4,v25,353,"Machine West Warp",4496,1888,13,13,0,-3,  0,500,0,500,53, 0,0,""
+4,v25,352,"Machine South Warp",4352,1680,13,13,0,-3,  0,500,0,500,52, 0,0,""
+4,v25,351,"Machine North Warp",4288,2032,13,13,0,-3,  0,500,0,500,51, 0,0,""
+6,v25,431,"Race PortalA",6928,880,50,50,0,-3,    -1,31,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,bongs,Ding1,0,0
+6,v25,432,"Race PortalB",7168,880,50,50,0,-3,    -1,32,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,bongs,Ding1,0,0
+6,v25,433,"Race PortalC",7392,880,50,50,0,-3,    -1,33,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,bongs,Ding1,0,0
+4,v25,331,"Race WarpA",6960,672,45,45,0,-3,  0,500,0,500,31, 0,0,""
+4,v25,332,"Race WarpB",6960,448,45,45,0,-3,  0,500,0,500,32, 0,0,""
+4,v25,333,"Race WarpC",6960,224,45,45,0,-3,  0,500,0,500,33, 0,0,""
+6,v25,434,"Race Portal Boundry",4160,848,308,52,0,-3,    -1,30,, 0,0,0,None,None,0,0,25,70,0,400,starback,stars,0,0,0,0,0,0,crbongs,whistle,0,0
+6,v25,435,"Race Portal BoundryA",4992,848,308,52,0,-3,    -1,30,, 0,0,0,Effects,None,0,0,25,70,0,400,None,None,0,0,0,0,0,0,crbongs,whistle,0,0
+6,v25,436,"Race Portal BoundryB",5728,848,180,52,0,-3,    -1,30,, 0,0,0,Effects,None,0,0,25,70,0,400,None,None,0,0,0,0,0,0,crbongs,whistle,0,0
+6,v25,437,"Race Portal BoundryC",4160,656,164,20,0,-3,    -1,30,, 0,0,0,Effects,None,0,0,25,70,0,400,None,None,0,0,0,0,0,0,crbongs,whistle,0,0
+6,v25,438,"Race Portal BoundryD",5024,656,196,20,0,-3,    -1,30,, 0,0,0,Effects,None,0,0,25,70,0,400,None,None,0,0,0,0,0,0,crbongs,whistle,0,0
+6,v25,439,"Race Portal BoundryE",5776,656,116,20,0,-3,    -1,30,, 0,0,0,Effects,None,0,0,25,70,0,400,None,None,0,0,0,0,0,0,crbongs,whistle,0,0
+1,v25,110,"Race Door",336,5400,0,0,0,-3,    -8,0,16,1, 500,0,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,111,"Race DoorA",592,5400,0,0,0,-3,    -8,0,16,1, 500,110,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,112,"Race DoorB",848,5400,0,0,0,-3,    -8,0,16,1, 500,110,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,113,"Race DoorC",1040,5400,0,0,0,-3,    -4,0,8,1, 500,110,0,0, crdoors,EnergyDoorHorz4,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,114,"Race DoorD",1120,5400,0,0,0,-3,    -1,0,2,1, 500,110,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+6,v25,440,"Race Portal Finish",8384,6448,100,100,0,-3,    -1,40,, 0,0,300,CRMiscEffects,wormhole,0,0,58,70,0,400,None,None,0,0,0,0,0,0,bongs,Gong1,0,0
+4,v25,340,"Race Warp End",7744,3536,93,157,0,-3,  0,500,0,500,40, 0,0,""
+5,v25,666,"Kill Orb",1648,1280,500,500,0,-3,     1,1000,0,1, 0,1,0,99999, 1,1,-401, 0,0,,0,14, 0,0,9999,0, 0
+5,v25,667,"Pirate Station",1648,1280,500,500,0,-3,     1,1000,0,1, 0,1,0,99999, 1,1,-403, 0,0,,0,15, 0,0,9999,0, 0
+6,v25,454,"Machine XR",7568,3744,50,34,0,-3,    -1,54,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,snd0126,invisible,0,0
+6,v25,455,"Machine XL",1776,5648,50,34,0,-3,    -1,55,, 0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,snd0126,invisible,0,0
+4,v25,355,"Machine XL",7472,3744,45,29,0,-3,  0,500,0,500,55, 0,0,""
+4,v25,354,"Machine XR",1872,5648,45,29,0,-3,  0,500,0,500,54, 0,0,""
+6,v25,456,"Machine PushA",1616,5616,10,10,0,0,    -1,0,, 0,0,-250,None,None,0,0,1,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+6,v25,17,"Machine PushB",1616,5680,10,10,0,0,    -1,0,, 0,0,-250,None,None,0,0,1,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+5,v25,18,"prizeBluesC",5440,416,1784,396,0,-3,     4,100,100,1, 0,500,0,99999, 4,14,9, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,19,"prizeGreensC",5440,416,1784,396,0,-3,     4,100,100,1, 0,500,0,99999, 4,15,13, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,20,"prizePinksC",5440,416,1784,396,0,-3,     4,100,100,1, 0,500,0,99999, 4,15,12, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,21,"prizeRedsC",5440,416,1784,396,0,-3,     4,100,100,1, 0,500,0,99999, 4,14,8, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,22,"prizeYellowsC",5440,416,1784,396,0,-3,     5,100,100,1, 0,500,0,99999, 5,17,101, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,23,"prizePurpsC",5440,416,1784,396,0,-3,     4,100,100,1, 0,500,0,99999, 4,14,11, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,24,"arenaDag'girs",480,6512,136,152,0,-3,     1,2000,2000,1, 0,200,0,99999, 1,3,-2100, 0,0,,0,0, 0,0,-2,0, -1
+5,v25,25,"arenaArmakiths",896,6512,136,152,0,-3,     1,2000,2000,1, 0,200,0,99999, 1,3,-2101, 0,0,,0,0, 0,0,-2,0, -1
+1,v25,26,"Block1A",6432,5992,0,0,0,-3,    -8,0,16,1, 500,0,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,27,"Block2A",6912,5992,0,0,0,-3,    -8,0,16,1, 500,0,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,28,"Block1D",6576,6040,0,0,0,-3,    -1,0,2,1, 500,26,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,29,"Block1E",6312,6016,0,0,0,-3,    0,-1,1,2, 500,26,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,30,"Block1B",6432,6040,0,0,0,-3,    -8,0,16,1, 500,26,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,31,"Block3A",7392,5992,0,0,0,-3,    -8,0,16,1, 500,0,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,32,"Block3B",7392,6040,0,0,0,-3,    -8,0,16,1, 500,31,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,33,"Block4A",6432,6472,0,0,0,-3,    -8,0,16,1, 500,0,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,34,"Block4B",6432,6520,0,0,0,-3,    -8,0,16,1, 500,33,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,35,"Block5A",6912,6472,0,0,0,-3,    -8,0,16,1, 500,0,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,36,"Block5B",6912,6520,0,0,0,-3,    -8,0,16,1, 500,35,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,37,"Block6A",7392,6472,0,0,0,-3,    -8,0,16,1, 500,0,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,38,"Block6B",7392,6520,0,0,0,-3,    -8,0,16,1, 500,37,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,39,"Block2B",6912,6040,0,0,0,-3,    -8,0,16,1, 500,27,0,0, crdoors,EnergyDoorHorz8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,40,"Block12A",7144,6720,0,0,0,-3,    0,-8,1,16, 500,0,0,0, crdoors,EnergyDoorVert8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,41,"Block7A",6664,5760,0,0,0,-3,    0,-8,1,16, 500,0,0,0, crdoors,EnergyDoorVert8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,42,"Block8B",7192,5760,0,0,0,-3,    0,-8,1,16, 500,51,0,0, crdoors,EnergyDoorVert8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,43,"Block9A",6664,6240,0,0,0,-3,    0,-8,1,16, 500,0,0,0, crdoors,EnergyDoorVert8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,44,"Block9B",6712,6240,0,0,0,-3,    0,-8,1,16, 500,43,0,0, crdoors,EnergyDoorVert8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,45,"Block10A",7144,6240,0,0,0,-3,    0,-8,1,16, 500,0,0,0, crdoors,EnergyDoorVert8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,46,"Block10B",7192,6240,0,0,0,-3,    0,-8,1,16, 500,45,0,0, crdoors,EnergyDoorVert8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,47,"Block11A",6664,6720,0,0,0,-3,    0,-8,1,16, 500,0,0,0, crdoors,EnergyDoorVert8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,48,"Block11B",6712,6720,0,0,0,-3,    0,-8,1,16, 500,47,0,0, crdoors,EnergyDoorVert8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,49,"Block12B",7192,6720,0,0,0,-3,    0,-8,1,16, 500,40,0,0, crdoors,EnergyDoorVert8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,50,"Block7B",6712,5760,0,0,0,-3,    0,-8,1,16, 500,41,0,0, crdoors,EnergyDoorVert8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,51,"Block8A",7144,5760,0,0,0,-3,    0,-8,1,16, 500,0,0,0, crdoors,EnergyDoorVert8,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,520,"Block1C",6576,5992,0,0,0,-3,    -1,0,2,1, 500,26,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,53,"Block7D",6688,5912,0,0,0,-3,    -1,0,2,1, 500,41,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,54,"Block3D",7536,6040,0,0,0,-3,    -1,0,2,1, 500,31,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,55,"Block10C",7168,6120,0,0,0,-3,    -1,0,2,1, 500,45,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,56,"Block10D",7168,6392,0,0,0,-3,    -1,0,2,1, 500,45,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,57,"Block11C",6688,6600,0,0,0,-3,    -1,0,2,1, 500,47,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,58,"Block11D",6688,6872,0,0,0,-3,    -1,0,2,1, 500,47,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,59,"Block12C",7168,6600,0,0,0,-3,    -1,0,2,1, 500,40,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,60,"Block12D",7168,6872,0,0,0,-3,    -1,0,2,1, 500,40,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,61,"Block2C",7056,5992,0,0,0,-3,    -1,0,2,1, 500,27,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,62,"Block2D",7056,6040,0,0,0,-3,    -1,0,2,1, 500,27,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,63,"Block1F",6584,6016,0,0,0,-3,    0,-1,1,2, 500,26,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,64,"Block7E",6664,5904,0,0,0,-3,    0,-1,1,2, 500,41,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,65,"Block11E",6664,6864,0,0,0,-3,    0,-1,1,2, 500,47,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,66,"Block11F",6712,6864,0,0,0,-3,    0,-1,1,2, 500,47,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,67,"Block8F",7192,5904,0,0,0,-3,    0,-1,1,2, 500,51,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,68,"Block7F",6712,5904,0,0,0,-3,    0,-1,1,2, 500,41,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,69,"Block12E",7144,6864,0,0,0,-3,    0,-1,1,2, 500,40,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,70,"Block12F",7192,6864,0,0,0,-3,    0,-1,1,2, 500,40,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,71,"Block8E",7144,5904,0,0,0,-3,    0,-1,1,2, 500,51,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,72,"Block2E",6792,6016,0,0,0,-3,    0,-1,1,2, 500,27,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,73,"Block2F",7064,6016,0,0,0,-3,    0,-1,1,2, 500,27,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,74,"Block3F",7544,6016,0,0,0,-3,    0,-1,1,2, 500,31,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,75,"Block3E",7272,6016,0,0,0,-3,    0,-1,1,2, 500,31,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,76,"Block4E",6312,6496,0,0,0,-3,    0,-1,1,2, 500,33,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,77,"Block4F",6584,6496,0,0,0,-3,    0,-1,1,2, 500,33,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,78,"Block5E",6792,6496,0,0,0,-3,    0,-1,1,2, 500,35,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,79,"Block5F",7064,6496,0,0,0,-3,    0,-1,1,2, 500,35,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,80,"Block6E",7272,6496,0,0,0,-3,    0,-1,1,2, 500,37,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,81,"Block6F",7544,6496,0,0,0,-3,    0,-1,1,2, 500,37,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,82,"Block9E",6664,6384,0,0,0,-3,    0,-1,1,2, 500,43,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,83,"Block9F",6712,6384,0,0,0,-3,    0,-1,1,2, 500,43,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,84,"Block10E",7144,6384,0,0,0,-3,    0,-1,1,2, 500,45,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,85,"Block10F",7192,6384,0,0,0,-3,    0,-1,1,2, 500,45,0,0, crdoors,EnergyDoorVert,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,86,"Block4C",6576,6472,0,0,0,-3,    -1,0,2,1, 500,33,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,87,"Block5C",7056,6472,0,0,0,-3,    -1,0,2,1, 500,35,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,88,"Block5D",7056,6520,0,0,0,-3,    -1,0,2,1, 500,35,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,89,"Block6C",7536,6472,0,0,0,-3,    -1,0,2,1, 500,37,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,90,"Block6D",7536,6520,0,0,0,-3,    -1,0,2,1, 500,37,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,91,"Block7C",6688,5640,0,0,0,-3,    -1,0,2,1, 500,41,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,92,"Block4D",6576,6520,0,0,0,-3,    -1,0,2,1, 500,33,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,93,"Block3B",7536,5992,0,0,0,-3,    -1,0,2,1, 500,31,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,94,"Block8C",7168,5640,0,0,0,-3,    -1,0,2,1, 500,51,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,95,"Block8D",7168,5912,0,0,0,-3,    -1,0,2,1, 500,51,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,96,"Block9C",6688,6120,0,0,0,-3,    -1,0,2,1, 500,43,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+1,v25,97,"Block9D",6688,6392,0,0,0,-3,    -1,0,2,1, 500,43,0,0, crdoors,EnergyDoorHorz,0,0,55,0,-30,0,UtilitySounds,gateway,2,0,None,None,0,0
+5,v25,98,"Everlasting Yellow",5856,944,10,10,0,-3,     1,1,1,1, 0,500,0,99999, 1,17,101, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,99,"Everlasting Red",5824,944,10,10,0,-3,     1,1,1,1, 0,500,0,99999, 1,14,8, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,103,"Everlasting Blue",5792,944,10,10,0,-3,     1,1,1,1, 0,500,0,99999, 1,14,9, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,105,"Everlasting Purp",5760,944,10,10,0,-3,     1,1,1,1, 0,500,0,99999, 1,14,11, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,106,"Everlasting YellowB",4576,288,10,10,0,-3,     1,1,1,1, 0,500,0,99999, 1,17,101, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,107,"Everlasting Pink",4560,272,10,10,0,-3,     1,1,1,1, 0,500,0,99999, 1,15,12, 1,0,,0,-1, 0,0,-2,0, -1
+5,v25,108,"Everlasting Green",4592,272,10,10,0,-3,     1,1,1,1, 0,500,0,99999, 1,15,13, 1,0,,0,-1, 0,0,-2,0, -1

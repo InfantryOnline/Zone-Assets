@@ -1,0 +1,145 @@
+12th April 2008,
+
+Added Suit Teleport and Summon while within DS
+
+Made Tranq Shoot and Move
+
+Added an Armor with a speedboost that replaces cmp4 type armor
+
+Added Infiltator Actuators
+
+Added More Rewards
+
+Made Steron kits increase speed more and use less minerals.
+
+- Toriad
+
+
+19th November 2006,
+
+Zap Glove has had its reload time slighty increased from 1750 to 1950.
+
+Both PC's (Kuchler PC v2 & Maklov XVI PC2000) have had their muzzle velocity increased.
+
+All three Rifle Grenades have had their inner explosive damage reduced to 30, from 50, and outer explosive damage reduced to 5, from 25. Their kinetic damage is untouched.
+
+RPG has had its outer explosive damage reduced to 30, from 35.
+
+Chain Fist now has 20 inner as opposed 15, and 10 outer as opposed 5.
+
+All versions of the PA (Particle Accelerator) now do 60 inner kinetic damage, up from 50.
+
+It now takes less kills to get high bounty ;) Let the fun begin.
+
+(Blink Gen is being considered for removal from this zone, still unsure)
+
+- syco
+
+
+
+15th November 2006,
+
+When you're in the DropShip(DS) your crown now expires at a faster rate.
+(Unfortunately, due to doing this you can now no longer use any items in the DS, this mainly effects the ability to use warp items. But you can still be summoned out of the DS.)
+
+You can now see when you've hit someone with DeathBoard Slash.
+
+Sonic Rifle (Unittech SR2000k) used by SciOps, has had it's energy cost lowered from 100 to 50.
+
+Sonic Cannon (Unittech SC1999k) now has an explosion graphic.
+
+All versions of the PA (Particle Accelerator) now do 50 inner kinetic damage (up from 40), and 40 outer kinetic damage (up from 30).
+
+RR (Recoiless Rifle) now has a pre-fire delay of 0.85 of a second as opposed to 1 second.
+
+Stim Packs and Energizers can no longer be purchased in the store.
+
+5 Stim Packs now spawn at the hospital as opposed to 3.
+
+Tranq has a low prefire delay, this means it is now a 'Stand & Fire' weapon. 
+
+Infantries can now use FlightPack.
+
+SciOps can no longer cloak while on a pack (they can still use stealth).
+
+- syco
+
+
+12th November 2006,
+
+Added in the Unittech Assault-Sentry. This does NOT work the same as engineer turrets.
+*Removed for further testing*
+
+Tranq has 1750 reload time, changed from 1250.
+
+Added a fire sound to the Chain Fist.
+
+Stim Packs now spawn in the hospital (F5.)
+
+Slightly changed the BioLabs GP7's colour.
+
+RR does 350 energy drain, instead of 250.
+
+Put the lua back in.
+
+- syco
+
+
+12th November 2006,
+
+There are now two BioLabs Gas Projectors to choose from. One which stuns, and one which doesn't. The damage has been adjusted slightly. (This idea was stolen from EOL)
+
+You can now see when you've hit someone with Combat Knife.
+
+Instead of nerfing Tranq/stunner, I've decided to lower the cost of repulsors (from 100, to 50) to hopefully promote people to use some skill and try and repulse the incoming tranqs, or repulse the projectiles that will fly in after they have been tranquilized.
+
+Repulsor Field (the one used by all classes except Infil/Sci) now doesn't require any energy to use.
+
+Added in the two other Particle Accelerators (PAs) one with an "EZ" explosion, the other with "GG".
+
+- syco
+
+
+9th November 2006,
+
+If all goes well, the person who kills the last crowner should now get a big reward (it wasn't rewarding them before)
+
+If you steal someones crown (you kill them and get your crown back) it should now tell the arena.
+
+- syco
+
+
+
+
+9th November 2006,
+
+Testing out a new scipt for the King of the Hill game.
+
+If you kill someone who has a crown, you get a little bonus reward.
+
+This reward depends on: how many crowners are left (the lesser the amount, the larger the reward)
+			how many people are in the arena (the more the amount, the bigger the reward)
+
+This is meant to emphasize crown hunting, I just want to see how it goes for now.
+
+- syco
+
+
+
+
+8th November 2006,
+
+I'm trying out a bit of LUA todo with the king of the hill game. If it doesn't work, it'll be removed.
+
+- syco
+
+
+
+
+~1~B Old News ~1~B
+This is an SUT Test.  You should expect your accounts to be wiped once the test is complete.
+
+Please let us know of any issues that arise on the freeinfantry.com forums.
+
+- dangerz
+

@@ -1,0 +1,226 @@
+Fleet Play Guide
+
+NOTE: This guide is assuming you have read the Infantry Online Guide to become familiar with the Infantry User Interface.
+
+Introduction
+
+The first and most important thing that needs to be said about Fleet is that it is an extremely team oriented game.  Players that are not coordinating with their teams are more of a hindrance then a help.  Listen to what your teams objectives are, and play a role that will help meet those objectives.  Mining resources will help your team more then mindlessly engaging in combat that serves no purpose.  Pick your battles.  Fighting to protect miners or destroying and enemies miners and defenses are useful to your team.  Simply killing the enemy for fun is not.
+
+With that said, it is also important to pick one or several people to make decisions for the team.  Listen to what they need you to do and get it done.  Needless squabbling over what your teams course of action should be will only end in your defeat.  There are many ways to win in Fleet, so don't think you have all of the answers.  Trust those your team has decided to put in command.
+
+How to get started:
+
+All players start the game with a Miner ship.  This ship allows you to collect the Eljaycium resources that are spread about space.  Turn these resources into your Command Center for Build Point (BP) that go to the team.  If the game has been progressing before you join, you may have a Supply Satellite that will allow you to change your ship.  To access the Satellites either fly up to it and press the Space bar to bring up a menu or fly close to it and right click with the mouse to bring up a menu.  Then select the option desired.  There are several types of satellites that are described below.
+Once a ship is bought, press F12 to enter the game.
+The controls are very similar to the other Infantry zones so see the main guide on how to join the game, maneuver, and fire.
+To become a gunner on one of your capital ships, fly up to it and hit the space bar and select the number of any open position you wish to man.  Or right click on the capital ship, and select the open position you wish to man.
+
+
+Objective:
+
+The main goal of this game is to destroy your enemies Command Post while defending your own.  To do this, it will be necessary for your team to mine the minerals spread throughout the map.  Using these minerals will allow your team to build defenses for your Command Post and build the ships necessary to destroy the enemies own Command Post.  The ships and defenses are described below.  Remember that mining is extremely valuable to the team, and should never be looked at as a coward's task.
+
+Primary Ships
+
+The main ships are the backbone of your fleet.  You start the game with a Miner.  From there you must acquire Eljaycium in order to change you ship to another primary at a Supply Satellite. Use them to collect resources, fend off the enemy, and harass their miners.  Be sure the ship you choose or but is useful to your team.  If not, purchase a new one at a Supply Satellite.  After death, you will reappear as the same main ship you were when you died.
+
+Fighter:
+	Weapons: Dual Light MassDriver
+	Purchasable:  5 Warshrikes
+	Utility items: None
+The Fighters primary role is covering the fleet while on maneuvers and defending the main base.  Faster then a Gunship, they can provide quick strikes on enemy ships.  Fighters can also carry 5 warshrike missiles if purchased from a Supply Satellite or obtained free from a Carrier.  Use these missiles to take down enemy capital ships.  Fire the MassDriver with care as it uses up the precious energy that makes up your health.  The Fighter can also harvest minerals to a limited degree however it does not see these minerals on radar.
+
+Gunship:
+	Cost: 1 BP
+	Weapons: Dual Warshrike
+		   Light MassDriver
+	Purchasable: 5 FireHawk missiles
+	Utility Items: None
+The Gunship has quite a different role then the Fighter as it differs in the way it fights.  It is not as fast as the Fighter but is able to strafe side to side to avoid incoming fire.  A single Light MassDriver pack less punch then the fighters but the Warshrikes help this out.  Use these to help take down an enemy bases defenses and damage lighter capital ships.  The Gunship can also harvest minerals to a limited degree but does not see minerals on radar.
+
+Miner:
+	Cost: 1 BP
+	Weapons: Light MassDriver
+	Purchasable: None
+	Utility Item: Mine Creator
+The Miner has a unique role.  It uses Eljaycium to create minefields.  These mines are quite effective to smaller craft and do minor damage to capital ships.  It takes some time for these mines to arm when dropped so keep this in mind when creating the field.  They are useful for protecting the base and Eljaycium fields from the enemy.  It can see minerals on radar at a limited range. This is the ship all players start with.  It can carry a fair amount of Eljaycium.  
+
+Scout:
+	Cost: 1 BP
+	Weapons: Kilowatt Particle Beam
+	Purchasable: None
+	Utility Item: Sensor Array
+The scout is important in keeping the team informed on what is going on throughout the map.  Not only is it fast, it can see minerals and ships on radar much further away then other ships.  By using the Sensor Array it can also detect stealthed vessels so is vital in detecting incoming capital ships.  In combat and mineral collection abilities are fairly limited however.
+
+Fabricator:
+	Cost: 1BP
+	Weapons: Light MassDriver
+	Purchasable: None
+	Utility:  Autorepair
+While not the most glamorous ship to fly, the Fabricator plays one of the most vital roles in the fleet.  Not only can it collect more minerals then the other base craft, it also builds all of the ships and structures for the team.  Flying the Commander is a demanding job.  You must work with your team to coordinate what needs to be built and get the team using what you have constructed. Beware, too many Fabricators being flown on a team is not necessarily a good thing as their fighting ability is limited.  Someone flying the Fabricator craft can also use it's Autorepair utility to fix structures and capital ships.  To do this you must right-click on the ship or structure to be repaired and click on the appropriate system.  Repairing does cost a fair chare of Eljaycium however.
+
+Utility Ships
+
+At present there is only one utility ship the Transport. 
+
+Transport:
+	Cost: 50 BP
+	Weapons: Light MassDriver
+	Purchasable: None
+	Utility: None
+
+The Transports sole purpose is to collect resources.  It can store more then any other ship by far.  It is vulnerable due to it's speed, lack of weapons, and size so get some Fighter and Gunship escorts when close collecting close to the enemies territory.
+
+Capital Ships
+
+Bomber:
+	Cost: 200 BP
+	Weapons: Dual Firehawk Launcher
+		   Plasma Bomb Launcher
+	Purchasable: 1 Plasma Torpedo
+	Utility:  None
+	Crew Seats:  Tail Gunner
+
+The bomber is used for coordinated attacks at enemy bases.  While not as effective as some of the larger capital ships in this role, several of them in a group can often single handedly not only cripple but even remove an enemy base.   Good bomber pilots will at least cripple the enemy by removing their defensive satellites so that the larger ships can finish off their main base.  A tail gunner is also helpful for keeping harassing enemy fighters from chasing the bomber down.
+
+Corvette:
+	Cost: 200 BP
+	Weapons: Megawatt Particle Beam
+		   Dual Medium MassDriver
+	Purchasable: 1 Plasma Torpedo
+	Utility: None
+	Crew Seats: Corvette Turret
+
+A larger ship then the bomber that packs quite a punch.  Able to carry a single torpedo, these are nice when grouped with other ships for taking out the enemies defenses and with the turret, keep smaller ships away from the fleet. 
+
+
+Missile Corvette:
+	Cost: 400 BP
+	Weapons: Megawatt Particle Beam
+	Purchasable:2 Plasma Torpedos
+	Utility: Stealth Generator
+	Crew Seats:  Corvette Turret
+
+
+Use the Stealth Generator to keep you presence a secret from enemy radar.  Beware of cruising scouts however.  Carrying more torpedoes, you can harass the enemies base more effectively.
+
+Frigate:
+	Cost: 600 BP
+	Weapons: Gigawatt Particle Beam
+	Purchasable: 2 Plasma Torpedos
+	Utility:  Sensor Array
+		Stealth Generator
+	Crew Seats: Frigate Weapons Turret
+		      Frigate Weapons Turret
+
+
+By using the Sensor Array and the Gigawatt Particle Beam, you can hunt down and eliminate small and large enemy capital ships.
+
+Command Carrier:
+	Cost: 500 BP
+	Weapons:  Dual Medium MassDriver
+	Purchasable:
+	Utility:  Stealth Generator
+	              Hyperportal
+	              Fighter Berth
+	              
+	Crew Seats:  Flak Battery
+		      
+The Carrier is another unique vehicle.  It can be used in both offense and defense.  Often the Carrier hangs out at your home base waiting for the enemy to attack with capital vessels.  It then uses the Hyperportal to summon Fighter support.  The Fighters can then board the Carrier, load up on 5 Warshikes and attack the enemy ships.  Then return to the Carrier for more Warshrikes to press the attack.  Carriers can also use this to allow fighters to strike an enemy base.  The Hyperportal can also be used in the mining process.  Put a Carrier next to a lucrative Eljaycium field and have one sit at base.  Hyperportal Transports to the minerals, harvest them, then teleport them back to base to convert them to build point.  Repeat for quick mineral gain.  Keep yourself stealthed when doing this, because the on board Flak Cannon can only defend with limited effectiveness and range.
+
+Destroyer
+	Cost: 800 BP
+	Weapons: Spinal MassDriver
+		   CS Dual Medium MassDriver
+	Purchasable:  5 Plasma Torpedos
+	Utility: Sensor Array
+	            Stealth Generator
+	Crew Seats: MD Turret
+		      Flak Battery
+		      Flak Battery
+
+At present, the Destroyer is the terror of space.  It's ability to strike bases with it's torpedoes and defend itself from attack are awesome.  In groups, these vessels lay waste.  Their Flak Cannons may have a limited range but when they hit smaller craft, watch them pop.  Spinal MassDriver eats through bases and ships alike.  If you see that your enemy has one or more of these, hit them with everything you got.
+	 
+Defense Satellites
+
+Base defense is extremely important as killing your Resource Satellite is the enemies primary objective.  Place them in groups of three to get the most firepower focusing on the enemy targets.  These can be used for the main base defense or for covering hot mining spots.  It is also wise to place them in approaches to these areas fairly distant from what you are trying to protect.  Doing this keeps enemy harassed far from what they are trying to destroy.
+
+Defense Drone:
+	Cost: 20 BP
+	Weapons:  Plasma AA
+	Range:  Long
+              Defense Class: Fighter
+
+
+
+GunSat:
+	Cost: 55 BP
+	Weapons: MW Pbeam
+	Range: Long
+               Defense Class: Capital Ship/Fighter
+
+
+
+KillSat
+	Cost: 100 BP
+	Weapons: Plasma Projector
+	Range: Long
+              Defense Class: Capital Ship
+
+
+
+Main Satellites
+
+Resource Satellite
+	Cost: N/A
+	Weapons: Plasma Cannon
+	Sells:  Refines Minerals
+	           Defense Drones
+	           GunSats
+   	           Supply Satellites
+	           
+The Resource satellite is the primary base for your Fleet.   You only get one and if it's destroyed, you lose the game so protect it at all costs.  It is here that you will also refine the Eljaycium you collect throughout space.  Building a Supply Satellite from here will not only let you build more advanced structures and ships but will also allow you to change to the other main ships such as Fighters, Gunships, etc.  It has some defense on its own with the Plasma cannon, but building other defense satellites is a must.
+
+Supply Satellites:
+	Cost: 500 BP
+	Weapons: Dual Plasma AA
+	Sells: Plasma Torpedoes
+	          Warshrike Missiles
+	          Firehawk Missiles
+	          Deathfist Missiles
+	          Repulsors
+	          Carriers
+	          KillSats
+	          Fabrication Satellites
+	          Transports
+	          Main Ship types
+
+The Supply satellite will allow you to progress your technology further by allowing you to build a Fabrication Satellite.  It also allows you to build more powerful defenses and purchase missiles and torpedoes.
+
+Fabrication Satellite:
+	Cost: 500 BP
+	Weapons: Dual Plasma AA
+	Sells: Corvettes
+	          Destroyers
+	          Frigates
+	          Carriers
+	          Bombers 
+	          Missile Corvettes
+	          
+The Fabrication satellites allow you to build the most advanced and deadly ships in the game.  Protect this satellite while you build up the fleet that will destroy the enemies stronghold.
+
+Purchasable Weapons
+
+Warshrike Missiles
+Does light explosive damage.  Available free from SupplySat, Command Post and Command Carrier.
+
+FireHawk Missiles
+Medium Explosive Damage. Available from SupplySat.
+
+Deathfist Missiles
+High Explosive Damage. Available from SupplySat
+
+General Strategy
+
+Coming soon.
+

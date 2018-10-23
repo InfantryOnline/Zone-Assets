@@ -1,0 +1,483 @@
+~BRogue Trader~B
+
+************Disclaimer****************
+
+This zone is under construction. Many things are being added to it on a constant basis. There will be MANY recycles of the zone till things are right.
+
+************Disclaimer****************
+
+
+
+
+Welcome to sector YA29 in the Taurus Quadrant, Terran code named Northern Cross.
+
+Northern Cross is an area of space that is thick with asteroid and debris fields as well as Nebula and other gas clouds.  Being
+several hundred light years from the "Great Cosmic Rift" has allowed it to escape the brunt of the Null Holocaust that swept through
+the rest of Known Space. At one time this area of space was home to mostly Terrans which explains why all the SpaceDocks are of Terran
+Origin. However, because of the flood of refugees from the core sectors, this has changed and you will find members of all the Three 
+Great Races coexisting here.
+
+Naturally, being farther out from the remaining governments of the Three Great Races means that a certain level of lawlessness pervades
+the area.  Each of the SpaceDocks in the Sector have created their own militias. There are also many bands of Pirates and Rogue Traders
+carving out a living in the area.
+
+
+********~BGame Overview~B*********
+
+When a new players begins the game, the first thing he needs to do is select a ship. This ship is essentially
+the players character. Once selected a new ship cannot be selected without wiping ones character using ?wipecharacter
+and starting fresh.
+
+A new ship will be equipped with an energy cannon.  Players will need to acquire credits to further outfit their ships.
+
+When you purchase equipment for your ship, you need to bear in mind that the ship is logically slotted. This means that 
+you can only have one item type per slot. Thus you can only have one gun/cannon type item, one bomb type item, one mine type item, etc.
+
+This game is different from other Cosmic Rift games in that some weapons may use ammunition, or require you have another item in 
+Inventory for you to use it. A perfect example is the HyperDrive systems that all require you to have a HyperCore installed on your ship.
+
+Your ship in ~BRogue Trader~B also differs from other Cosmic Rift zones because it has Hull Points alloted to it.  As long as your ship
+has Shield energy, it will take no damage from weapons, but when your Shield Energy is at 0, you will take Hull Damage. When
+your Hull Points are at 0, you will blow up and leave a small piece of wreckage where you were.
+
+Credits are acquired through mineral harvesting/trading, and blowing up other players for their wreckage.
+
+When a player first enters the game world, they will be assigned to a public team representing the militia of one of
+the major SpaceDocks (there are 4). When a player on a public team dies, they will spawn near their respective 
+SpaceDock.  Any player can use any SpaceDock regardless of team, however, it may be more difficult to get to a non
+aligned SpaceDock.
+
+Private teams can be created. Members of private teams will spawn randomly in deep space. Private teams would assume 
+the role of Rogue Traders or Space Pirates depending on their demeanor and how they earn their credits.
+
+***********~BShip Types~B************
+
+The ship types are borken down into 4 basic categories to describe their basic abilities.  Individual ships will vary
+in performance based upon racial characteristics and potential loadout options.
+
+Space Superiority Fighters
+
+These are the most maneuverable ships. They are lighter and carry less weight. Think F16.
+
+Heavy Fighers
+
+These ships have a potentially heavier loadout and have a higher top speed. They are also less maneuverable. Think F14
+
+Heavy Bombers
+
+These ships are least maneuverable potentially and slower overall. They can also carry the most weight. Think F111
+
+Special Ops Fighters
+
+These ships are farily midline in terms of ability and carrying capacity. This is made up for in what they can potentially carry. Think F117.
+
+
+***********~BTrade System~B**********
+
+Harvest minerals (Krandazite, Tellerium, Wreckage, Iron Ore) that either appear randomly (and have to be found) or appear
+through combat.
+
+Krandazite and Tellerium have to be refined at a refinery (Red Areas on F3 Map). 
+
+Wreckage does not require refining.
+
+Refined minerals and wreckage are then taken to Trading Posts (Yellow Areas on F3 Map).
+
+Alloy can also be used in the creation of structures.
+
+Credits will be given for traded minerals/wreckage. These credits can then be spent on weapons/equipment at a
+SpaceDock. SpaceDocks appear in purple on the F3 Map.
+
+Minerals have mass and weight. The more you are carrying, the more you will encumber your ship.
+
+Superiority and Special ships have a max capacity of 2000 KG.
+
+Heavy Fighters have a max of 3000 KG.
+
+Bombers can carry 4000 KG.
+
+Loading your cargo bay beyond the halfway point will result in ship performance loss.
+
+
+***********~BBuild System~B***********
+
+Your team can build their own trading bases.
+
+You can purchase a Trading Post at the SpaceDock
+
+You take the trading post to an area of space you wish to place it and activate it (Press Home).
+
+You can than trade refined minerals as you do at Public Trading Posts.
+
+You can produce other types of Satellites at your teams Rogue Trading Post at a cost in credits and alloy:
+
+GunSats cost 200 credits and 10 Alloy to produce.
+
+BeamSats cost 400 credits and 20 Alloy to produce.
+
+Micro Refineries cost 500 credits and 20 Alloy to produce.
+
+Micro Repair Docks cost 500 credits and 20 Alloy to produce.
+
+They are placed in the same manner that Trading Posts are.
+
+
+**********~BWeapon Systems~B**********
+
+There are several different types of weapons available for purchase depending on the ship you have selected and your cash on hand.
+
+All weapons share several characteristics:
+
+All weapons do Shield Drain Damage. This damage effects your shield energy level. As long as you have any Shield Energy you will take no Hull Point Damage
+
+All weapons will do one of 3 types of Hull Point Damage: Kinetic, Explosive or Energy. You can purchase armor that has a protective effect against one or
+2 of these damage types, but not all 3.
+
+Some weapons do not do much in the way of physical damage, but may effect your ship in other ways such as by disabling your energy systems or thrust systems.
+
+The weapon types are:
+
+~BBeam Weapons~B
+
+These are items that fire some sort of beam. They are usually very fast and do not use your forward momentum as much as other projectiles.
+
+~BCannon~B 
+
+Cannon are weapons that fire at a relatively fast rate. They can either use energy or use ammunition and energy to fire and use a portion of your forward momentum.
+
+~BEnergy Bomb Projectors~B
+
+Energy Bomb Projectors are slower firing weapons that shoot out a projectile that uses a good portion of your built up momentum to drive them towards the target.
+
+~BMissile/Rocket Systems~B
+
+Missiles and rockets all fire a self powered projectile that explodes on contact. These items often have more than 1 projectile.
+
+~BSpace Mines~B
+
+Space mines are limited use items that act, essentially, like stationary bombs. Each has a different effect.
+
+~BSpecial Weapons~B
+
+Special Weapons are items that have some peculiar effect on a target that is not just limited to damage.
+
+~BDefensive Weapons~B
+
+These weapons are designed more for defensive use than offensive.
+
+
+**********~BShip Upgrades~B**********
+
+There are several items that will modify your ship and it's characteristics.
+
+Engine Mods: These items modify your overall top speed and hyper thrust output.
+
+Power System Mods: These items modify your energy recharge rates or your overall energy capacity.
+
+Thruster Mods: These items modify your ability manuver and your thrust rating.
+
+Armor Mods: These items add protection against Hull Point Damage. To change to new armor, your old armor must be removed, at cost, by a Repair Dock.
+
+When your ship has sustained damage, you can have it repaired at a repair dock. There is a Repair Dock located near each SpaceDock.
+
+**********~BHazards~B************
+
+Aside from the many natural dangers of space densely sewn with asteroids, you will contend with the other people who inhabit the sector some of whom
+would enjoy nothing more than blowing you out of space altogether.
+
+There are naturally occuring hazards, like Meteor Showers, that will occasionally appear to catch the unwary.
+
+Although Northern Cross is on the frontiers, it does not mean that it is immune to the depradations of the Null.  Occasionally Null Death Orbs will appear
+along with Null Kill Stations.  They can cause untold amounts of damage before destroyed.
+
+***********~BBounty System~B*********
+
+There is a bounty system in Rogue Trader.  Every kill you get will increase your bounty by your targets Bounty. Every kill you get will net you 1 credit per 
+bounty point of your target + 10% of your total bounty in credits.
+
+The higher your target's bounty, the more he will be worth.
+
+
+
+
+  
+
+~1******************************Notes
+
+********3/16/03
+
+Increased effect of Manuever (rotation) mods.
+
+Decreased effect of Impellors.
+
+Per shot timing increased on Beam weapons except X-Laser
+
+********3/12/03
+
+
+When you go to spec mode you will lose any unrefined minerals and any wreckage you are carrying.
+
+When you go to spec mode you will lose any unused nanobot packages (factories/sats).
+
+2 new Computer Mods were added. YOu have to have Advanced Fire Control to be able to use Missiles or Beam Weapons.
+
+Building things requires that you have a Nanobot Control System in Inventory. YOU CANNOT BUILD ANYTHING WITHOUT ONE.
+
+-If you accidently purchase a nanobot factory, you can resell them at the store.
+
+Added 3 new Manufactories: Defense, Missile and Munitions.
+
+Missile MFG requires refined tellerium.
+
+All cannon ammo can be dropped, but cannot be resold.  The store WILL take it, but you will get nothing for it.
+
+"No Spec" mode is active. You can still free spec with your arrow keys.
+
+
+
+********3/01/03
+
+Mines now have weight.
+
+Adjusted the weights of both missile and cannon ammo items.
+
+Ammo resale values are 1/2 purchase price.
+
+Cannon ammo is no longer droppable.
+
+
+********2/27/03
+
+When starting out a new ship, or changing ship hulls, the hull will come with a basic cannon appropriate for the hull type.
+
+This basic cannon can be kept, or it can be taken off of your ship free of charge.  At any rate, the store will take it, but
+will not give you anything for it.
+
+Fixed some map bugs and added a new exit to Marianas Freeport.
+
+Re-Enabled Team vision sharing.
+
+Gravimetric mine max is now 3. Considering giving mines weight, as per Missiles/other ammo.
+
+
+
+********2/26/03
+
+Raised the armor protection ratios.
+
+Null sats now drop a unique item: Null Wreckage.  Null Wreckage can be returned to Public Trading Posts for a 100 Credit Bounty.
+
+Wreckage can now be refined into Alloy
+Wreckage weight was lowered.
+
+BSM missile speed was lowered.
+Mirv Primary missile speed was lowered.
+
+Base lateral thrust for all ships was lowered and Impellor speeds were adjust accordingly.
+
+More than 1 Solar Mold will now spawn. In addition, few number of spores/sprites will spawn around them.
+
+The Trading Outpost is now under the "Nanobot Packages" menu item. It will become apparent why later on.
+
+********2/25/03
+
+Rocket Pod ammo weight was lowered.
+
+Refined Tellerium is now worth 50 credits.
+Refined Krandazite is now worth 75 Credits.
+Alloy is now worth 25 credits.
+
+You can change teams from a safe zone if you have at least 500 units of energy.
+
+
+********2/24/03
+
+Micro Refinery, Micro Repair and Rogue Trader Outpost can be stolen when they have been taken down to 10% HP (when their HP are in the red)
+
+Some obvious map changes.
+
+All ammo items are now droppable.
+
+Players will drop 100% of wrecks they are carrying when they die.
+
+Wreckage is now worth 20 credits as opposed to 100.
+
+New Item Added: Stealth - Active
+New Item Added: Stealth - Active - Enhanced
+New Item Added: Stealth - Passive
+New Item Added: Distortion Wave Generator
+New item Added: Distortion Zone Generator
+New Item Added: Turbo Impellors
+New Item Added: Super Impellors
+New Item Added: Ship Sensors - Enhanced
+New Item Added: Ship Sensors - Superior
+New Item Added: Ship Sensor Array
+New Item Added: Terran Combat Sensors
+New Weapon Added: Pulse cannon
+
+Meson Cannon was switched to a 3 round burst format.
+
+Most cannon weapons had their shield drain increased a bit and their Hull Damage lowered.
+Conversely, most bomb weapons had their shield drain lowered a bit and their Hull Damage increased.
+
+Added a confirmation to the "remove armor" feature of a Repair Dock.
+
+Base LOS has been narrowed to 225 degrees. This will leave a definite "blind spot" on your tail.
+
+********2/20/03
+
+Added Space Storms to the map.  These storms start somewhere random and grow over time, then shrink and finally disappear.
+
+The storms discharge various high intensity radiations.  These discharges seriously effect your ship and it's shields and can destroy a players
+ship if their energy gets low.
+
+********2/19/03
+
+Mold Spores drop prizes upon destruction.
+Mold Sprites have 35 HP now.
+When a player ship is destroyed, they will drop more than 1 wreckage, AND will drop part of any ammo they are carrying.
+Missile and Massdriver/Moltor cannon ammo have weight now. I am sure this will need to be tuned.
+Null/Pirates drop a large amount of wreckage when they die.
+
+********2/16/03
+
+Made some map changes in anticipation of further overall changes to the zone. You will note that there are doors at 
+the entrances to the spacedocks. They are not currently functional but will be in the near future.
+
+After the next engine rev we are going to be adding the concept of weight to ships for items and ammunition.
+
+Mini sats have all been lightly armoured, rendering schrapnel/bio schrap ineffective.
+
+
+
+
+
+********5/7/02
+
+Fixed spec warp bug.
+
+When you die you will drop 25% of your unrefined minerals and wreckage.
+
+adjusted Moltor Shower.
+
+adjusted Bio Storm.
+
+********5/2/02
+
+Fixed Mold Spores and Killsat/Deathorb Spawns.
+
+
+
+********1/13/02
+
+-Whew it has been a while....
+
+There will be some pricing fluctuations as new stuff is added and older items are balanced out a bit.
+
+All Missile launchers have had their prices raised.
+Ammo capacities on all missile launchers have been adjusted.
+All Ammo prices for Missile systems have been adjusted.
+Fusion Torch uses more energy per shot.
+
+Moltor SHower has had a couple of adjustments made. Specifically in terms of damage done, damage type, and ammo capacity.
+
+Bounty system has been adjusted.  The flat bounty increase has been discarded.  The new system will impart 50% of your targets bounty to
+your bounty. Low bounty opponents thus yield a low reward while high bounty targets will give a large reward.
+
+The cash reward system has been similarly adjusted. You new receive 100% of your opponents bounty in cash as well as 10% of YOUR bounty.
+There is no longer a share radius. You need to get the kill to get the credit. No leeching.
+
+
+*******9/08/01
+
+Adjusted all the resale prices for weapons and equipment. Weapons have a higher resale then ship mods on average.
+
+Added a range of AfterBurners that modify HyperThrust only.
+
+Adjusted some of the item exceptions to better reflect race/ship properties.
+
+Added the ability to purchase a new ship hull. The caveat is you can only change to a ship hull that is the same race as your existing ship hull.
+
+
+*******9/06/01
+
+Adjusted Rip'Pir rotation speed to be more in line with the other races Special Ops class Fighters.
+
+Adjusted Zag'Gir to be more in line with other races Heavy class Fighters.
+
+Bio Orbiter now has a much shorter projectile lifetime to keep it as more of a defensive weapon.
+
+Hyper Buoy was removed.  If you have a Rogue Trading Post and use Hyper Recall, it will Hyper Jump you to the vicinity of your Post.
+Otherwise, you will just Hyper Jump Randomly
+
+You can now only carry one type of structure in Inventory.
+
+Adjust resale prices on all ammo weapons to be 1:1 purchase price. This includes Missile, Mines and other ammo.
+
+Adjusted team sizes. Public teams are now 15 strong. Private teams may have up to 10 members.
+
+You now lose energy when you sit in a safe zone surrounding a refinery/trading post. Dont dawdle. :)
+
+Adjusted Fusion Torch so that it no longer explodes at the end of it's lifetime.
+-Just a note on this, lamers who tk their teams structures will be dealt with *cough* DSC
+
+Buffed up the Bio Missile launcher. Someone stated that the missiles only did as much damage as guns. This is
+entirely inaccurate. However, it was still a bit weaker than maybe it should have been.
+
+Buffed up the Moltor Storm Launcher.
+
+Increased unencumbered capacity on al ships to 1500 kg.
+Revised all the armor speed/thrust penalties.
+
+Adjusted resource spawns.
+Debris from a destroyed ship can cause damage.
+Micro Repair Dock is destroyable.
+
+Added Micro Repair Dock. It can be purchased from a created Trading Post.
+
+Made minor adjustments to:
+
+Mega Moltor Bomb
+BioPulse Bomb
+BioShrapnel Bomb
+Fusion Torch
+
+Increased Ammo carrying capacity for Heavy Mass Driver.
+
+Adjusted weight thresholds on all ships. Now all ships can safely carry 1000kg before becoming encumbered.
+That means the ships that can carry more will pay for it earlier.
+
+Micro Refinery regenerates now.
+
+Added:
+Bio Orbitor
+Fusion Torch
+
+Energy use on X-Laser was increased and projectile life decreased.
+
+Added preliminary build system.
+
+********8/27/01
+
+Added:
+Rocket Pods
+Dual Rocket Pods
+Blackout Bomb
+Disabler
+
+Adjusted the beam weapons and adjusted most of the cannon.
+
+Adjusted mineral spawns. A mineral spawn anchor has a detection radius to ensure no players are in the area.
+
+When you change teams or go to spec mode, you are stripped of minerals.  I know this is potentially a bummer to ppl with
+less than stellar connections, it is necessary. If you need to go to spec, trade out your minerals.
+
+Added a weight system for minerals.
+
+Changed values for minerals: Krandazite:50 Tellerium:25 Scrap:100
+
+Changed the way minerals spawn.
+
+You can only change teams from the Space Dock area.
+
+You can only stay in the safe zones protecting Refineries or Trading Posts for 60 seconds.  After that you will be sent to spec.

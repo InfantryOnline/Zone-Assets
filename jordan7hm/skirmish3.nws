@@ -1,0 +1,96 @@
+~BMechanized Skirmish!~B
+
+Overview:
+
+Skirmish is a game consisting of 2 teams trying to capture between 3 and 6 (depending on mission) static map locations.
+
+Each game lasts 30 minutes or less.
+
+Each game can have between 3 and 6 flags to capture.
+
+Each team has up to 40 players.
+
+Each team can consist of the following classes:
+
+~BClass~B            ~BArmed With:~B
+
+A)Marine           Combat Knife, Assault Rifle and Shotgun. Can use grenades.
+
+B)Ripper Gunner    Combat Knife, Ripper Gun and Shotgun. Can use grenades.
+
+C)Grenadier        Combat Knife, Grenade Launcher and shotgun. Can use grenades.
+
+D)Medic            Combat Knife, Medikit, and PDW. Can use grenades.
+
+E)Sergeant         Combat Knife, Leader Summoner, Leader Teleporter and Auto Pistol. Can use grenades.
+
+F)Sniper           Combat Knife, Sniper Rifle and Auto Pistol. Cannot use grenades.
+
+
+If you do not choose a class when you enter the game you will be Marine by default. 
+
+Press f11 when in spec mode or when standing on the purple floor near your Concentration Area to change class.
+
+Class Change Areas are at the Hangar at J2 and the Power Room at D2
+---------------------------------------------------------------------------------------------------
+Each team starts with:
+
+4 APC's                        Useful troop movers.
+2 Slicks                        Useful troop suppresion.
+2 MRL's                          Good for softening up defenses.
+2 Salamander Med. AFV's     Good for taking out enemy vehicles. 
+4 ExoSuits                      Useful in attack and defense against enemy troops.
+
+---------------------------------------------------------------------------------------------------
+The object is to find, capture, and hold between 3 and 6 flags at strategic points on the map.
+A team can win one of 2 ways, either by holding all flags for 20 seconds OR by having the most flags
+at the end of the game timer. 
+---------------------------------------------------------------------------------------------------
+
+3 Flags are ALWAYS on the map at game start:
+
+Hill 102
+Hill 86
+Kliest's Ridge
+
+3 Flags have a 50% chance of appearing from game to game:
+
+Methane Tap
+Hill 121
+Mesa 85a
+
+Use the keywords ?score or ?flags at game start to keep track of flags.
+
+Voice Macro's are EFFECTIVE. Dont be afraid to use them. Remember to use %coord to tell your map coordinates!
+___________________
+Voice Macro Sounds
+Bong #        says:
+22	Acknowledged
+23	Affirmative
+24	Attacking
+25	Defending
+26	Enemy Sighted
+27	Request Summon
+28     Under Attack
+
+Macro syntax (for you newbies) is //your message here %<bong number>
+					Ie  //I am under attack! %28
+
+
+
+
+*************Notes*****************
+ExoSuits can now use laws if they have them.
+
+Added hull machine guns to MRL/Slick
+
+Added Sniper Class. It is worth noting their Sniper Rifle is NOT a 1 hit kill, UNLESS you are weakened. So dont whine about 1 shot kills.
+
+Auto Heal: Players and Vehicles auto heal/repair at the same rate. Thus, you can slowly heal if you disengage from battle.
+
+Ripper Gun was modified to fire faster.
+
+APC's are now of the GravRepulsor variety and you can fire personal weapons (Assault Rifle, PDW, and Auto Pistol) out of the firinf ports in the passenger slots.
+
+Sergeant can teleport (attach) as well as summon now.  They are armed with an auto pistol.
+

@@ -1,0 +1,121 @@
+~BThe OLD Arena~B
+~BThe latest zone news is always below the tables.~B
+
+~BOverview~B
+This zone is simple. Kill people to gain experience. Use your experience to buy the attributes you need to upgrade your weapons.
+
+~BIntroduction~B
+The very first thing you need to do is pick a weapon class/type. Press F11 to get to the skills screen. On the left side is a list of categories, --Attributes--, Energy, Projectile, Psionic and Rocket. Click on either Energy, Projectile, Psionic or Rocket.
+
+The second thing to do after you choose a weapon class is to immediatly upgrade it to the second level weapon. All new players are given 1000 experience points to spend on attributes. You can upgrade to level 2 weapons before you even start playing in the zone. Look at the tables below to determine which attributes you need to purchase to get to the second level weapon for your class. As an example lets say you picked Energy 1 as your starting class. To get the second level energy weapon you need to purchase 2 Discipline and 2 Willpower attributes. Then simply go to the center of the map and pickup an Energy Upgrade item. Be careful that you buy the correct attributes you need, follow the tables closely. If you make an error in this first upgrade you can simply wipe your character and start again.
+
+~BTips:~B
+Any new player should be able to get the level 2 weapon for their discipline just from their starting experience. Do not waste this opportunity to upgrade.
+You will always gain more experience from kills by carrying the flag.
+Gettng on a team and winning the flag game is the fastest way to progress.
+
+Here is the discipline/weapon/attribute table. Vehicles follow.
+
+~BEnergy Class~B
+~FWeapon        Agil Dex  Disc Hlth Str  Will
+Energy 1       0    0    0    0    0    0
+Energy 2       0    0    2    0    0    2
+Energy 3       1    0    4    0    0    4
+Energy 4       3    0    6    1    0    6
+Energy 5       5    1    8    2    0    8
+Energy 6       7    2   10    3    1   10
+Energy 7       9    3   12    4    2   12
+Energy 8      11    4   14    5    3   14
+Energy 9      13    5   16    6    4   16
+Energy 10     15    6   18    7    5   18
+~P
+~BProjectile Class~B
+~FWeapon        Agil Dex  Disc Hlth Str  Will
+Projectile 1   0    0    0    0    0    0
+Projectile 2   0    2    2    0    0    0
+Projectile 3   0    4    4    0    1    0
+Projectile 4   1    6    6    0    3    0
+Projectile 5   2    8    8    0    5    1
+Projectile 6   3   10   10    1    7    2
+Projectile 7   4   12   12    2    9    3
+Projectile 8   5   14   14    3   11    4
+Projectile 9   6   16   16    4   13    5
+Projectile 10  7   18   18    5   15    6
+~P
+~BPsionic Class~B
+~FWeapon        Agil Dex  Disc Hlth Str  Will
+Psionic 1      0    0    0    0    0    0
+Psionic 2      2    0    2    0    0    0
+Psionic 3      4    0    4    1    0    0
+Psionic 4      6    0    6    3    0    1
+Psionic 5      8    1    8    5    0    2
+Psionic 6     10    2   10    7    1    3
+Psionic 7     12    3   12    9    2    4
+Psionic 8     14    4   14   11    3    5
+Psionic 9     16    5   16   13    4    6
+Psionic 10    18    6   18   15    5    7
+~P
+~BRocket Class~B
+~FWeapon        Agil Dex  Disc Hlth Str  Will
+Rocket 1       0    0    0    0    0    0
+Rocket 2       0    0    2    0    2    0
+Rocket 3       0    0    4    0    4    1
+Rocket 4       0    1    6    0    6    3
+Rocket 5       1    2    8    0    8    5
+Rocket 6       2    3   10    1   10    7
+Rocket 7       3    4   12    2   12    9
+Rocket 8       4    5   14    3   14   11
+Rocket 9       5    6   16    4   16   13
+Rocket 10      6    7   18    5   18   15
+
+Vehicles      Agil Dex  Disc Hlth Str  Will
+FlightPack     3    3    0    1    4    4
+JumpPack       4    4    0    2    4    4
+Hoverboard     5    5    0    3    4    4
+~P
+Attributes and their affects:
+~F
+Attribute     Effect
+
+Agility       Increases your thrust.
+Dexterity     Increases your top speed.
+Health        Increases your hit points.
+Strength      Increases your weight carrying ability.
+Willpower     Increases your max energy.
+Psionics      No effect on your character. Only used for weapon limits.
+Intelligience No effect on your character. Only used for weapon limits.
+~P
+
+May 20, 2000
+
+More minor adjustments to the cash and experience rewards. Making them a bit higher for kills.
+Doubled bounty increase rate.
+Adjusted the public team sizes.
+
+May 15, 2000
+
+Added more friction to the hoverboard. This should solve the super board problem. (It's still a bug in the game code though. The boards current speed is not being reset to zero when you get off it.)
+Lowered the auto-bounty increase rate. Bounty increased to fast for free with the new reward system.
+Lowered the maximum autobounty to 100. You will have to kill people to get it to go higher.
+
+May 14, 2000 (more...)
+
+Increased the per kill amounts for cash, experience and points. Don't worry I love you, I just didn't want to set them to high to start with. :)
+
+May 14, 2000
+
+Made a bunch of changes to the way points, cash and experience scoring is dealt out. There is no more team sharing for points, cash or experience. I increased the amount you get for each of these items to compensate for the lack of team sharing.
+
+May 13, 2000
+
+~BWARNING: If I catch you leeching at all, you will be banned for a day minimum.~B
+Flag doesn't appear on radar anymore, you just have to find it. (This will slow down specs finding flags.)
+Fixed every vision bug on the map. It's true, I even added special code to the map editor to find the vision problems.
+Gave hoverboard some strafe.
+Various little tweaks to things.
+
+May 12, 2000
+
+I've reinstated the weapons that existed in TheArena before January of this year. These are the old fast weapons. The whole arena setup is as it was before January.
+I added a few new items that should be fun to play with too. Check Mines and Grenades in the store.
+Some newer players will not like this at all, but you will get used to it.

@@ -1,0 +1,13 @@
+v6,1,0,100,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Marine","Grunts","","Collective Marine or Titan Regular.",  ,,0,0,0,0,0,0
+v6,3,-2,101,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sergeant","Not Usable Classes","@100000","Collective Sergeant or Titan Sergeant.",  ,,0,0,0,0,0,0
+v6,5,0,103,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Medic","Grunts","","Collective Medic or Titan Medic",  ,,0,0,0,0,0,0
+v6,6,0,104,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Ripper Gunner","Veterans","@5000","Collective Ripper Gunner or Titan Ripper Gunner.",  ,,0,0,0,0,0,0
+v6,7,0,105,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Grenadier","Grunts","@5000","Collective Grenadier or Titan Grenadier.",  ,,0,0,0,0,0,0
+v6,2,-2,111,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sniper","Not Usable Classes","@5000","Collective Sniper or Titan Sniper.",  ,,0,0,0,0,0,0
+v6,4,-2,116,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Light Machinegunner","Not Usable Classes","@5000","Collective Light Machingunner or Titan Light Machinegunner.",  ,,0,0,0,0,0,0
+v6,8,0,119,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Squad Leader","Commanders","@25000","Collective Squad Leader or Titan Squad Leader.",  ,,0,0,0,0,0,0
+v6,9,-2,121,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sapper","Not Usable Classes","@5000","Collective Sapper or Titan Sapper.",  ,,0,0,0,0,0,0
+v6,10,-2,122,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Infantry","Not Usable Classes","","Collective Infantryman or Titan Militiaman",  ,,0,0,0,0,0,0
+v6,11,-2,123,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Elite","Not Usable Classes","@150000","Collective Elite or Titan Inferno Trooper.",  ,,0,0,0,0,0,0
+v6,12,-2,124,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Driver","Not Usable Classes","@5000","Collective Vehicle Specialist or Titan GearHead.",  ,,0,0,0,0,0,0
+v6,13,-2,120,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Scout","Not Usable Classes","@5000","Lightly armed soldier equipped with enhanced vision gear.",  ,,0,0,0,0,0,0

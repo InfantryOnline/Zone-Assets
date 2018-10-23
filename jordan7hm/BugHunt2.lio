@@ -1,0 +1,141 @@
+1,v12,1,"Green_Door_1",6352,7456,    -2,-2,3,2, 0,0, doors,Metac,0,0,0,0,0,uiwav,melt,0,0,uiwav,melt,0,0
+1,v12,2,"Green_Door_2",6416,7456,    -1,-2,2,2, 0,0, doors,Metac,0,0,0,0,0,uiwav,melt,0,0,uiwav,melt,0,0
+1,v12,3,"Green_Door_3",6384,7456,    -1,-2,2,2, 0,0, doors,Metac,0,0,0,0,0,uiwav,melt,0,0,uiwav,melt,0,0
+1,v12,4,"Green_Door_4",6448,7456,    -1,-2,3,2, 0,0, doors,Metac,0,0,0,0,0,uiwav,melt,0,0,uiwav,melt,0,0
+4,v12,701,"Marine_Warp_Respawn",9072,7664,  0,25,0, 2,0,200,
+2,v12,516,"Green_Switch_Out",6324,7380,    0, 1,2,3,4,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockF256,0,0,0,0,0,uiwav,melt,0,0
+4,v12,702,"Skrall_Warp_Respawn",6448,2512,  0,25,0, 2,1,200,1|2|3|5|6
+4,v12,6,"Marine_Warp_Entry",9072,7664,  0,25,1, 2,0,200,
+6,v12,302,"Elevator_NW_Up",8464,8616,    70,-1,2576,1856,100, 1,0,o_elevator,obj08018,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,301,"Elevator_NW_Down",2272,1776,    80,-1,8272,8672,100, 0,0,o_elevator,Obj08017,0,0,0,0,0,uiwav,warpin,0,0
+5,v12,201,"Sentry1",8768,7952,     1,0,0,1, 0,0,0,0, -1,-1,-400,10, 0,0
+6,v12,303,"Elevator_NE_Up",10784,7512,    60,-1,4592,1024,200, 0,0,o_elevator,obj08018,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,305,"Elevator_SE_Up",4464,4128,    80,-1,10416,10896,100, 0,0,o_elevator,Obj08017,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,306,"Elevator_SE_Down",10624,10904,    60,-1,4160,4112,160, 0,0,o_elevator,obj08018,0,0,0,0,0,uiwav,warpin,0,0
+5,v12,202,"Sentry2",8768,7856,     1,0,0,1, 0,0,0,0, -1,-1,-400,10, 0,0
+5,v12,203,"Sentry3",9376,7856,     1,0,0,1, 0,0,0,0, -1,-1,-400,10, 0,0
+5,v12,204,"Sentry4",9376,7952,     1,0,0,1, 0,0,0,0, -1,-1,-400,10, 0,0
+6,v12,406,"Skrall_NW_Down",1126,422,    60,-1,5776,7376,80, 0,0,o_FloorHoles,BH_hole_ceiling00,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,407,"Skrall_NW_Up",5830,7222,    60,-1,1280,384,60, 0,0,o_FloorHoles,BH_hole_entry_up,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,408,"Skrall_S_Down",2886,4518,    60,-1,9120,11120,80, 0,0,o_FloorHoles,BH_hole_ceiling00,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,409,"Skrall_S_Up",9046,11286,    60,-1,2736,4512,60, 0,0,o_FloorHoles,BH_hole_entry_up,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,410,"Skrall_Hive_Down",6118,2470,    60,-1,3392,2496,80, 0,0,o_FloorHoles,BH_hole_ceiling00,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,411,"Skrall_Hive_Up",3542,2422,    60,-1,6288,2464,80, 0,0,o_FloorHoles,BH_hole_entry_up,0,0,0,0,0,uiwav,warpin,0,0
+2,v12,515,"Green_Switch_In",6324,7492,    0, 1,2,3,4,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,512,"Blue_Switch_Out",6948,7236,    0, 5,14,15,16,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,511,"Blue_Switch_In",7044,7236,    0, 5,14,15,16,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,uiwav,melt,0,0
+1,v12,5,"Blue_Door_1",6992,7232,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,7,"Spawn_Door_1",10336,7536,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,uiwav,melt,0,0,uiwav,melt,0,0
+1,v12,8,"Spawn_Door_2",10336,7568,    -1,-2,2,2, 0,7, doors,Metala,0,0,0,0,0,uiwav,melt,0,0,uiwav,melt,0,0
+1,v12,9,"Spawn_Door_3",10336,7600,    -1,-2,2,2, 0,8, doors,Metala,0,0,0,0,0,uiwav,melt,0,0,uiwav,melt,0,0
+1,v12,10,"Spawn_Door_4",10336,7632,    -1,-2,2,2, 0,9, doors,Metala,0,0,0,0,0,uiwav,melt,0,0,uiwav,melt,0,0
+1,v12,11,"Spawn_Door_5",10336,7664,    -1,-2,2,3, 0,10, doors,Metala,0,0,0,0,0,uiwav,melt,0,0,uiwav,melt,0,0
+2,v12,529,"Spawn_Switch_In",10388,7524,    0, 7,8,9,10,11,0,0,0,0,0,0,0,0,0,0,0, 50,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,530,"Spawn_Switch_Out",10276,7524,    0, 7,8,9,10,11,0,0,0,0,0,0,0,0,0,0,0, 50,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+1,v12,14,"Blue_Door_2",6992,7264,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,15,"Blue_Door_3",6992,7296,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,16,"Blue_Door_4",6992,7328,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,17,"West_Door_1",6464,9248,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,uiwav,melt,0,0,uiwav,melt,0,0
+1,v12,18,"West_Door_2",6464,9280,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,uiwav,melt,0,0,uiwav,melt,0,0
+1,v12,19,"West_Door_3",6464,9312,    -1,-2,2,3, 0,0, doors,Metala,0,0,0,0,0,uiwav,melt,0,0,uiwav,melt,0,0
+1,v12,20,"Airlock_Door_L_1",7392,10368,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,uiwav,melt,0,0
+1,v12,21,"Airlock_Door_L_2",7392,10400,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,uiwav,melt,0,0
+1,v12,22,"Airlock_Door_L_3",7392,10432,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,uiwav,melt,0,0
+1,v12,23,"Airlock_Door_L_4",7392,10464,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,uiwav,melt,0,0
+1,v12,24,"Airlock_Door_L_5",7392,10496,    -1,-2,2,3, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,uiwav,melt,0,0
+1,v12,25,"Airlock_Door_R_1",7728,10368,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,uiwav,melt,0,0
+1,v12,26,"Airlock_Door_R_2",7728,10400,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,uiwav,melt,0,0
+1,v12,27,"Airlock_Door_R_3",7728,10432,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,uiwav,melt,0,0
+1,v12,28,"Airlock_Door_R_4",7728,10464,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,uiwav,melt,0,0
+1,v12,29,"Airlock_Door_R_5",7728,10496,    -1,-2,2,3, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,uiwav,melt,0,0
+1,v12,30,"Room_Door_3_1",10016,10576,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,uiwav,melt,0,0,None,None,0,0
+1,v12,31,"Room_Door_3_2",10016,10608,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,32,"Room_Door_3_3",10016,10640,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,33,"Room_Door_3_4",10016,10672,    -1,-2,2,1, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,34,"Room_Door_4_1",10304,10576,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,35,"Room_Door_4_2",10304,10608,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,36,"Room_Door_4_3",10304,10640,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,37,"Room_Door_4_4",10304,10672,    -1,-2,2,1, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,38,"Room_Door_2_1",10304,8336,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,39,"Room_Door_2_2",10304,8368,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,40,"Room_Door_2_3",10304,8400,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,41,"Room_Door_2_4",10304,8432,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,42,"Room_Door_2_5",10304,8464,    -1,-2,2,3, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,43,"Room_Door_1_1",10016,8336,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,44,"Room_Door_1_2",10016,8368,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,45,"Room_Door_1_3",10016,8400,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,46,"Room_Door_1_4",10016,8432,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,47,"Room_Door_1_5",10016,8464,    -1,-2,2,3, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,48,"Hall_Door_1",10784,8096,    -2,-1,2,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,49,"Hall_Door_2",10816,8096,    -2,-1,2,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,50,"Hall_Door_3",10848,8096,    -2,-1,4,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,51,"Hall_Door_4",10880,8096,    0,-1,2,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,52,"Bathroom_Door_R_1",3344,3296,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,53,"Bathroom_Door_R_2",3344,3328,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,54,"Bathroom_Door_R_3",3344,3360,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,55,"Bathroom_Door_R_4",3344,3392,    -1,-2,2,1, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,56,"Bathroom_Door_L_1",2288,3152,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,57,"Bathroom_Door_L_2",2288,3184,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,58,"Bathroom_Door_L_3",2288,3216,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,59,"Bathroom_Door_L_4",2288,3248,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,60,"Bathroom_Door_L_5",2288,3280,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,61,"Bathroom_Door_L_6",2288,3312,    -1,-2,2,1, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,62,"Bathroom_Door_D_1",2704,3760,    -2,-2,3,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,63,"Bathroom_Door_D_2",2736,3760,    -1,-2,2,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,64,"Bathroom_Door_D_3",2768,3760,    -1,-2,2,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,65,"Bathroom_Door_D_4",2800,3760,    -1,-2,2,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,66,"Bathroom_Door_D_5",2832,3760,    -1,-2,3,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+2,v12,501,"Airlock_Switch_L_In",7444,10356,    0, 20,21,22,23,24,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,502,"Airlock_Switch_L_Out",7332,10356,    0, 20,21,22,23,24,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,503,"Airlock_Switch_R_In",7780,10356,    0, 25,26,27,28,29,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,504,"Airlock_Switch_R_Out",7668,10356,    0, 25,26,27,28,29,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,532,"West_Switch_Out",6516,9236,    0, 17,18,19,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,531,"West_Switch_In",6404,9236,    0, 17,18,19,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,523,"Room_Switch_3_In",10068,10564,    0, 30,31,32,33,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,524,"Room_Switch_3_Out",9956,10564,    0, 30,31,32,33,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,525,"Room_Switch_4_In",10356,10564,    0, 34,35,36,37,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,526,"Room_Switch_4_Out",10244,10564,    0, 34,35,36,37,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,521,"Room_Switch_2_In",10356,8468,    0, 38,39,40,41,42,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockF256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,522,"Room_Switch_2_Out",10244,8468,    0, 38,39,40,41,42,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockD256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,520,"Room_Switch_1_Out",10068,8468,    0, 43,44,45,46,47,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockF256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,519,"Room_Switch_1_In",9956,8468,    0, 43,44,45,46,47,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockD256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,517,"Hall_Switch_In",10884,8052,    0, 48,49,50,51,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockD256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,518,"Hall_Switch_Out",10884,8148,    0, 48,49,50,51,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,510,"Bathroom_Switch_R_Out",3396,3300,    0, 52,53,54,55,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,509,"Bathroom_Switch_R_In",3252,3300,    0, 52,53,54,55,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,508,"Bathroom_Switch_L_Out",2228,3140,    0, 56,57,58,59,60,61,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,507,"Bathroom_Switch_L_In",2340,3140,    0, 56,57,58,59,60,61,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,505,"Bathroom_Switch_D_In",2836,3716,    0, 62,63,64,65,66,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockD256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,506,"Bathroom_Switch_D_Out",2836,3796,    0, 62,63,64,65,66,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,513,"Computer_Switch_In",1284,3060,    0, 90,91,92,93,94,95,96,97,98,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,uiwav,melt,0,0
+1,v12,90,"Computer_Door_1",1232,3056,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,91,"Computer_Door_2",1232,3088,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,92,"Computer_Door_3",1232,3120,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,93,"Computer_Door_4",1232,3152,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,94,"Computer_Door_5",1232,3184,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,95,"Computer_Door_6",1232,3216,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,96,"Computer_Door_7",1232,3248,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,97,"Computer_Door_8",1232,3280,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,98,"Computer_Door_9",1232,3312,    -1,-2,2,2, 0,0, doors,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+2,v12,514,"Computer_Switch_Out",1172,3060,    0, 90,91,92,93,94,95,96,97,98,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+1,v12,12,"Elevator_Door_1",8208,8960,    -2,-1,3,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,13,"Elevator_Door_2",8240,8960,    -1,-1,2,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,67,"Elevator_Door_3",8272,8960,    -1,-1,2,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,68,"Elevator_Door_4",8304,8960,    -1,-1,2,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,69,"Elevator_Door_5",8336,8960,    -1,-1,3,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+2,v12,70,"Elevator_Switch_In",8340,8916,    0, 12,13,67,68,69,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockD256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,71,"Elevator_Switch_Out",8340,9012,    0, 12,13,67,68,69,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+1,v12,72,"Spaceport_Door_1",8208,9856,    -2,-1,3,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,73,"Spaceport_Door_2",8240,9856,    -2,-1,3,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,74,"Spaceport_Door_3",8272,9856,    -2,-1,3,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,75,"Spaceport_Door_4",8304,9856,    -2,-1,3,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,76,"Spaceport_Door_5",8336,9856,    -1,-1,3,2, 0,0, doors,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+2,v12,527,"Spaceport_Switch_In",8340,9908,    0, 72,73,74,75,76,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockB256,0,0,0,0,0,uiwav,melt,0,0
+2,v12,528,"Spaceport_Switch_Out",8340,9812,    0, 72,73,74,75,76,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, 11|12|13|15|16,0, 0,0,0,0,0,0, o_doors,DoorLockD256,0,0,0,0,0,uiwav,melt,0,0
+5,v12,205,"Sentry5",8992,7360,     1,0,0,1, 0,0,0,0, -1,-1,-400,10, 0,0
+5,v12,206,"Sentry6",9136,7360,     1,0,0,1, 0,0,0,0, -1,-1,-400,10, 0,0
+4,v12,705,"Skrall_Warp_Entry",6480,2512,  0,0,1, 2,1,200,1|2|3|5|6
+5,v12,207,"Sentry7",10096,7408,     1,0,0,1, 0,0,0,0, -1,-1,-400,10, 0,0
+5,v12,208,"Sentry8",10160,7888,     1,0,0,1, 0,0,0,0, -1,-1,-400,10, 0,0
+5,v12,209,"Sentry9",10096,7952,     1,0,0,1, 0,0,0,0, -1,-1,-400,10, 0,0
+5,v12,210,"Weapon Dispenser",9072,7568,     1,0,0,1, 0,0,0,0, -1,-1,-401,10, 0,0

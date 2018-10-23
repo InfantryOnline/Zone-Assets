@@ -1,0 +1,8 @@
+v6,1,0,100,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Marine","Classes","","Marines are tough, resourceful, and fearless.",  ,,0,0,0,0,0,0
+v6,5,0,103,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Medic","Classes","","Medics are Marines trained to heal their comrades.",  ,,0,0,0,0,0,0
+v6,6,0,104,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Ripper Gunner","Classes","","Ripper Gunners provide heavy fire support and anti armour capability.",  ,,0,0,0,0,0,0
+v6,7,0,105,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Grenadier","Classes","","Grenadiers provide direct HE fire support.",  ,,0,0,0,0,0,0
+v6,2,0,111,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sniper","Classes","","Marine Snipers typically are used to interdict movement areas and eliminating enemy command units.",  ,,0,0,0,0,0,0
+v6,4,0,102,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sapper","Classes","","Combat Pioneer.",  ,,0,0,0,0,0,0
+v6,3,0,116,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Light Machinegunner","Classes","","Troopers trained to use an LMG.",  ,,0,0,0,0,0,0
+v6,8,0,101,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Squad Leader","Classes","","Squad Leader keeps the unit together.",  ,,0,0,0,0,0,0

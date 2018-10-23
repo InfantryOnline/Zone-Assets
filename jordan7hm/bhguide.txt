@@ -1,0 +1,562 @@
+~B~0Bughunt Guide Version 1.1~B~0
+~B~0By Marine+~B~0
+
+~4~BContents~4~B
+~2
+I ) 	Introduction
+
+II ) 	Bughunt Concepts
+
+III )	Skrall Concepts
+
+IV ) 	Marine Concepts
+
+V )	Skrall Munitions and Tactical Deployment
+
+VI )	Skrall Class Specific Examples and Tutorials
+
+VII)	Marine Class Specific Examples and Tutorials
+
+VIII )	Credits & Revisions
+
+~4~BI) Introduction~4~B
+~2
+This guide was written for those with some prior Infantry experience and 
+will require a basic understanding of Infantry and its concepts. If you wish 
+to seek a generic play guide to infantry please visit the official site 
+http://www.infantryzone/, from which you shall find many a play guide and 
+‘getting started’ help files.
+
+The guide itself is aimed to provide you, the player, with a fundamental 
+base from which to build your Bughunt skills. However, it does offer many a 
+tip and technique which are considered generally above average game play 
+with which to enhance your Bughunt gaming experience.
+
+~4~BII) Bughunt Concepts~4~B
+~2
+There as many original and unique to Infantry concepts in Bughunt. As a 
+player, new or veteran, you should not be put off by this. Taking the time 
+to learn and understand these whilst enjoying yourself in the process will 
+be well worth your time. Your elementary ability to adapt your conventional 
+tactics, strategies and Infantry theories will inevitably determine your 
+success in Bughunt or enjoyment in Bughunt.
+
+Firstly it should be noted that Bughunt offers two experiences to the 
+player, your decision to play either Skrall or Marines will ultimately 
+determine your Bughunt experience. The guide will aim to equip you with a 
+rounded perspective of both races, however it is suggested you read both the 
+Skrall and Marine guides, since knowing your enemy, its tactics and your 
+ability to predict them will become vital.
+
+As a Marine your role is to obtain possession of the Scientific Objective, 
+the raw objective with which the data of your Skrall attackers is contained, 
+and return this Objective to one of several drop points. The successful drop 
+of both Objectives will render the Marines victorious. The Skrall must 
+prevent the Marines from doing so using whatever means nesseccery. It is 
+deemed the Marines have 10 minutes in which to do so before they would 
+become overrun and the Skrall annihilate them, thus the game will restart 
+after 10 minutes should the Marines not be successful in their goal.
+
+The Bughunt style map is unique in that it allows the Skrall race to move in 
+and around the ventilation system (hereby known as ‘Vents’). Whilst this 
+fact remains a race specific point that will be dealt with later in the 
+guide it should be said that regardless of the team you chose to play you 
+should be familiar with your surroundings and concepts which revolve around 
+them.
+
+Taking the time to see which doors allow access to faster routes to safety, 
+which vents will take you to the enemy fastest or potentially allow you to 
+block an escape will most likely save your life, if not a vast amount of 
+time. This is especially important when you only have 10 minutes in which to 
+accomplish your objectives. As Skrall you are not able to open doors, it is 
+considered that the Skrall lack the knowledge of the human computer 
+interfaces hence cannot operate them.
+
+~4~BIII) Skrall Concepts~4~B
+~2
+The below is a very general look at Skrall and some of the fundamental 
+information you should familiarise yourself with before starting play.
+
+The Skrall are both reptile and Arachnid like in appearance, in terms of 
+physical ability they take the best from both. Unlike many other teams in 
+Infantry, the Skrall, as a team, rely heavily on close combat and the use of 
+their claws with which to kill the Marines. What this means specifically is 
+as a Skrall player you will be required to attack at close range. I can 
+already see what your thinking and I don’t blame you - the Marines have big 
+guns and they are aimed in our direction; how are we supposed to get in 
+close and make the kill? But don’t lose faith yet, that is one of the many 
+aspects you shall learn through reading this guide.
+
+To win the Skrall team must stop the Marines from dropping the objectives in 
+the drop zones. There are several ways the Skrall, as a team, can approach 
+doing this. Each and every method has both up and down sides, some will 
+result in a larger loss of life for the Skrall collective, some will take 
+longer and others will be more daring. Most of the choice on which tactic to 
+employ will be down solely to the placement of the Objective (which varies 
+on game start).
+
+As Skrall you have the ability to travel across parts of the map the Marines 
+may not. However you cannot open doors, hence if the door is closed you will 
+have to find another route to your destination. You should familiarise 
+yourself which such shortcuts and routes as they will help in you getting to 
+the Objective before the Marines. This allows you, as a team, to defend the 
+Objective from being captured.
+
+This is the first method of preventing a Marine drop, by effectively camping 
+the Objective and physically preventing the Marines Sarge from capturing it. 
+By hugging close to corners, nearby vents and obstacles you can near enough 
+stop the Marines from advancing; as for a Marine to pass they will have to 
+come into close proximity to you – which no Marine will ever want to be 
+since it allows you the chance to use your claws.
+
+When hidden around a corner or obstacle the Marines will not be able to see 
+you due to the line of sight, you should use and many other areas of stealth 
+to your advantage to surprise and ambush unsuspecting Marines. Those who 
+have played Marines before will most likely know of these locations and 
+hence will be better prepared, but as Skrall any time you can hold back the 
+Marine advance is valuable to the team and resulting worthy of doing.
+
+To reflect the power of the Marine weapons your health as Skrall, depending 
+on your class, is considerably higher than your Marine enemy. Upon death a 
+Marine will drop a ‘heart’, as Skrall you are able to eat this heart to 
+restore any lost HP you may have suffered. The zone is currently configured 
+to automatically pick up hearts, so upon killing a Marine you will 
+automatically receive the heart and accordingly HP will awarded.
+
+~4~BIV) Marine Concepts~4~B
+~2
+As a Marine, or more accurately a human, you possess the ability to wield a 
+larger quantity of Weapons, Items and Objects than your Skrall counterparts. 
+This will provide you with many an advantage, yet take heed to the fact the 
+Skrall are just as cunning in there exploits and will have many a response 
+to your advances. The point being: as a Marine you must expect everything 
+and be prepared to deal with anything.
+
+You must try to keep in mind your objective whilst enjoying your Bughunt 
+experience. That being: the successful drop of both Objectives within the 
+given time frame. As a Marine player your must be aware that to be 
+victorious the Objective must come first, over not only your physical 
+playing decisions but any other subconscious habits you may bring with you 
+from your past Infantry experience. Specifically I’m referring to the 
+apparent need for some players to have a decently positive ratio.
+
+Those who do not abide to the above advice will generally find the team play 
+and feeling of achievement less forthright in Bughunt. To genuinely put your 
+Bughunt experience above none other you should, as both Marines and Skrall, 
+understand that Bughunt revolves around team play as much as it does ones 
+individual ability to blow 8 inch holes out of the advancing Skrall. Now, 
+with the moral message out of the way I hope you feel more equipped to take 
+pride in dieing for the Objective.
+
+There are generally two roles within the Marine team whilst play commences, 
+the first being the sergeant and the second being the Marine bulk force who 
+protect him and the Objective from the Skrall. As playing as any class other 
+than the Sarge you should be with your team as a unit and function as a 
+collective group. Any one player who is not actively involved with the game 
+as a part of the Marine team advancing on the Objective is a wasted Marine 
+and a hindrance to his cause.
+
+Communication is essential; you should be constantly in touch with 
+everything happening around you. You should be using all your senses bar 
+taste, since that’s not really necessary and trying to lick your monitor 
+whilst taking on the most hardcore predators in the galaxy might prove 
+difficult (however now I’ve said that I am sure there are many of you who 
+will not only attempt it, but tell me also). You should have a subconscious 
+awareness of the lines of sight and locations at which you as a team are 
+vulnerable to attack – regardless of whether they affect you as a player or 
+not.
+
+For example: You may well be defending a corner from a Skrall position, 
+however, should your flank fold you will be cut in two and your Sarge killed 
+before you can say Swiss cheese.
+
+In terms of your travelling across the map you have but one advantage over 
+the Skrall, doors. Regardless of the map being used with the Bughunt 
+settings Doors are your leverage. They allow you to close off any one part 
+of the map with a 100% guarantee or security to you and your unit. It would 
+be wise to study the map and understand what routes are best defended via 
+the use of Doors, since if you are carrying the second objective (having 
+dropped the first) you can be sure to say that there are at least 20 blood 
+hungry Skrall in close pursuit.
+
+~4~BV) Skrall Munitions and Tactical Deployment~4~B
+~2
+This section of the guide will aim to tutor you in the use of Skrall 
+weaponry and how best to utilize and the settings around you to aid in the 
+protection of the Objectives. There are certain aspects of the Skrall which 
+remain the same throughout the class system, these are contained in the 
+paragraphs below.
+
+Marines cannot see behind them, they do not have eyes in the back of their 
+heads. Bughunt simulates that the Skrall are one collective being, in that 
+what ones they all see. Call it an unexplainable sense the Skrall have we as 
+humans have not yet discovered. By using your radar and the zoom function 
+you can effectively attack Marines from behind. By using the hyper button 
+your Skrall will almost double in speed making for a speedy attack. Having 
+made the kill it’s important to conceal your position as best as possible, 
+since more Marines may take the same path and allow you to perform the same 
+move.
+
+Several words your certain to hear whilst in Bughunt are that of ‘Skrall 
+Combo’. This is reference to the using of your Claws in a successive manor 
+one after another. The technique can be used with all Skrall except the 
+Arachnomorph. The damage total of all 3 Skrall claws is enough to kill a 
+Marine. However, the speed at which you are capable of doing so will allow 
+you to move onto the next target. The quicker you can do this will allow 
+less time for your being shot at. When multiple targets are together being 
+able to run ‘through’ a Marine and onto the next target will be vital. For 
+this reason your combo buttons must be easy to access and use, allowing for 
+maximum control and accuracy in the guidance of your Skrall.
+
+As a technique the combo will take some getting used to, it is suggested you 
+try several combinations of key setups for your combo, finding the one which 
+best suits your play style and that you feel most comfortable with. As you 
+play and become familiar with your enemy you will develop an eye for seeing 
+opportunities to utilize your claw combo. However, in looking for a combo 
+you should keep in mind your objective in keeping the Objectives in Skrall 
+possession.
+
+To prevent a Marine drop you do not necessarily have to push or risk death 
+to kill them entirely. Each Skrall is provided with a projectile weapon 
+which has (variably) a more extensive range than the claws. For example, the 
+Skrall Electromorph, Warrior and Brute have the ability to fire biological 
+weapons at the Marines. If the projectiles are on target it will be enough 
+to put pressure under the advancing Marines and hold them at bay whilst your 
+team mates can organise a flanking manoeuvre.
+
+~4~BVI) Skrall Specific Class Examples and Tutorials~4~B
+~2
+~BThe Warrior & Electromorph~B
+
+The Warrior and the Electromorph make up the mainstay of the Skrall 
+population. they are generally both well rounded combat machines, able in 
+both offensive and defensive exercises, however, with combined speed and 
+attacking power they are best suited on the front of the attacks where able 
+to sustain enough damage and still perform 100% combat effective.
+
+The warrior is armed with a standard claw set and an acidic spit. The spit 
+itself causes mild damage and will knock its target off course. It is 
+utilized in several scenarios, be it either attack or defence.
+
+In terms of offensive manoeuvres the Spit can be used whilst advancing 
+towards the enemy Marine to knock his aim off course and disrupt / confuse 
+him before you strike. A technique called shadowing is important here as it 
+will confuse the Marine fire in the vital moments before you get into claw 
+range. Shadowing is effectively pretending to go one way by moving your 
+Skrall in one direction, then going overly in the other direction. The 
+Marine, predicting your movement, will have already fired a substantial 
+amount of ammo in the wrong direction. If the Marine is low on health the 
+spit may additionally kill him, allowing you to move quickly onto the next 
+target.
+
+For defensive purposes the Spit can be used to hold advancing Marines back. 
+Simply take refuge behind a wall or corner, strafe out and Spit then move 
+back into cover before the Marines can fire upon you.
+
+The Electromorph is armed with a BioElectric Blaster. Like the Spit it has a 
+decent range and is able to perform both assault tasks as well as defensive. 
+However, unlike the Spit the Blaster will bounce of a wall before exploding. 
+This allows you as the player the opportunity to hit the Marines from 
+alternate angles. You should always make full use of this as it will put 
+fire upon the Marines from more directions making their advance much more 
+difficult. Electromorphs can especially utilize this from the opening of the 
+vents, being able to stand one side and bounce a bioelectric pulse off the 
+opposite wall into oncoming Marines.
+
+~BThe Brute & Rampager - ‘Skrall Heavies’~B
+
+The Brute is the heavy artillery / projectile class of the Skrall world. It 
+is equipped with not only heavy claws by a BioBurst. The BioBurst will expel 
+from the centre of the Skrall 8 electric pulses in all directions. Each 
+blast deals out good damage to any Marine it touches and is capable of 
+bouncing several times off different walls. In the tight corridors and 
+confined spaces of Bughunt this is potentially fatal to large groups of 
+Marines, as dodging the 8 incoming projectiles will prove difficult.
+
+The Brute is best suited to positions where it catches the Marines in 
+confined spaces, causing maximum damage. It would be wise to deploy your 
+brute near the Objective as it guaranteed to attract the Marines as they 
+advance to capture it, leaving them no choice but to follow a path you have 
+complete control of.
+To ensure that you send as many of the BioBurst projectiles in the direction 
+of the Marines as possible use a similar technique to that of the defensive 
+firing of Warrior Spit. Simply move your Brute out of cover into the line of 
+fire of the incoming Marines for a split second, however, this time make 
+sure you are near a wall before firing – this will ensure that all 
+projectiles will bounce in the direction of the Marines whether they go in 
+the direction of the wall or not.
+
+The Brute and Rampager themselves are slower than the Warrior, Electromorph 
+and Arachnomorph so ensure that you displace from a location before the 
+Marines fold in on you or cut you off from a possible escape / place where 
+you can fire upon them for longer.
+
+The Rampagers alternate weapon is the Death Breath. Effectively an acid 
+spray ejected from the Rampagers mouth. It is highly acidic and deadly to 
+Marines; however its range is limited and will require close combat 
+conditions. It is for this reason you must be wise in your choice to attack, 
+as being slow, your Rampager will only have no chance to make a strike. Try 
+to target specific groups of Marines or a Marine of importance to the 
+current situation. There is not a single Marine that can withstand an entire 
+blast of Death Breath, not even the Sarge. If possible you should utilize 
+your ability and target the Sarge at his weakest.
+
+~BThe Arachnomorph~B
+
+One of the more unique Skrall units, as it shares little with is Skrall 
+brothers. It is the most able in both the fields of speed and 
+manoeuvrability. However, rather than being armed with a single combo 
+killing set of claws it is equipped with only 2 claws and a sting. The 
+Arachnomorph sting will stun your enemy for a few seconds, allowing you time 
+enough to slash with the claws a second time killing your target.
+
+However, being faster and smaller, essentially harder to hit and having a 
+stunning ability comes at a price; health. The Arachnomorph is the frailest 
+of the Skrall classes with only 100hp. It will not survive a prolonged fire 
+fight and so it is strongly advised you play the Arachnomorph with the 
+intent to target single Marines, rather than attacking a larger group force. 
+You’ll find most singular Marines moving from the Spawns to the rest of the 
+combat group, it is at this point you should target them. Be sure to use 
+vents and corners from which to launch an ambush.
+
+Secondly the Arachnomorph is equipped with a Slime Trail. This is quite 
+literally a trail of slime deposited by the Arachnomorph which posses both 
+offensive and defensive qualities. Upon stepping in the slime a Marine will 
+find he/she temporarily stunned, unable to move. A good position of use for 
+this weapon is in places where the Marines are likely to be in both contact 
+with your other Skrall members and stuck, being fended off for a long period 
+of time. This is almost always near the objective, so lay trails of slime 
+across the corridor. Remember, the Marines are working against the clock so 
+anytime you can take from them is valuable.
+
+~4~BVII) Marine Class Specific Examples and Tutorials~4~B
+~2
+Unlike the Skrall the Marines class systems and roles differ extensively, 
+each class offers a unique experience and role within the game.
+
+~BThe Marine~B
+
+The Marine is the hardcore backbone of the force, he provides the Marines 
+with a flexible arm with which to extend into the Skrall line. Able to take 
+damage and continue to fight effectively the Marine is a multi role unit, 
+taking up positions across the map as required by the Sarge.
+
+As a Marine you are directly responsible for the advancing movement of the 
+team as a whole, your failure to put pressure upon defending Skrall and gain 
+ground will inevitably lead to the failure of your unit. You should be 
+visually aware of the situation around you; leading your team too far into 
+enemy territory without dealing with the Skrall presence will be fatal.
+
+You will be required to fill gaps, ensuring that the movement of the Unit 
+throughout Bughunt is air tight; holes in the defence of your Sarge are your 
+responsibility. If you are about to take a corner you must ensure that both 
+the rear of the Marine unit is protected, Skrall will be more than ready to 
+take the team unsuspecting with bullet like speed.
+
+Whilst using your assault rifle to eliminate specific targets you should 
+ensure that you switch the shotgun when in close proximity to the Skrall, 
+you cannot afford to miss. The assault rifle will not kill targets at 
+extreme close range. The Combat Knife is the last line of defence, it is all 
+that stands between you and a bugs claws. It should not be used until the 
+shotgun and assault rifle are both out of range. This is important as you 
+want to take off as much HP from the advancing Skrall before he slices you 
+into little pieces.
+
+~BThe Heavy~B
+
+The Heavy’s role in the Marine force differs greatly from that of the Combat 
+Marine. As a Heavy your job is specifically to utilize the staying power of 
+your Assault Cannon in a defensive position. You must learn to take a 
+position from which you can see the maximum number or fire lines, covering 
+as much as your team as possible. You are there to ease the strain of the 
+Marines as they advance by ensuring they need not worry about the flanks 
+folding.
+
+As with the Marine it is essential that you switch between your primary and 
+secondary weapon at the crucial moment, knowing exactly when and when not to 
+employ each offensively towards a Skrall.
+
+The incinerator will cause devastating damage to an advancing Skrall, so 
+ensure you have exhausted your Assault Cannons potential to cause damage 
+before retreating as this will help ease your situation in the face of more 
+than one target. The process of deciding when to run backwards is often 
+crucial and may require some combat practice to get perfect. The incinerator 
+projectile itself will leave a spot of flame on the floor for several 
+seconds; use this to your advantage whilst retreating by trying to force the 
+Skrall into a specific direction or towards a wall. This will limit the 
+Skrall in attack directions and give you better control of the situation.
+
+Be sure to check to your radar for Skrall movement in the distance, as a 
+heavy you will find that if you have a long corridor covered the Skrall will 
+not advance upon you – they will find an alternate route and intersect at 
+another location. Be mindful of this and inform your team of possible 
+contact points.
+
+As a Heavy you will find yourself spending long amounts of time in one 
+location, yet being seemingly busy with Skrall attempting to advance on your 
+location. This will inevitably drain your ammunitions. It is recommended 
+that you try not to burn out your resources unless completely necessary. If 
+you are watching a long corridor allow the Skrall to advance to a point 
+where they cannot turn round before you open fire, this will ensure any 
+ammunition used is not wasted.
+
+~BThe Medic~B
+
+Firstly, when playing medic it is often easy to get carried away, turn Rambo 
+and get killed. Try to focus your attentions on the job in hand, keeping the 
+team alive. Close condition healing occurs most when the team has been 
+brought to a halt by Skrall fortifying their position, allowing them to fire 
+projectiles upon the advancing Marines. This occurs most often at corners or 
+doors. A dead medic is worthless to the Marine force; you must ensure your 
+role as medic is not put to waste by taking unnecessary damage.
+
+Secondly, unlike other medics the bughunt medic may only heal individuals at 
+any one time. This, people argue, greatly increases the time a medic takes 
+to heal groups of wounded men. So for that reason speed is essential, so try 
+to prioritise when healing groups of Marines. To ensure the medkit selects 
+the unit you want to heal you may be required to get closer, or in this case 
+leave the safety of your cover and risk death. It is for this reason I 
+suggest keeping your heal button in an easy to reach and practical location, 
+the clock is ever ticking and every second counts.
+
+When the heal key is pressed you will be presented with a menu, this 
+displays all the wounded units in the vicinity. Note that each unit has a 
+number next to the name. For speed healing simply find the number next to 
+the unit you wish to heal, then press that number on your keyboard. This 
+means you do not have to select the unit on the list with your mouse, 
+keeping both your hands on the keyboard ready for movement and the next 
+heal. This technique is especially useful when dealing with large numbers of 
+casualties.
+
+Alternately to pressing the numbers, say when you have only two units to 
+heal, you may find the mouse more accurate. To heal a unit from the list 
+simply move your mouse over the name and click. This, like using the 
+numbers, will return any amount of damage to 100 Health Points. When 
+mastered, the technique of moving your mouse to keyboard can make for a 
+speedy heal, but may still take valuable time and effort on your behalf. 
+Some users who play with the mouse may prefer to use this technique as they 
+already have their hand on the mouse (rather than going from mouse to 
+keyboard).
+
+When on the move, depending on the quality, speed & style your Sarge is 
+playing, you can adapt your position to suit the flow of combat. For 
+example, when corning the Sarge is most at risk, so you should ensure you’re 
+by his side ready to heal at any moment. Or, if the team is moving down the 
+corridor the Marines at the front will take most damage, so you can leave 
+the Sarge to go heal them. Different Medics will play a different style of 
+game, some prefer to stay out of the action and have the wounded come to 
+them, others support the attacking number of men and others will die for 
+their Sarge. Having followed the above steps you are ready to heal again.
+
+~BThe Scout~B
+
+The Scout is an essential part to any Marine team as through the use of 
+enhanced sensors they have the advantage of being able to see the location 
+of the Skrall around them. This provides not only a chance to see what is 
+there but what is not, in that you need not waste time moving around a vent.
+
+An important feature as playing the Scout is your vocal presence on the 
+team, use macros to inform the team members around you of advancing Skrall, 
+be it through nearby vents or corners, cross roads or the flank of your 
+unit. You are the eyes of the advance and so should be constantly reassuring 
+your Marines that their actions are suitable to the scenario in hand. If you 
+can see something they cannot tell them, it will be invaluable to the 
+success of the mission.
+
+Your primary weapon, the pulse rifle, and your enhanced sensors will require 
+energy to use. If you leave the enhanced sensors on they will use all your 
+energy and you will not be able to fire your weapon. The trick to managing 
+the power is to simply blink the ES on and off. This will give an accurate 
+map reading for about 5-10 seconds. Then simply repeat the process as 
+needed, as before turn it on for 1 second, then off again.
+
+The Pulse Rifle itself will bounce off walls, effectively allowing you to 
+hit targets from an angle which renders yourself covered from attack. 
+Learning the angles of fire will obviously differ depending on the map, 
+however, simply firing your weapon into defending Skrall positions on a 
+general level will limit the movement of the Skrall providing opportunities 
+for your fellow Marines to advance. This also effective against the removing 
+of Skrall from vents, as you can hit the target from a safe distance under 
+the cover of your Marines.
+
+~BThe Sarge~B
+
+The Sarge is the overall leader of the Marines into combat. As Sarge you 
+should posses the ability to take command of your troops and direct them 
+with confidence and assurance in your word. They will look to your for 
+guidance in times of need, hence, as a Sarge your knowledge of the 
+battlefield and all things related to it should be of superior quality. It 
+is for this reason new players to Bughunt are not suggested to take on a 
+leading role as Sarge, rather play in support of an experience Sarge and 
+learn the ropes.
+
+There are many Sarging styles, methods, tips, tricks and rules of combat 
+which should be studied in the search for success. As with all members of 
+the Marine team you should always keep in mind the Objective, you as Sarge 
+are the one directly responsible for it and the direction of your men 
+towards it.
+
+However tempting it may be you are no good to your team dead, stay alive. Be 
+sensible and do not lead Marines into assaults which have low survival 
+ratings. Let the Marines do their jobs and you do yours. As Sarge you will 
+need to keep the shape of the unit together, if you see a hole in the 
+progress of your troops towards the Objective ensure it is filled. Try to 
+keep in the middle of your Force, this will put the maximum amount of 
+players between you and the nearest Skrall.
+
+An important factor of Sarging is that of your summoning ability. You must 
+ensure that your team knows your presence, use macros to ask for assistance 
+and get the players actively involved with the game. Summon your troops upon 
+request to your location, but not at the expensive of staying open to 
+attack. The more men you have at your side the more effective your team will 
+be as a unit. Try and get as many people involved with your capture of the 
+flag as you can.
+
+The direction you take both to and from the Objective is crucial. You are 
+dealing with the constant battle of time, hence, the path you chose should 
+be both as safe and as fast as possible. Ensure you use doors and specific 
+features on a map to your advantage wherever possible. You will find as 
+Sarge that the areas closest to the Objective are where your largest 
+encounters with the Skrall will be. Guess what? They all want you dead. This 
+is especially potent if you have the Objective as you will flash on the 
+radar.
+
+~4~BVIII) Credits & Revisions~4~B
+~2
+Please feel free to contact me concerning any issues raised from the guide, 
+questions or suggestions for future versions you may have.
+
+Email: marine_bh@hotmail.com
+ICQ: 127904267
+
+Alternately please feel free to ?chatadd Bughunt at anytime, much of the 
+active Bughunt community resides there and will be more than happy to answer 
+any questions you may have.
+
+My personal website regarding Bughunt is hosted under the Infantry-Sector 
+Network, please feel free to visit and check out the guides which provide 
+some graphical support as well as the archives of media and other Bughunt 
+related information available:
+
+http://www.infantry-sector.com/bughunt
+
+There is also a Bughunt League commissioned by myself which has successfully 
+completed a Beta Season, workings and scheduling for Season 2 is currently 
+being processed. All information including rules and winners from the Beta 
+Season can be found at:
+
+http://www.infantry-sector.com/bhl
+
+~BVersion 1.1: 23/11/03~B
+
+~BMarine+~B
+~BEchelon Command~B
+
+
+
+
+
+
+
+
+

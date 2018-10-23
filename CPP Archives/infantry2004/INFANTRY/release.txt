@@ -1,0 +1,1826 @@
+~B~1Infantry Release Notes~2~B
+---------------------------------------------------------------------------------------------
+~b~4v1.49	Monday, May 17, 2004~2~B
+	- Added a few security measures
+
+~b~4v1.48	Thursday, February 26, 2004~2~B
+	- Fixed a few issues that were causing people to have trouble logging into servers.
+	- Added a few security measures
+
+~b~4v1.47	Tuesday, August 19, 2003~2~B
+	- Upgraded the communications package.
+	- Fixed a bug that allowed a hack to be used.
+	- Rolled back some changes that were not working as desired.
+
+~b~4v1.46	Tuesday, August 5, 2003~2~B
+	- Upgraded the communications package.
+	- Fixed a few security holes.
+
+~b~4v1.44	Wednesday, May 7, 2003~2~B
+	- Computer Turrets may now be set to allow them to be picked up by players.
+	- ?score_<whatever> may be sent straight to file by adding f:<filename>.
+
+~b~4v1.43	Thursday, April 24, 2003~2~B
+	- Computer turret creation may now be also limited by player, not just team, density, ...  So the designer may decide to only allow a player to place N turrets of a particular type, regardless of team.
+	- Computer turrets may now be chained to other turrets for creation or operation.  This means that in order to build or operate a turret, it may be necessary to have another turret(s) in the area.  (eg: you need to have a "power turret" near a "powered laser turret" in order for it to fire)
+
+~b~4v1.42	Thursday, April 17, 2003~2~B
+	- Computer turrets now use proper radar colors defined for them (defined by the designer) instead of the default red/green.
+	- Leading whitespace is not allowed in menu input boxes.  There was an issue where if a player used <space> to select a menu option and it opened an input dialog, the space would carry through into the input box.  This no longer happens.
+	- Terrain has been modified to allow the designer to set delays the player must wait before quitting, going to spec, or switching arenas.  Going to spec and switching arenas may also be disabled on terrains.
+
+~b~4v1.41	Friday, March 28, 2003~2~B
+	- fixed bug that allowed some cheating (not going to say how...).
+
+~b~4v1.40	Wednesday, March 12, 2003~2~B
+	- Fixed the steal logic so that computer turrets may only be stolen when their hit points are in the red.
+	- Modified the packet loss bans so that the player gets a warning before they get auto-banned due to repeated and excessive packet loss.
+
+~b~4v1.39	Wednesday, February 19, 2003~2~B
+	- Added ability for computer vehicle/turrets to drop items.
+
+~b~4v1.37	Thursday, December 19, 2002~2~B
+	- Added priority for paying subscribers to enter full games.
+
+~b~4v1.35	Tuesday, October 15, 2002~2~B
+	- Added ability for players to not allow themselves to be spec'd in certain zones.
+	- Updated the mark command to allow any character to be set as a mark via the ?mark command.  Usage: "?mark <player>:<mark>"  Example: ?mark Player:X
+	- Squad management has been redesigned.  Players must now be invited to join a squad by the squad admin.
+	- Updated the reward structure in RTS games to adjust the reward based on team inbalance.
+
+~b~4v1.34	Wednesday, September 26, 2002~2~B
+	- Disabled chat macros for guests.
+	- Added ?struct command that lists the number/name of each type on computer vehicle the team owns
+	- Added ?structures command that lists detailed info about each computer vehicle.  Things like Creator name, HP, location,...
+	- enhanced reward structure in RTS games.
+
+~b~4v1.33	Wednesday, September 11, 2002~2~B
+	- Fixed server bug that would cause a crash when a Computer Vehicle was upgraded.
+	- When the client attempts to place a new vehicle, a check is made to ensure it is NOT placed on an area that contains any physics (can't put something on top of a wall...).
+
+~B~4v?~2~B
+	- fixed a few minor bugs
+	- fixed daily history chart to display the last 100 days instead of the oldest 100 days.
+
+~B~4v1.30	Tuesday, November 27, 2001~2~B
+	- added support for simple objective based games (currently very limited, but will be expanded in the future)
+	- fixed bug in computer turret tracking when limited tracking angles are used
+	- fixed bug where computer turrets were not obeying firing radius limitation
+	- enhanced computer turret to not fire at vehicles in situations where the projectile doesn't have the lifetime to reach the target
+	- added support for inverse switches and initial door states
+	- added a fix for a lag-cheat that has been going around.
+	- added a full-arena queing system (will only be used for special events to be explained later)
+
+~B~4v1.29	Wednesday, October 10, 2001~2~B
+	- increased maximum server capacities
+	- added ability to password protect access to zones.
+	- added ability to control flag timer on a terrain basis
+	- fixed bug with long-messages getting corrupted
+	- fixed prize pickup bug that allowed picking up of unqualified prizes
+	- fixed prize auto-pickup problem to prevent multiple requests in rapid succession
+	- fixed bug where projectile trail graphics with rotational points were rendering 180 degrees out of phase (oddly enough, it seems like I had gone out of my way to make it out of phase, for the life of me I can't remember why...the code in question is about 3 years old)
+	- fixed bug where anti-effects were occuring to players in safe zones.
+	- enhanced relativeId system to pick a random anchor point instead of first-found
+	- enhanced ?resources command to show team assets as well (try it in the Rogue Trader zone)
+
+~B~4v1.28	Wednesday, August 29, 2001~2~B
+	- added support for computer turret generated vehicles
+	- added support for utility items adjusting held category limits along with several other utility item enhancements for adjusting other parameters
+	- added support for confirm menus for trading things
+	- added support for dropping items from the players inventory when they die.
+	- added %facing macro that will translate into which direction you are facing (8 directions supported, north/south/east/west and diagonals)
+	- added %heading macro that will translate into which direction you are heading (8 directions supported, north/south/east/west and diagonals)
+	- added ability to not reward players who kill the same player twice in a certain period of time
+	- enhanced multi items to be able to expand child items upon dropping (similar to lio clumping only allows diverse types and can be linked to vehicle deaths, etc)
+	- fixed bug that was causing initial inventory and skill setup not to execute properly
+	- added the ability to get the score chart for the previous game after the next game has already started.  It will only show you scores from the previous game for players who still happen to be online.  Current-game stats are cycled into previous-game stats when the next game starts.  Changing arena's will cause your previous-game stats to be lost.
+	- the command ?score_lastgame has been replaced by ?score_current and ?score_previous
+	- added the ability to get the score chart for everybodies current session.  The current session will represent the total points that player has gotten since they logged in.  These current session stats will be reset at midnight California time.  Only stats that get recorded to your permanent record will appear in the current-session stat chart (for example, in GravBall scores aren't recorded to your permanent record unless there are at least 10 people in the game; likewise, private-arena scores are not kept on your permanent record either).
+	- the command ?score_session has been added.
+
+~B~4v1.27	Friday, August 24, 2001~2~B
+	- added support for progressive weapon energy cost for firing multiple times in a row
+	- improved configurability of point blank prevention code
+	- added the ability to do vehicle-specific radar coloring
+	- added the ability to do prize-clumping (for a future zone)
+	- fixed a few server side bugs
+	- enhanced the way anchored lio's work (for a future zone)
+	- added a new flagging statistic; the number of times you get killed while you are carrying a flag (used in the MVP formula as a penalty as well)
+	- increased the number of zone-profiles that can be stored on the client (so if you visit a lot of different zones you won't lose your key-settings and such)
+	- fixed bug that allowed teams to grow larger than the maximum specified
+	- fixed bug that allowed experience/cash to go negative.
+
+~B~4v1.26	Tuesday, July 24, 2001~2~B
+	- added ability to turn off team line of sight sharing (zone configuration option)
+	- added mvp statistics system for flag games
+	- added jam-timer for when all your weapons have been jammed by the enemy.
+	- due to popular demand, the fire-ticked key has been re-added to the game (DELETE key by default).  You can also now scroll the inventory list using Alt+PgUp and Alt+PgDn.
+	- added a %crownexpire macro which translates into the number of seconds you have left before you crown/medal expires.
+	- enhanced computer turrets to support firing animations
+	- enhanced font manager to allow customized colors (internal use only)
+
+~B~4v1.25	Friday, July 13, 2001~2~B
+	- fixed bug where high-score requests in stand-alone mode were crashing the game server (yikes).
+	- fixed bug in gravball goal detection that was causing people with slow-frame rates to sometimes miss goals that they deserved (goals that just catch the corner of the patch)
+	- increased max typed message length substantially, it will auto-split the message up into the smaller messages as appropriate.  Macro's are still limited to the previous size.  Be careful to avoid the spam-code from kicking you as long messages count as several smaller messages.
+	- added support for taking direct control of computer turrets
+	- added support for grouped inventory limits on a per vehicle basis
+	- added a new advanced-option that allows you to turn of page-flipping on the vertical blanking interval (VBI).  Some users (particularly of GeForce cards) may find that turning this off improves performance significantly.
+	- improved external database interface to allow querying of historical score data by third party programs.
+	- fixed several bugs in the way turret animations and elevations worked.
+	- changed the way team-stats are tracked for GravBall.  Previously at the end of the game the team-stats displayed were the total of the players on the team added up.  Now they are tracked independently so as people leave and change teams, they don't take their contribution to the team-stats with them (so to speak).
+	- added some code support for saves and pinches for GravBall
+
+~B~4v1.24	Wednesday, June 27, 2001~2~B
+	- New scoring system and chart changes
+		- there is now a menu-option for the chat channel chart and the online squad members chart
+		- the chart display has been modified to include row-numbers, chart-title, and help-instructions
+		- you can now get the top 100 scores for any day, week, month, or year
+			- when selecting these charts you will be asked for the date you wish to see the chart for.  You can leave it blank for todays date or specify a specific date.  You can also specify a negative number to represent the previous period (-1=yesterday/last-week/etc)(-2=two-days-ago/two-weeks-ago/etc)
+			- when specifying the week to view, you can specify any day in that particular week.  Weeks run from Sunday through Saturday.  Weeks display themselves as the first day of the week.
+			- looking up dates that don't exist or don't have data will result in a blank chart
+			- these charts are also quickly available through typed commands ?score_top100_year, ?score_top100_month, ?score_top100_week, ?score_top100_day.  You can specify the date as a parameter to the command (ex: ?score_top100_day 2001-06-26)
+		- you can now get a historical track record for any player on a daily, weekly, monthly, or yearly basis
+			- a historical track record is a list of a players score for each period of time for as far back as we are tracking the data.
+			- when selecting these charts you will be asked for the name of the player you wish to see.  Leave this blank to see the chart for yourself.
+			- these charts are also quickly available through typed commands ?score_history_year, ?score_history_month, ?score_history_week, ?score_history_day.  You can specify the player name as a parameter to the command (leaving it blank retrieves the chart for yourself)
+		- historical data will not be kept forever.  We don't know how much data we will keep yet, it depends on how much data there is.  The most likely scenerio is we will delete day-data that is over 30 days old, weekly-data over 52 weeks old, and we should be able to keep monthly and yearly data forever.
+		- we will likely be adding other charting options in the future (in particular, we will likely provide a way to get the historical top player for each period, and a way to get the scores of a particular squad for a selected date.)
+	- when running application in high-priority mode, it will now switch back to normal process priority when the game is not the active application.
+	- disabled the ALT+F4 exit-application key while in the game.
+	- change the precision-adjustment feature of the score-chart to include other factors (num-plus and num-minus while in the score chart doing column ratios).  Instead of simply moving the decimal place, it now has the following multiplier factors: 1,10,60,100,1000,3600,10000,100000.  The value 60 is a useful multiplier if you are using Play-Seconds as the ratio column as it will effectively make the other columns represent per-minute statistics instead of per-second.  Likewise 3600 can be used with the Play-Seconds column to effectively get stats like points/hourPlayed.
+	- possible fix for sound-problem people have been having.
+
+~B~4v1.23	Tuesday, June 26, 2001~2~B
+	- reworked the way scores are tracked internally on the back-end. The effect of this change won't be apparent to users until the next version.
+	- fixed bug where arena-owner commands were being forwarded to everybody (and you thought this was a feature)
+	- fixed problem where left/right shift key was not being distinguised (bug introduced in version 1.22)
+	- further enhanced joystick/gamepad support (mouse configuration menu has been changed to a movement-configuration menu and has other options for configuring joysticks)
+	- fixed problem where gamepad buttons couldn't be assigned to things that were only expected to be assigned to keys (like F3 and F4 for example)
+
+~B~4v1.22	Tuesday, June 19, 2001~2~B (not released to public)
+	- enhanced joystick/gamepad support. This change is going to cause some grief for players who use game controllers. For starters, you will be REQUIRED to have DirectX 8.0 or later installed (this will prevent NT users from using controllers, sorry, we may address this in a later version). Second, you will have to redo all your keyboard settings that were assigned to the controller. The good news is that the game will be able to make better use of the features of your controller.
+	- added support for announcing of prize hiding
+	- added support for having lio entries relative to existing/moving objects in the game
+	- added support for child vehicles having firing animations
+	- I have relaxed one of the lag checks that has been kicking a lot of players, and when it does kick them, it will attempt to send them a message telling them why.
+	- added support for dropping prizes upon death
+	- added support to the graphic engine for non-hsv shifting palette ranges on graphics
+	- fixed bug where you could get stuck in the wall coming back to life
+	- fixed bug that allowed team switches to the winning flag team (improved auto team-assignment algorithm in general)
+	- improved security to help prevent false-alarms (should result in less people getting kicked for no apparent reason)
+
+~B~4v1.21	Monday, June 11, 2001~2~B
+	- added an additional stat which tracks the number of seconds you've actually been in the game recording stats.  (This stat only adds up seconds if you are scoring other stats as well; so if kills aren't being counted for some reason, play-seconds won't be counted either.  Some zones only record stats to your permanent score if there are more than a certain number of people playing).
+	- added additional flagging statistics to some flagging zones as follows:
+		- Flag Wins = number of flag games you have won
+		- Flag Losses = number of flag games you have lost
+		- Carry Time = number of seconds you have carried one or more flags
+		- Carry Time+ = number of 'flag seconds' you have carried flags (if you carrying multiple flags, you get 1 second for each flag carried on this stat)
+		- Flag Captures = number of times you have taken over ownship of a flag for your team
+		- Carry Kills = number of kills you have gotten while carrying a flag
+		- Team Ownage = number of seconds your team has owned one or more flags
+		- Team Ownage+ = number of 'flag seconds' your team has owned flags (if your team owns multiple flags, you get 1 second for each flag owned on this stat)
+	- when in score-chart and doing column ratios (right click column header), you can use NumPad Plus/Minus to move the decimal point (useful for when a ratio stat starts with 0.000xxx)
+	- added a ball-trail length option to the Misc Options menu (previously only available via ?showballtrail)(only applicable to zones with balls -- gravball and bbx)
+	- added the ability to edit messages that you are currently typing. You hit ALT+ENTER to begin message edit-mode.  If you use the ENTER to type messages option, then you are automatically in edit-mode whenever you are entering a message.  The following keystrokes are available in edit-mode:
+		- ~BLEFT / RIGHT~B = move cursor backward/foward 1 character at a time
+		- ~BHOME / END~B = move cursor to beginning/end of message
+		- ~BCTRL+LEFT / CTRL+RIGHT~B = move cursor forward/backward 1 word at a time
+		- ~BBACKSPACE~B = delete character before the cursor
+		- ~BCTRL+BACKSPACE~B = delete everything before the cursor.
+		- ~BDELETE~B = delete character under the cursor
+		- ~BCTRL+DELETE~B = deleted everything under and after the cursor.
+		- ~BESCAPE~B = exit edit mode
+		- ~BENTER~B = send message
+		- ~BUP / DOWN~B = scroll back through previous messages you have typed
+		- ~BCTRL+UP / CTRL+DOWN~B = scroll back through previous messages anybody has typed
+		- ~BCTRL+C / CTRL+INSERT~B = copy current typed line into clipboard
+		- ~BCTRL+V / SHIFT+INSERT~B = paste current clipboard data into cursor position
+	- *history command syntax changed, now it's "*history filter,page"
+	- added ability to prevent manual switching to public teams (attempts to do so will auto-assign you to a public team as-if you had just joined the game)
+	- fixed bug where player-list would not scroll all the way to the top to display team-name.
+	- fixed bug where computer-turrets weren't inheriting team HSV coloring.
+	- made away message not auto-reply to help request (for moderators).
+	- fixed view-adjust for turret-positions
+
+~B~4v1.20	Wednesday, May 23, 2001~2~B
+	- improved vehicle/wall collision physics (made them much more accurate, particularly in relation to diagonal walls)
+	- added moderator logging system whereby moderator commands are logged and can be reviewed by other moderators.  The intent here is to allow moderators to police each others behavior.  To this end, there have been a few changes to facilitate this (these only apply to moderators):
+		- *history command added that will display the last 50 moderator commands that have been issued (note: you will only be able to see moderator commands from mods of the same or lower access level than yourself)
+		- the *history command can take an optional page number (by default it displays page 0), specifying a page number will allow you to display even further back into the history.
+		- using * commands to communicate with other mods is generally discouraged, but fearing that I can't stop it, I have decided to formalize it somewhat.  If you wish to do this, use the * followed by a SPACE, then the message.  This will cause the message to not be logged in the command history and will also cause that a super-moderator issuing the "* message" format will have the message forwarded to all moderators as well instead of only other smods as before.
+		- using **message will cause that a message-entry be posted in the command-history at a moderator-level, regardless of level of player issuing it.  This can be useful for a super-moderator who may want to leave a message for the other moderators in the command-history.
+	- added *teamname arena-owner command that allows arena-owner to set the team-name for public teams (useful for making score display reflect teams actually playing).  Syntax is *teamname team1,team2,team3,etc...
+	- enhanced damage modelling (just gives us more flexibility in how damage is caused)
+	- improved flag-hiding so they are more likely to stay nearby
+	- made dropping flags as unowned (through various techniques) result in flags going back to their previous position (zone setting, may not apply to all zones)
+	- fixed bug that was causing gravball to be given to players who had recently died (I think this is fixed).
+
+~B~4v1.19	Monday, May 14, 2001~2~B
+	- added help-request system.  Users can type ?help followed by their help request and it will be forwarded to any available moderators in the zone.  There is also an F1 help-menu call for help option.  Abuse of help-system is grounds for banning.
+	- added moderator commands for dealing with help.  Commands are: *helplist, *helpclear (sent privately or * to clear all, (**=smod clear all zones)), *helpmonitor, and *helplistall (smod only).
+	- enhanced ball-conflict handling in gravball.  It's a bit complicated to explain, but basically this should prevent those situations where there are huge crowds around the ball and nobody can pick it up because they see everybody else as having grabbed it already.
+	- increased performance of resizing various windows in-game substantially.  Accomplished this by over-blitting the virtual buffer.  Should make using auxillary screens when in transparent windows mode and doing things like hitting F4 much smoother.
+	- added *setscore command that sets the current score for a GravBall game, you specify the score of all teams in-order (ex: *setscore 5,4)
+	- enhanced *timer command to let seconds be specified, format is mm:ss
+	- added support for winning-streak based team scrambles
+	- added ?breakdown command that will give you a mid-game breakdown (only in game types that have game-breakdown information, GravBall and TDM currently)
+	- added *endgame mod command to terminate games without restarting next game automatically
+	- added support for nested configuration files (users won't see anything different, but it will make it easier for us to manage the configurations and share settings between zones)
+	- added ability to link turrets to particular flag ownership
+	- added support for other types of flag games.
+
+~B~4v1.18	Tuesday, May 8, 2001~2~B
+	- added a new message option to auto-convert all upper-case messages into lower case
+	- made anti-spamming code smarter, so it identifies people spamming better and kicks them
+	- made stationary projectiles do physics checks (fixes mines in wall bug)
+	- added support for accessibility rules for damage (effectively allows us to prevent damage from going through walls)(not currently used)
+	- enhanced it to show teleport beacons on radar (for self only).
+	- fixed bug that prevented mapping of combination keys in-game.
+	- fixed bug where projectile items weren't getting properly destructed
+	- fixed bug that allowed warping to dead players previous location
+	- made it so cloaked players appear cloaked to themselves
+	- fixed rendering bugs related to certain vehicles
+
+~B~4v1.17	Thursday, May 3, 2001~2~B
+	- added support for elevation-adjusted weapons on dependent vehicles (only applicable to vehicles designed to use it (currently none), use up/down arrow keys (forward/backward keys) while in a secondary vehicle positions to adjust firing elevation)
+	- new clock sync mechanism fixed a lot of problems, but also created some new problems for a few people.  To solve this, I am letting the user select which clock method they wish under advanced options.  Leave this setting alone unless you start getting kicked to spectator mode for clock problems.  If that happens, try turning the alternate timing mechanism on and see if that solves your problem.
+	- fixed various cloaking related bugs.  Multiman vehicles cloak-status is now tied completely to the driver position, if driver is cloaked, everybody else is cloaked.  However, any vehicle position firing will disable the drivers cloak.
+	- fixed bug where dragging player-list scroll bar when it disappeared would cause a crash.
+	- fixed team-coloring for dependent vehicles
+	- increased how agressively the client attempts to synchronize clocks (trying to combat some bad-sync problems some people have been having)
+	- got rid of ?ping/?packetloss commands (was redundant -- use ?lag instead as it gives you both numbers)
+	- changed clock sync mechanism.  I am hoping this will solve some of the clock problems that have been sending people to spectator mode and may reduce the appearance of lag substantially in some cases as the prediction code will be able to be much more accurate.
+	- fixed roll effect for unowned vehicles
+	- added ability to set default hsv values for unowned vehicles
+	- fixed bug that was causing a lot of players to crash when trying to login.
+	- fixed bug where when you hit ctrl to spectate a particular player it would sometimes advance to the next player on the list.
+	- fixed health gauge display when in spectator mode
+	- hopefully fixed bug that was causing people to get stuck in closing doors once in a while.
+	- fixed bug that was causing weapon-key and inventory-counts to disappear when mouse was over the player list area.•
+
+~B~4v1.16	Saturday, April 28, 2001~2~B
+	- had server reset ping stat tracking on arena entry to prevent downloading from starting you out with a bad ping stat.
+	- fixed bug that was causing bullets to occassionally go through enemy when fired point-blank
+	- fixed a serious bug in the prediction code that was causing vehicle positions to appear quite a ways off.  I think you will notice the improvement.
+	- added in-game keyboard reconfiguration.  Keys can now be changed on the fly under Options/Keyboard Config.
+	- made servers try even harder to find a good spot to place flags (hopefully this solve the problem of flags appearing at 0,0)
+	- added an auto-log messages feature.  You have to turn this on from the Options dialog box at the zone-selection screen.  This will automatically log every message for your sessions under a file called "MessageYYYY-MM-DD.LOG" for each day.  If you login multiple times per day, messages will simply be appended.  All messages for the current session are logged under the day that the session started, so if you change days mid-session it does NOT change log files.
+	- changed the format of the message logs to be tab-delimited instead of that screwy format it was.  This should make importing logs into other programs much easier; however, it will make reading them plain-text a little bit harder.
+	- improved smart-proximity sensor to more accurately determine if it is really as close to the enemy as it is going to get.
+	- more improvements to prediction code, should make vehicles that are reversing thrust and rapidly changing direction appear less laggy
+
+~B~4v1.15	Wednesday, April 25, 2001~2~B
+	- added option to disable displaying of your own personal name/banner next to your vehicle
+	- added option to disable displaying of aiming-tick line (under Graphic Options)
+	- fixed bug that allowed joining of a flag team that was about to win the game.
+	- hopefully fixed bug where flags were sometimes not getting hidden next to where they were dropped in some zones.
+	- made F2 toggle player-list to previous setting OR if there was no previous setting, it toggles the player-list off-screen.
+	- made scrolling the player-list-box auto open it up for viewing (when player list is in closed mode), then auto-reclose it.
+	- fixed the shaking-vehicle problem when in spectator mode (really this time :)
+	- improved prediction code (nothing major, shouldn't really be noticeable, though technically it will operate better)
+	- added the ability to do transparent messages.  Right-click on message-area and select option to turn this feature on/off, or it can be set in ESC/Options/Message Options screen.  I'm not sure this feature is going to work very well in Infantry.
+	- added the ability to do transparent player-list.  This actually looks a bit daft in Infantry, but it's one of those features that came for free when we enhanced the engine to do it for Cosmic Rift.  I originally disabled it in Infantry, but then decided that it was useful (even if ugly).  Maybe someday we will fixup the graphics so it doesn't look so bad.
+	- added ability to prevent team switching to winning team during flag victory countdown.
+	- added death respawn timer
+	- made vehicles inherit speed and direction of target when team attaching
+	- added crude copy/paste ability.  Right-click on the message area for a list of copy/paste options.
+	- fixed bug where weapons that required you hold still were malfunctioning.
+
+~B~4v1.14	Saturday, April 21, 2001~2~B
+	- added auto-spec flagger for flagging zones.  Hit the Bomb key (TAB) to cycle through flags that are being carried.  When player loses flags, another player carrying them will automatically be selected.
+	- added the ability to sort player list by team (made it the default mode, if you like the old method better, then right-click on player list and select the Sort by Name option)
+	- display carried-flag counts next to player-list
+	- fixed bug where fire delay wasn't properly being imposed on items requiring server authorization
+	- fixed up display of flaggers on radar to be more clear
+	- made utility devices turn off upon death.
+	- made utility devices not subject to full fire delays imposed by other weapons.
+	- bug fixes
+
+~B~4v1.13	Thursday, April 19, 2001~2~B
+	- added option to display energy bar at top or bottom of screen.
+	- added %flagcount macro to display how many flags you are currently carrying
+	- added %flagger macro to display the name of the closest enemy player carrying flags that is visible to you
+	- added %flagdrop macro to display how long before you will drop any flags you are carrying
+	- added product name to chat and squad charts
+	- added ?online command to display the total player counts for all zones
+	- enhanced ?find command to specify a product name
+	- fully switched over to station patching system (this will cause updates to occur through our distributed patching-server network and allow people with high bandwidth connections to get MUCH faster updates.  The downside is that it means when we make changes to the game, it will take a bit longer for zones to come back up.
+	- added support for jackpot based flag reward system.
+	- added flag status display option for flag games.
+	- fixed bug where energy was being drained when warp was being denied (for various reasons)
+	- added misc support for flagging game.
+	- put in ability to prevent skill-selection unless player has a certain energy level
+	- enhanced engine to allow event strings to set energy level (setenergy)
+	- added option to have flags auto-pickup when touched.
+	- prevented summoning and warping from occuring to players who were in safe zones
+	- fixed bug where flag carry timers weren't getting reset properly
+	- enhanced roll mode option to allow you to turn vehicle-roll effect completely off.
+
+~B~4v1.12	(never released publicly)~2~B
+	- fixed flickering bug with doors as they are closing
+
+~B~4v1.11	Sunday, April 15, 2001~2~B
+	- fixed bug that was making server freak out spamming people when database went offline.
+	- added support for updating using the station-patching system
+	- slight change to the packetting model that should result in more consistency between clients when vehicles are bouncing off of walls (will only be noticeable in very rare circumstances)
+	- put in a smarter default resolution picking scheme.  This may result in your default game-play resolution increasing.  If this causes your machine to run too slow, manually set it back to the lower resolution.
+	- fixed bug where you could cause the vehicle you were getting into to warp back to base at full health.
+	- put in weapon-fire delay after unsuccessfully warping/laying-portal due to an anti-warp in effect.
+	- added the ability for the server to seemless change a players vehicle without causing player to lose momentum
+	- fixed bug with getting stuck in doors occassionally
+	- made option for quick skill selection automatically enter you into the game if you were a spectator.
+	- added user option to control whether vehicles that roll visually do so when drifting sideways or only when they are thrusting.
+
+~B~4v1.10	Monday, April 2, 2001~2~B
+	- added the ability to change the key-mappings for keyboard macro keys.  This involved several changes that may affect you, but can be easily corrected.
+		- In order to allow players to change the extended macro keys (normally only accessible if right/left shift distinguishing is turned on), the default key assignments for extended macro keys needed to be changed from Right-Shift-F* into something else (this is because unlike before, the extended macro-keys needed to be active even when right/left shift distinguishing was not enabled).
+		- The new keys for extended macros are now Alt-A through Alt-L.
+		- Because the new keys for the extended macros may conflict with your current settings (if you used Alt-letters for something else), then you may need to go to the Keyboard Configuration screen (from the zone-selection screen) and change key assignments as appropriate.
+		- In order to have extended macro's work on the Right-Shift-F* key as before, you will need to reprogram the main macro-keys to be Left-Shift-F* keys (instead of simply Shift-F* keys).
+	- added option to turn on/off weapon trails (may give better performance on some machines when off)
+	- implemented a high score chart caching system.  The high-score chart will be blank for the first 2 minutes that a server is running, but after that retrieving the high-score chart will be nearly instant.
+	- modified weapon firing timing to prevent accidental firing of other weapons (due to sub-set keystrokes being down) when the weapon trying to be fired failed for some reason.
+	- added the ability for the user to specify the level at which they want their current-energy left to start being displayed next to their name (under Misc. Options)
+	- added support for gravity projectiles (not used yet)
+	- fixed misc display bugs
+	- enhanced configuration options for repels
+	- added ability for a weapon to specify the maximum fire delay that can be imposed on it by another weapon (allowing for weapons that aren't subject to fire-delays caused by other weapons).
+	- added F1 for help.
+
+~B~4v1.09	Thursday, March 29, 2001~2~B
+	- put in the ability to configure repel devices to continue repelling weapons for an extended period of time after the initial effect.
+	- got rid of the concept of a highlighted list and changed the PgUp/PgDn keystrokes to always scroll the player list.  There will be no keystroke method to scroll the inventory list.
+	- in conjunction with the above change, we have gotten rid of the Toggle List key and the Use Inventory keys.  Inventory items must be assigned a keystroke in order to be used.
+	- The keyboard configuration screen has been reorganized as appropriate for the above changes.
+	- fixed directional projectiles to change their orientation when outside forces effect their travel direction
+	- added user-options to control parallaxing effects (not in all zones)
+	- added support for removing unused columns from score-chart and re-labelling of columns per zone
+	- added support for trickle terrain kills when using energy only damage model
+	- fixed bug in graphic manager that caused crashes on new style level formats
+
+~B~4v1.08	Thursday, March 15, 2001~2~B
+	- added branding watermark ability (to be used shortly)
+	- added the ability for projectiles to hsv adjust relative to team colorings
+	- put in ability to completely disable store and skill screens from existing (so zones like GravBall won't have a Store or Skill selection screen at all)
+	- enhanced alternate skill selection screen (not used currently)
+	- fixed infinite recursion bug with multi-link projectiles
+	- added ?mousemove command to toggle whether you use the mouse for vehicle movement or not while in the game (same as the game option in the Options dialog box).
+	- added support on the backend for product tracking (not currently used)
+	- enhanced flags to be able to prevent carrying them on certain terrain types.
+	- added ?savehistory command that saves the current message history out to a file.  You can optionally specify a filename (ex. ?savehistory mymatch.log)
+	- added directory support for multiple products (not used currently)
+	- fixed bug with damage-over-time weapons
+
+~B~4v1.07	Monday, March 12, 2001~2~B
+	- improved database server performance
+	- added ?chatadd and ?chatdrop command.  These commands add or drop a specific chat channel from your channel list.  (Ex: ?chatadd mychat).  New channels are appended on the end.  When a middle-channel is dropped, all channels after it are renumbered down appropriately.
+	- fixed chat entering/leaving messages such that leaving messages occur when a player leaves a chat and not just when they leave the game.  Also preventing entering messages from being sent multiple times when the user rejoined a chat they were already on.  So in other words, entering/leaving messages will now accurately reflect when people enter and leave the chat channel.
+	- increased the number of chat channels to 9.
+	- enhanced parallaxing effect options (not currently used)
+	- added an option to display both styles of coordinates on radar at the same time.
+	- reworked menu-screen to auto-scale to available window space and added scrolling support for long menu lists (this means the arena-list is no longer multiple pages, but instead is one long menu that scrolls)
+	- added team selection list to make joining a team easier.  This can be accessed via the menu system or by typing ?team.
+
+~B~4v1.06	Monday, February 26, 2001~2~B
+	- added new %exact message macro that substitutes your current exact map position
+	- added new option (under Graphics Options) to change how map-coordinates are displayed on the radar.
+	- added *flags command that lists all flag locations for moderators (or Arena owners if properly configured)
+	- zone-list now sorted alphabetically by default
+	- changed code to give zone-designer more control of end-game/start-game order of events (GravBall uses this to scramble teams 20 seconds before next game starts and to reset bikes at end of game instead of start of game, meaning you can prize-up during the stall period between games)
+	- changed F4 mode so that it returns the player-list area to it's previous side when turned off.
+	- fixed bug where zone-specific macros were not saving correctly in certain very odd circumstances
+	- put in the ability to configure asynchronous weapon reloading.  Also added the ability to control partial reloads in both synchronous and asynchronous modes.
+	- got rid of option to preload bongs (they are always preloaded now)
+	- extracted user interface elements from code into configuration files (will effectively allow us to re-skin the user-interface (to some degree) from zone to zone.
+	- screen shake explosion effect added
+	- added support for parallaxing effects
+	- put a slight weapon fire delay in after you press enter to send a message (when in enter-to-type mode) to prevent accidental firing of weapons assigned to letter keys
+	- fixed bug where man appears black sometimes when exiting spectator mode
+	- fixed bug where it crashes when executing portal in drop ship
+	- added game-time to end of game statistics
+	- added final-jackpot display to end of game
+	- added built-in support for our ping-route utility.  This utility analyzes the route from your machine to our server to help identify where problems may be occurring.  You can access it through the File menu at the connection screen and it will trace the server for the currently highlighted zone.  It can also be accessed by running PingRoute from the Infantry installation directory.
+
+~B~4v1.05	Friday, February 16, 2001~2~B
+	- added a jackpot reward system.  Currently used in GravBall, will eventually be used in other zones as the basis for end-game rewards.
+	- added option for alternate skill selection screen (not currently used...for a future zone).
+	- warning message added when players attempt to fire weapons in safe areas.
+	- fixed banner-display bug to left of player-list
+	- added a special resize-cursor so you can identify where to grab player-list area to shrink it (left/right)
+	- made the player-list and inventory list area resizeable.  Simply grab the left edge of the list area and drag it.  The F2 key which used to switch between player-list and inventory-list will now toggle the list area from full-size to previous-size in much the same way F4 does for the message area.  ALT-F2 is a new keystroke that will do what F2 previously did.
+	- make player-ignore also ignore banners sent from that player.  Also put in code to prevent rapid-sending of banners to players.
+	- changed some internal protocols to reduce the number of physical packets being sent
+
+~B~4v1.04	Monday, February 5, 2001~2~B
+	- modified security levels required for various commands, I will brief moderators on details later
+	- added support for vehicle specific line-of-sight settings
+	- added support for sharing kills amongst everybody in the vehicle
+	- reworked the way uniform-colors are handled to reduce packet traffic
+	- under message-options there is now an option to have the game play a beep-sound when private-messages come in. (can be toggled with ?alarm too)
+	- under message-options there is now an option to have the message-type displayed.  This will place a little P next to private message and a T next to team message, etc...
+	- miscellaneous enhancements to the way security violations are handled.  Moderators will now be notified of certain types of violations.
+
+~B~4v1.03	Thursday, February 1, 2001~2~B
+	- improved security checks for new cheats that have been released. If you attempt to cheat, you will be banned.
+	- added more sound-options
+	- added support for portals having a gravitational pull/push effect
+	- added support for default placement into pre-named arenas
+	- fixed bug in arena list menu where escape was not working.
+	- added support for pre-named arenas with qualifications
+		- note: these pre-named arenas are just like other public arenas, they keep score on your permanent record and they do NOT have an arena-owner like private arena.
+	- added paging support for the arena menu (can handle more arenas now)
+	- prevented multiple outstanding squad list commands (these commands take a while to execute, be patient)
+	- improved statistics for tracking server performance (like you guys wanted to know that)
+
+~B~4v1.02	Friday, January 26, 2001~2~B
+	- added ?mark/?marksave command.  This operates identical to ?ignore, only marked players are specially sorted and highlighted in the player list, on radar, and in chat. You can right-click on their name on the player-list to mark them as well.  This feature has many uses, from sub-team management, to identifying key players (medics for example), to how I use it in GravBall -- to identify players I need to 'worry' about.
+	- added ?ignoresave command.  This command will save your current ignore-list permanently to be loaded each time you enter the game (saved under the ignore.tx0 for profile #1).
+	- squad owner is now displayed with a prefix of (owner) instead of an * in the ?squadlist command.
+	- moderator *kill/*block command enhanced to allow specifying a reason for logging purposes (syntax: *kill 60,kept running ball wrong direction in gravball).
+	- gave zone-designers a lot more control over flag-visibility
+	- enhanced rendering engine to support on the fly light flattening (just an optimization that will enhance rendering performance in certain circumstances)
+
+~B~4v1.01	Monday, January 22, 2001~2~B
+	- added ?squadrename command.  Type "?squadrename newSquadName" to rename your squad (must be squad owner)
+	- added ?squadlist command.  This will give a list of everybody who is on the specified squad (online or offline).  If no squad is specified, your own squad is assumed. Squad-owner will be designated with an * next to their name.
+	- added ?squaddissolve command.  This will kick everybody off the squad you are currently on including you (assuming you are the owner of the squad) and completely delete the squad from the database.
+	- added more diagnostic code to better identify the cause of ping spikes
+	- added a banner browse feature to the banner editor, simply click on the Refresh Banner List button and it will display the images of all banners saved in your Infantry directory.  Click on one of the images to load it into the editor.
+	- added the ability for a zone-designer to make players earn their banners (thank yankee for this one, hehe)
+	- extended player-list/inventory-list display information (such as banners) is now being clipped to the main game field (will not overlap the message area when in F4 mode).
+	- F4 expanded message mode now shrinks radar to smallest size allowing for more room to display messages and largely eliminating the ugly gray-box problem.
+	- changed ?loadmacro and ?savemacro to auto append the appropriate filename extention for the profile you are currently using.
+	- bug where it was not asking you to save a banner that was sent to you from a friend fixed.
+
+~B~4v1.00	Tuesday, January 16, 2001~2~B
+	- version 1.00 does not mean we are going to quit working on the game, it's simply the next number in line.  We have no plans to charge for Infantry at the moment either.
+	- added settings profiles.  From the main menu you can select from one of six complete settings profiles.  Each profile keeps track of all possible settings for the game seperately, including keyboard settings, advanced settings, in-game settings, and zone-specific settings.  The introduction of this feature may cause a few minor problems, like some settings getting lost and having to be redone.  This new version will automatically copy your current settings into profile #1 on startup and that will be your default profile.  Changing to another profile will start you with a fresh-slate of settings as if you first installed the game.  This feature is useful if multiple people use the same machine and prefer different settings.
+	- There are also menu options to copy other profiles.  Copying profiles does not copy message-macros, which will be named *.mc0 for profile #1 etc....simply copy those files by hand and rename them appropriately if you wish to have message macros copied as well.
+	- added player made banners.  This is a major new feature and there are changes all over the place to reflect it.  Changes and usage are as follows:
+		- Banners should be kept in good-taste; we have the ability to block banner priviledges for accounts. If you are found abusing the priviledge, it will be taken away from you.
+		- Banners are kept track of by the server on a per-alias/per-zone basis.
+		- Banners are 18 x 12 pixels in size and the color black is transparent.
+		- You edit your banner by going to the Game-Functions/Edit-Banner menu option in-game.
+		- Setting your banner all-black makes it such that you have no banner.
+		- Upon entry into a zone, banners for other players are slowly trickle downloaded while you play...it can take a while as we don't want it adversely effecting game play.
+		- The client caches downloaded banners persistently between sessions to avoid downloading the same banner twice if possible.
+		- The size of the cache is specified in the Advanced Options dialog box and defaults to 500 banners cached.  Setting this number larger will make for less downloading of banners potentially, but will require more memory to operate.  Additionally, cached banners are loaded and saved upon startup/exit of the infantry client, so setting this to a large number will result in infantry loading/exiting slower.  Cached banners use about 500 bytes of memory each.  I recommend leaving this number alone, as the LRU scheme should make downloads minimal with 500 cached.
+		- You can import banners from .bmp files.  The files must be 24-bit .bmp files that are 18x12 in size.
+		- You can export banners to .bmp files.  The created files will be 24-bit .bmp files.
+		- When importing or exporting, files should be placed in the infantry directory; or, you can specify a full-path to the file when asked to enter the filename.
+		- From the banner-edit screen you can send banners to other players who are online in the same arena as you.  To do this, highlight the players name on the player-list and hit the Send-to-friend button.
+		- When sending banners to others, the player receiving the banner must also be in banner-edit mode, and will be asked to confirm that they wish to receive it.  This feature is seemless enough that it can be effectively used for joint-editing the same banner.
+		- Because the game operates in a 16-bit color mode, some color information will be lost from imported .bmp files.  If you prepare your banner in an outside application and want to ensure it looks identical in-game to what you have created, you should posterize your image to 5-bits or 32-colors.
+		- Holding your mouse over a player name on the player list will show a 2x magnified version of that player's banner (if it has arrived at your machine yet).
+		- Player banners appear to the left of the player-name on the game-field.  There is an option under Graphic-Options to turn off this display.  If displaying is turned off, additional banners will not be downloaded either.
+		- The banner-editor has a color-chart to the left and the banner being edited to the right.  You can select a color from the chart with either the left or right mouse button, and then place that color on the edited banner with the same mouse-button.
+		- The color-chart to the left is an HSV model, after picking the basic color from the large square box, you can pick the intensity of that color with the vertical bars to the left or right (for left/right mouse button).
+		- The color currently assigned to the left and right mouse buttons is displayed along the bottom of the color-chart.
+		- Along the top of the color-chart are pre-defined quick-colors, just click on them with the mouse-button to assign them.  Included in this chart is a very-near-black that is not transparent and the tranparent (clear) color.
+		- The RGB values displayed for colors are posterized to 32 colors to more accurately reflect the actual value you are getting visually on your screen.
+		- Because of the posterization issues, in order to prevent near-black pixels on imported bitmaps from becoming transparent inadvertently, you need to realize that the darkest black that won't go transparent on import is R/G/B = 8/8/8.  Again, posterizing your image in your paint program will make the final result you will get in-game clear.
+		- You can set the left/right mouse button the an existing color on the banner being editing by SHIFT-clicking on that color.
+		- When you exit banner-editing mode, if something has changed, you will be asked if you wish to save it.
+		- Only the driver of a vehicle will have their banner displayed (to prevent overlapping banners as they are larger than the text in most cases).
+
+	- ever tried to fire the gravball while still holding down the jump key or having barely let go of it (inadvertantly perhaps)? you may notice that then even after letting go of the jump-key the ball won't fire.  It's a complicated bug dealing with the safety-feature that was put in to prevent accidental ball throwing when weapons (like repel (shift-ctrl)) mis-fire.  Anyways, I have managed to make the safety code a little smarter, so hopefully no more balls will get stuck in your hands.
+	- fixed bug where flag games always started with all possible flags, even though configuration specified for flags to randomly appear at start.
+	- fixed sorting problem on chart screen (when trying to sort by name when columns were scrolled to the left)
+	- changed ?showballtrail to take a number specifying trail length (0 to 1000), set to zero to turn completely off.
+	- added support for projectile triggered event strings
+	- added support for projectiles on radar
+	- added support for projectiles routing to friendly players only (useful for a waypoint system)
+	- added a semi-secret ?showballtrail, only useful in GravBall, but it's kind of cool, thinking it may make the game easier for those who are cursed to play at low resolutions.
+
+~B~4v0.99	Monday, January 8, 2001~2~B
+	- put a small tolerance on the mouse cursor appearing to prevent the mouse-cursor from appearing due to desk vibration and preventing auto-pickup of prizes via keyboard.
+	- implemented more agressive lag checking.  If you have a temporary spike in your connection, you are now very likely to be sent to spectator mode until it clears up (usually within 20 seconds if the spike was a temporary event)
+	- which ball is being spectated in gravball is now randomly selected (when first entering spectator mode and there is more than one ball in play)
+	- parameterized the gravball mvp formula (tweaked it slightly while at it)
+	- changed it to make squad names follow the same naming rules as player names.  This means no multiple-spaces in squad names, no commas, etc...  If this new rule screws up your squad, you will have to pick a new squad name.
+	- fixed some formatting/clipping problems with score chart.
+	- fixed chart-exporting bug
+	- increased client timeout period for login replys.  Turns out that the Unknown Login Failure was caused when the client didn't wait long enough for a reply, everything had been going fine, the server was just highly loaded due to a recent dump of a lot of players.
+	- improved pool handling on the database server (should prevent one server overloaded with logout requests from a dump from adversely effecting other servers -- as occurs when a zone with a large population is recycled)
+	- changed permission list management stuff for moderators, new commands are now *permitadd, *permitremove, and *permitlist.  Added the ability to have spec-only based permission lists.
+	- fixed database server problems that was causing unknown login failures.
+	- increased performance of top-100 scores query (I think)
+	- added ?chatchart command (displays a chart of everybody on your chat channels and where they are located)
+	- added ?squadchart command (displays a list of everybody on your squad and where they are located, you can also specify a squad name specificly like: ?squadchart Regulators)
+	- fixed reverse sorting problem when charts are first displayed
+	- added ?playerchart command that lists the vehicle/class player is currently operating as well as their experience, rank, and cash.
+	- changed the main menu Scores option to Charts and had it include the two new types of charts we have added.
+	- added the ability to highlight like-values in charts.  If you left-click on a particular value in a particular column, all rows in the table with that same value highlight purple.  Clicking on it again turns it off.  For an example, click on somebody elses squad-name for an example (other than your own squad).
+
+~B~4v0.98	Tuesday, January 2, 2001~2~B
+	- added ?lagchart command.  This command will display a chart of everybodies lag (a --- means the server has yet to determine it)
+	- added chat-channel setup to outside game options dialog box.
+	- better name-tag placement
+	- enhanced ?ignore command so you can send it as a private message to the person you wish to ignore (useful for quick-replying privately to somebody to ignore them)
+	- fixed bug where it says you have too high of ping upon initial entry into zone.
+	- fixed some bugs related to warping
+	- improved ping statistics (particularly when looking at other player ping-stats with ?info)
+	- ?summon command changed from an on/off toggle to a named list.  You can ignore summons from specific people, for ex: '?summon BagMan'.  You can use '?summon *' to turn off all summoning.  Typing a name a second time will remove it from the list.  You are allowed to ignore only up to 8 people.
+	- enhanced ?buy command to allow you to specify the final-quantity of an item you wish to have after the purchase.  You preceed the quantity number with a # symbol and the number will represent the final quantity you want.  For example, if I have 2 grenades in inventory already and I want to have 8, then I could go "?buy grenade:#8", which would effectively purchase 6 more grenades.
+
+~B~4v0.97	Wednesday, December 6, 2000~2~B
+	- fixed bug where a failed login from a ?zonelist change left you without a user interface.
+	- fixed bug where area-repair medikits don't work on players inside vehicles (at least I think I fixed it)
+	- added the ability to have trickle damage weapons and friendly-weapons that issue repairs
+	- added the ability to have weapon-misfiring.
+	- fixed getting stuck in doors bug (it now warps you away from the door if you are in the way when it closes)
+	- fixed display bug in score chart when displaying ratios
+	- bandwidth usage optimizations (it's a tough problem, optimizations tend to work both ways in that they tend to be more aggressive about only sending critical data, which may mean that updates are less frequent and hence positions are more out-of-date, thus increasing the perception of lag; however, the reduced bandwidth also speeds up deliver of the more critical packets, particularly to modem users, which in turn reduces the amount of lag)
+	- modified sound-volume to be internal to infantry only (ie. adjusting volume of game-sounds will not adjust other wave-volumes in your system)
+	- if you are the owner of a squad, you no longer need to know the squad password in order to join it (any password specified will be successful)
+	- added a ?zonelist command (give it a try).  It's also available under the Game Functions menu.
+	- fixed a couple misc bugs in server code
+
+~B~4v0.96	Wednesday, November 15, 2000~2~B
+	- zone-list auto refreshes in the background the first time the application is started.
+	- fixed bug whereby store would let you purchase upgrade items when you did not have the original item that they were designed to upgrade in your inventory.
+	- implemented new account-based security/privilege model (will allow us to link mod-powers to database accounts)
+	- fixed bug where some squad manipulation commands were case-sensitive on specified names
+	- reorganized in-game menu system, all Information menu options are now under Help, Scores has been moved to the Main Menu.
+	- added the concept of advanced-zones to the zone selection screen.  Under the View menu you can tell it to display all zones or just beginner zones.
+
+~B~4v0.95	Thursday, November 9, 2000~2~B
+	- in-game key reassignments now supported.  After a weapon has been assigned a weapon-number (most have a weapon-number assigned by default), right-click on item in inventory and select "Reassign Key".  Note: This effectively changes all weapons that use that weapon-number/key.
+	- option for in-use-only expiration timers added
+	- fixed bug where permanent characters were getting reset as you changed arenas the first time you used an alias in a particular zone
+	- option for zone-specific macros added (see Options dialog box).  Normally, macros are auto-loaded/saved from lastused.mac.  If this option is checked, then every zone will have its own macro file which will be named the same as the zones .cfg file only with a .mac extension.  So, for GravBall PvK, that would be soccer2.mac.  If you check this option, you will find all your existing macros have disappeared (since it would then be loading from a different place).  To correct this, just issue a "?loadmacro lastused.mac" to load up your previous macros, which will then be saved under the zone-specific name after that.
+	- enhanced ?find command to also identify which arena within the zone the player is located in.
+	- added ?hide command (toggles hide status or can be set explicitly with "?hide on" and "?hide off".  Prevents ?find command from displaying your online presence.  (not persistent, must be manually setup every session you wish to remain hidden)
+
+~B~4v0.94	Tuesday, November 7, 2000~2~B
+	- fixed up radar edge graphics so they display nicely when radar is resized.  Changed radar to default to a larger size if you are running at higher resolutions.
+	- misc bug fixes related to event system (maybe have fixed the not coming back to life bug, let me know if when you don't come back to life, if your enery was reset to full or not at the time you should have came to life)
+	- added ?find command for finding other players by name.  There is an assumed wildcard on the end of the query, so "?find Snow", would match "SnowBurned".  Multiple results can be found.  Eventually we will upgrade it to identify the arena as well.
+	- fixed bug where you could end up in the clouds in skirmish (I think)
+	- added ability to prevent child-vehicle use when parent vehicle is not occupied
+	- fixed bug in death-match games where newly formed teams ended up with lots of kills
+	- fixed security hole that prevented multiple untrusting people from safely being able to use the same machine. (ie. like a campus computer scenerio)
+	- fixed bug where anti-ball effects were crashing the game in zones without balls
+	- fixed bug where application was given high-priority and not sharing with other windows programs (added an advanced option to let user increase game-task priority)
+
+~B~4v0.93	Thursday, November 2, 2000~2~B
+	- first release on The Station
+	- fixed bug preventing you from exiting spectator mode immediately upon entry into game
+	- fixed top-speed cap calculation to be more accurate
+	- login protocol/procedures changed over to Sony Station system
+	- add visual-z adjust for base vehicles
+	- added death-match game style manager
+	- added anti-team-kill support
+	- added support for auto-switches
+	- added support for quick-bypass menus
+	- re-worked lio objects to allow for more control of prize hiding and warp points
+	- fixed bug where cloakers still displayed smoke/thrust effects
+	- added ability for prizes to appear on radar and map
+	- more bug fixes in event command system
+	- enhanced event command language
+	- fixed bug in new event command system
+
+~B~4v0.92	Tuesday, October 3, 2000~2~B
+	- misc changes to support upcoming game types.
+	- added a new event driven command system (doesn't mean much to the players, but it will allow us more flexibility in zone configuration options)
+	- skill/item categories beginning with a # symbol will no longer be listed on the skill/store screen
+	- back by popular demand, the weapon numbers are now displayed next to inventory items again
+	- fixed bug where keystrokes were not displayed next to purple inventory items
+	- changed it to have keystrokes always displayed unless you turn the option off (under Graphic Options)
+
+~B~4v0.91	Thursday, September 21, 2000~2~B
+	- fixed bug in king of the hill style games where crown timer was reset when you killed a teammate
+	- fixed bug where spectators with anti-warp devices were potentially effecting gameplay.
+	- added ?namewidth command that sets the width of the name-field in the message area (in pixels).  By default, the name-width is set to 84 pixels.
+	- fixed bug in rendering engine related to height adjusted level objects
+	- apparently on some machines the new gamepad/joystick support is causing problems.  If you have a performance or sound problem that started with the last version, go into advanced options and check Disable Joystick Support.
+	- removed the weapon-number indicator that used to be just to the left of inventory items (Holding the mouse pointer over the inventory area showed you the keystroke assignment anyways.)
+
+~B~4v0.90	Monday, September 18, 2000~2~B
+	- added gamepad support.  Basically, you go to the Keyboard/Gamepad configuration screen and it let's you assign buttons to the controls.  There is also a new SideWinder Defaults button on that dialog box that sets all the keys as appropriate for that gamepad, though you can customize it as you see fit.
+	- modified engine to support non-isometric point of view
+	- improved trickle channel capabilities
+	
+~B~4v0.89	Wednesday, August 9, 2000~2~B
+	- added ability for level designers to control backward thrust independent of forward thrust
+	- added inventory message macros.  you can add a %count[Repel] for example to a message, and it will be replaced with how many repels you have in your inventory.
+	- unoccupied vehicles now have a team-palette associated with them
+	- *scramble command enhanced.  You can now turn team-scrambing off by doing "*scramble off" or on by doing "*scramble on".  If you do not specify on or off, then an immediate scramble occurs, as before.
+	- fixed bug that had elevators floating around in ctf
+	- fixed bug where you could warp-in where you were spectating (details withheld)
+	- enhanced skill logic to support vehicle operating class qualifications
+	- team names checked against obscenity filter
+	- parameter to control energy required to go into spectator mode added
+	- additional physics types added to give more flexibility
+
+~B~4v0.88	Monday, July 24, 2000~2~B
+	- computer-turret weight based tracking added
+	- added ?info command.  Sent privately to a player it will return information about the player (you can right click on the player name and select Info to accomplish this as well)
+	- keyboard shortcuts added to production center menus
+	- point blank prevention logic enhanced to allow more aggressive point blank protection to be employed
+	- enhanced *getball to allow you to specify a ball number.  First ball is 0, second ball is 1, etc.
+	- added a request/confirm pickup sound for the gravball.
+	- fixed enemy-team messages
+	- added more agressive lag-detection.  This may result in a lots of people getting kicked for lag, we will have to see...
+	- *watchmod command enhanced to allow arena-owners to see mod commands of other shared-owners in same arena.
+	- added *unspec command.  This will force a spectator into the game even if the arena is locked.  You can optionally specify the team you want them to join as a parameter (ex: *unspec Pirates)
+	- fixed several minor bugs from previous version
+	- made the menu-key (ESCAPE normally) configurable via the config screen.  This allows ESCAPE key to be used for other things if wanted.  While in the menu-structure and auxillary screens, the ESCAPE key will operate as before, regardless of configuration.
+	- added a *addball and *removeball command for GravBall style games
+	- fixed server bug to prevent facility production queue overflow
+
+~B~4v0.87	Thursday, July 6, 2000~2~B
+	- flag/soccer-ball vehicle performance aliasing support added (basically allows ball-carrier/flag-carrier to operate different than normal in terms of speed/agility/armor/etc)
+	- fixed some security bugs
+	- fixed crash bug during downloading of large files.
+	- fixed extrapolation bug that was causing men standing still to twitch
+
+~B~4v0.86	Wednesday, June 28, 2000~2~B
+	- fixed bug in extrapolation routines and improved accuracy when bounces occur
+	- enhanced lag checking
+	- better z support for child vehicles and computer-turrets
+	- empty messages are now stripped (no more bongs without some associated text, I recommend having the text reflect what the bong means such that those without sound on know what is happening too -- use macros to make this easier in the heat of battle)
+
+~B~4v0.85	Monday, June 5, 2000~2~B
+	- increased security to deal with a recent cheating incident
+	- added support for exploding turrets
+
+~B~4v0.84	Monday, June 5, 2000~2~B
+	- added *specquiet command.  This prevents spectators from talking to players in the game (chat-channels and squad-chat excepted).  It's worth noting that this feature is intended to prevent spamming, not cheating.  It is all too easy for a player to use a real-telephone or external chat program to get hints from a spectator if cheating is desired.
+	- added *watchmod command.  This will enable moderators to monitor all mod-commands issued by other moderators.  By default monitoring is on, this toggles it.
+	- added ball-entry warp group support
+	- changed non-private *spec command to "*spec all" to prevent accidental use
+	- added utility item category range limits (gives level designers more control over what types of equipment can be used at the same time)
+	- finished implementing building logic dependencies (more support for production facilities -- coming in a future zone)
+
+~B~4v0.83	Wednesday, May 24, 2000~2~B
+	- added multi-items and support for experience pickups
+	- added more support for production facilities
+	- fixed a few minor display bugs with energy viewing (now being used in the GravBall zone)
+	- added support for team energy viewing (up to zone designer)
+	- added support for timed soccer games
+	- added support for multi-point goal-shots
+	- added various configuration options to allow better simulation of the crease-rules in hockey zone
+
+~B~4v0.82	Tuesday, May 16, 2000~2~B
+	- indicator of who is carrying the ball appears next to player-list
+	- added ?summon command.  This command will toggle summoning on/off (or set it explicity if you specify 'on' or 'off' after it)
+	- added *getball command for arena owners, basically grabs the ball for yourself or if sent privately, the person you send the message to. (always grabs ball 0)
+	- doubled king of the hill timer speed when in safe zones
+	- improved collision testing in z (particularly with projectiles and the gravball)
+	- changed sort order of player-list to group spectators.  Also groups teams when there are only 2 teams in the arena.
+	- resource-centers/production facility support added.  Type ?resources to see your teams inventory in applicable game types (not currently used).
+
+~B~4v0.81	Friday, April 21, 2000~2~B
+	- new GravBall zone released with full Z wall processing (throw ball over walls, jump over walls, etc)
+	- added ability to scramble teams in other game types
+	- improved extrapolation code to better deal with situations where a players vehicle is adjusted to go faster than its normal top speed rating
+	- fixed utility item vehicle effects bug
+	- fixed bug where KotH points were not getting properly rewarded at end of game
+	- fixed bug where KotH crowns were being re-issued for killing teammates
+	- slight enhancements to the draw order code to make it resolve recursive conflicts more accurately
+	- misc bug fixes to ranking system
+	- ability for area-heals to heal the healer as well
+	- added ranking type system (up to level designer to make use of it, it's really little more than a text representation of your experience points level)
+
+~B~4v0.80	Tuesday, April 18, 2000~2~B
+	- Detail-level setting added.  Controls the existence of optional graphics for memory and performance reasons.  It is up to the level designer to designate graphics at the appropriate detail level.
+	- added user option to pre-load bong sound effects (in Advanced Options dialog box)
+	- fixed bug where utility items were getting turned off
+	- ability to selectively reset attribs/skills on skill purchase
+	- ability to reset inventory upon skill purchase
+	- ability to have skill logic dependent on points and experience added
+	- fixed bug in one-way physics
+	- expirable inventory items added
+	- fixed bug where you could pickup flags and get in vehicles after you were dead as you came back to life
+	- fixed bug where you momentarily came back to life before warping to new location (untested as the circumstances are difficult to reproduce)
+	- thrust and strafing simultaneously adjusted to avoid double-thrust issues
+	- fixed bug where log file was not closing on exit
+	- rewrote level collision routines to fix some annoyances (in particular, bombs getting stuck in diagonal walls and things bouncing off at funny angles should be fixed)
+	- added more utility-item effects
+
+~B~4v0.79	Monday, April 10, 2000~2~B
+	- miscellaneous improvements to mouse-control interface (you can no longer pick things up with the mouse, hit space-bar to pickup the highlighted item)
+	- added the ability to specify 'all' on the ?drop command for the quantity.  ex: ?drop Grenades:all
+	- added a current-game stats cache so that when you get disconnected, if you come back on quickly, it will restore your previous current-game score.  (Note: the cache has 50 entries in it per arena, and they are discarded in a least-recently-used method, so as long as 50 other people don't disconnect before you log back on, your score will be safe.)
+	- fixed bug where you couldn't fire Chucker with the DEL key in GravBall
+	- gave level designers better control over radar and player name-tag colors
+	- added new mouse interface for controlling vehicle.  To enable it, go to the Mouse Configuration dialog box outside the game and set it up as desired.
+	- bug fix for chucker weapon in GravBall
+	- more stunner related changes (don't you wish all zones got this much attention?)
+	- fixed some bugs relating to the new stunner weapon in GravBall
+	- added *blocklist, *killlist, *blockremove, and *killremove commands.  The two list commands give a list of who is blocked.  The two remove commands remove a temporary block from a player by specifying their name as a parameter.  Kill bans are zone wide, Block bans are for a specific arena.
+	- can't believe nobody told me my stereo effects were backwards, anyways, it was probably cause the panning was too subtle over such a long distance.  Panning is now less subtle and left/right are correct.  This should result in a much better stereo feel.
+
+~B~4v0.78	Monday, March 27, 2000~2~B
+	- misc weapon enhancement options for ball-control in gravball.
+	- team-specific player limits (will allow level designers to make games where teams are intentionally uneven)
+	- added some words to the obscene words list so that language filter might actually sort-of work (it had no words on the list before, hehe)
+	- arena-limits reworked such that they are based on players actually playing, not counting spectators.  This will allow zones to have a lot of spectators for league matches.
+	- added *block command.  This will block a player from the arena-only, not the entire zone.  It's worth noting this functionality was already in the game.  When a player obtains mod-priviledges through becoming an arena-owner, the *kill command only effects that arena.  The problem we were having is ref's have zone-wide moderator access, so their blocks were zone wide (I've always thought it best that refs obtain their powers through arena-ownership anyhow).  The new *block command is identical to kill but allows a zone-wide moderator to do arena blocking.
+	- fixed bug in z projectile collisions
+	- enhanced configuration options for various effects in z
+	- fixed bug in public-macro filtering
+	- fixed bug where tank-turret (child-vehicle) hitpoints were not displaying properly on remote machines
+	- fixed bug where ball hangs in the air when you die
+	- made it so limited-use items (that is, items that you lose from inventory after using them) are sorted together and appear in a different color.
+
+~B~4v0.77	Friday, March 24, 2000~2~B
+	- added full vehicle z processing.  This was a ton of work, we should see the fruits of it in the coming weeks, right now check out the GravBall Hopper for a brief look at what to expect.
+	- fixed that screwy window-sizing error when you minimized an already small window at login screen and restored it
+	- added option to filter public macro messages
+	- probably a lot of other changes, but I can't remember them all as they are dwarfed by the vehicle-z stuff.
+
+~B~4v0.76	Tuesday, March 21, 2000~2~B
+	- fixed bug in MVP display in GravBall
+	- ability to end flag game when only one team left added
+	- moved light coloring into level header
+	- new z physics model for level walls/objects.  Will allow level designers to design walls that vehicle/projectiles/balls can fly over/under depending on height, etc...
+	- modified the layout of some screen items slightly to be friendlier to low-resolution machines
+	- added a sysop timer display (for when sysop timers are in effect)
+	- small change to the way score-chart is rendered to hopefully speed up the fps
+	- prevented the re-joining squad when going into a private spawn bug
+	- added a running MVP indicator to GravBall
+	- added ability for vehicles to explode (you'll notice when level designers make use of this)
+
+~B~4v0.75	Friday, March 17, 2000~2~B
+	- changes to how switches determine qualifications (user's won't notice anything til level-designers make use of it)
+	- made squad-membership zone specific.  (squads are still global to all zones, just membership in a squad is zone specific)
+		- squad-membership is now tied to the score-record, which means when scores are reset, the players squad membership will be dropped, requiring they re-join the squad
+		- going to different zones will require that players join their squad in that zone as well (flexibility has it's hassles)
+		- to help eliminate some of the hassles, in the Options dialog box, you can configure the game to auto-join a particular squad; it will do this upon entry into a zone where you are not currently a member of a squad
+	- misc bugs fixed (untested, but hopefully anti-warp turrets work now and this nasty bug where you can come back alive where you were should be fixed)
+
+~B~4v0.74	Thursday, March 16, 2000~2~B
+	- added the ability for computer-turrets to carry utility items (they ignore the utility armor settings as they are redundant, so the only meaningful use is for anti-warp, stealth, and cloak)
+	- fixed bug where you stay dead forever in some circumstances (maybe)
+	- reversed the way door-physics are done, this will result in messed up doors til the level designers fix their zones, but ultimately will result in more accurate door physics (like proper diagonal doors)
+	- fixed bug that messed up weapon firing delays when firing your last limited-use inventory item.
+	- made off-radar arrow more larger and more noticeable.
+	- added a several quick score-chart command (?score_top100, ?score_online, ?score_lastgame).  Press ESCAPE to quick-exit back to game from these charts.
+	- added a create-arena menu command (so newbies don't have to know the ?go syntax)
+
+~B~4v0.73	Monday, March 13, 2000~2~B
+	- word-wrapped location text-messages to avoid clipping in low-resolutions
+	- added ability to link child-weapons together (used by level designers to design weapons where setting off one child-projectile effects other sibling projectiles)
+	- added on-screen timers for various event time displays
+	- fast left/right arrow scrolling in score chart added
+	- entering game already dead bug fixed
+
+~B~4v0.72	Friday, March 10, 2000~2~B
+	- ability to export score-charts added to scores screen (exports to a comma-delimited format that should be easily importable into any spread-sheet or word-processor)
+	- added text-lio objects (will allow us to label areas of the level in more detail)
+	- added ability to set font color for terrain messages
+	- added the ability to get stats for the current/last-game (for flag and gravball type games)
+	- color-coded server messages added
+	- fixed bug in nested weapons
+
+~B~4v0.71	Thursday, March 9, 2000~2~B
+	- added the ability to have nested weapons (allows for things like bomb-shrapnel and much more)
+	- reworked gravball scoring again (see gravball news for more details)
+	- fixed a major bug in the way damage was applied to computer turrets (will no doubt require that level-designers re-work their computer turrets a bit)
+	- added an expiration manager object to allow game-styles to be elimination based (for upcoming game type)
+	- players with high packetloss are now forced into spectator mode instead of kicked from the game
+	- added a small delay in the ball-throw delay after attempting to fire a weapon you no longer have in order to prevent accidental throwing of ball when attempting to fire a weapon you have ran out of
+	- fixed bug where you could not spec soccer ball when in inventory-list mode
+	- live score-board display added to gravball (feature will actually be used for other game types down the road as appropriate)
+	- added team-based skill allocations (will be put to use in future zones)
+	- made weapon anti-fire, anti-rotate, and anti-recharge damage affect computer turrets (yankee, I like chocolate-chip/no-nuts)
+	- added a bunch of stuff to the king of the hill game style (yeah that's right, the one you have never seen) so it can support an upcoming game style rod is working on.
+	- capped maximum bounty possible at 30000
+
+~B~4v0.70	Tuesday, February 29, 2000~2~B
+	- added ability for switches to control computer-turrets
+	- made it impossible to switch teams while carrying a flag.
+	- enhanced *prize command to allow for taking away prizes from players when sent privately (specify a negative quantity)
+	- added ?timer command.  This will display the amount of time-left in a game WHEN the game moderator has started a game-timer with the *timer command
+	- added *teamprofile command.  This gives a breakdown of the total inventory that a team has.
+	- added personal and squad coloring to score charts to make reading them easier.
+	- enhanced ball pickup configuration parameters (level designer can now allow ball thrower to pickup the ball before it comes to a stop if desired)
+	- enhanced the way warp points work.  (mostly made it easiest and more configurable for the level designer, players won't notice anything probably)
+	- fixed crashing bug (was a bug in Microsofts DirectX 7.0 SDK that I had to work around actually...they improperly changed a structure in DirectX 7.0, and worse, didn't even document it.  The funny thing is, the way it is implemented I am quite sure they would not consider it a bug, as it was clearly implemented in a manner that they thought would be compatible with existing applications, they were wrong.
+
+~B~4v0.69	Tuesday, February 22, 2000~2~B
+	- changed the way radar-resizing works.  The radar now resizes independent of the player/inventory list area (which no longer resize horizontally).  You can resize the radar by dragging the left edge of the radar.  There will be a slight performance hit in having a larger radar due to overdraw (whereas before it performed better with larger radar).  Radar will also go back to small-size when in the non-game-field modes to facilitate a square interface and more area.
+	- fixed bug where resized window (when in windowed mode) was not getting saved under some circumstances (when window was very large)
+	- fixed bug where entering game from spec-mode when already on a public-team was screwing up the team-evening algorithm.  Spectators should in no way effect team-counts in any way.
+	- fixed bug where anti-warp type effects were staying on after a player had died.
+	- fixed bug in GrabBall score keeping, enhanced GrabBall score keeping as well.  Only things happening during game will count, and everything a player does while in game (even if they don't finish the game, will be counted, including MVP points)
+	- fixed bug where killed players are not properly kicked from the vehicle they are using.
+	- fixed bug where non-driver-positions on vehicles were not taking appropriate damage.
+	- removed the ability to use a warp-item to warp to a dead player
+	- added *disable command that will disable a spawn-owners priviledges and notify everybody publicly.  They can be turned back on with *enable, but everybody will be notified.  The *disable, *enable, and *arena will all still work when arena is in disabled mode.
+	- GravBall statistics added.  Total minutes played and MVP points.  I didn't think MVP position or percentile was meaningful as partial games would skew the results.  By tracking total minutes played and mvp-points, the new averaging feature of the score-chart will be able to generate some very meaningful statistics.
+	- Score-chart enhanced to do averaging.  Right-clicking on a column header will cause every other column to be divided by that column.  Right click a second time to return to normal.  For those who didn't know, left-clicking sorts the table by that column.
+	- ability for game to force even-teams at times other than when a player enters the game.
+	- put in some safety checks to try to prevent accidental erasing of scores when the sql-server screws up.  Hopefully there won't be any more lost scores.
+
+~B~4v0.68	Friday, February 4, 2000~2~B
+	- add ?accountinfo command which gives you a breakdown of all your aliases and their usage.
+	- misc enhancements to support new features in GravBall
+	- added *profile moderator command (as with other mod commands, can be used in some private arenas), see list below for details
+	- added obscenity filter option (from login screen see View/Options)
+	- fixed top 100 score chart so it displays players that are not on a squad as well (for sql guru's I did an inner join when I should have done an outer join).
+	- changed default keystroke for weapons 13-16 to Alt+1 through Alt+4 since Alt-F6 is a reserved windows keystroke.
+	- fixed bug where wiping your character during a GravBall game screwed up the end-game statistics
+	- added %tickitem macro to give you the name of the ticked inventory item
+	- added option to ignore chat-channel entering messages (under Message Options in the game)
+
+~B~4v0.67	Wednesday, February 2, 2000~2~B
+	- chat channel enhancements (displays people entering chat channels).  Also note, it has always been possible to leave all chat channels with '?chat off'
+	- changed score chart to scroll smoothly
+	- added squad display to score chart
+	- added more weapon keys
+	- misc security enhancements -- just a reminder, cheating or attempted cheating may result in banning
+	- fixed bugs related to spectators getting kills and people getting credit for kills of others who logged out recently
+	- fixed bug where throw-timer did not reset when the server explicitly transfered control of the ball to you.
+	
+~B~4v0.66	Thursday, January 27, 2000~2~B
+	- added private-spawn ownership system.  This system will allow the player creating the private spawn to have certain moderator-like priviledges.  Priviledges will vary from zone to zone and are up to the zone creator.  Possible arena-owner commands are:
+		*kill = Sent as a private message, will kick target player out of the game.  You can specify an optional time-limit after the kill as well which will keep them out of your private spawn for that amount of time (in minutes)
+		*lock = Locks the arena so nobody can leave spectator mode (players already in the game remain there)
+		*spec = Sent privately it will force target player into spectator mode.  Sent publicly it will force everybody into spectator mode.
+		*info = Sent privately it will display various information about the target player (like ping and packetloss)
+		*arena = Sends a green sysop-message to everybody in the arena (ex: *arena Test message)
+		*warp = Sent privately it will warp you to the location of the target player.  Sent publicly, it will warp you randomly somewhere in the level.
+		*summon = Sent privately it will warp target player to your location (works when you are in spectator mode too)
+		*prize = Sent privately it will add specified prize to target player's inventory.  Sent publicly it will drop specified prize at your current location.  You can optionally specify a quantity after the prize-name as well. (ex: *prize Repel:3)
+		*cash = Sent privately it will grant target player the specified amount of cash.  Sent publicly it will grant you the specified amount of cash.
+		*experience = Sent privately it will grant target player the specified amount of experience.  Sent publicly it will grant you the specified amount of experience.
+		*grant = Sent privately it will grant shared arena-ownership rights to target player (more than one player can have ownership rights at the same time).  Normally, the oldest player in the arena (usually arena creator unless he leaves) has ownership rights.
+		*shutup = Sent privately it will silence/unsilence the target player
+		*timer = Starts a game-timer useful for timing games, specified in minutes. (ex: *timer 5)
+		*team = Sent privately it will force target player onto the specified team. (ex: *team Titan Terriers)
+		*scramble = Will randomly scramble the teams in the game.
+		*restart = Will restart any GravBall, king of the hill, or flag-games that are in progress.
+		*wipe = Sent privately it will wipe a players stats completely (same as the player doing ?wipecharacter).  Sent publicly as "*wipe all" it will wipe everybodies stats.
+		*profile = Sent privately it will lists target players inventory and skills.
+		*teamprofile = Sent privately it will list target players team-inventory totals.
+
+	- added ?drop command.  Syntax is identical to ?buy command only it drops items specified at your current location (same as using the mouse to drop items via the inventory list)
+	- fixed mouse-wheel support under Windows 98.
+	- drag and drop resizing of player-list/inventory area (grab the upper-left corner of the player-list/inventory box and drag left/right).  Still waiting for art to make it look nice when resized.
+	- added a compound ?buy command, you can now buy multiple items at a time, for example: ?buy Grenades:10,Repel:5,SuperGun:1
+	- fixed bug where you momentarily re-appeared where you had died
+	- fixed MVP ranking bug (when you were worst in zone it was giving you the wrong rank)
+	- sound volume control added (see Options/Misc-Options/Sound-Volume, or use ?volume xxx, where xxx is from 0 to 100)
+
+~B~4v0.65	Wednesday, January 5, 2000~2~B
+	- radar sizing now semi-supported (it's sort of a hidden-feature for now, you can do ?radarsize xxx, where xxx is the width you want the radar).  The border graphics will be messed up for now, but I will fix that as soon as I get appropriate art changes.  It's a hack, but it it's quite useful if you are running in a high-resolution mode.
+	- fixed some minor text formatting issues
+	- changed MVP formula for GravBall and added some additional MVP related stats
+	- fixed bug where you could pick stuff up though diagonal walls (this may cause problems where some things can't be picked up, if it does, let me know)
+	- put in parameters to allow fix dead-ball problem in BoomBallX
+	- added ability for level designer to auto-transfer ball to killer
+	- added the following message macros: %coord, %selfname, %date, %time, %killed, %killer, %tickname, %squad
+	- fixed bug where logging out from a private spawn stored the private spawn score
+	- improved diagonal physics even more (getting really close to getting something that works flawlessly)
+	- put in a ball fire-delay after firing a weapon to prevent laying a mine (for example) from accidentally throwing the ball
+	- added some code to kick laggers more agressively
+	- fixed bug in scramble teams
+	- added more stats to GravBall
+	- added extra-thrust graphics to denote hyper-thrusting
+	- why am I doing a release at 3am? time for bed
+
+~B~4v0.64	Thursday, December 23, 1999~2~B
+	- I know, not much in this rev, but I had to increase the version number so the game could identify the first-run of this executable in order to correct some errors in the registry settings)
+	- inactivity timeout added.  If you don't do anything for a while, you will be kicked to spec (useful to prevent people going AFK and collecting points)
+	- added team-scrambling ability to GravBall (teams will auto-scramble if one team shuts out another team)
+	- added hyper-thrust ability to vehicles (jump/crouch have been replaced by hyper-thrust, I have changed the default-keystroke assigned to them as well (now SHIFT-UP/SHIFT-DOWN arrows).  As with all features, it is up to the level designer to make use of it, vehicles will not be able to hyper-thrust by default.  Hyper-thrusting will use energy in most cases.)
+
+~B~4v0.63	Tuesday, December 21, 1999~2~B
+	- top 100 score chart added (note, top 100 chart does not include live-scores, only scores as of the last player logout)
+	- inventory overflow bug fixed
+	- added game-summary statistics for GravBall
+	- winner bonus points added for longer GravBall games
+	- added long-term statistics to the GravBall zone (see Score-Chart in GravBall for a list of new stats tracked)
+	- fixed bug where spectators using TAB key to cycle through balls would end up watching inactive balls
+	- prevented turrets and other vehicles from being built while you are inside of another vehicle that does collision detection against other vehicles.
+	- fixed bug that allowed squad messages to be sent to players not on a squad.
+	- added ball-direction indicator to radar for GravBall
+	- added support for multiple throw-styles in GravBall
+	- misc bugs fixed
+	- if you have distinquish left/right shift checked in keyboard config, then message-macros will distinguish between left/right shift as well
+	- added the ability for Win9x to distinguish left/right shift (it still treats left/right control/alt as both-left since the BIOS does not support it under Win9x) (note: this required almost a complete rewrite of the keyboard handling stuff, which is good, the new system is much better, but it took me 5 hours to do, hope whoever was complaining about this is happy now :)
+
+~B~4v0.62	Wednesday, December 15, 1999~2~B
+	- soccer-ball count scaling based on players in arena added
+	- ability to render flag-carriers vulnerable in safe-zones added
+	- fixed squad-chat bug
+	- made it so auto-pickup prizes display their name momentarily
+	- fixed stupid bug from release we just did
+	- increased size of drop/ball/flag timers to make them more noticeable
+	- added support for team-relative vehicles (hard to explain, but will allow us to do some cool configuration stuff)
+	- fixed physics bug where you stuck to ends of diagonal walls
+	- fixed bug where mines would not explode when placed next to stationary vehicles (it's a complicated problem dealing with how proximity triggers try to let the target get closer, but they now explode after 2 seconds)
+	- added support for forcing of even sized teams
+	- added support for moving vehicle while in map-view (allows moving of spectator view position in map-view too)(use shift-arrows to scroll map, or better yet, right-click on the G and have it scale map to your view so you don't have to scroll map)
+	- added support for one-way physics
+
+~B~4v0.61	Friday, December 10, 1999~2~B
+	- enhanced ?score command to show summary information for a flag game if applicable	
+	- added ability for timed flag games to declare a winner at the end
+	- reworked physics routines.  I would explain what I did but it's very complicated.  The bottom line is diagonal walls now act differently (correctly)(rebound wise) and objects should no longer fly through thin diagonal walls.
+	- misc enhancements to spectators (particularly for GravBall when spectating ball)
+	- added radar-gamma correction option
+	- added tip-of-the-day, there is an option to turn it off
+	- added a user-option to turn on/off environmental sound effects (like crowd cheering in GravBall)
+	- added a user-option whether to show thrust/smoke from vehicles other than you own (turning thrust/smoke for other vehicles off makes it easier to keep track of yourself)
+	- fixed bug in GravBall where ball was displaying on dead players
+	- added ?score command to display current score in GravBall
+	- changed radar colors and blink rates (trying to make it easier to make sense of radar/map at a glance, particularly in GravBall)
+	- added support for disabling child-vehicle-positions when parent position is dead
+	- added support for point-blank bombing prevention (damage to target reduced by damage you do to yourself if feature enabled)
+
+~B~4v0.60	Wednesday, December 8, 1999~2~B
+	- final touches to code for next game type
+	- added support for inverse trigger weights on projectiles
+	- added support for giving turret creators points for turret kills (even though I am opposed to it)
+	- fixed chat-channel display for long names
+	- default list-select key changed from space bar to SHIFT-DELETE in order to prevent accidentally hitting it when trying to pick stuff up
+	- bug building barricades fixed
+	- fixed bug where players in spec-mode got put into the game at start of game
+	- Rendering engine enhanced to support on-the-fly HSV transformations to any graphic in the game (ie. this will mean much more color-variety in vehicle and level art, like different tank colors for different types of tanks)
+	- enhanced zone-designer control over turret creation and density rules added
+	- energy/health/repair pickup ability added
+	- radar scaling added (right click on radar-window to adjust scaling; will save scaling on a per-zone basis)
+	- map scaling added (right click on map-window to adjust scaling; will save scaling on a per-zone basis)
+	- on map scaling, right click on the G to have it auto-fit the map to the window.
+
+~B~4v0.59	Monday, November 29, 1999~2~B
+	- batch download status information added
+	- level designer given more control over start of game conditions
+	- crashing bug when nobody highlighted in player list fixed
+	- yet another new game type added (official release pending completion of a zone that uses it -- yeah I know, the previous new game type hasn't shown up yet either)
+	- added support for non-ammo inventory dependency requirements for weapon usage. (ie. you have to have item X in inventory to use item Y, even though X is not ammo per se)
+	- various special effects added to projectiles (subject to configuration by level designers), including: anti-thrust, anti-recharge (emp), anti-rotate, and anti-fire effects
+	- newly dropped items will not auto-pickup for at least 2.5 seconds now, this is to allow you time to drop your own auto-pickup items
+	- wrong sell-price bug when selling through store fixed
+
+~B~4v0.58	Thursday, November 18, 1999~2~B
+	- new game type is coming along nicely, the code is pretty much polished, we are just waiting for artwork and zone-design to be completed at this point
+	- several multithreading bugs in database server fixed and database server optimized to more agressively attempt to maintain its connection to the SQL server.
+	- new account creation has been integrated into the game.  signup.harmlessgames.com still works, but you can also create accounts in the game by hitting the Signup button on the main screen.
+	- vehicle physics enhances to give level designer more control
+	- computer turrets optimized to allow them to be used for player-destroyable/player-created barricades (of sorts)
+	- bug in max players allowed per team fixed
+	- thrust overflow bug fixed
+	- when movement cancels the firing of a delayed-fire weapon, you will now be re-credited with the firing cost (only exception is you will not get your energy back if the weapon is configured to use 'all-existing-energy')
+	- fixed chat-channels so they go across zones (can't believe it took that long for somebody to report this one -- fixed it for squad-chat too btw :)
+	- support for team-based flag graphics added
+	- attribute based weight carrying adjustments changed to apply to default vehicles that specify carrying capacity explicitly
+	- limit placed on number of computer-turrets allowed per team
+	- destroyable computer turrets added
+	- skill granted inventory items added
+	- computer turrets enhanced to obey reload delay
+	- support for level-designated light colors added (editors still need to be enhanced to properly handle this)
+
+~B~4v0.57	Wednesday, November 10, 1999~2~B
+	- added a new zone type (to be shown off in a few days when we get the level finished)
+	- fixed server crashing bug
+	- fixed bug where you could not pickup prizes in some arenas
+	- periodic reward enhanced to obey terrain reward percentages
+	- fixed periodic reward messages
+	- fixed safe-zone expiration timer (now gives 30 second warning too)
+	- added ability for level designers to force players into spec mode for staying on a terrain type for too long
+	- added ability for level designers to control bounty and reward on a per terrain type basis
+	- team you are spectating will now appear in friendly colors and in dark-yellow on player list
+	- security stuff (sorry, no details)
+
+~B~4v0.56	Tuesday, October 26, 1999~2~B
+	- fixed the F4 store scroll-bar bug
+	- fixed that ugly bug I put in the last rev
+	- ?lag command added (combination of ?ping and ?packetloss for convienence)
+	- fixed bug where computer-turrets were appearing at the top of the board falsely
+	- display cloaked players as alpha-blended if you can see them (this includes self and teammates as well)
+	- proper accessibility now required for most warps (meaning you won't appear on the opposite side of the wall as the teammate you are warping to)
+	- weapons will no longer hit corpses laying on the ground
+	- upgrade items will no longer upgrade you to an item that you are not qualified for
+
+~B~4v0.55	Monday, October 18, 1999~2~B
+	- changed prize hiding algorithm slightly (nothing anybody will notice, mostly to save CPU time)
+	- limit on maximum number of active weapons configurability added (ie. like max mines allowed per team, etc...)
+	- short safety period after warping added (again, level designers will need to configure it as appropriate before you see it)
+	- your own character name now appears in green to make it easier to spot yourself in a crowd
+	- fixed bug that allowed firing certain weapons while in spec mode (even though the server ignored them)
+	- several changes to the low-level communications layer (trying to solve the dumping bug)
+	- fixed selling bug
+	- fixed code limitation to handle long distance arc-tangents properly
+	- added ?sell command, works the same as ?buy only it sells stuff
+	- added ability to sell things back to the store (won't show up until zones are configured to use it)
+	- note: the sell ability is completely untested, we won't know if it works until a zone is configured and tested with it -- welcome to the beta test.
+	- enhanced the :: private-reply syntax such that if you keep hitting the : key, it will cycle through the names of people who have previously sent you private messages (up to 8)
+	- error beeps added to certain server error messages
+	- display of how to exit spectator mode added (so we can comfortably start newbies in spec mode and not have them lost)(we may add an option to turn it off if you find it too annoying)
+	- skill logic parameters for exiting spectator mode added
+	- toggle-store (F10) and toggle-skill-screen (F11) keystrokes added
+	- allow override of directory server address.  If you are still having trouble, try hand-entering the IP 63.64.222.134 for the directory server address under the Options menu at the login screen.
+	- fixed bug where it would not save key-assignments between sessions
+	- auto-spectate first available player upon entry into spec-mode
+	- got rid of upgrade-scan for keystroke reassignments (hard to explain, bottom line is keystroke assigning should be a little more logical, though potentially more tedious initially)
+
+~B~4v0.54	Wednesday, October 13, 1999~2~B
+	- added support for terrain-specific prize expiration times
+	- improved wall-collision physics for vehicles (diagonal walls in particular)
+	- fixed bug where tanks were getting stuck on certain terrain types
+	- fixed bug where changing key assignments crashed game
+	- changed the way weapon key assignements work.  They now work on a most-recently-assigned scheme.  So, if two weapons in your inventory want the same key, the one you last explicitly assigned to that key will get it.  Vehicle assigned weapons will take priority over any other assignment as well -- to prevent this, you must explicity mark the vehicle-assigned weapon as taking a different key before you can assign that key to something else.
+	- added left/right shift,ctrl,alt support distinguishing for Window NT (sorry guys, 95/98 do not support this feature)
+	- fixed bug where changing teams did not properly change vehicle type (if applicable)
+	- fixed bug where flag could be stolen without you being in the area
+	- yet another attempt to fix the 'alias already in use' bug
+	- added option for controlling which death-messages are displayed in popup-area
+	- now echo all ? commands to the message area
+	- added initial team management functions
+	- fixed ?flags command
+	- added an arena-list command to the game-functions menu (can also be directly accessed via ?arena)
+	- ?buy with no parameters gives you your current cash balance.
+
+~B~4v0.53	Tuesday, October 5, 1999~2~B
+	- leading, trailing, and multiple spaces are now stripped from team names
+	- added ?buy command.  Syntax: ?buy <name>:[quantity].  If quantity is left off, defaults to buying 1 of item.  (ex: ?buy grenade:5)
+	- computer turrets will no longer target players who are in safe zones
+	- fixed bug where clicking on your personal inventory list while in the store repositioned the store, but did not update the info window appropriately for the change
+	- vehicles now stop if you fire a weapon from inside a safe zone
+	- repel configuration parameters added for terrain types
+	- indicator telling when weapons need reloading (note: weapons auto-reload when you avoid firing other weapons)
+	- not being able to see yourself while cloaked in some situations fixed
+	- fixed a crash bug being caused by the line-of-sight code
+	- message logging format changed slightly
+	- ?teaminfo command added
+	- killed by terrain type message fixed to display terrain name instead of number
+	- double clicking on zone name now enters that zone without having to press the Enter Zone button.
+	- fixed bug where firing another weapon potentially cleared your fire-delay for another weapon (or at least shortened it -- particularly noticeable on long-delay weapons like healing)
+
+~B~4v0.52	Saturday, October 2, 1999~2~B
+	- flag protection radius created.  You are not allowed to drop prizes too close to a flag (doing so will result in prizes simply being lost)
+	- ability to configure terrain types to allow or disallow prizes/dropping
+	- ?usage command added (all these ? commands will eventually be added to the main-menu system someplace for convienence)
+	- packetloss indicator at login screen added (hold mouse over ping times and they will show packetloss percent -- note: will not display results until it has a sample size of over 20 packets)
+	- fixed crashing during ?go commands bug (I think)
+	- misc database server enhancements
+	- another attempt to fix the 'name already in use' message (I think I got it this time)
+	- misc security enhancements (sorry, we don't detail these :)
+	- misc other enhancements to ensure proper logout
+	- reduced the occurance of the 'name already in use' message
+	- fixed ?go crashing bug (I think this was crashing the server occasionally too, won't know til we test it though)
+	- new alias creation bug fixed (at least I hope it is :)
+	- spawn-changing added ?go [optional-arena-name].  If the arena name is left off, it cycles to the next available spawn (same as Subspace).
+	- battery capacity bug fixed (note to level designers, battery capacity changed from a precise number)
+	- fixed squad dissolve bug
+	- improved sound effect dissipation model
+	- fixed bug where the ticked name was changing as players entered and left the game
+	- scroll bar in map messing up when in hi-resolution modes bug fixed
+
+~B~4v0.51	Thursday, September 30, 1999~2~B
+	- beta candidate 2
+	- getting in vehicles after dieing bug addressed
+	- lockup when entering store fixed
+	- vehicle infinite speed bug fixed (maybe)
+	- default dissipation radius changed from infinite to 'near by'
+	- variable dissipation radius added to sound-lios (based on trigger radius)
+	- more sound effect enhancements -- panning and volume levels dissipated over max distance for faked spacial effects now
+	- misc news and license agreement changes
+
+~B~4v0.50	Tuesday, September 28, 1999~2~B
+	- I guess you could call this beta candidate 1, though I may be adding a little welcome screen.
+	- new login screen added
+	- recycling enhanced to warn players, global recycle commands added
+	- server ping bug fixed
+	- fixed the spacial sound effects a bit (new option ?sounddelay, by default 5, the lower you set it, in theory, the better things like the disco will sound as you walk around)
+	- new threaded database server brought to life
+	- improper configuration syncronization bug fixed
+
+~B~4v0.49	Friday, September 24, 1999~2~B
+	- switch to optimized client code
+	- database server connection pooled and threaded (needs a little more testing before we put it live though)
+	- moved everything to new servers and a few misc changes
+	- low level protocol modified to be more efficient in packetloss situations
+	- repel ignore time scaled as a percentage of actual-thrust vs maximum-thrust experienced.  Also, fixed bug where ignore time was being applied to vehicles outside the radius
+	- fixed auto-update problem where it would slow down during long downloads
+	- new start of game UI
+	- directory services added to GDI UI for testing
+	- fixed skill pickups not working problem
+	- fixed that annoying thing where people appeared in corner when first entering zone
+	- fixed bug of spectators requesting auto pickup items
+	- added auto-pickup sound
+	- fixed team balancing problem
+
+~B~4v0.48	Tuesday, September 16, 1999~2~B
+	- new login and alternate alias creation stuff
+	- added client side frequency name syncronization
+	- added ?flags command
+	- fixed expired flag game problems
+	- removed user ambient light adjustment ability (was only in there for debug purposes anyhow)
+	- fixed message area resize height
+	- conversion over to new centralized database format
+
+~B~4v0.47	Tuesday, September 7, 1999~2~B
+	- back end converted to be useable with MS SQL 7
+	- more pretty ui stuff added
+	- fixed squad list menu option
+	- some security stuff added
+	- clicking on 'Quantity' in store now auto-sets quantity to max allowed
+	- drag and drop resizeable player-list
+	- auto-switch out of info mode when leave store
+	- darkened ui art
+	- fixed warp-to-self bug
+	- client side connection quality monitoring added
+	- fixed bug in config security code
+
+~B~4v0.46	Thursday, August 26, 1999~2~B
+	- NOTE: as you can see, there are quite a few changes (I likely didn't even list them all).  I am only part-way through the redo of the interface; all the sub-screen (like the store and main-menu) are due to be redone as well (some changes have been made to those areas too).  There will likely be a few bugs with so many changes, as always, just let me know.
+	- flag drop bug fixed
+	- sysop level system modified
+	- security features added
+	- fixed bug in bouncing weapons and enhanced their configurability
+	- new in-game user interface added
+	- fixed anti-warp not working bug (I think)
+	- fixed nasty bug that was plaguing NT system in particular (private profile was being accessed during startup to add vehicle inventory before it was initialized by the server)
+	- new 3d sound system added (the directsound3d stuff was just too dang slow -- overkill)
+	- crash bug when displaying leaving messages fixed
+	- sound effects processing slightly modified
+	- sound effect LIOs added
+	- warping to teammate while inside dependent vehicle now prohibited before energy is used
+	- added utility item specific activate sounds
+	- new remote/detonator key added (INSERT), map-toggle moved to F3 (note: currently this key is used for warping to a previously layed portal)
+	- delayed flag victory timer added
+	- fixed some keystroking bugs related to vehicle-assigned weapons
+	- added ability to have cloak/stealth disabled when firing
+	- changed warps to expand warp-area when spot could not be found instead of switching directly to warp-anywhere
+
+~B~4v0.45	Thursday, August 12, 1999~2~B
+	- fixed bug in PortalLio where the destination was not adjusted for the compiled level
+	- fixed bug where energy drain armor was not being properly applied
+	- enhanced Hide Obscuring Walls option to give players more options for dealing with obscuring walls, now defaults to fake-alpha-blended obscuring (before, you had to fake-alpha-blend everything  to get this option effectively (including smoke effects which looked really bad faked))
+	- enhanced upgrade items to be able to add or remove stuff from your inventory as well
+	- level-portal support added
+	- added warp items (various sorts including user-portals, warp-to-teammate, summon-player, etc etc...)
+	- fixed bug where it allowed you to join invalid public teams
+	- unpurchaseable skills added
+	- ability to hide skills/attributes for picking-up off level (or purchase at cash-store in theory) added
+
+~B~4v0.44	Thursday, August 5, 1999~2~B
+	- fixed bug where on flag-victory it was warping players including the vehicle they were in back to start
+	- cascading upgrade keystroke assignment modifications added
+	- changed keystroke assignment thing again.  Key sets no longer exist and items auto-slot based on last key they were assigned (uses keyPreference as default if not overridden) (note: empty key positions will always attempt to be filled from existing inventory)
+	- fixed overlapping vertical door physics problem
+	- got rid of IIC and VIC configuration data in favor of a LIO based solution to the issue of hiding prizes and vehicles (don't ask me to explain it, it's mostly a maintenance issue)
+	- added *lock, *unlock, and *spec moderator commands (all have global and private versions -- unlike ss, being put in spec will not lock you there and the global-lock will not put players in spec mode, private-lock will put players in spec mode though.)
+	- added start-in-spec option
+	- computer-turrets now obey projectile firing-requirements for various terrain types
+	- flag-victory/start warping
+	- team-owned switches added
+	- max-allowed related changes:
+		- two types of max allowed now possible, soft-limit and hard-limit.
+		- parameter changed so that it refers to the item itself, not the ammo the item uses
+		- made utility items obey max-allowed parameter
+		- now display max-allowed in info box
+		- default-pickup menu option will now only pickup as many as are needed to bring you to the max allowed unless you explicitly ask to pickup more than that.
+	- expiration for prizes left unpicked up added
+	- reworked user interface a bit
+	- fixed warp bug when you get into a vehicle
+	- enhanced computer turrets to support energy-use, LOS based tracking/firing, randomized aiming, and expiration timers
+	- fixed bug where you warp-in at your spectating location
+	- fixed warp-in bug for team 0 (actually, I changed quite a bit to fix it, so it may have broke a few things, let me know)
+	- fixed bug where it was not actually rewarding you flag victory points/cash (note: it was, if you logged out and back in you would have them)
+
+~B~4v0.43	Monday, July 26, 1999~2~B
+	- added an item maker object
+	- added ability for weapons to use cash
+	- fixed bug where skill-based default vehicle was not appearing when you first log in, only when you buy the skill
+	- consolidated utility items to allow for more powerful utility items (we can now make a utility item that gives you extra-batter and stealth ability at the same time)
+	- added cloak/stealth/anti-clock/anti-stealth capabilities
+	- added warp-point control system (allows level designer to control warp in points)
+	- made it so items already at ground level don't bounce
+	- put in code to fixup registry corruption problems
+	- fixed bug where character is reset when vehicle you are occupying is killed
+	- changed it so empty-weapon don't appear in darked color, so now only non-skill-qualified or non-vehicle-qualified items appear in the darker color
+	- made misc ui changes related to vehicle assigned inventory
+	- changed it so vehicle-assigned inventory doesn't weigh against you
+	- fixed invisible jetpack bug
+	- fixed spectator mode bug
+
+~B~4v0.42	Thursday, July 14, 1999~2~B
+	- hard to believe a new rev eh?
+	- flag games of various sorts largely implemented, lots of testing/enhancements still needed
+	- vehicle inventory restrictions added
+	- vehicle assigned inventory added
+	- tick marks linked to vehicles instead of weapons
+	- max energy and energy rate linked to default vehicle
+	- key-sets for weapons have been added.  You have 8 weapon-keys, each assigned to an inventory item.  Hitting ALT-1 through ALT-5 switches between sets of weapons that are assigned to those 8 keys.
+	- complete rework of the way weapons and utility slotting works.  There is no longer the concept of a slot.  Weapons/utilities are simply assigned keys.
+	- fixed bug where you could drop more inventory than you actually had (server side check was needed)
+	- fixed bug where it would briefly display enemy spectator vehicle locations on radar after switching to spec mode
+	- double clicking to take control of computer-turrets bug fixed
+	- fixed bug where alt key combinations were not registering properly for keystroke oriented input
+	- fixed bug where reload-delay was not being obeyed for ticked-item firing (note: newly ticked items are started out unloaded)
+	- fixed serious repair kit bug (actually bug was caused by last bug-fix to repair kits)
+	- fixed bug where it was still counting as utility-slotted items which you had dropped
+	- enhanced database server to auto-reconnect to sql server on lost connection
+	- enhanced server to smart-recycle when database connection is lost (should reduce down-time like we had)
+
+~B~4v0.41	Monday, May 28, 1999~2~B
+	- reworked the way user-defined palette entries are processed (generalized them into the CFS format)
+	- doors and switches tested and debugged
+	- fixed bug where heal-symbol wasn't displaying at the proper location when heal-target was driving a vehicle
+	- server side processing of doors and switches added (in theory this completes doors and door-switches)
+	- switches added
+	- reworked the way packet counts were tracked so sysop info took into account the lasts reporting time from the client when showing packet numbers (percentages were already adjusted)
+	- added bong ability (quite a bit more powerful than subspace, I will explain sometime)
+	- finished up initial implemenation of randomly changing doors (ala subspace), just need artwork and a door-editor from ljc now
+	- fixed exit game assertion problem (guess I should run the game at least once before releasing)
+	- changed healing parameters to be non-precise specified
+	- reorganized points settings in cfg file for clarity
+	- initial stages of door support added (nothing to see yet)
+	- rewrote high-level rendering engine (complete new way of managing objects, will result in much faster load-times, but probably not much difference in FPS (though it is technically faster there too))
+	- changed pickup all and drop all hot letter to the A
+	- made hitting the action-key (SPACE) auto select the first item on a popup menu (which is pickup all for prizes)
+	- indicators of 'overloaded' weapons added so you know why it won't fire.
+	- hopefully fixed the stalling bug whereby it would stall while downloading upgrades
+	- implemented the squad management menu so you don't have to memorize all the commands
+	- added new squad-owner management commands (?squadtransfer, ?squadpassword, ?squadkick)
+	- display more info during game load (just for fun)
+
+~B~4v0.40	Monday, May 28, 1999~2~B
+	- certain prefire items (like vehicle makers) now have an execute location at the end of the pre-fire delay instead of at the beginning
+	- popup menus enhanced with hot-letters (shading slightly changed to make more visible)
+	- space-bar (action key) enhanced to popup inventory or player-list menu if there is nothing highlighted on the game-field (allowing keyboard interface to slot things)
+	- predefined characters added to skills
+	- more-info not changing in store when using keyboard bug fixed
+	- ability to tie default vehicle to a skill that you own added (also, ability for server to change default vehicles on the fly)
+	- added partial prize pickups with keyboarded menus (considering adding number-hot-keys to all popup menus, let me know what you think)
+	- added some extra server side protection for corrupt packets (not sure what happened, but some bad packet data crashed the server)
+	- fixes mouse-draw bug (note: the frame rate actually displayed was off by a mile, ignore that, it was not your real frame rate)
+	- mouse-draw fix might actually result in a performance improvement on some system when full-screen double buffering (TNT users who triple-buffer, tell if triple-buffer OFF is any better now)
+	- got rid of name-bounce on man
+	- fixed bug where death sequence was playing wrong animation for cars/man
+	- completely reworked the way projectile and vehicle collisions are detected, either it will work much better or not at all, time to test it I guess
+	- roll and duck removed from man (in fact, the man is now a specialized type of car, so might act a touch differently than before)
+	- strafe added to vehicles
+	- added remember of slot assignments on a per zone basis between program runs
+	- fixed bug where items not assigned icon graphics crashed if hidden and touched by the mouse
+	- dead tank driver bug fixed (I think)(where tank could not be hit if driver were dead)
+	- reorganized the way inventory list looks
+		- color changes 
+			green=slottable (darker=unqualified or no ammo)
+			yellow=utility item (darker=unqualified)
+			white=unuseable (ie. ammo, etc)
+		- changed sort order to weapons,utilities,other-slottables,unuseables
+		- mini purple slot-indicator added (similar to spectator indicator on player list)
+	- keyboard slotting/unslotting of utility items added
+	- skill qualification for utility items is now noted when that is the reason you can't use something
+	- nasty death bug fixed (I think)
+
+~B~4v0.39	Monday, May 17, 1999~2~B
+	- bug in health-repair not taking into account attribute linking fixed
+	- skip-splash screen/music option added
+	- vehicle removal parameters added for car type vehicles
+	- terrain messaging added
+	- category codes added to utility items to allow grouped overslotting checks
+	- projectile directional recoil effect added (based on projectile velocity)
+	- ?wipecharacter command added (you must be in spectator mode), menu-option to do similar to be added in future
+	- spectator store/skill limitations added
+	- terrain features added: repair, heal, charge, safety, team-changing, store, skills
+	- attribute relationships established: health, energy, thrust, top-speed, weight
+	- fixed ?away crashing on response bug
+	- terminated looping start-screen sound upon connect attempt such that it can auto-upgrade if necessary
+	- fixed resize bug whereby if message area was large and window was shrunk, message area could be larger than total window size
+	- gradient fill clipping bug fixed
+	- added feature that when ticked item is already slotted, hitting the fire-ticked-item-key actually fires the slot it is in
+	- fixed bug where vehicle weapons were not routing to other players
+	- added sysop commands for adjusting experience
+	- fixed bug whereby repair kits (ExecuteItem's) were not obeying the ammo use settings
+	- added security to ensure that player actually owned a weapon they fired (as well as having the ammo check as before)
+	- inventory limits set on a per item basis (you can't use item if you have too many of them -- but you can transport all you can carry)
+	- number of slotted utility items limited on a per item basis
+	- damage mode added to weapons, so they can be configured to not damage yourself or your teammates
+	- customizeable trail graphic effect delay added
+	- ability to configure vehicles to display their current hit points added
+	- versioning scheme and many new parameters added to various configuration files
+	- server bug fixed where it was crashing trying to distribute assist points on a non-player kill
+	- different pricing schemes added for attributes and skills
+	- ticked item becomes unfireable via the ticked-fire key if it is already assigned to another slot (key).
+	- hopefully fixed the flickering bug after alt-tabbing or changing resolutions
+	- spectator mode switching crashing game bug fixed (note: hotvehicle was used null in a spot)
+	- use notified of their particular reward for kills (including assist points as appropriate)
+	- added reward system for experience and cash (currently configured to mirror point system, but that will change)
+	- fixed bug where auto-slotted items would override vehicle-assigned blank slots
+	- fixed tiny bug in database server sql query
+	- put in code to display health of computer turrets
+	- fixed bug that caused computer turrets to go above 100% health
+	- crashing bug when drop all inventory fixed
+	- changed auto-turrets to appear in different color (dark-green = friendly, dark-red = enemy)
+	- fixed bug ?team not displaying the team you are on unless you have full energy
+	- fixed bug where it double-joins spec frequency when done explicity (also notify non-spec players of wrong-password when trying to join spec)
+	- nasty communications bug where it was auto promoting an unreliable internal packet to a reliable one, resulting in nested reliables and lockups during login
+	- notification for when news or release notes changes
+	- reverse disqualification skill checks added to game server (existing disqualifications ignored)
+	- logic display for skills/vehicles/items added to info screen
+
+~B~4v0.38	Thursday, May 6, 1999~2~B
+	- alpha-testers now required to fill out demographics form (just trying to keep people honest)
+	- use of vehicles and items tied to skill logic qualifications (the great circle is complete)
+	- change ESC key to go-back instead of done (SHIFT-ESC is now immediate done)
+	- reorganized font options to have one font option for all main-area font displays
+	- added go-back buttons to various screens for consistency
+	- menu system navigation/selection changed to fire-weapon (left or right) key (likewise for buying stuff at store/char-gen screen)
+	- keyboard interface added to the store/char-gen screens
+	- store screen modified to note logic qualification and ownership status of items
+	- user interface made more consistent visually with gradient enhanced fills added as well
+	- initial implementation of character generation screen
+
+~B~4v0.37	Saturday, May 1, 1999~2~B
+	- game server enhanced to auto-reconnect to database server when it comes online
+	- health guages swapped with notepad (graphics will be changed appropriately after we decide if players like it this way better)
+	- will now auto-use lowest available resolution when resolution found in registry is not available
+	- if disconnected while trying to enter game or you abort, it will now return you back to the login screen
+	- fixed ?away message to actually send away message out when it received private messages
+	- no longer allowed to manipulate inventory or execute certain inventory items while dead
+	- changing teams while inside of a vehicle or bunker no longer allowed
+	- new keyboard processing technique that prevents errors and lost keys (particular on slow machines) (internal note: added syncronous CheckGameKey processing so it did not double-fire multi-key entries during key down messages -- asyncronous key process still valid for non-key-down key processing)
+	- changed to allow alt/shift/ctrl to be used for any keyboard defined function (note: propogated them on key down messages)
+	- added ?spec command to see who is spectating you
+	- do not allow changing to spectator mode unless have full energy
+	- do not allow switching teams unless have full energy
+	- warp player when they change frequencies
+	- items now only allowed to be in one slot at a time (even if you have multiple ones in inventory) (ticked-item slot excluded)
+	- items removed from slots because they were not found in inventory are auto-reslotted when the appear in inventory again (test this please :)
+	- snap sniper-mode back to 0 when you die
+	- fade-in/fade-out of vehicles entering/leaving LOS sped up
+	- distance and accessibility checking for getting into vehicles and picking up items added (must be close to things and not blocked physically)
+	- fixed draw order bug where dynamic-last lights were not drawing at all
+	- bug in dserver not saving inventory item blob properly fixed
+	- sniper-mode quick-return implemented (let me know how it feels)
+	- encrypted passwords in registry to prevent snooping
+	- fixed LOS so you can't see through walls when standing right next to them
+
+~B~4v0.36	Wednesday, April 28, 1999~2~B
+	- SQL server implemenation for database (includes all the enhancements that go along with that)
+	- going from spec mode to in game crash bug fixed (thanks Etharion for the dr.watson log)
+	- got rid of fast and trickle channels cause they were either now obsolete or unused
+	- improved reliable communications with more aggressive resend algorithm
+	- reset spectator energy and bounty on entry into game
+	- display of health rounded up so 0 is not displayed if you still have fractional health left
+	- possible fix of flickering problems after ALT-TAB out of application
+	- fixed bug where scroll bar position didn't update in player-list when scrolled via keyboard
+	- when message area is in Info mode, scrolling inventory-list with keyboard now updates info displayed
+	- pressing left-hand fire key (ctrl) while in spec mode will spec the currently ticked name
+	- spectating of spectators disallowed
+	- fixed bug with spectators registering with the collision grid (should fix spectators setting off mines and stuff)
+	- fixed spectator taking damage bug
+	- nominal resend delay modified to take into account up to 400 bytes of outstanding traffic (should result in more multi-packetings of lost multi-packets for faster recovery)
+	- scroll back history increased from 200 to 1000 messages (more efficient storage system implemented)
+	- kill messages will only be logged to message queue if filtering is off, or if kill involved player in some way
+	- kill messages involving player popup in red
+	- stripping of duplicate messages sent within 2 seconds of each other (client side)
+	- whether you can kill yourself or not is now a zone parameter
+	- spectators indicated by an 'S' in the player list
+	- spectators automatically put onto 'spec' team and removed from 'spec' frequency when joining game
+	- fixed bug where it wasn't keeping the highlighted player name when people entered/left arena
+	- warp key removed (now a sysop command *warp sent publicly for random warp of self)
+	- grayed out popup messages made easier to read (more contrast)
+	- message macros executing other functions bug fixed
+	- multistroke gamekey key-repeat bug fixed
+	- various triple buffering bugs fixed
+	- pre-compiled map coordinates removed from radar
+	- server message wrapping bug fixed
+	- weight/encumbrance display updating constantly
+	- time-clock added
+	- I am almost positive I fixed the memory corruption bug, what a nasty bugger (for my own future reference, the player object wasn't getting removed from the quick grid and a packet came in for it) -- debug code has been removed, bug fixed
+	- put in a ton of debug stuff trying to find memory crash, I need players help on this one (note: this will cause infantry to hit the hd constantly and run very slowly)
+		if you get the Normal Block error message, note the message exactly and send me the infantry.log file that should be in the same directory as infantry.exe
+	- fixed crash bug sending messages to secondary chat channels
+	- prevent players from getting into a vehicle not owned by their team
+	- fixed score tracking bug whereby it was giving vehicle kills for killing the man in the vehicle
+	- fixed timing bug where you die and the vehicle you had just gotten into is what actually gets killed
+	- fixed bug where team-full message was going to everybody in the arena
+	- fixed bug where spectators on a team got assist points if they watched the kill
+	- fixed bug where when your body dies while in a vehicle, your dead body appears back where you got into vehicle
+	- fixed bug where entering game from spectator mode started where you went into spec. mode
+
+~B~4v0.35	Thursday, April 15, 1999~2~B
+	- improved computer turret aiming (special thanks to Digital for the mathematically accurate solution to this problem)
+	- text file viewer for news and stuff
+	- reorganization of menus
+
+~B~4v0.34	Monday, April 12, 1999~2~B
+	- misc bugs
+	- have computer turrets take into account their own barrel-length when doing targetting calculations
+	- limit setting of view-adjust-percent to 0 to 100%
+	- stuff highlighted but not picked up if message is being typed (only if Pickup (Enter Vehicle) key is a valid typeable character)
+	- database format header added with database version verification (padding bytes also removed)
+
+~B~4v0.33	Wednesday, April 7, 1999~2~B
+	- toggle notepad mode key added (F2 by default)
+	- quick exit vehicle key added (shift-space by default)
+	- displaying wrong key name in notepad bug fixed
+	- Info on multi-weapons with no children bug fixed
+	- getting into vehicle after dieing bug fixed (I think)
+	- keyboard mapping changed a bit, a little more intelligent about key-sharing between typable keys
+
+~B~4v0.32	Tuesday, April 6, 1999~2~B
+	- in-game option to have translucent walls disappear instead of alpha-blending (for better performance)
+	- ability to configure pressing 'Enter' to type messages, allowing the redefining of letter keys for other things
+	- improved inventory and player-list keyboard interface added (note: you should go into keyboard-settings and restore defaults)
+	- switched to server-controlled warp-in and vehicle-resets
+	- warping (temporary feature anyways) limited to default vehicle
+	- tick weapon fire keys off last belt slot for vehicle-override fire permissions
+	- double handed weapon concept removed
+	- ability to fire the ticked item
+	- concept of a ticked inventory/player list item added (many keystrokes rearranged by default)
+
+~B~4v0.31	Thursday, April 1, 1999~2~B
+	- made slottable vehicle-maker kits, got rid of seperate execute method
+	- control kits for computer turrets
+	- prefire weapons effects and delays
+	- computer controlled turrets
+	- more rpg stuff (nothing to see yet still, just internal stuff)
+	- attempt to fix performance problem with some TNT based cards
+	- strip invalid inventory from players inventory
+	- do not allow purchasing of items in store that are not allowed
+
+~B~4v0.30	Monday, March 8th, 1999~2~B
+	- smoothing algorithm relaxed (enemy should appear less jerky)
+	- spectator mode fixed
+	- store implemented
+	- categories added to inventory items (for store)
+	- nasty AppString overflow bug fixed (caused rockets to go astray)
+	- huge font added
+	- misc other stuff I forgot to write down (sorry)
+
+~B~4v0.29	Friday, Feb. 19, 1999~2~B
+	- optimized reliable transfers (particularly for large transfers of files)
+	- fixed specator bug (divide by zero, occured when inventory displayed and doing encumbrance calculation when stopWeight was 0)
+	- undrawn sliver on left of radar fixed
+	- left mouse-click on radar now toggles between map and main screen
+	- *warp and *summon added (sent as a private message to a player, warp takes you to that player, summon brings that player to you)
+	- *prize item:quantity (item can be id or full-name, quantity optional defaults to 1)
+	- encumbrance guage added to notepad and other weight-related enhancements
+	- server verification of itm and veh file links (1 minute recycle on failure)
+	- notepad area reorganized, guages given own screen area
+	- non-proportional number printing improved to auto-center thin numbers
+	- message wrap bug fixed
+	- scroll-bar grabbing focus when not hit bug fixed
+	- fully-configurable font sizes
+	- new medium font
+	- project weapon inactive time added (either delay or after bounce)
+	- weapon recoil added
+	- vehicle speed bug -- apparently vehicles weren't compensating for perspective at all
+	- inherited speed can now be configured to only inherit speed in the direction fired -- very useful for directional projectiles like lasers.
+	- when in info-mode, inventory items auto-info as selected
+	- death messages slowed down
+	- death messages and popup messages duplicated in message-area and are now a filter type (still need graphics for that)
+	- gray-out resolution player is already in
+	- disallow spectator mode to pickup things and various other things
+	- fixed 0 byte packet for initial vehicle creation when no vehicles existed
+	- hour-glass put up during login procedure
+	- clipping name-tag when zooming problem fixed
+	- connection to server lost message added
+	- notepad area dirtied when weapon ammo runs out so it turns red
+	- popup-vehicle-menu screwups while in spec-mode fixed
+	- quick-reply :: prevent recording self as last private message fixed
+	- crashing when message-filtering enabled and not very many messages fixed
+	- player-list sorted by friend/enemy then alphabetically.
+	- database server name-change facility added (*changename oldName:newName)
+	- asking to upgrade same file multiple times when refused first time fixed (should not send delta-files in main required files list)
+
+~B~4v0.28	Wednesday, Feb. 10, 1999~2~B
+	- terrain types added (vehicle, weapon, shadow-adjustment supported)
+	- new level format, divided into two pieces to keep things small (.lvb file is a .blo format)
+	- .lvl portion of level RLE compressed
+	- auto-upgrade system including delta-updates, xfer-compression, and exe updating (all files now updateable)
+	- spectator mode
+	- energy/shield relationship parameterized
+	- space-bar quick hop-in vehicle support
+	- numbered popup menus
+	- popup menu title support
+	- quick mouse disappear on keystroke
+	- fixed warp-in audio effect bug for other players
+	- login screen modifications to allow direct sysop password
+	- slot management bugs fixed
+
+~B~4v0.27	Thursday, Jan. 15, 1999~2~B
+	- configurable view-adjust and rotation-ramp settings
+	- options screen programming
+
+~B~4v0.26	Tuesday, Jan. 12, 1999~2~B
+	- independent linking of database parts (ie. scoreId, characterId, inventoryId)
+	- database tracking of servers
+	- name-tags no longer blit-sorted (they draw last on top of everything now)
+	- blit-sorting bug fixed, completely new algorithm
+	- Indeterminate sort order of CFS's created to speed up blit-sorting
+	- full-map view (INSERT key is default toggle-key)
+	- coordinate system created
+	- secondary slots concept got rid of, all slots are primary slots now
+
+~B~4v0.25	Thursday, Jan. 7, 1999~2~B
+	- initial vehicle placement and hiding
+	- encumbrance system and related items
+	- bounty system, point system, and related items
+	- info system for inventory items and vehicles
+	- default profile and inventory parameters (in .cfg file)
+	- :: quick private reply
+	- hoverboard programming
+	- energy drain vehicle/armor protection added
+	- points tracked by kills/assists/bonus points independently, score-chart enhanced
+	- private cross zone messages
+
+~B~4v0.24	Friday, Dec. 18, 1998~2~B
+	- score tracking and display
+	- scroll bar system
+	- mouse capturing system, some mouse-action reworking as well
+	- interactive message area resize
+	- energy system
+	- armor system
+	- damage types
+	- battery prizes
+	- generator prizes
+	- armor prizes
+	- utility slot system
+	- vehicle armor
+	- vehicle energy drain
+
+~B~4v0.23	Sunday, Dec. 6, 1998~2~B
+	- reliable packet overflow bug fixed when too many vehicles
+	- reliable queue doubled in size
+	- faster/smarter reliable channel scheme implemented
+	- login scheme changed for clarity
+	- blobs implemented
+
+~B~4v0.22	Friday, Dec. 4, 1998~2~B
+	- proportional fonts added
+	- preparations for non-serialized release
+	- simple please-wait screen added
+	- switched team/private font colors back to what people are used to
+	- coupon validation added
+	- main menu system added
+	- on the fly resolution switching
+
+~B~4v0.21	Monday, Nov. 23, 1998~2~B
+	- completely new level (titan)
+	- some new sysop commands (recycling and stuff)
+	- message filtering system (see comm's tab in notepad area)
+	- database server initial implementation including:
+	-	name/password verification and new account creation
+	-	cross zone chat channel system
+	-	squad management (squads added to game)
+	-	cross zone squad chat system
+	-	coupon system (any coupon-code is currently valid)
+	-	database storage, users, squads, and score/char-data (no data yet to store)
+
+~B~4v0.20	Monday, Nov. 2, 1998~2~B
+	- new title screen
+	- two new tank types (113 and 114)
+	- sniper-mode sighting
+	- improved level
+
+~B~4v0.19	Friday, Oct. 31, 1998~2~B
+	- popup messages
+	- red listed weapons in inventory for no ammo
+	- smart proximity triggers
+	- prevented random inventory quantity of 0 bug
+	- CFS blit bug fixed (light/pixel seperation check bug)
+	- complex prize hiding (iic file)
+	- all movement changed to high-precision tracking
+	- improved top-speed model to handle low friction conditions properly
+	- player initial random inventory removed
+
+~B~4v0.18	Tuesday, Oct. 20, 1998~2~B
+	- vehicle to vehicle collisions
+	- inventoryable vehicles
+	- pickupable vehicles
+	- multi-weapons
+	- new weapons/vehicles/level features
+	- more sophisticated projectiles (rotational parameters)
+	- optimization of pre-loading graphics/sounds
+	- empty vehicle collisions
+	- vehicle creation warping to prevent getting stuck
+	- cfs based sort adjustment parameter for better sort ordering of vehicles in particular
+
+~B~4v0.17	Tuesday, Oct. 6, 1998~2~B
+	- quick prize pickup added (SPACE-BAR when not typing messages)
+	- two new vehicles (rocket tank (112 - incomplete) and Chin Turret Buggy (104))
+	- out of ammo sound
+	- extended line of sight and increased local visible region size
+	- serious bug with server not tracking vehicles states properly fixed (major code changes)
+	- cfs compiler 64k bug fixed
+	- Mockup RPG screen added to game (F11)
+	- default resolution set to 800x600
+	- sort adjust parameter added to dependent vehicles to allow turret-draw-first functionality
+	- other bug fixes
+
+~B~4v0.16	Friday, Oct. 2, 1998~2~B
+	- improved sights
+	- bunker vehicle (200) added
+	- team line of sight
+	- line of sight bug fixes
+	- hidden area of line of sight now shade (F12 toggles from off/auto/on)
+	- added command ?showfog on/auto/off/alpha/normal
+	- other bug fixes
+
+~B~4v0.15	Monday, Sept. 28, 1998~2~B
+	- muzzle flash
+	- z collisions between weapons/vehicles
+	- ignore damage parameter for vehicles
+	- warp-in effect for enemy warping
+	- dead body still around after resurrected bug fixed
+	- improved packet routing on server
+	- new level physics model -- allows half height of all types
+	- cliff concept support (part of physics redo)
+	- cool new level stuff
+	- misc bugs
+
+~B~4v0.14	Monday, Sept. 21, 1998~2~B
+	- special effect added to buggy
+	- proper vehicle physics
+	- proper weapon collisions
+	- dependent vehicle collisions
+	- server assigned colors
+	- new man graphic
+	- improved damage model
+	- barrel length and fire height improvements
+	- bugs fixed
+
+~B~4v0.13	yeah right~2~B
+
+~B~4v0.12	Monday, Sept. 7, 1998~2~B
+	- vastly improved level (floors/lights/everything)
+	- special effects on tank vehicle
+	- weapon configurable sighting tick marks
+
+~B~4v0.11	Saturday, Sept. 5, 1998~2~B
+	- new lighting model - 32 shades of each color, high memory rendering technique removed
+	- object lighting changed, lights now have a color and an intensity attenuation.
+	- radar palette optimizations improved and palette colors increased to 512
+	- initial implementation of multi-man vehicles (including turrets)
+	- vehicle weapon assignments added
+	- floating tag windows
+	- dependent turret vehicle type created
+	- improved mouse hit-testing (more intelligent about what get's selected)
+	- line-of-sight fade in/fade out improvements (more alpha levels, less bugs)
+	- server address combo box added
+	- /quick command line parameter start added
+	- new application icon
+	- bugs fixed
+
+~B~4v0.10	Monday, Aug 24, 1998~2~B
+	- new weapon model implemented
+	- jetpack with effects added
+	- cfs enhanced to have recommend flags
+	- itm file switched back to ascii based
+	- top speed for vehicles implemented
+	- generalized vehicle/man palette scheme implemented
+	- cfsBlitFrame changed from parameters to flag-bits method (faster)
+	- 66% and 75% alpha blending added
+	- queuing of palette tromps implemented
+	- adjustable Y sort during blit queuing to effectively allow a true z model
+	- old weapons converted to new model (and improved while at it)
+	- bugs fixed
+
+~B~4v0.09	Thursday, Aug 12, 1998~2~B
+	- inventory item icon changing bug fixed
+	- simple vehicle support added
+	- fixed space font formatting option in view file screen added
+	- major reorganization of high level rendering engine (special wall handling removed)
+	- combat awareness time bug fixed
+	- misc stuff
+
+~B~4v0.08	Thursday, Aug 6, 1998~2~B
+	- misc bugs
+	- 3d sounds
+	- death and warp-in sounds
+	- briefing (?briefing)
+
+~B~4v0.07	Monday, Aug 3, 1998~2~B
+
+	- New 45 degree isometric point of view and movement (primary thing in this release)
+	- Communications layer improved for better performance on high bandwidth lines.
+	- Inventory screen and other UI enhancements
+	- CFSConvW program modified to allow CFS file viewing
+	- Misc bugs.
+	- Complete rewrite of rendering engine and stuff...sorry so much changed
+	  I gave up documenting stuff for this release.
+
+~B~4v0.06	Monday April 27, 1998~2~B
+
+	- Team selection stuff.  ?team <name>[,<password>]
+	- Default team names assigned to public teams
+	- Player name centered under character
+	- Invalid message box bug fixed (on team change)
+	- Crouching added
+	- Crude damage model implemented.
+	- Player killing implemented (no score keeping yet)
+	- Server assigned player coloring added.  No way to tell server what to set your man color
+		to yet though.
+	- NT bug fixed
+	- Palette registration system reworked to allow player specific color models to participate.
+	- Flash bombs added.
+	- Editor enhanced to show tile height.
+
+~B~4v0.05	Monday, April 20, 1998~2~B
+
+	- New message box border
+	- Ambient lighting effects applied to objects and vehicles
+	- Line of sight checking implemented 
+		(needs fine with environment to get peek around corner effects)
+	- Message scrollback bug fixed (it didn't go all the way to first message)
+	- Added option to continue rending graphics when game window is not active.
+	- Modified viewpoint algorithm to not scroll around as much particularly while sniping.
+	- Percent of inherited speed parameter added to weapon profiles.
+	- Maximum height parameter added for ballistic weapons.
+	- Night vision effect added.  We can do other similar effects with other colors too.
+		(press SHIFT-PGUP to turn on and SHIFT-PGDN to turn off -- note that these
+		keystrokes also adjust ambient light level, so you change both at the same time,
+		so you might consider doing SHIFT-PGDN many times to get it a little bit dark
+		then doing SHIFT-PGUP to turn the night-vision effect on)
+	- Black/white effect.  This effect is similar to the night-vision effect only it uses the
+		luminence of the color and then maps it to the rgb tint specified. (no way to see it, sorry)
+	- Friction parameter added to weapon profiles.
+	- Bullet bounce sound support added.
+	- Command ?use2 <x> added.  This puts specified item in your other hand (ie. TAB key)
+	- No lights blit mode added.  This effectively strips shadows from things for performance.
+	- Special draw order 40 added, this effectively sorts objects top to bottom so they paint in right order
+	- Special draw order 31 added, this effectively draws shadows staticly and the pixels in draw
+		order 40, making for much better performance of things like crates.
+	- Line of sight display key added.  Currently mapped to F12.  Dots represent what you can see.
+	- True alpha-blending added.  Translucent percentages available are hard-coded for performance
+		at 25%, 33% and 50% translucency.  Full spectrum of colors available and performance of
+		50% model is better than that of lights (or at least it will be when optimized :)
+	- Line of sight fade in/fade out effect added.  The man now fades in and fades out when going in/out
+		of view.  This is the first use of the alpha-blending effect.  (try it while zoomed, very cool)
+	- New sample weapons added.  See standard.itm file for complete list, but you have:
+		Lasers (100-103), Grenades (110-113), Bombs (120-123)
+
+~B~4v0.04	Thursday, April 9, 1998~2~B
+
+	- Weapon sound effects added
+	- Player/bullet collisions (simple, no damage model or anything)
+	- User defineable keys
+	- ALT key support (defaults to strafing)
+	- Demonstration zoom capability added.
+	- Command ?zoom <x> added (DEBUG VERSION ONLY)
+		specify the maximum allowed zoom (1000 = 2x, 2000 = 3x, 4000 = 4x, etc...)
+	- Command ?zoomspeed <x> added (DEBUG VERSION ONLY)
+		specify the amount of time it takes to zoom through one zoom factor (in ticks)
+	- ALT-TABing out of application and coming back in now supported.
+	- Smart packet routing on server implemented (mostly complete -- needs rotational enhancements)
+	- ReliableFast weapon routing option added to weapons.
+	- Palette shift support added to objects, vehicles, and inventory items.
+	- Light permutations added to vehicles and inventory items.
+	- Cool screen-melt effect added when switches resolutions (rod hates it :)
+	- Player list UI box added
+	- Sample player list added, no support for scrolling or name selection yet
+	- Expired vehicle elimination support added to radar and collision detection.
+	- Fonts converted to CFS format saving space and allowing for use of palette shifts for tons of colors.
+	- Coloring changed (green = friendly, red = enemy, yellow = private (in messages))
+
+~B~4v0.03	Wednesday, April 1, 1998~2~B
+
+	- First release to include release notes
+	- Lighting model slightly tweaked.  Note: placing of multiple lights in same spot not as necessary
+		any more and places where it has already been done will tend to look worse).
+	- Dot going off bottom of radar bug fixed
+	- Server modified to throw away out-dated/duplicate position packets
+	- CFS object enhanced to do frame-mirroring in x and y by creating virtual-frames
+	- Threshhold added to automatic point-of-view adjustments such that tiny movements 
+		don't cause POV repositioning (not sure I like this or not, may need a litte more work)
+	- Some CFS files modified to take advantage of mirroring feature (helmet light in particular)
+	- Radar art added.
+			Note: lens flare was put in but there were two problems:
+				1) it looked quite bad actually...the dithering in the light was annoying and stuck out badly
+				2) it overlapped onto the border region which is not redrawn every frame, which causes
+					the border to get corrupted after successive draws.
+			Note: Since the border is not drawn ever frame like the radar image itself it was not possible
+				to have the gold lines on the radar overlap the radar image as seems to be intended.
+	- Command ?sprite <file.cfs>  added (DEBUG VERSION ONLY)
+		specify a cfs file you want loaded into the game for quick-viewing (no filename unloads sprite)
+	- Command ?speed <x>  added (DEBUG VERSION ONLY)
+		specify speed the loaded sprite animates in hundredths of a second (ticks) (default = 100)
+	- Command ?row <x>  added (DEBUG VERSION ONLY)
+		specify which row number you wish to view animated (default = 0)
+	- Several bugs in CFS::ScaleRows fixed.  (duplicate frameOffset but different frames caused problems)
+		(note: had to ensure that cfvconv program did not produce any zero length frame-chunks too)
+	- Light permutation generation bug fixed.
+	- Light permutation table generation hard coded
+	- Light permutation code optimized
+	- Inventory item description heirarchy implemented
+	- Simple laser weapon demo added
+	- Command ?use <id>  added (DEBUG VERSION ONLY)
+		specify the item id (out of the .itm) of the weapon you wish to use (default = 100)
+		at release time, 100-103 were valid values and represented different colored lasers
+	- Draw order sorting added.  Draw order 40 was reserved to represent items that should be drawn
+		in sorted order from top to bottom of screen.  Vehicles and weapons participate in this sort as well
+	- Palette offsetting feature added. (similar to light permutations only for solid pixels)
+	- Side strafe movement added (no animations yet)  Use SHIFT-LEFT/RIGHT while not running.
+	- Bounced bullet rotational frame miscalc bug fixed.
+	- File download bug fixed - was actually a couple bugs in low level comms.
+		Large split packets created too large of packets that wanted splitting as well.
+		Source offset for secondary chunks of split chunk were being miscalculated.
+	- Graphics fixes (big light and laser had bad pixel colors)
+
+~B~4v0.02	Undocumented~2~B
+
+~B~4v0.01	Undocumented~2~B

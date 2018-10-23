@@ -1,0 +1,98 @@
+~
+~B~0USL Granted Players~B~0
+
+
+
+Granted Players (GP) are certain players in the league who have been extended mod powered GP aliases for limited use. The limited use is defined as only being allowed to use the prescribed commands in the GP permitted commands list, and only using the GP alias in private arenas. 
+
+Granted Players are appointed directly by the main captains/owners of USL squads. Each captain may appoint ~Btwo~B Granted Players for their squad. Granted Players may be also be removed at anytime if the main captain requests it. 
+
+Below are the guidelines and permitted commands that Granted Players must adhere to. They are shown here for both prospective GPs to read and understand, as well as for all players to know what the conduct of Granted Players ought to be, so that any deviation from it can be reported. GP powers are an exclusive privilege provided by the zone administrator, and therefore may be removed by the zone administrator at anytime for any reason deemed worthy. 
+
+
+
+
+
+~B~1Guidelines:~B~2
+
+- Only use GP alias in private arenas. 
+
+- Only use commands in the way they're listed on the GP permitted commands list.
+
+- Do not use any commands in public arenas, defined as non-# arenas.
+
+- Do not enter a private scrimmage arena with a GP alias unless you have the consent of the captains from both team.
+
+- Do not enter non-scrimmage private arenas without the consent of at least one person in the arena.
+
+- Do not release private arena names that are visible with your GP alias.
+
+- Do not use your GP alias to find players in other zones and enter their private arenas.
+
+- Do not excessively use chat bongs, and for illegitimate reasons.
+
+- When using * to chat: Place a space between the * and your message so that it isn't recorded in the commands history (Note: "* hey" not "*hey").
+
+
+
+
+~B~1Permitted Commands List:~B~2
+
+*teamname 1,2 ~4(names can be anything that can't be considered foul language) ~2
+*unspec ~4(syntax - :hellraiser:*unspec - unspecs target player to team with least players, specify name for specific team) ~2
+*spec ~4(syntax - :hellraiser:*spec - sends target to spec mode) ~2
+*spec all ~4(sends all players to spec) ~2
+*team ~4(syntax - :hellraiser:*team Titan) ~2
+*warp ~4(send privately to warp to specified player, publicly to warp to random location) ~2
+*summon ~4(send privately) ~2
+*timer ~4(specify time - i.e. *timer 1:30 - results in 1 minute 30 second timer) ~2
+*specquiet ~4(restricts spectators to spec chat only) ~2
+*endgame ~4(ends active game) ~2
+*restart ~4(restarts game) ~2
+*watchmod ~4(disables/enables personal viewing of mod commands) ~2
+*goto ~4(specify exact location - i.e. :hellraiser:*goto 140,333) ~2
+*scramble ~4(syntax - *scramble (scrambles teams)~2
+*arena 
+*shutup ~4(send privately; never silence other GPs or USL Staff)~2 
+*prize ~4(only to be used for squad practices; you are allowed to prize grenades, laws, and ammo. Do not prize anything that gives your character something that it normally does not have)~2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

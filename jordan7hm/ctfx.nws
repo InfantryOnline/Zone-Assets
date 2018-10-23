@@ -1,0 +1,134 @@
+~B Infantry CTF~B
+~B CTFX
+
+CTFX: The Private team, more extreme version of CTFX. Capture the 4 flags to win.
+
+
+The zone is capped at 225 player in game. Let us see how full the zone can be.
+
+Please post any bugs you find on the ctf forum @ www.freeinfantry.com
+
+
+~5
+~BZone Sysop:~B
+Skin
+
+~BMods:~B
+Phlow
+X15
+Iz-Good
+dangerz
+hed
+Kuptain
+Alexan Drite
+~6
+I would like to publicly acknowledge the excellent work your moderator team is doing to ensure that this zone is fun for everyone. Phlow, X15, and Iz-Good do not get paid, they are helping out for the love of the game, and their assistance is invaluable. Thanks lads! =)
+~5
+~BGlobal Mods:~B
+aaerox
+Cirex
+Chronologix
+Tron
+Cadiz
+SkidRow
+7hm
+Syco
+Chuckie
+dangerz
+
+~6
+~B Voice Macro Sounds~B
+Bong #        says:
+18	Flank Needed!
+19	Flanking!
+20	Cloakers!
+21	Rally on Coordinates
+22	Acknowledged
+23	Affirmative
+24	Attacking
+25	Defending
+26	Enemy Sighted
+27	Request Summon
+28      Under Attack
+29      Base Critical
+
+~2 Zone Updates
+
+
+~B Dec 23, 2006~B
+
+-Flags No longer drop on mineral terrain
+- SL and Captains teleport reload reduced to 2 seconds
+~B Dec 22, 2006~B
+
+
+
+
+~B Bug Fixes~B
+
+-Fixed Frag Grenade energy damage blast radius.
+-Fixed Gas mine graphic
+-regular PA now has proper graphic
+-Fixed Maklov Incinerator skill logic.
+-Fixed the height of BioChem and Captain.
+-Fixed FlightPack display health mode bug.
+-Corrected DropPack energy recharge rate.
+-Corrected Kuchler A6 CAW description.
+
+~B Gameplay ~B
+-Spawns restored to previous 8 spawn version warp ignore damage is increased
+-Can no longer use DS recall with flag
+-Maklov Incinerator: Reduced energy drain from 120 to 75.
+-Maser: Made it more difficult to hit turrets.
+-BioLabs GP6: No longer stuns thrust.
+-Kuchler PR209 Muzzle Velocity changed from 4250 to 3500
+-Maklov mk IV PR changed from 4250 to 3300
+-DeathBoard: Reduced carry weight from 100 to 50.
+-DropPack: Reduced carry weight from 85 to 50.
+-Enhanced Filters: Raised psionic ignore from 1 to 2 and psionic protection from 15% to 20%.
+-Maklov G2 ACW: Increased projectile velocity from 7.26m/s to 13.03m/s.
+-Titan Arms mk II CCS: Increased projectile velocity from 7.26m/s to 13.03m/s.
+-Titan Arms mk III SG: Increased projectile velocity from 7.26m/s to 13.03m/s. 
+(in line with CTF)
+-Suit Teleporter: Reduced reload from 10 seconds to 2 seconds.
+-Dropship Recall: Reduced reload from 10 seconds to 2 seconds. (I will be doing the same in CTF soon(tm) )
+
+
+
+
+~BDecember 14, 2006~B
+
+Thanks goes out to Kuptain for parsing the itm file and resolving most of the outstanding bugs. Expect a Holiday version of CTFX to be up shortly
+
+There will be more upgrades to the zone so standby and enjoy.
+
+~BBug Fixes~B
+-Change the way flags are displayed: Either Enemy or Team
+-Ammo Pistol now displays a graphic icon when dropped.
+-Repulsor Coil now displays a graphical icon when dropped.
+-Fixed FlightPack skill logic.
+-Fixed Hoverboard skill logic.
+-Command Classes (Squad Leader, Sergeant, Captain) had Repulsor Field added to their default inventory.
+-Updated Stim Pack description.
+-Updated Energizer description.
+-Fixed the typo where "Sergeant" was misspelled.
+
+
+~BBalance Changes~B
+
+-Repulsor Field: No longer costs any energy to use.
+-Titanium Oxide: Reduced weight from 0.2 kg to 0.1 kg.
+-Unilennium: Reduced weight from 0.25 kg to 0.15 kg.
+-SciOps had Enhanced Sensors added to their default inventory
+
+~B Oct 14, 2006 ~B
+Spawn points teleport to a larger radius
+Flags LOS is now off
+Flags will now be transfered when a person kills a flagger
+Peroidic reward for flags enabled
+Antiwarp is disabled in the DS
+
+Pretty much everything is in a state of flux at the moment, just doing some bug testing.
+~B Oct 12, 2006 ~B
+
+-Zone up

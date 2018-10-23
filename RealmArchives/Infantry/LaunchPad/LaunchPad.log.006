@@ -1,0 +1,1394 @@
+[13:25:18] Log Session Open
+[13:25:18] LaunchPad version v1.75
+[13:25:18] Command Line: "C:\Program Files\Sony\Station\LaunchPad\LaunchPad.exe" 
+[13:25:18] ---------------------------------------
+[13:25:18] System Date is: 12/06/2008 01:25:18pm
+[13:25:18] 
+[13:25:18] 
+[13:25:18] LaunchPad Checksum: 1450514731, Location: C:\Program Files\Sony\Station\LaunchPad\LaunchPad.exe
+[13:25:18] ---------------------------------------
+[13:25:18] CommandLine (m): 
+[13:25:18] RootDir (m): C:\Program Files\Sony\Station\LaunchPad
+[13:25:18] cwd (m): C:\Program Files\Sony\Station\LaunchPad
+[13:25:18] Checking if current user is Admin or Power User
+[13:25:18] Loading internet type
+[13:25:18] Initializing Self-Patcher
+[13:25:18] Patcher: Checking Old Handles...
+[13:25:18] Patcher: Creating Thread...
+[13:25:18] Patcher: Done with Thread Creation Routine...
+[13:25:18] Patcher: Thread Start
+[13:25:18] Patcher: Memory Download Internet Type 3 Begin...
+[13:25:20] Patcher: Memory Download of XML Operation Complete.
+[13:25:20] Patcher: Verifying Download...
+[13:25:20] Patcher: Checking Memory, size of buffer is 471332
+[13:25:20] Patcher: Memory Verification Start...
+[13:25:20] Patcher: m_xmlInfo is a valid pointer
+[13:25:20] Patcher: Memory Download Internet Type 3 Successful.
+[13:25:20] Patcher: Memory Download Successful.
+[13:25:20] Patcher: Contents valid; Continuing Initialization...
+[13:25:20] Patcher: m_xmlInfo is a valid pointer
+[13:25:20] Patcher: Checking XML for Product...
+[13:25:20] Patcher: Checking XML for Root Paths...
+[13:25:32] Patcher: Thread Finish
+[13:25:32] Patcher initialized, initiating self-patch...
+[13:25:32] Scanning Files...
+[13:25:32] Patcher: Checking File: Skins\default\station_images\mini-map.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\popup-fg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\icon.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\textentry-map.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\im-top-tile.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\popup_puck.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\popup-selected.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\popup-map.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\popup-hover.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\popup-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\patcher-progress.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\patcher-map.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\mini-selected.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\mini-hover.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\mini-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\message-map.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\message-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\main-selected.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\main-map.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\main-hover.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\main-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\login-selected.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\login-map.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\login-hover.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\login-focused.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\login-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\im-selected.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\im-right-tile.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\im-map.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\im-hover.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\im-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\chatscroll_tile.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\chatpeoplescroll_tile.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\chatpeople_tile.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\chat_puck_small.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\chat_puck.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\chat-top-tile.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\chat-selected.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\chat-map.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\chat-right-tile.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\chat-left-tile.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\chat-hover.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\chat-bottom-tile.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\chat-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\buddy_mini-selected.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\buddy_mini-right-tile.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\buddy_mini-map.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\buddy_mini-left-tile.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\buddy_mini-hover.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\buddy_mini-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\buddy-selected.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\buddy-right-tile.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\buddy-map.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\buddy-left-tile.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\buddy-hover.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\buddy-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\xbutton-sel.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\xbutton-hov.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\xbutton-focus.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\xbutton-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\okbutton-focus.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\okbutton-center-focus.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\cancelbutton-focus.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\cancelbutton-center-focus.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\okbutton-hov.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\messageBar-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\okbutton-sel.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\okbutton-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\cancelbutton-sel.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\cancelbutton-hov.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\cancelbutton-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\okbutton-center-sel.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\okbutton-center-hov.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\okbutton-center-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\cancelbutton-center-sel.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\cancelbutton-center-hov.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\cancelbutton-center-bg.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:32] Patcher: Checking File: Skins\default\station_images\messageOption-map.png
+[13:25:32] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\mbslider-arrowup-sel.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\mbslider-arrowup-hov.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\mbslider-arrowup-bg.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\mbslider-arrowdown-sel.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\mbslider-bg.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\mbslider-arrowdown-hov.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\mbslider-arrowdown-bg.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\subscribe-bg.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\subscribe-sel.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\subscribe-hov.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\subscribebutton-sel.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\subscribebutton-hov.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\subscribebutton-focus.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\subscribebutton-bg.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\playbutton-sel.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\playbutton-hov.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\playbutton-focus.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\playbutton-bg.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\subscribe-focused.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\mini-focused.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\main-focused.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\im-focused.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\chat-focused.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\browser-focused.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\LaunchPad.ico
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\browser-top-tile.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\browser-sel.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\browser-right-tile.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\browser-map.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\browser-left-tile.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\browser-hov.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\browser-bottom-tile.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\browser-bg.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\chat-disabled.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\message-hover.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\message-fg.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\message-selected.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\messageBoxOption-bg.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\messageBoxOption-map.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\patcher-bg.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\patcher-hover.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\patcher-selected.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\textentry-bg.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\textentry-hover.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\station_images\textentry-selected.png
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\Sounds\click.wav
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\Sounds\slideclose.wav
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\Sounds\slideopen.wav
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\Sounds\spacebuzz.wav
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\default.xml
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: Skins\default\preview.jpg
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Exe Match: Name is LaunchPad.exe, Running exe is launchpad.exe
+[13:25:33] Patcher: Checking File: lpClientConfig.xml
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: load.html
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: strings_de.xml
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: strings_fr.xml
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: dbghelp.dll
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: strings_ja.xml
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: strings_zh_TW.xml
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: strings_zh_CN.xml
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: strings_ru.xml
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: strings_es.xml
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: strings_it.xml
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: lp_plugin.exe
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: sc.dll
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Checking File: NTSpecificModule.dll
+[13:25:33] Patcher: --- Refreshing cache for file.
+[13:25:33] Patcher: Scanning Distribution LaunchPad Distribution ------------------
+[13:25:34] Patcher: Exe Match: Name is LaunchPad.exe, Running exe is launchpad.exe
+[13:25:34] GameName [LaunchPad]: Checking for update
+[13:25:34] Patcher: Exe Match: Name is LaunchPad.exe, Running exe is launchpad.exe
+[13:25:34] Patcher: Scanning Distribution LaunchPad Distribution ------------------
+[13:25:34] Game Update Up to Date.
+[13:25:34] Done updating self
+[13:25:34] About to Load Skin
+[13:25:34] Load Skin Routine Start
+[13:25:34] Looking for Preferred Skin
+[13:25:34] default[13:25:34] Found. Attempting Update...
+[13:25:34] Skin Update Begin
+[13:25:37] PatchSkin C
+[13:25:37] Patch Complete.  Attempting Build...
+[13:25:37] Building App Start.
+[13:25:37] Retrieving directory.
+[13:25:37] Working directory: C:\Program Files\Sony\Station\LaunchPad
+[13:25:37] Attempting load of default Skin XML File 'C:\Program Files\Sony\Station\LaunchPad\Skins\default\default.xml'
+[13:25:37] Skin Directory: C:\Program Files\Sony\Station\LaunchPad\Skins\default
+[13:25:37] Xml File successfully parsed.
+[13:25:38] Building Application GUI Objects.
+[13:25:38] Building Window...
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/login-map.png
+[13:25:38] Done Loading Image
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/login-bg.png
+[13:25:38] Done Loading Image
+[13:25:38] Window "LoginWindow" Built.
+[13:25:38] Building Window...
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/mini-map.png
+[13:25:38] Done Loading Image
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/mini-bg.png
+[13:25:38] Done Loading Image
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/buddy_mini-left-tile.png
+[13:25:38] Done Loading Image
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/buddy_mini-right-tile.png
+[13:25:38] Done Loading Image
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/buddy_mini-map.png
+[13:25:38] Done Loading Image
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/buddy_mini-bg.png
+[13:25:38] Done Loading Image
+[13:25:38] Window "MiniWindow" Built.
+[13:25:38] Building Window...
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/main-map.png
+[13:25:38] Done Loading Image
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/main-bg.png
+[13:25:38] Done Loading Image
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/buddy-left-tile.png
+[13:25:38] Done Loading Image
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/buddy-right-tile.png
+[13:25:38] Done Loading Image
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/buddy-map.png
+[13:25:38] Done Loading Image
+[13:25:38] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/buddy-bg.png
+[13:25:38] Done Loading Image
+[13:25:39] Window "MainWindow" Built.
+[13:25:39] Building Window...
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chatpeople_tile.png
+[13:25:39] Done Loading Image
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chatscroll_tile.png
+[13:25:39] Done Loading Image
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chatpeoplescroll_tile.png
+[13:25:39] Done Loading Image
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chat-top-tile.png
+[13:25:39] Done Loading Image
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chat-bottom-tile.png
+[13:25:39] Done Loading Image
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chat-left-tile.png
+[13:25:39] Done Loading Image
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chat-right-tile.png
+[13:25:39] Done Loading Image
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chat-map.png
+[13:25:39] Done Loading Image
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chat-bg.png
+[13:25:39] Done Loading Image
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chat_puck.png
+[13:25:39] Done Loading Image
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chat_puck_small.png
+[13:25:39] Done Loading Image
+[13:25:39] Window "ChatWindow" Built.
+[13:25:39] Building Window...
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/im-right-tile.png
+[13:25:39] Done Loading Image
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/im-map.png
+[13:25:39] Done Loading Image
+[13:25:39] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/im-bg.png
+[13:25:39] Done Loading Image
+[13:25:40] Window "IMWindow" Built.
+[13:25:40] Building Dialog...
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/message-map.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/message-bg.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/okbutton-center-bg.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/xbutton-bg.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/mbslider-bg.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/mbslider-arrowUp-bg.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/mbslider-arrowDown-bg.png
+[13:25:40] Done Loading Image
+[13:25:40] Dialog "MessageBox" Built.
+[13:25:40] Building Dialog...
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/messageOption-map.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/subscribebutton-bg.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/playbutton-bg.png
+[13:25:40] Done Loading Image
+[13:25:40] Dialog "MessageBoxOkCancel" Built.
+[13:25:40] Building Dialog...
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/okbutton-bg.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/cancelbutton-bg.png
+[13:25:40] Done Loading Image
+[13:25:40] Dialog "FirstTimeWindow" Built.
+[13:25:40] Building Dialog...
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/textentry-map.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/messageBar-bg.png
+[13:25:40] Done Loading Image
+[13:25:40] Dialog "TextEntryBox" Built.
+[13:25:40] Building Window...
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/patcher-map.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/cancelbutton-center-bg.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/patcher-progress.png
+[13:25:40] Done Loading Image
+[13:25:40] Window "PatcherWindow" Built.
+[13:25:40] Building Window...
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/popup-map.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/popup-bg.png
+[13:25:40] Done Loading Image
+[13:25:40] Window "MouseMenu" Built.
+[13:25:40] Building Window...
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/browser-top-tile.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/browser-bottom-tile.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/browser-left-tile.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/browser-right-tile.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/browser-map.png
+[13:25:40] Done Loading Image
+[13:25:40] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/browser-bg.png
+[13:25:40] Done Loading Image
+[13:25:41] Window "BrowserWindow" Built.
+[13:25:41] Building of Application GUI Objects Complete.
+[13:25:41] Preloading Images.
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/login-hover.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/login-focused.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/login-selected.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/mini-hover.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/mini-focused.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/mini-selected.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/buddy_mini-hover.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/buddy_mini-selected.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/main-hover.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/main-focused.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/main-selected.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/buddy-hover.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/buddy-selected.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chat-hover.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chat-focused.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chat-selected.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/chat-disabled.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/im-hover.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/im-focused.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/im-selected.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/okbutton-center-hov.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/okbutton-center-focus.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/okbutton-center-sel.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/xbutton-hov.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/xbutton-focus.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/xbutton-sel.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/mbslider-arrowUp-hov.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/mbslider-arrowUp-sel.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/mbslider-arrowDown-hov.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/mbslider-arrowDown-sel.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/subscribebutton-hov.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/subscribebutton-focus.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/subscribebutton-sel.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/playbutton-hov.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/playbutton-focus.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/playbutton-sel.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/okbutton-hov.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/okbutton-focus.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/okbutton-sel.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/cancelbutton-hov.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/cancelbutton-focus.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/cancelbutton-sel.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/cancelbutton-center-hov.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/cancelbutton-center-focus.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/cancelbutton-center-sel.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/popup-fg.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/popup-hover.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/popup-selected.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/browser-hov.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/browser-focused.png
+[13:25:41] Done Loading Image
+[13:25:41] Loading image C:\Program Files\Sony\Station\LaunchPad\Skins\default\station_images/browser-sel.png
+[13:25:41] Done Loading Image
+[13:25:41] Initializing Data.
+[13:25:41] Build Process Complete.
+[13:25:41] Preferred Skin Build Complete.
+[13:25:41] Load Skin Routine End
+[13:25:41] Passed Load Process
+[13:25:41] Passed Load ClientConfig
+[13:26:51] LaunchPad Server Response: Connection Opened
+[13:26:52] LaunchPad Server Response: Login Response
+[13:26:52] Starting EChat Connection...
+[13:26:53] GETTING OS VERSION --------------- 
+[13:26:53] OS Version: Major 5 Minor 1
+[13:26:53] GETTING IE VERSION --------------- 
+[13:26:53] IV: Registry Key Software\Microsoft open for reading
+[13:26:53] IV: Registry Key Internet Explorer open for reading
+[13:26:53] IV: Key Value is 6.0.2900.5512
+[13:26:53] IV COMPLETE: IE Version is 6 ------------- 
+[13:26:53] EBrowser: Navigate GET {
+[13:26:53]   URL=http://www2.station.sony.com/en/station_client_headlines.jsp
+[13:26:53] EBrowser: Navigate }
+[13:26:53] EBrowser: Navigate GET {
+[13:26:53]   URL=http://www2.station.sony.com/en/station_client_headlines.jsp
+[13:26:53] EBrowser: Navigate }
+[13:26:57] =========== CHAT: Connection Failed.
+[13:27:01] LaunchPad Server Response: Play Response: 0
+[13:27:01] Patcher: Checking File: ctfpl-hp.lvl
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:01] Patcher: Checking File: skirmish.lvl
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:01] Patcher: Checking File: stadng3a.lvl
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:01] Patcher: Checking File: alioth.lvl
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:01] Patcher: Checking File: reload.blo
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:01] Patcher: Checking File: fleetbongs.blo
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:01] Patcher: Checking File: sfx_bh.lvl
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:01] Patcher: Checking File: sounds.blo
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:01] Patcher: Checking File: tankodromesm.blo
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:01] Patcher: Checking File: Asteroids.blo
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:01] Patcher: Checking File: Effects.blo
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:01] Patcher: Checking File: BBall2.lvl
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:01] Patcher: Checking File: f_stadium.blo
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:01] Patcher: Checking File: o_onesided2.blo
+[13:27:01] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: o_vehicles.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: kothtimers.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: crateicons.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: bhsmallaliens.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: stadng3.lvl
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: sbl.lvl
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: subgraph.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: o_f_legacy2.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: tankodrome.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: laser.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: o_floorHoles.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: o_effects2.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: Weapons2.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: dropzone.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: GroundMarkers.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: boomballx3.lvl
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:02] Patcher: Checking File: BugHuntAliens.blo
+[13:27:02] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: f_legacy4.blo
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: headshot.lvl
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: shotgun.blo
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: fps.lvl
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: f_legacy2.blo
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: boomball_projectiles.blo
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: msl2.lvl
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: Weapons.blo
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: f_altmoon.blo
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: TheArena4.lvl
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: o_misc3.blo
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: bongs.blo
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: eolicons.blo
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: football1sm.lvl
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: Projectiles2.blo
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: ArenaRpg.blo
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: o_doors.blo
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:03] Patcher: Checking File: stadng2.lvl
+[13:27:03] Patcher: --- Refreshing cache for file.
+[13:27:04] Patcher: Checking File: tankarena.lvl
+[13:27:04] Patcher: --- Refreshing cache for file.
+[13:27:04] Patcher: Checking File: WZAlpha.lvl
+[13:27:04] Patcher: --- Refreshing cache for file.
+[13:27:04] Patcher: Checking File: ChaosJ.lvl
+[13:27:04] Patcher: --- Refreshing cache for file.
+[13:27:04] Patcher: Checking File: mflash.blo
+[13:27:04] Patcher: --- Refreshing cache for file.
+[13:27:04] Patcher: Checking File: ArmouredCarTurretsA.blo
+[13:27:04] Patcher: --- Refreshing cache for file.
+[13:27:04] Patcher: Checking File: melaschasm.lvl
+[13:27:04] Patcher: --- Refreshing cache for file.
+[13:27:04] Patcher: Checking File: FleetSats.blo
+[13:27:04] Patcher: --- Refreshing cache for file.
+[13:27:04] Patcher: Checking File: icons.blo
+[13:27:04] Patcher: --- Refreshing cache for file.
+[13:27:04] Patcher: Checking File: converters.blo
+[13:27:04] Patcher: --- Refreshing cache for file.
+[13:27:04] Patcher: Checking File: chaoseol.lvl
+[13:27:04] Patcher: --- Refreshing cache for file.
+[13:27:04] Patcher: Checking File: weapons5.blo
+[13:27:04] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: o_landscape2.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: License.txt
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: o_eol_extra.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: o_arenarpg.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: zvh.lvl
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: flameprojectiles.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: rpgnpc.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: ljc2.lvl
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: bughuntsounds.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: o_tankodrome.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: o_blood.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: o_onesided.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: ambient.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: bokr.lvl
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: rifle.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: f_colors.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: Kmine.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: stadng3bigbl.lvl
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:05] Patcher: Checking File: Weapons3.blo
+[13:27:05] Patcher: --- Refreshing cache for file.
+[13:27:06] Patcher: Checking File: fleetfighters.blo
+[13:27:06] Patcher: --- Refreshing cache for file.
+[13:27:06] Patcher: Checking File: f_grassdirt.blo
+[13:27:06] Patcher: --- Refreshing cache for file.
+[13:27:06] Patcher: Checking File: weld.blo
+[13:27:06] Patcher: --- Refreshing cache for file.
+[13:27:06] Patcher: Checking File: o_barriers.blo
+[13:27:06] Patcher: --- Refreshing cache for file.
+[13:27:06] Patcher: Checking File: space.lvl
+[13:27:06] Patcher: --- Refreshing cache for file.
+[13:27:06] Patcher: Checking File: ambush.lvl
+[13:27:06] Patcher: --- Refreshing cache for file.
+[13:27:06] Patcher: Checking File: Fleet.blo
+[13:27:06] Patcher: --- Refreshing cache for file.
+[13:27:06] Patcher: Checking File: oldschool.lvl
+[13:27:06] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: o_igblAwards.blo
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: GravAPC.blo
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: CTFSounds.blo
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: cartoon.blo
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: kr-mslv2.lvl
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: gbbong.blo
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: ambush4.lvl
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: Trench.lvl
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: backwater.lvl
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: BHtest.lvl
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: under.lvl
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: hccaverns.lvl
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: o_mars_terrain.blo
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: loading.wav
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: ss.lvl
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: stadng.lvl
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: bulletholes.blo
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: rapier.blo
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:07] Patcher: Checking File: uiart.blo
+[13:27:07] Patcher: --- Refreshing cache for file.
+[13:27:08] Patcher: Checking File: o_NewBB.blo
+[13:27:08] Patcher: --- Refreshing cache for file.
+[13:27:08] Patcher: Checking File: eoltest.lvl
+[13:27:08] Patcher: --- Refreshing cache for file.
+[13:27:08] Patcher: Checking File: f_patterns.blo
+[13:27:08] Patcher: --- Refreshing cache for file.
+[13:27:08] Patcher: Checking File: spTourneyMap.lvl
+[13:27:08] Patcher: --- Refreshing cache for file.
+[13:27:08] Patcher: Checking File: o_tanks.blo
+[13:27:08] Patcher: --- Refreshing cache for file.
+[13:27:08] Patcher: Checking File: f_tankarena.blo
+[13:27:08] Patcher: --- Refreshing cache for file.
+[13:27:08] Patcher: Checking File: KShrap.blo
+[13:27:08] Patcher: --- Refreshing cache for file.
+[13:27:08] Patcher: Checking File: fleetcapships2.blo
+[13:27:08] Patcher: --- Refreshing cache for file.
+[13:27:08] Patcher: Checking File: mvlsoccer.lvl
+[13:27:08] Patcher: --- Refreshing cache for file.
+[13:27:08] Patcher: Checking File: f_bbfloors.blo
+[13:27:08] Patcher: --- Refreshing cache for file.
+[13:27:08] Patcher: Checking File: Structures.blo
+[13:27:08] Patcher: --- Refreshing cache for file.
+[13:27:08] Patcher: Checking File: cavernSL.lvl
+[13:27:08] Patcher: --- Refreshing cache for file.
+[13:27:08] Patcher: Checking File: vehicles4.blo
+[13:27:08] Patcher: --- Refreshing cache for file.
+[13:27:09] Patcher: Checking File: bounce.blo
+[13:27:09] Patcher: --- Refreshing cache for file.
+[13:27:09] Patcher: Checking File: hcbokr.lvl
+[13:27:09] Patcher: --- Refreshing cache for file.
+[13:27:09] Patcher: Checking File: release.txt
+[13:27:09] Patcher: --- Refreshing cache for file.
+[13:27:09] Patcher: Checking File: skboardingaction.lvl
+[13:27:09] Patcher: --- Refreshing cache for file.
+[13:27:09] Patcher: Checking File: hzbongs.blo
+[13:27:09] Patcher: --- Refreshing cache for file.
+[13:27:09] Patcher: Checking File: Duel.lvl
+[13:27:09] Patcher: --- Refreshing cache for file.
+[13:27:09] Patcher: Checking File: Plasma.blo
+[13:27:09] Patcher: --- Refreshing cache for file.
+[13:27:09] Patcher: Checking File: stadng3c.lvl
+[13:27:09] Patcher: --- Refreshing cache for file.
+[13:27:09] Patcher: Checking File: Racing.blo
+[13:27:09] Patcher: --- Refreshing cache for file.
+[13:27:09] Patcher: Checking File: eolwza.lvl
+[13:27:09] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: FleetTest.lvl
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: f_legacy3.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: stadng3b.lvl
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: updownarrows.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: BoomBall.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: WalkerLargeA.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: turrets.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: f_default.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: f_test.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: ljc.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: eolbugs.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: f_noradar.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: o_lights.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: bughuntobjects.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: emotes.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:10] Patcher: Checking File: o_effects.blo
+[13:27:10] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: Blood.blo
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: Plasma3.blo
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: weapons4.blo
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: transport2.lvl
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: landnaut.blo
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: rave.blo
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: serunac.lvl
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: uiwav.blo
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: VehicleSounds.blo
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: ambush2.lvl
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: MuzzleFlashes.blo
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: KIncin.blo
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: asteroid.lvl
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: mayhem.lvl
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: testdiag.blo
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: Door.blo
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: f_sand.blo
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:11] Patcher: Checking File: ArmouredCarA.blo
+[13:27:11] Patcher: --- Refreshing cache for file.
+[13:27:12] Patcher: Checking File: o_bodypart.blo
+[13:27:12] Patcher: --- Refreshing cache for file.
+[13:27:12] Patcher: Checking File: robo.blo
+[13:27:12] Patcher: --- Refreshing cache for file.
+[13:27:12] Patcher: Checking File: KPlume.blo
+[13:27:12] Patcher: --- Refreshing cache for file.
+[13:27:12] Patcher: Checking File: titanrally2k1.lvl
+[13:27:12] Patcher: --- Refreshing cache for file.
+[13:27:12] Patcher: Checking File: victorymusic.blo
+[13:27:12] Patcher: --- Refreshing cache for file.
+[13:27:12] Patcher: Checking File: mships.blo
+[13:27:12] Patcher: --- Refreshing cache for file.
+[13:27:12] Patcher: Checking File: ctf.blo
+[13:27:12] Patcher: --- Refreshing cache for file.
+[13:27:12] Patcher: Checking File: subships.blo
+[13:27:12] Patcher: --- Refreshing cache for file.
+[13:27:12] Patcher: Checking File: o_icons.blo
+[13:27:12] Patcher: --- Refreshing cache for file.
+[13:27:12] Patcher: Checking File: eol_extra.blo
+[13:27:12] Patcher: --- Refreshing cache for file.
+[13:27:13] Patcher: Checking File: f_lzafloors.blo
+[13:27:13] Patcher: --- Refreshing cache for file.
+[13:27:13] Patcher: Checking File: soccermockup.blo
+[13:27:13] Patcher: --- Refreshing cache for file.
+[13:27:13] Patcher: Checking File: o_atlas.blo
+[13:27:13] Patcher: --- Refreshing cache for file.
+[13:27:13] Patcher: Checking File: o_eolenvironment.blo
+[13:27:13] Patcher: --- Refreshing cache for file.
+[13:27:13] Patcher: Checking File: victorycity.lvl
+[13:27:13] Patcher: --- Refreshing cache for file.
+[13:27:13] Patcher: Checking File: pdb.blo
+[13:27:13] Patcher: --- Refreshing cache for file.
+[13:27:14] Patcher: Checking File: TheArena2.lvl
+[13:27:14] Patcher: --- Refreshing cache for file.
+[13:27:14] Patcher: Checking File: msl.lvl
+[13:27:14] Patcher: --- Refreshing cache for file.
+[13:27:14] Patcher: Checking File: Effects2.blo
+[13:27:14] Patcher: --- Refreshing cache for file.
+[13:27:14] Patcher: Checking File: msl-kr.lvl
+[13:27:14] Patcher: --- Refreshing cache for file.
+[13:27:14] Patcher: Checking File: gaswhoosh.blo
+[13:27:14] Patcher: --- Refreshing cache for file.
+[13:27:14] Patcher: Checking File: o_logBanner.blo
+[13:27:14] Patcher: --- Refreshing cache for file.
+[13:27:14] Patcher: Checking File: o_floormarks.blo
+[13:27:14] Patcher: --- Refreshing cache for file.
+[13:27:14] Patcher: Checking File: o_spaceship.blo
+[13:27:14] Patcher: --- Refreshing cache for file.
+[13:27:14] Patcher: Checking File: soccermockup.lvl
+[13:27:14] Patcher: --- Refreshing cache for file.
+[13:27:15] Patcher: Checking File: blocks.blo
+[13:27:15] Patcher: --- Refreshing cache for file.
+[13:27:15] Patcher: Checking File: o_cliffTerrain.blo
+[13:27:15] Patcher: --- Refreshing cache for file.
+[13:27:15] Patcher: Checking File: commvoices.blo
+[13:27:15] Patcher: --- Refreshing cache for file.
+[13:27:15] Patcher: Checking File: eolobjectives.blo
+[13:27:15] Patcher: --- Refreshing cache for file.
+[13:27:15] Patcher: Checking File: Rhino.blo
+[13:27:15] Patcher: --- Refreshing cache for file.
+[13:27:15] Patcher: Checking File: ec2.lvl
+[13:27:15] Patcher: --- Refreshing cache for file.
+[13:27:15] Patcher: Checking File: trenchskirmish.lvl
+[13:27:15] Patcher: --- Refreshing cache for file.
+[13:27:15] Patcher: Checking File: KillingFields.lvl
+[13:27:15] Patcher: --- Refreshing cache for file.
+[13:27:15] Patcher: Checking File: desertnml.lvl
+[13:27:15] Patcher: --- Refreshing cache for file.
+[13:27:15] Patcher: Checking File: BugHuntManVehs.blo
+[13:27:15] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: titanrallyw.lvl
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: elecarc.blo
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: trenchskirmish3.lvl
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: hcpleasantvalley.lvl
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: msl-pv.lvl
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: galland.lvl
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: effects3.blo
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: o_BoomBallArena.blo
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: promotion.blo
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: soccerbrawl.lvl
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: o_lights2.blo
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: infantry.exe
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: f_asphalt.blo
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: keys.blo
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: Death.lvl
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: f_legacy5.blo
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:16] Patcher: Checking File: Levi.blo
+[13:27:16] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: TheArena.lvl
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: footy.blo
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: titan.lvl
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: hockey.lvl
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: KProjectiles.blo
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: craft.blo
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: GunshipA.blo
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: BoomBall.lvl
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: ccstrain.lvl
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: o_vehicles2.blo
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: chaoscaverns.lvl
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: groundcontrol.lvl
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: PingRoute.exe
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: ambush3.lvl
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: hctracers.blo
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: f_carpet.blo
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:17] Patcher: Checking File: sl.lvl
+[13:27:17] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: assault.lvl
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: o_elevator.blo
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: o_lights3.blo
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: o_spacehull.blo
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: atlas.blo
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: KTNT.blo
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: alphatango.lvl
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: fleetsounds.blo
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: Mech.blo
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: BoomBallx.lvl
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: bar.lvl
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: gb-w.lvl
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: boardingaction.lvl
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: o_space.blo
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: o_heavyturret.blo
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: o_gg.blo
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:18] Patcher: Checking File: pleasantvalley.lvl
+[13:27:18] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: walker.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: 4space.lvl
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: bmctf.lvl
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: o_walls.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: coronet.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: skirmish2.lvl
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: dollar.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: newfleetsats.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: hcboardingaction.lvl
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: skassault.lvl
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: planet.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: boomballx2.lvl
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: o_misc.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: o_largeCrates.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: o_asteroids.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: Underwater.lvl
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: gorybitz.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: o_landscape.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: stadngrev.lvl
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: o_misc2.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: ManSounds.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: o_screens.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: cvf.lvl
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:19] Patcher: Checking File: TitanRally.blo
+[13:27:19] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: TitanRally2.lvl
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: man.blo
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: f_legacy.blo
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: eolenvironment.blo
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: harrier.blo
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: ravager.blo
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: f_concrete.blo
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: gravball-w.lvl
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: Fleet.lvl
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: football1.lvl
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: flag.blo
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: ambient3.blo
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: Alien2.blo
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:20] Patcher: Checking File: o_mapfont.blo
+[13:27:20] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: bulletsplash.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: o_furniture.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: cavernskirmish.lvl
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: HPoint.lvl
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: bunkers.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: mordred.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: explosions.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: doors.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: javelin.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: krskirmish2.lvl
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: lock.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: Excelsior.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: o_stadium.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: hcboardingaction2.lvl
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: o_pipes.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: hockey.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: TitanRally.lvl
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: debris.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: o_doors2.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: Weblinks.txt
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: eolautogun.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: king.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: o_furniture2.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: stadng3d.lvl
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: o_firtrees.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: gg.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: test.blo
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:21] Patcher: Checking File: EliteCTF.lvl
+[13:27:21] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: LVNA.blo
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: o_corpse.blo
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: CallistoC.lvl
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: harun.lvl
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: medal.blo
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: f_metal.blo
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: ExcelsiorTop.blo
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: wotw.lvl
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: Vehicles.blo
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: corpse.blo
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: wotw.blo
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: boomballsounds.blo
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: kliest.lvl
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: crystal.blo
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: beta.lvl
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: f_mars.blo
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: boomballtest.lvl
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:22] Patcher: Checking File: meleeweapons.blo
+[13:27:22] Patcher: --- Refreshing cache for file.
+[13:27:23] Patcher: Checking File: f_mars_terrain.blo
+[13:27:23] Patcher: --- Refreshing cache for file.
+[13:27:23] Patcher: Checking File: fleetcapships.blo
+[13:27:23] Patcher: --- Refreshing cache for file.
+[13:27:23] Patcher: Checking File: WalkerSounds.blo
+[13:27:23] Patcher: --- Refreshing cache for file.
+[13:27:23] Patcher: Checking File: heavyturret.blo
+[13:27:23] Patcher: --- Refreshing cache for file.
+[13:27:23] Patcher: Checking File: sl_lavapit.lvl
+[13:27:23] Patcher: --- Refreshing cache for file.
+[13:27:23] Patcher: Checking File: skpleasantvalley.lvl
+[13:27:23] Patcher: --- Refreshing cache for file.
+[13:27:23] Patcher: Checking File: o_medal.blo
+[13:27:23] Patcher: --- Refreshing cache for file.
+[13:27:23] Patcher: Checking File: voice.blo
+[13:27:23] Patcher: --- Refreshing cache for file.
+[13:27:23] Patcher: Checking File: civflags.blo
+[13:27:23] Patcher: --- Refreshing cache for file.
+[13:27:23] Patcher: Checking File: fleeteffects.blo
+[13:27:23] Patcher: --- Refreshing cache for file.
+[13:27:23] Patcher: Checking File: thumbinv.blo
+[13:27:23] Patcher: --- Refreshing cache for file.
+[13:27:23] Patcher: Checking File: ambient2.blo
+[13:27:23] Patcher: --- Refreshing cache for file.
+[13:27:23] Patcher: Checking File: eolcrater.lvl
+[13:27:23] Patcher: --- Refreshing cache for file.
+[13:27:24] Patcher: Checking File: Man2.blo
+[13:27:24] Patcher: --- Refreshing cache for file.
+[13:27:24] Patcher: Checking File: shuttle.blo
+[13:27:24] Patcher: --- Refreshing cache for file.
+[13:27:24] Patcher: Checking File: Vehicles2.blo
+[13:27:24] Patcher: --- Refreshing cache for file.
+[13:27:24] Patcher: Checking File: titanrallyw-1.lvl
+[13:27:24] Patcher: --- Refreshing cache for file.
+[13:27:24] Patcher: Checking File: eolcrater1.lvl
+[13:27:24] Patcher: --- Refreshing cache for file.
+[13:27:24] Patcher: Checking File: o_mars.blo
+[13:27:24] Patcher: --- Refreshing cache for file.
+[13:27:24] Patcher: Checking File: kf.lvl
+[13:27:24] Patcher: --- Refreshing cache for file.
+[13:27:24] Patcher: Checking File: Fleet2.blo
+[13:27:24] Patcher: --- Refreshing cache for file.
+[13:27:25] Patcher: Checking File: o_shuttle.blo
+[13:27:25] Patcher: --- Refreshing cache for file.
+[13:27:25] Patcher: Checking File: BodyPart.blo
+[13:27:25] Patcher: --- Refreshing cache for file.
+[13:27:25] Patcher: Checking File: pistol.blo
+[13:27:25] Patcher: --- Refreshing cache for file.
+[13:27:25] Patcher: Checking File: o_crates.blo
+[13:27:25] Patcher: --- Refreshing cache for file.
+[13:27:25] Patcher: Checking File: trident.blo
+[13:27:25] Patcher: --- Refreshing cache for file.
+[13:27:25] Patcher: Checking File: ljc.lvl
+[13:27:25] Patcher: --- Refreshing cache for file.
+[13:27:25] Patcher: Checking File: hctwinpeak.lvl
+[13:27:25] Patcher: --- Refreshing cache for file.
+[13:27:25] Patcher: Checking File: o_mech.blo
+[13:27:25] Patcher: --- Refreshing cache for file.
+[13:27:25] Patcher: Checking File: subsounds.blo
+[13:27:25] Patcher: --- Refreshing cache for file.
+[13:27:25] Patcher: Checking File: KWhistle.blo
+[13:27:25] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: RacingCar.blo
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: avr.lvl
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: eolmanveh.blo
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: energyexplosions.blo
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: f_natural.blo
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: scooter.blo
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: ChaosBas.lvl
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: trenchskirmish2.lvl
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: igblallstarweek.lvl
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: Twinpeak.lvl
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: explosions2.blo
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: soccer.blo
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: alien.blo
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: powerball.blo
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:26] Patcher: Checking File: f_special.blo
+[13:27:26] Patcher: --- Refreshing cache for file.
+[13:27:27] Patcher: Checking File: f_rock.blo
+[13:27:27] Patcher: --- Refreshing cache for file.
+[13:27:27] Patcher: Checking File: smallmanvehicle.blo
+[13:27:27] Patcher: --- Refreshing cache for file.
+[13:27:27] Patcher: Checking File: o_NML.lvb.blo
+[13:27:27] Patcher: --- Refreshing cache for file.
+[13:27:27] Patcher: Checking File: sMolotov.blo
+[13:27:27] Patcher: --- Refreshing cache for file.
+[13:27:27] Patcher: Checking File: DeathValley.lvl
+[13:27:27] Patcher: --- Refreshing cache for file.
+[13:27:27] Patcher: Checking File: USLAmbient.blo
+[13:27:27] Patcher: --- Refreshing cache for file.
+[13:27:27] Patcher: Checking File: o_Structures.blo
+[13:27:27] Patcher: --- Refreshing cache for file.
+[13:27:27] Patcher: Checking File: Moontest.lvl
+[13:27:27] Patcher: --- Refreshing cache for file.
+[13:27:27] Patcher: Checking File: wall32.blo
+[13:27:27] Patcher: --- Refreshing cache for file.
+[13:27:27] Patcher: Checking File: bhevent.lvl
+[13:27:27] Patcher: --- Refreshing cache for file.
+[13:27:27] Patcher: Checking File: bhmapfin2.lvl
+[13:27:27] Patcher: --- Refreshing cache for file.
+[13:27:27] Patcher: Checking File: ec2[Event].lvl
+[13:27:27] Patcher: --- Refreshing cache for file.
+[13:27:28] Patcher: Checking File: EliteCTF2.lvl
+[13:27:28] Patcher: --- Refreshing cache for file.
+[13:27:28] Patcher: Checking File: bunk32.blo
+[13:27:28] Patcher: --- Refreshing cache for file.
+[13:27:28] Patcher: Checking File: indoor_soccer.lvl
+[13:27:28] Patcher: --- Refreshing cache for file.
+[13:27:28] Patcher: Checking File: SL2.lvl
+[13:27:28] Patcher: --- Refreshing cache for file.
+[13:27:28] Patcher: Checking File: USLZombies.blo
+[13:27:28] Patcher: --- Refreshing cache for file.
+[13:27:28] Patcher: Scanning Distribution Main Distribution ------------------
+[13:27:43] Log Session Closed

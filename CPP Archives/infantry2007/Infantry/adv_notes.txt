@@ -1,0 +1,1832 @@
+Eol Advanced Team
+
+5/9/08 - Small Friday Update
+
+Infiltrator gained access to Ceramax Combat Armor. Armor cannot be worn together with Cloaking devices at all. If you want armor, use armor, otherwise go with cloak. It has been about 5 years since Infil lost Ceramax Armor, I want to see how the class fares with it in this newer Eol environment.
+
+Inflated prices on Stim/Energizer type consumable items in the store.
+
+Reduced public team sizes down to 10 from 12. Increased Private team maxes to 7.
+
+Changed the way crown timers decay on specific terrains. They will decay at a faster rate while you're in the DS, or the Store.
+
+Beefed IHD Generator a small amount.
+
+Reduced rewards for Conscripts clinging to the buffer/non-fire terrain in NZ.
+
+Adjusted Grenade - Incendiary to bounce prior to exploding. This makes them actually have a grenade feel to it, as it matches that behavior.
+
+
+5/8/08
+
+Increased price on Demolition Charge, LAW and VLAW.
+
+Removed the base kill reward for points.
+
+Added a deduction of cash and experience for killing while a Conscript in the newb zone equivalent to the base reward on kills. It is counter-productive to fight in there, this change reflects how counter-productive it is. In the future it is likely further measures will be taken.
+
+Changed permissions on many items for Marine that were being used on Packs, such as RPG.
+
+Changed some auto bounty settings.
+
+Trying something a little different for pirate-type drops, players on vehicles such as packs or boards will not be able to pick the drops up. If you are hunting NPCs while on one of those vehicles, you'll need to hop off of it in order to pick up drops. Right now this only applies to the actual helmet-type drop, credits are free game.
+
+Increased the maximum amount of Schrapnel mines you can carry to 9.
+
+Added Grenade - Incendiary. Exclusive to non-Ops and non-medical/non-biochemical classes right now.
+
+Added some things to allow mods to better do their jobs with specific rules.
+
+Fixed some grammatical mistakes in descriptions.
+
+Turned off the barrier on teams that was attempting to make them even. There seems to be a bug with this system so players can now freely switch teams during lower arena counts instead of being stuck on 4 or 5 man teams with one pub team at 12. Testing it right now.
+
+Took measures against a bug that allows you to create things like PDBs ontop of physics.
+
+Adjusted some properties to the kits/makers that allow you to build walls, some of them weren't costing energy; that was corrected.
+
+Medium Energizers and Stim Packs are available now via store. They are a bit more pricey than the Smalls.
+
+Rigged Mercenaries Standard and Elite Standard to allow Lieutenants to capture them.
+
+Removed bounty rewards from Spider Gems.
+
+Dropped Reprogramming Kit from BlackOps. Added Reprogramming Chip for BlackOps.
+
+Added Greaves - Blast. There may be some tweaks to this item in the future.
+
+Added another Titanium and Unilenium spawn.
+
+
+5/5/08
+
+Adjusted some flag drop properties to help prevent against a bug.
+
+Reverted On-Site Store back to a non-safe zone. Apparently players wish to make their personal vehicles in there, and some would like to get summoned out to regroup with a team. So instead of a safe zone, players will get an increased energy recharge rate while in the store to help counter maser spam.
+
+Autogun AT costs full energy to create.
+
+Fixed some map bugs. Everytime I turn around I learn about a new one.
+
+Added two more Major Resource Points. There are about 2 in and/or around 4 different points. This should make for some interesting territorial disputes.
+
+Holo-Taunt GG is now in it's own category called "Taunts".
+
+Conscripts are now restricted to the newb area. Killing while in the newb area will result in a death sentence via lava.
+
+Beefed EXP rewards on all pirate-type helmet drops, including aliens and the pirates located in the newb zone. This is to accelerate productivity and help against the learning curve with newer players.
+
+Put the experience buffers back on Tech, Medic and Infantry. Majority of players that are going to play have already started their characters and it's pretty obvious that a good chunk of people still want to play it out as Conscript. With the pirate helm rewards getting beefed it won't take long to get the 500 experience needed to swap out of the Conscript class.
+
+Took a few measures against a glitch that sprung up. Shouldn't have to worry about it anymore.
+
+Trimmed Blast weapons a bit more. Specifically the BLR and BLMG. Future trimmings will not be noted here, only major changes to the weapon. I'm seeking to find a good median for these weapons so they don't get nerfed into nothingness and are still viable to carry around.
+
+Fixed a weight issue with PP08m and PPAm.
+
+Increased all pack-type armors so its more likely the user will die before the pack itself.
+
+Adjusted a setting prevalent to point-blank damages, reducing the effect it will have on the user so weapons such as Demo Pack aren't as lethal only to yourself.
+
+Changed Reprogramming Kit a little. It'll cost 300 energy to use and it will take 5 seconds to do the actual reprogramming.
+
+Altered some descriptions that were incorrect and fixed the H8 flag glitch.
+
+Dropped access to Area Heal, Superior and Tranq from Medic.
+
+Raised prices on all four Area Heals, adjusted their weights and some of their energy usage per heal.
+Area Heal, Superior now costs 3 Tsolvy per use.
+
+Gave Ammo - Blast Cartridge a load sound so you can tell if you've used it, or not. This sound may change in a later update, but is unlikely for now.
+
+Small adjustments to Marine's innate protections and Surgeon's base energy regeneration. Small.
+
+
+5/2/08
+
+Thanks for participating on Launch day.
+
+There seems to be a problem with the payout of the KoTH game. I want people to have good rewards to look forward to while participating in KoTH, so instead of nerfing those rewards, KoTH will take place around every 2 hours as long as there are 40 people unspecced long enough to trigger the game. I originally wanted KoTH to be more of an event and the focus on teamwork and flagging/basing while waiting for KoTH.
+
+Flag rewards have been changed to every 5 minutes instead of 10. Flags are a good way for Techs to start tightening their skills with base building by building bases to protect those flags. I very much wanted a good CTF element in this zone. Beefed these rewards a little. This should help majority of other players catch up to the players who have already gotten all of that experience.
+
+Nerfed bounty rewards on player helmets. Seems like its overly easy to bounty right now, it should be more challenging. Experience rewards on killing while you have 30k are 10x higher than alpha's and about 2x higher than beta's. Don't bother crying about the bounty nerf, earn it.
+
+Did some minor adjustments to the way bounty is handled in newb zone.
+
+Changed the way one of the ambient sounds was handled around the F9 building.
+
+Raised the requirements on Conscript so you can get a couple more attributes while you're that class before you're forced to change in order to get more.
+
+Added a little more security for the newb zone, now if you're a conscript and you kill anyone, you should get warped to a random portion of the map. This is more of a test right now, and if it works the way I'm hoping it will it will serve as a better alternative than my other plan which was to force prize your character with a deduction of cash and experience for killing. Since this is more of a universal conscript-type change you'll have to rely on NPC kills as Conscript in order to progress and stay away from killing others. In a future update there will probably be "nets" placed on all the warps to keep conscripts from venturing out into Eol too early. Also when a conscript reaches 10,000 current experience while in the newb zone, the conscript should be getting warped back to the dropship at that point. Work together and reap the benefits.
+
+On-Site store is now a safe zone. Good luck with your masers.
+
+
+5/1/08 - Launch Update
+
+I'd like to thank everyone for helping test the settings pre-launch. :)
+
+For the time being, the experience buffers on Infantry, Tech and Medic have been lifted. This means anyone playing the zone will be able to go directly to one of those three branch classes. Conscript will be there for players who wish to only fight in the newb zone. Play nice.
+
+Increased starting cash to offset the cash deduction upon choosing Tech, Medic, or Infantry. This may not be reverted back in the future. We'll see.
+
+Fixed some of the on-map sprites so you appear to walk under them, ex: trees; instead of appearing to be on top of them.
+
+Did some nerfs to some of the blast weapons, although no one will be able to use these again right away.
+
+Fixed the Shotgun weapons being used to shoot into the buffer/safe area in the newb zone.
+
+Reduced the experience reward on KoTH games, apparently it was too "high".
+
+Beefed attribute costs a bit. Lowered prices on Commerce, Stamina and Vitality to compensate for this change. I want the zone to have good replay value. :)
+
+Changed the auto increments of bounty. Maximum the server will give you is about up to 100 then you have to rely on getting it yourself.
+
+Turned the Q2 doors back to the original idea, must have 25,000 current experience this time to enter.
+
+Adjusted experience payout on kills, bit more if you have 30k, and a bit more from killing a 30k. This change is universal to kills, just think of 30k as a reference.
+
+Fixed a bug with some weapons not being able to fire over lava and certain terrains.
+
+Newb zone pirates no longer drop rewards that will increase your bounty. Beefed an experience reward on one of their helmet drops. Also beefed rewards across aliens and most tiers of pirates. Class 3 pirates also got a beef in Hitpoints.
+
+Small Stims and Small Energizers are now available via store purchase.
+
+Removed Caltrops until I can work out the repping issue.
+
+Made Roamers appear on radar and switched periodic flag rewards down to 10 minutes per reward from 15 minutes.
+
+Decreased min range on Proton Accelerator and beefed a small amount of damage on it.
+
+
+
+4/28/08 - Nightly Update (Test)
+
+Restructured portions of the map, store, newb area and the I3 "stuck" island.
+
+Newb area is for Conscripts only.
+
+Adjusted cash leech area and cash rewards.
+
+Scores should be saving now.
+
+
+4/28/08 - Public Test
+
+The map used here is a new map version simplified between alpha's and beta's maps.
+Newb zone is located off-map which will moderate itself in the event a veteran player enters it.
+There is an on-map store accessible only through the use of a new innate suit item that all classes have. You have to remain still for several seconds in order to teleport there.
+You may have noticed the dropship is back and the enclave is gone. It did not make sense to keep the enclave as the map is about half the size of beta. The dropship is much safer for players, however.
+
+All attribute prices have been adjusted. In alpha it was argued attributes were much too hard to acquire later on in the game, and in beta it was argued that players were being handed their attributes on a silver platter. This should make things challenging but not out of reach. In most of the main attributes you will be able to purchase four at under 10,000 experience each. The Vitality price was decreased because of the sheer fact it was next to impossible to obtain all of them.
+New Stamina attribute will give points of energy per purchase. Energy reflects your shields and it's what helps armor tank as much as it does, which is the cause for it's high pricing. It is valuable.
+
+Classes -- There are quite a few new classes now, majority of which were promised long ago, but not all of them are finished.
+  -Conscript: The Conscript is a freshly plucked citizen inducted into military service. This is the first class you will be able to pick and this is the class you'll start with. It has an innate weapon called Basic Carbine, which is the standard issue training equipment. The point of the Conscript is to go through training via newb zone to attain the experience to go into the field of their choice. The Conscript is limited in what it can use, but not much is needed to distinguish the pirates in those training areas.
+  -Marine: The Marines are a crossbreed of Infantry and Heavy Weapons, able to holster LMGs, MGs, ARs, BRs and majority of the Blast Weapons. They are assault types.
+  -MPAC: The stapleman of heavy weaponry, able to use all essential super heavyman weapons; Blast Cannon, Mortars, RR and Heavy Machineguns.
+  -NeuroTAC: NeuroTACs take bioweaponry to the next level, they are malicious with chemicals, but have quite a scientific mind. To put it simply, they are advanced Biochem Troopers. (Currently inaccessible)
+  -Field Surgeon: Field Surgeons are the primary physicians on the battlefield. They risk their lives to treat the wounded, but this does not mean they're incapable of defending themselves. Surgeons normally work in cooperation with Medics to get the job done. Seniority proves to have it's advantages.
+  -Chief Engineer: Chief Engineers are high ranking Engineers able to build impressive defensive units as well as vehicles. Chief's normally have everything under control by themselves, but appreciate Tech's and Engineer's efficiency and determination to learn and advance.
+  -Drop Trooper: The Drop Troopers are Jump Troopers that are well versed in aerial combat and are trained to be just as deadly while on foot. (Currently inaccessible)
+  -Lieutenants: Lieutenants are a Captain's underling, carrying out his orders and are usually the ones directly involved with overseeing operations. There was a significant gap between the Command tiers so this class should even that out.
+  -BlackOps: BlackOps Troopers are the Infiltrator/SciOps crossbreed. They use many advanced weapons and items required to help carry out stealthy assassinations.
+
+On related news, you're now able to use the Skills Screen from the dropship, which means you can change class and purchase attributes from there. This balances out the on-map store, as you can only purchase items/weapons/ammo from there and it also gives STS more of a purpose. You'll also be able to gain more HP while in the dropship than you would if you were to sit in the on-map store. The on-map store is essentially an area you manually teleport to in order to buy supplies. This gives all players the benefit of being able to grab supplies instead of having to spec out, or suicide in order to get to an area to purchase them. On a related note, you won't have to worry about losing your equipment while switching to specific classes at this time, that feature has been disabled for now. You may also notice the freebie items aren't there anymore, either so when you do change to a grunt class frees won't be given to you, you'll need to work for you equipment.
+
+The ability to return to spectator mode has been removed throughout majority of the map. Exclusions include the dropship and on-map store. From those two locations you'll be allowed to spec, quit and change arenas freely.
+
+Flags are still around, although all of them are now either carry, or stationary Major Resource Points. Rewards on Major Resource Points have been increased from what you will remember from beta. There are also 3 new carry flags collared as Roamer's Alpha, Beta and Gamma. These flags are carry and drop and incline you to bring them back to your base to substanstiate larger rewards. Rewards happen periodically for the teams with flags in their possession about every 15 minutes. Carry timers on these flags are about a minute in length and will transfer to the player who killed the flag carrier.
+
+KoTH is still around and activates when there are 50 players unspecced. The cycle period for each game is about 1 hour. This makes KoTH more of an event that you will want to participate in. Rewards on this have also been beefed from what you may remember from beta. The hourly period also serves as a reset for all flags in the game. This should keep people on their toes and the gameplay fresh.
+
+Team sizes have been adjusted, majority of the public teams will be capped at 12 players while private teams will be capped at about 8 players. This is to keep base, flag and koth fights large enough to enjoy.
+
+NPCs are still present. Class 1 Pirates in the Newb Zone, Class 2 Pirates roaming the E, F and G coordinates, Alien spawns in the K coordinates and Class 3 Pirates in the Northeastern part of the map closed off from players under 50,000 current experience.
+
+Vehicles have been removed while a new system can be worked out. Personal vehicles are still present and can be used by the same classes as before, however, the large vehicles will take a bit more time to work out a newer system for. This shouldn't be a problem because no one will meet the requirements for any of the vehicles at this time.
+
+Wall Kits have now been split into Tiers. With each Tier the walls become more durable and reliable. They're also split into ranks as to which Enigineering type can use them, Tier 1 can be used by Tech's while Engy can use up to Tier 2 and Chief can use up to Tier 3. In addition, each wall drops "scrap" when it is destroyed. Scrap can be converted into Alloy via converters; 25 scrap for 1 alloy.
+
+Armor sets have been added. Armor sets are a group of items transfered to you upon purchase that actually cost less than buying individual pieces seperately. There are only a few sets at the moment and they're all low-end setups, so this is mainly directed toward new characters.
+
+Teleport Charge Kits were added to allow players to create their own Charges instead of wasting money buying them. Charges require Energy Cores in order to create. They work like convential energizer kits. Energizer kits and Stim Pack Kits have also changed and are now in a tier-type with small, medium and large stims and energizers.
+
+There are a lot of new items and weapons, many categories in the store got a new addition. There is simply far too many to go over all of them. Not everything here is finalized, so there may be some changes to them in the future.
+
+
+
+
+
+
+
+
+
+2/20/06
+
+Helmet Collection was reimplemented.
+
+Some older resource spawns were re-enabled.
+
+All portals in the Enclave have descriptions on them via messages (upper left corner).
+Also, some map messages were placed in various locations.
+
+A portal was placed in the Newbie Area for players that have over the requirements. This portal will lead you back to the Enclave.
+You'll need 3 Technical OR 3 Deftness OR 4 Strength OR 4 Vehicle OR 10,000 Current Experience (and over) to use this portal.
+
+You're now required to have at least 2 Commerce points for Harriers to show up on Harry's list of purchasables (besides its normal requirements).
+You're also required to have 3 Commerce points for the Atlas to show up on Harry's list of purchasables as well (besides its normal requirements).
+
+Removed CCS from Medic/Bio/Heavy.
+
+Removed ASC from MPAC.
+
+Removed Greaves - Ceramax from Medic.
+
+Lowered Energy cost on the Guass Cannon to 45 energy per shot.
+
+Assassinate now requires you to have 350,000 current Experience to use.
+
+Assassin requirements were beefed.
+
+KOTH (King Of The Hill) is set to activate at 20 players playing.
+
+PDW is now usable on Flight Packs and Hoverboards.
+
+Cash (kill/leech) rewards were adjusted.
+
+Experience Kill Rewards were capped at 40 instead of 50.
+
+Fixed bug with Enhanced PF Generator.
+
+There is a guide to armor stacking now accessible via the F1 menu.
+
+
+
+2/02/06
+
+Carbine was removed from MPAC.
+
+Assassinate requires you to have 250,000 current experience to use.
+
+Citizens Standard was moved to L11.
+
+Kuchler GL mk II was beefed, and now requires 3 Technical, 1 Strength, 2 Deftness to use.
+
+Ammo - HE 35mm was added.
+
+Maklov GL 8a attribute requirements were changed to 1 Technical, 1 Strength and uses Ammo - HE 35mm.
+
+Maklov RR 2a2 is now restricted to MPAC.
+
+Added a Schrapnel effect to Mortar Clusterbomb.
+
+SAW is now restricted to MPAC.
+
+MPAC attribute requirements were altered. 
+
+
+
+1/30/06
+
+Fixed some bugs that allowed you to use items without having full requirements for them.
+
+MPAC gained access to FusionCorp IRLC909a.
+
+
+
+1/26/06 - Quick Fix
+
+small beef to MPAC innates they're now at 5% kinetic, 10% explosive, 2.5% plasma, 5% chemical, 5% shield
+
+used to be 5% kin, 10% explosive, 2.5% shield
+
+fixed bug with clusterbomb
+
+mpac gained access to mines, Bullet & AP
+
+
+
+1/26/06
+
+Assassin requires you to have 250,000 current experience to purchase.
+
+MPAC was added. MPAC's are a little slower than Heavy Weapons, but they have an impressive arsenal of Heavyman weaponry and have a special suit weapon.
+
+The Attribute "Commerce" was added. Upon purchasing this attribute, 100,000 credits will be transfered to you.
+
+Hustlin Harry now appears at Q2 and you're now required to have at least 1 Commerce to complete a transaction with him.
+
+All Minor Resource Points experience rewards were beefed. Now 5 Minors are equivalent to 1 Resource Point while 10 Minors are equivalent to 1 Major Resource Point.
+
+Added "Active Repair Kit, Heavy" for Engineers.
+
+Added HE Mortar for MPAC.
+
+Added Mortar Clusterbomb for MPAC.
+
+Added Napalm Bomb for MPAC.
+
+The doors surrounding the Enclave were tweaked and should now open more often.
+
+Small tweak to Aliens and the North-East spawn. You shouldn't see them in the Enclave at all.
+
+Assassinate's outter damage was dropped to 10.
+
+Kuchler 2200 X PSMG recieved a damage nerf and now deals 10 damage.
+
+Slight modification to PR-MO, ROF was lowered and the reload was increased a little.
+
+Kamenev PCAR ROF was increased.
+
+Demolition Charge was removed from Infiltrator and Assassin, and given to Heavy Weapons.
+There have been some complications with these and this seemed like the only alternative.
+
+Shotguns were changed. All of them have attribute requirements and prices were adjusted.
+Ammo usage for the ACW and the AS were switched over to 10 Gauge rounds, and the CCS now uses 12 Gauge rounds and the weight was increased a small amount.
+
+Foam Dispensor was adjusted, it'll push whomever it hits in addition to jamming them. This was it's original intent.
+
+LVNA-PHeal was reworked and now takes a slightly longer time to reload.
+
+LVNA-VRepair was adjusted and also takes a longer time to reload and the amount of time it heals in was increased.
+
+Active Repair Kit, Light attribute requirement was increased.
+
+Cash share radius was increased and is now twice the radius it was.
+
+Fixed some bugs concerning personal vehicles and players not being able to get rid of them.
+
+The Guide was updated also.
+
+
+
+1/13/06
+
+The Building at B1 is now accessible. You'll need a Sergeant to help you gain access through the Blue Door.
+
+Assassinate was tweaked. Lowered the outter Kinetic Damage it does, beefed the Inner Drain a little, lowered the Muzzle and lowered the Energy Cost a small amount.
+Assassinate will no longer hit Vehicles (personal vehicles is the exception), or player created walls & turrets. Also lowered the switch delay a tad.
+
+PF Generator was removed from Assassin.
+
+Assassin Suit Shield Protection increased to 7.5%.
+
+Harrier Gv-s now costs 180,000 cash.
+
+Steiner SMG was removed from Infantry, Medic, Biochem & Jump Trooper.
+
+VLAW got a beef in damage and is now accessible to Infiltrator.
+
+You can now buy the Landnaut Ambulance from Harry, and only from Harry, for 35,000 cash.
+
+Kuchler 2200 X PSMG was tweaked. Outter Plasma Damage was dropped, Inner Drain was beefed.
+
+Reduced the Weight on the Maklov GR a tad.
+
+Any class is able to pickup Resources now. This is to encourage team-basing. If you're an Engineer, or a Tech, ask the players on your team to grab you some Resources to maintain the base.
+
+Minor Resource Points were altered. They have now adopted an Experience reward. 10 Minors are equivalent to 1 Resource Point in respects to the Experience reward.
+
+You're no longer able to pickup a Carry Flag while in a Vehicle (personal vehicles are the exception). You'll have to exit the vehicle and wait a short delay, cap the flag and then re-enter your vehicle.
+
+PR-MO now uses 28kJs per shot.
+
+Reduced Alien's protection vs Chemical Damage.
+
+Pirate Heavy, Raider and Elite are now categoried by Classes. A Class 1 pirate is categorized by a Pirate in the newbie area while a Class 2 categorizes the normal Pirates that do not spawn in the tunnels.
+
+You'll now be able to recieve rewards from KOTH/Flags while in the Neutral, or Enclave terrains. They're set to give you half of what you would recieve had you not been on those terrains.
+
+Beefed Titan Arms AP101 & AP101 d Inner Drain.
+
+Fixed bug with "Broadcast Charger". Also, all Broadcast Charge units gained an Attribute Requirement.
+
+
+
+1/6/06
+
+Decreased the Ambulance Vehicle Ignore Armor.
+Reason: it has an onboard repair kit.
+
+PR-MO gained some attribute requirements.
+
+The Flag Game was removed.
+All Resource Points and Major Resource points will appear now.
+
+Beefed rewards on the Carry-type flags.
+More specifically, Elite Unit Standard gained a cash reward on top of it's previous reward status. A similar beef occured to Mercenaries Standard, which gained an experience reward.
+The reward rate for these two differs, this is to maintain an importance either of them have.
+On a similar note, another Carry-type flag was added called "Citizens Standard" located at K11.
+Any class can carry this objective. It has weak rewards compared to the other Standards. Again, this is to maintain the Flag's original importance.
+
+LAWs and VLAWs are now triggered by Board-type vehicles.
+
+Energizers got a small energy beef.
+
+Engineer gained access to BRs.
+
+Combat Tech gained access to PDW.
+
+Deathboard Slash gained an independent reload.
+
+Incinerator recieved a small beef.
+
+Acid Projector got a small beef to damage.
+
+BioLabs got a small beef to damage.
+
+Something that was forgotten from last update: Rocket Turret now targets Board-type vehicles.
+
+
+
+1/4/06
+
+Happy Belated New Years!
+
+Ewwwww! Blood was added!
+
+Cash share and experience share radius' were increased.
+
+Extended decay time on Indoor terrain to 5 minutes.
+
+KOTH minimum player amount was increased to 15.
+
+Increased the expire time on Crowns by 30 seconds.
+
+Advanced Walls got a beef in their Armor.
+
+Wall Kit Standard / Wall Basic was given to Combat Tech.
+
+The Enclave terrain is now a safe zone.
+
+All of the Minor Resource Points will appear after every game now.
+Some of the Major and Resource Points will also appear permanently like the Minors do.
+
+Captain is now directly switchable to the Assassin class.
+
+Arena ownership has been turned on for the purpose of testing/dueling.
+Commands are as follows:
+*Grant
+*Team
+*Spec
+*Goto
+*Warp
+*Summon
+*Shutup
+
+Hoverboard gained a speed increase and a bounce effect was added.
+The height Hoverboard can gain is still the same so it isn't as great as Deathboard, so in this aspect it won't be taking JT users away from using Deathboard (you wish).
+This change is to accommodate the Medical and Engineering tree classes. It has a good chance at gaining height onto Orange-type physics, but it doesn't have the mobility of the Deathboard.
+
+Jump Trooper lost access to Vambraces.
+
+Medic lost access to Kevlite Greaves.
+
+Assassin is now restricted to PF in the Generator department.
+
+Assassin has gained access to the following to provide the class with some variety:
+Cloaking Unit
+Shimmer Field
+Improved Cloak
+Cyclotron
+Graviton Gun
+Teleport Disruptor
+Demolition Charge
+Boots - Armored
+Boots - Blast
+Boots - Thermax
+
+Assassin Suit gained a 1% increase to Rotation and lost some of its protection while gaining some shield drain %.
+
+Assassinate lost its explosive damages.
+
+Blackout Field energy was reduced to -27.5kJ/s.
+
+Assassin's hyperthrust energy cost was increased and so was it's hyperspeed.
+
+SciOps gained access to PR-MO 313X.
+
+Alien Chief hitbox has been fixed.
+
+Made some refinements to the Alien weapons.
+
+Fixed tons of bugs concerning players in vehicles and NPC spawns.
+
+
+
+
+12/23/05
+
+Holiday weekend update!
+
+New Alien Spawn presented!
+Alien Chief
+Alien Warrior
+Alien Arachnomorph
+Alien Brute
+Alien Electromorph
+
+Aliens drop Credits as well as other things, such as "Organs".
+The rewards on the helmet-type drops are twice the amount they would be if it were a Pirate counterpart.
+
+Small increase to experience share percent.
+
+Happy Hunting!
+
+
+12/19/05
+
+Raised decay times on Clear, Rough, Roadway to 5 minutes and Indoor to 3 minutes.
+This will allow longer times on which dropped ammo, prizes, etc will remain before disappearing.
+
+Updated First Aid for Medic. Gave the heal a slight increase and reduced the cost.
+This will probably be the last refinement to Medic for some time.
+
+Blackhole recieved a nerf to lifetime and a small reduction in it's pull.
+
+Methane Grenade recieved a higher DOT effect.
+
+Fixed the reload delays on the Dual PP08 & the PPA.
+
+Gave all three PA's a proximity radius. This will allow more skilled marksmen a chance at outter damage, rather than a miss.
+
+'Fixed' the problem with SAW.
+
+Newbie area reworked a little. There will be Pirate Sergeants equiped with an IRLP that spawn in the tunnels.
+In addition, the Spider spawn was also changed and will now spawn Spider Hives that are equiped with a lesser devastating attack.
+
+Added a Wall Kit -Improved for Engineers, which build Wall - Advanced and require 5 Alloy to create.
+These walls work the same as the Basic's with the same restrictions, however have an increased defense and more hit points.
+
+Turned on Experience & Cash sharing.
+The experience share percent is very low. This is intended so that bountier's bodyguards are awarded for protecting their bountier.
+These are to encourage teams. Both radius' are limited and require you to be in the immediate area to recieve such rewards.
+
+Fixed some descriptions & sellback prices (yes, Assassinate sellback), again.
+
+Fixed some bugs, yet more still remain.
+
+Updated the guide to reflect some of these changes listed.
+
+Other various tweaks were made that you will just have to discover on your own.
+
+
+
+12/01/05
+
+Hyperthrust forward/backward for Assassin are now the same.
+
+Slight tweaking to Assassin weaponry.
+
+Some sellback pricing readjusted.
+
+Added Kuchler PPAm for SciOps.
+
+
+
+11/30/05
+
+Newbie area added for players with less than 50k exp and 4 tech/deft (portal is marked)
+
+Tweaked Unittech PDW weight, reload and recoil.
+
+Beefed Maklov PFL a1 again.
+
+Tweaked Foam again, should hit now.
+
+Lowered weight on Jump Armor back to 4kg and adjusted it's price.
+
+Added Grenade - Methane.
+
+Added Steiner 900X SAW.
+
+Added PR-MO 313X.
+
+Added Flak-Mini Launcher.
+
+Added Blackhole suit weapon for Assassin.
+
+Added Maklov PP08m for SciOps.
+
+Fixed some bugs.
+
+
+
+11/11/2005
+
+Fixed PCAR and the PPK.
+
+Added Titan Arms AP101 d.
+
+Added Unittech 9mm PDW.
+
+Fixed some bugs involving the Enclave/Neutral Territory.
+
+Upped Foam Dispenser energy cost, Foam should also hit enemy players now.
+
+Ambulance is now restricted to Medic as far as driving/buying it goes.
+
+Bio gained back Ceramax Greaves.
+
+
+
+6/10/2005
+
+Updated the Engineer and Tech innate repair.  They work like conventional repair kits, ie activate and select target of repair.
+
+Updated Active Repair kits so they are more effective.
+
+Changed the move model to better support solo play:
+
+forward and backward accelleration is now the same.
+
+Reverse Hyperthrust does not effect accelleration.
+
+HyperThrust top speed is slightly higher than normal top speed.
+
+This will increase whining about backpedaling, but will make it so that a group cannot easily run down a solo player, and it will make weapon
+range bands more distinct, allowing players to take better advantage of weapon range disparities.
+
+
+5/26/2005
+
+Engineer/Tech repair items we re-worked.  Engineers and Techs now have an innate repair that is used in a similar manner to Turret Dismantle
+
+Medic Heal items were re-worked.  Medics now have an innate First Aid ability that works in the same was as Turret Dismantle.
+
+Weaponry on the Harrier A2 were beefed up a bit.
+
+
+
+4/18/2005
+
+Projectile/Plasma weapon ballistics adjusted to help define the weapon range bands.
+Strafe removed from packs.  
+
+
+
+
+5/14/2004
+
+Medikit and deluxe Medikit were changed to allow area heal, but the radius is very small. You need to be close to heal.
+
+
+5/4/2004
+
+Captain lost all weapons requiring more than 1 hand to use.
+
+Pirates have lower hitpoints then before.
+
+LandNauts were changed.  You cannot move without pressing Shift+Up/Down. This is to better simulate a vehicle in contact with the ground.
+
+Harriers still use shift+Up/Down for Afterburner.
+
+JumpTrooper Carry weight was lowered to match SciOps.
+
+2/1/2004
+
+Temporarily changed the bounty system:
+
+You will now gain bounty automatically at a set rate as long as you stay alive.
+If you die, you lose your current bounty
+
+
+Cash leech area has been increased so you just have to be in the general vicinity of your team to gain it.
+
+1/7/2004
+
+Secondary AR and Shotgun ammo was modified.
+
+Graviton weapons gravitational pull has been reduced considerably.
+
+Landnaut armor was weakened slightly on both variants.
+
+Landnaut Basic's top speed was increased.
+
+Innate class defenses were shuffled around a bit.
+
+SciOps now has 15% innate shield protection to reflect their superior shield.
+
+Deluxe medikit stats were increased to make it more desirable than basic medikit.
+
+Broadcast chargers effective range was increased.
+
+Rocket Turrets will now fire on Landnauts.
+
+Aerial Mines will no longer trigger on a Landnaut.
+
+Many mis-spellings and invalid descriptions were fixed.
+
+Pirate Gems value was increased.
+
+Kuchler GR damage was increased.
+
+Titan Arms BR magazine was increased to 25 rounds.
+
+The Harrier is getting closer to completion. Once it is completed work will be starting on the sprites for MPAC's and
+weapons/effects for Marine, BlackOps, and Drop Trooper.
+
+
+
+12/5/2003
+
+Added the first new large vehicle, THE LANDNAUT.  There are 2 versions currently, the basic Landnaut, and the Landnaut APC.
+One of each is spawned on the map. The APC version can only be driven by a command class.
+
+Infiltrator indoor running thrust and top speed were increased a small amount.
+
+New ammo type was added: Micro Missile.
+
+Light HE ammo weight was increased.
+
+The MML was updated to use the new ammo and with the following: Damage was lowered a small amount, the side firing projectiles now 
+have a ballistic trajectory and all the missiles will impact on the ground in a semi predictable pattern.
+
+A new version of the Recoilles Rifle was added, firing HE and Incendiary secondary ammo.
+
+Graviton Pistol was added which is a smaller, weaker version of the Graviton Gun.
+
+Composite armors were adjusted.
+
+PF Generator was adjusted.
+
+Deathboard top speed was increased.
+
+Drop Pack top speed was increased.
+
+Pirate dropped rewards were increased in value.
+
+
+
+11/16/2003
+
+Adjusted Infiltrator indoor speed.
+
+Maklov ACW grenade slug was adjusted.
+
+Secondary armor types were adjusted, and a couple new types added.
+
+Command class LOS was adjusted.
+
+Grenades were changed so that weapon switch times are quick, but reload is slow.
+
+
+
+10/30/2003
+
+Redid terrain types and set terrain type properties for vehicles/player vehicles.
+
+Added secondary ammo types for Shotguns.
+
+Slightly changed the armour types, soft armour now ignores 1 damage type, composite has ignore on 2 damage types, and hard armours have ignore on 3 damage types.
+
+Cloaking fields energy usage was increased.
+
+Enhanced field energy usage was increased slightly.
+
+Concussion/Shock fields have damage ignore now.
+
+Plasma Bomb will hurt the user when pointblanked.
+
+Added a new weapon called the Graviton Gun.
+
+Gravitron has been renamed Cyclotron and was adjusted to be more predictable.
+
+Added FCU.
+
+Increased LOS angle, decreased LOS distance and team vision sharing distance.
+
+10/9/2003
+
+CL5 can no longer be used on a pack.
+
+Boots/Gauntlets now have a small negative effect on movement.
+
+Some defensive fields had their energy use raised, some had it lowered.
+
+AR secondary ammo types have had their carry amount capped at 50 rounds and their prices raised slightly.
+
+Pirates now drop gems worth 50 credits when they die. Anyone can pick these up, unlike Pirate helmets.
+
+Once again the spawn zones have been adjusted.
+
+Prices on Frag Grenades and rifle grenades were lowered.
+
+Rifle Grenades will now damage the user if pointblanked.
+
+9/29/2003
+
+Restored death sounds.
+
+Restored melee weapon graphics.
+
+Adjusted pirate spawn rules.
+
+9/16/2003
+
+Added NPC Pirates for players to fight.  There are a variety of pirates armed with various weapons from the item list.
+
+When killed the pirates will drop a helmet.  This will give the player cash and EXP.  Players with over 10k CURRENT exp cannot pick them up, however.
+
+You can no longer use grenade launchers on packs or boards.
+
+
+9/15/2003
+
+Infiltrators are now limited to tier 1 secondary armors and fields.
+
+Removed all class restrictions to all soft armors.
+
+
+9/12/2003
+
+Added more Field types.
+
+Adjusted Secondary armors (I know).
+
+Added additional Secondary armors.
+
+Adjusted Hard armour primary ignore protection downward slightly.
+
+Decreased weight on Soft Armor.
+
+RFG has a mild push back effect similar to ERFG.
+
+RFG and ERFG no longer affect team mates.
+
+
+9/11/2003
+
+Intelligence stat was changed to Technical level.
+
+Technical levels were changed for almost all weapons, all fields, all sensors, and to all equipment.
+
+PDB -- MG is now PDB -- AA/AG (Anti-Air/Anti-Ground)
+
+Flak Launcher was changed to use ammo as per Flak Cannon.
+
+Broadcast Chargers effect radius was increased.  The effect happens in a radius now, so there is no need to select a user.
+
+BioChem lost Medikit, but becomes sole creator of Stims and Steron.
+
+Infiltrators can use Defense Fields.
+
+--More
+
+redid weights on the slug rifles a bit.
+
+Increased energy usage on field generators. They should be a choice, not a necessity.
+
+Removed tech level reqs on all the field generators except DF/CS fields.
+
+Adjusted PDB AA/AG.
+
+SMG's/Pistols had their damage values rolled off to 1. This should make them a little less godly against light armoured targets.
+
+Adjusted soft armour values.
+
+Adjusted weight and armour values on secondary armours.
+
+CAW was lightened.
+
+Flak launcher weight was increased, flak cannon's weight was decreased.
+
+
+
+
+
+7/31/2003
+
+Soft Armors protection levels were increased 5% across the board.
+
+AR alternate rounds firing rate have all been changed to match that of the Titan AR AP round.
+
+Carry weights have been lowered. The reason this process continues is because we finally get to see what ppl are carrying around with them
+when they reach certain STR values.  This is probably the last time base carrying weights will be changed in any significant way.
+
+
+
+7/30/2003
+
+Assault Rifles all have a new type of alternate round.  Kuchler has an Incendiary Round, Maklov a Gas Tipped Explosive Round and the Titan Arms has an
+Armor Piercing round.  The items cost more than normal ammunition.
+
+Sonic Wave graphic was changed.
+Sonic Rifle has a smaller graphic and a Smaller prox than before.
+
+Recoil was removed from all weapons except Stand and Fire and Melee.  Recoil, as used within the context of the game, is not a good modelling device for the 
+recoil effects of personal weapons.  
+
+Flak Launcher was adjusted both to make it more effective and to limit the ability to "Wall Flak"
+
+Flak Cannon fire rate was increased.
+
+Rocket turrets now target vehicles/packs, not players on foot.
+
+Mg and Plasma tier 1 turrets had their armor weakened a tad.
+
+Needler/Flechette has their own ammo type now.
+
+Energy usage on cloak/improved cloak/shimmer field was lowered.
+
+Shimmer field gained some extra protection because it is very hard to target someone with a shimmer field on. In game terms this means some extra soft armor 
+protection.
+
+JT friction issue was addressed.
+
+Deathboard Slash reload time was increased.  The firing characteristics were changed a bit to make it a little more skillful to use.
+
+Alive time on the RR projectile was decreased.
+
+Proton Beamer graphic was changed. The weapon rof was slown down a tad.
+
+
+
+6/5/2003
+
+Standards were introduced.
+
+There are 2 active Standards atm:  
+
+Elite Unit Standard.  This standard gives an notoriety and exp reward every 15 minutes it is carried as well as giving a per kill bonus to the carrier.
+
+Mercenaries Standard. This Standard gives a notoriety and cash reward every 15 minutes it is carried as well as giving a per kill bonus to the carrier.
+
+Adjusted the movement model to be a tad slower, but more smooth then it was before.  Basically base thrust was lowered, as was friction.
+This basically slowed things down, but movement feels smooth as before.
+
+Changed the manner in which players stop team projectiles.  Now, you will block team projectiles, you will just take no damage (except for
+large radius explosive weapons).  The benefit is now you will not trigger your own teams mines, and your teams autoturrets will no longer TK you.
+
+Plasma weapons were changed in several ways.  First they now get 80% momentum from the shooter as opposed to the 55% of normal projectile weapons.
+Next the cost of most plasma weapons was increased to reflect the higher tech nature of the weapons. Lastly, they received a graphical change.
+
+Plasma Cannon(s) lifetime was reduced.
+
+many slug projectile weapons had their shot velocity increased a small amount.
+
+GP6 stun length was reduced. It is now less than the interval between shots from the GP6, which should allow the target to move in a stuttering sort of manner.
+The target can still rotate as normal.
+
+Assault rifle(s) weight was reduced.
+
+Slug SMG(s) weight was reduced.
+
+All shotguns and assault shotguns had their weight reduced.
+
+All Slug pistols had their weight reduced.
+
+Incinerator and Flame-thrower's damage was increased a very small amount.
+
+
+
+4/17/2003
+
+PLayers can no longer quit, go to spec, or change arena's WHILE in the game world. You can only quick quit, spec, or change
+arena's from the DS, for now...
+
+
+4/16/2003
+
+Flak Launcher and Flak Cannon are now "move and fire".
+
+Removed encumberance rotation penalty on Shock armor and all hard armors.
+
+Squad Leader gains the use of Partial Carapace and Thermax Breastplate at the expense of Carapace and Thermax Shell.
+
+Drop armor Kinetic and Explosive protection reduced a small amount.
+
+Shimmer Field energy cost was reduced.
+
+Improved Cloak energy cost was reduced.
+
+Cloak energy cost was reduced.
+
+Shock armor explosive protection was increased.
+
+
+-
+
+ 
+Infiltrators thrust was lowered to the level of JT.  JT's have the highest base move stats except for top speed.
+Infiltrators still have the highest base top speed.
+
+PA $$ and PA EZ had their damage changed.
+
+Most projectile velocities were increased a very small amount.
+
+Flak Launcher and Flak cannon projectiles were give a far longer lifetime and otherwise tweaked to be more useful.
+
+Aerial mines were totally changed. They now move around in an area roughly 250 pixels in diameter and the movement is in all directions.
+
+PDB/Turret/Bunker armor was adjusted.
+
+Stims/Energizers were removed from the store.
+
+Infiltrators lose access to all 2nd tier armor.
+
+Kevlite is available to all classes (except Infiltrator)
+
+Shock Armor encumbrance values were lowered.
+
+Many armors had their protection values increased on specific damage types.
+
+Flightpack cost was lowered to 800 cr.
+
+Flame spots will not activate for a half second after it is created.  This should allow moving players to avoid instant triggering of Flame Spots.
+
+
+3/28/2003
+
+All explosive weapons will now damage everyone in the blast radius (some weapons did this before).
+
+Captain/Sarge/SL's recharge and top speeds were adjusted.
+
+The entry warp grid was tweaked.
+
+3/21/2003
+
+Enabled full collisions.  This means that your weapons will be stopped (collide with) team mates.  This does not mean they will
+damage team mates however.  This will also mean that team mates will detonate mines, so be careful with your placement.
+
+3/19/2003
+
+Per shot speeds have been lowered on most weapons.
+
+"Hard" armors have their encumberance modelled by detracting from your move ability. Wearing hard armours will slightly lower your
+Top Speed, Rotation, and Thrust.
+
+Changed team Sizes (again).
+
+Redid the warp lio grid.  Hopefully this will help spread people around the map and minimise the likelihood of spawning in a firefight.
+
+New Armor added: Thermax Shell
+New Armor added: Thermax Breatplate.
+
+Light and Heavy field converters can now be captured from their owners.  When their HP is in the red zone, Techs, Engineers, Chief Engineers and Captains
+can "capture" them by right clicking on them and selecting "take Ownership".
+
+-more
+
+Loaded the wrong .itm and vehicle file version earlier. Sorry :(
+
+Captains/Sarges had their speed increased modestly.
+
+Shock Armor now encumbers the user modestly.
+
+Legbound units now have gravity defined.
+
+
+1/29/2003
+
+Packs and Boards are changed. You do not buy a "kit" and "build" unlimited items any longer.
+Instead you actually purchase the item from the store and use that item till you die or otherwise lose it.
+
+-More
+
+You can no longer drop pack/boards from inventory. You can only "activate" them.
+
+You can pick up a pack/board from off of the ground.  Rigft click on the pack/board and choose the "Pickup?" option.
+This will place the vehicle in your inventory.
+
+1/28/2003
+
+Hyper top speed was removed. Hyper thrust is just that now, Thrust only.
+
+New Basic Training class added: Combat Tech.
+
+Techs can create Light Field Converters to convert spawned resources into useable materials.
+Techs can also create automated turrets and walls.
+
+New Structure Added: Light Field Converter.
+New Structure Added: Heavy Field Converter.
+
+New Item added: Light broadcast charger.
+New Item added: Heavy broadcast charger.
+
+Melee weapons were changed somewhat. Most had their shield drain lowered a good deal, except for Power Fist/Sword.
+
+The teleport subsystem will not work while on a pack or board.
+
+Turret, PDB and Wall kits use Titanium Alloy, not Titanium Oxide, when building.
+
+Energizer kits require power cores, not unilenium, to create Energizers.
+
+
+
+1/8/2003
+
+Most 2 handed weapons cannot be used while on a FlightPack or HoverBoard.
+
+Captains lost the ability to use AR/BR.
+
+Sergeants and Squad Leaders gain the use of AR.
+
+Captains and Sergeants had their max energy and recharge lowered to 550/250 and 525/250.
+
+Viral Damage over Time was redone.  Instead of doing a fixed HP damage, viral does 10% of your total Remaining HP over 5 secs.
+
+Most slug weapons had thier energy damaged lowered just a tiny amount.
+
+Soft armor protection values were recalculated a little bit.
+
+Armour weights were increased a little bit all around.
+
+
+
+1/6/2003
+
+All flame weapons had their shot speed slowed a small amount.
+
+1/5/2003
+
+Adjusted Carapace kinetic and Explosive protection downward.
+
+Added new item: Deflection Field.
+Added new item: Shock Field.
+
+Bio Max energy raised to 600.
+Medic Max energy raised to 600
+SciOps max energy raised to 800.
+Infantry max energy lowered to 500.
+
+
+1/4/2003
+
+Adjusted CS Generator protection.
+Adjusted Carapace Plasma/heat protection downward.
+Adjusted partial Carapace plasma/heat protection downward.
+Adjusted CMP6 kinetic protection upward.
+Adjusted Ablat plasma/heat protection upward.
+
+Lowered incin/flamer/heavy flamer shield drain.
+Lowered energy drain on ERFG.
+
+Re-categorised ammo.
+
+-More
+
+Most projectile weapons shield drain was reduced a very small amount.
+
+Most energy using weapons had thier energy use reduced.
+
+JT Max energy raised to 600.
+
+
+1/3/2003
+
+Tuning Update:
+
+Many people are questioning this update. It stemmed from the simple fact that armors were too strong, and new players had nearly no chance to compete.  Now things are a lot more balanced in favor of newer players. It is obvious after listening to some of the complaints that the differences between haves and have nots was too significant to be ignored.
+
+The point of advancement in eol is not to be a tank. The point is as you advance you become more specialised in your career path.
+
+Regardless, this zone is a work in progress.
+
+
+-addendum
+
+Most weapons had their energy drain reduced from 20-40% to adjust for the removal of shield drain protection of most armors.
+
+PA got a mild beef.
+
+Maklov Incinerator had it's damage lowered.
+Maklov Heavy Flamer had it's damage type changed.
+New Weapon Added: Maklov Flamethrower.
+
+-Maklov Flamethrower and Heavy Flamer also leave "fire Spots" that will do damage if they are walked over.
+
+Particle Accellerator had it's damage lowered and shield damage was lowered.
+
+Armors and fields protection levels were redone.
+
+Command Classes have had their pre-reqs changed. This will not effect existing class holders.
+
+Many classes lost the usage of Dual SMG's.
+
+Duals SMG's had their deftness pre-req increased.
+
+Infiltrator's base move characteristics were changed.
+
+Flak will no longer detonate or otherwise effect Hoverboard or Deathboard. Splash damage will still effect as per normal.
+
+Flak Launcher and LAWS are no longer useable on packs/boards.
+
+
+
+12/13/2002
+
+Tuning update:
+
+Dbslash made a little stronger to offset the loss of AP damage.
+
+IRLP was weakened to put it more in line with other pistol class weapons.
+
+Chainsword and Chainfist were buffed a small amount to offset the loss of AP damage.
+
+Standard projectiles were given a VERY modest speed increase.
+
+- Still debating on whether Flak needs to be returned to Medic/BioChem.
+
+12/10/2002
+
+Many adjustments are happening in preperation for new classes and other elements of the game.
+
+Please bear this in mind.
+
+Dropship recall has been completely removed.  A new Teleport subsystem has been added.
+The Teleport subsystem is charge driven.  Each type of teleport uses a charge. Currently
+there are 3 types of teleport charge: Recall, Random, and Team.  You can only carry one 
+of each type of charge at a time.
+
+Weapons and items have been re-categorised.
+
+Grenades can drop on death as per other types of ammo.
+
+The "Armour Piercing" damage category has been removed and replaced with a Psychic/Mental category.
+Weapons using AP damage have been updated accordingly.
+
+Medics and Biochems have lost the use of Laws/Demo Charges
+Infils and SciOps have lost Laws/Flak
+
+Summoners are less accurate.  Standard teleport summon is relatively inaccurate.  Command class
+Summon gets more accurate the higher your rank.
+
+Weapon changes:
+
+
+Sonic Cannon exceptions fixed
+PA's do Plasma damage instead of AP.
+Laser class weapons now have no proximity trigger.
+
+New weapon Added: IRLP909a Laser Pistol
+New Item Added: Shimmer Field - A different type of visual/sensor cloaking device, the Shimmer Field renders the
+                user transparent to normal vision and completely invisible to radar.
+
+
+
+
+
+9/25/2002
+
+Needler changed so that it only does bypass damage. It does 3/1 bypass with no kinetic.
+
+New Weapon Added: Kuchler GSMG 202a. Guass Submachinegun.
+
+DropShip recall now requires you to stand in place to activate. YOu cannot move and DS recall.
+All summoning items are move and fire only.
+Fixed teleport summoner drop bug.
+All melee weapons shot times were lowered slightly.
+Powersword energy usage lowered.
+
+Most projectiles weapons were changed to inherit 50% momentum instead of 75% momentum.
+
+
+
+9/4/2002
+
+SR2000k had bypass damage removed.
+Maser Cannon had it's inner explosive damage increased
+Maser weight trigger adjusted.
+You can no longer create packs/boards while on a pack/board.
+Reload times and placement times of most mines now made uniform. It takes 2.5 seconds to place most mines.
+-This may change as mines may get more lethal.
+
+Hoverboards can Rotate while in the air, but not thrust.
+Deathboards can now rotate AND thrust while airbourne.
+
+New weapon added: FusionCorp IRLC911, a Cannon version of the IRL. Useable by SciOps and Heavy Weapons.
+
+If you are one of the basic training classes, you cannot change to another basic training class.
+This is a prelude to re-implementation of class tree's.  This means that their will be a definite career
+path to follow with several choices based upon which basic training class is selected.
+As in WZA, the Command classes will be a seperate tree that can be entered at any time if a player has the appropriate pre-reqs.
+Free class changing to classes outside your career path will not be possible without a character wipe.
+
+
+
+
+8/21/2002
+
+Flak Launcher and Flak Cannon are now weight triggered to only hit packers/boarders.
+Route range and live time were lowered on all PA models.
+DeathBoard normal TopSpeed was decreased and HyperSpeed was increased.
+
+2 new environmental effects were added: The Rockslide and the Meteor Shower.
+
+-The Rockslides happen in the Southwest Hills and near the Northeast Ridge.
+
+-Beware of meteors when crossing the bridges.
+
+More to come...
+
+
+8/15/2002
+
+Mines are limited to 1 per category, except for GrapeShot mines, which are limited to 2.
+Energy damage on incinerator was lowered.
+Shot cycle time on g9 was raised a small amount.
+PDB weapons now use energy, not ammo, to fire.
+Energy Use rates on Drop Pack and Flight Pack vertical thrusters was increased.
+Most mines can not be place while on a pack or a board.
+AutoHeal was restored, at a slightly slower pace. No AutoHeal in Pioneer Station.
+
+Weapon Added: Aerial Mine
+Item Added: PDB -- MG Kit
+Vehicle Added: PDB - MG, Dual MG's of pain. Can change firing angle.
+
+8/8/2002
+
+Added Vertical Thrusters to FlightPack and DropPack. Vertical thrusters allow you to control your flight. They use energy.
+
+FlightPack had Jump removed.
+
+Added new Weapon:Flak Launcher -fires Flak Pellets at 40-65 degree angle to hit aerial targets. 1 use, can carry 3.
+Added new Weapon:Unittech Flak Cannon. Automatic flak launcher that shoots less pellets per blast.
+
+Gauss weapons projectile speeds were raised a small amount.
+
+Repulsor charge/mine now have vertical recoil. Watch the JT's fly.
+
+You no longer auto heal in open terrain. Buy them stims or make friends with a medic.. :)
+
+7/31/2002
+
+Jump is enabled on JumpPack, DropPack, and FlightPack.
+
+Packs and Boards can "edge Hop" over physics.
+
+Adjusted normal Top Speed downward for all classes an equal amount. Hyperthrust topspeed is unchanged.
+Most weapons projectile speeds were adjusted downward.
+
+Arena size was adjusted downwards a bit. It is REALLY crowded right now.
+
+There are now 4 public teams of 30. Private teams can be up to 15.
+
+You no longer have your inventory reset when you change from a basic training military class to an advanced class.
+You WILL have your inventory reset if you change down to a basic training class.
+
+You no longer get free inventory items when you change from a basic training class to an advanced class.
+Basic training classes still start with a basic loadout.
+
+Class prerequisites were all redone and based upon attributes.  The EXP cost of the attributes required is roughly the same as the
+EXP level you needed before the change. I am sorry if this messes anyone up, but it is better than using the other system.
+
+7/25/2002
+
+Team sizes are changed again.  The 5 main factions have 20. Minor factions have 15. Private teams have 12.
+
+Items no longer drop when you die. Increased the prices on all items that were formerly droppable.
+Electron Beamer energy use was increased to 100 per shot.
+
+Reverse thrust were increased for all classes. Top speeds were reduced for all classes.
+
+The map is coming along well. I am a particularly difficult area at the moment. Screen shots after this portion is complete.
+
+7/14/2002
+
+We are going to try things out from the other side now. The zone has been set to 3 man teams, with a couple of exceptions that will become apparent on their own. ;)
+
+7/6/2002
+
+Lowered the energy damage on most weapons. Some weapons were left unchanged because of their intended effect or percieved characteristics.
+
+Increased the projectile speeds on both Plasma Cannon.
+Changed the firing rates and magazine sizes on both guass rifles.
+Adjusted kinetic damage downward on the needler.
+Increased the inner energy damage on most grenades and explosives.
+Lowered Medikit and Deluxe Medikit's effect range to a more manageable size.
+
+For a temporary basis we are going to remove auto turrets from the zone entirely.  Engineers will have content themselves with creating pdb's and other structures that I will be adding shortly.
+
+To further emphasise the importance of the various factions in Eol at the time of the collapse of the civil authorities, I am making pub teams very large.  Everyone can comfortably fit on one of the public teams. This is just a test so dont freak out. :)
+
+
+7/3/2002
+
+Adjusted kinetic and bypass damage downward on both gauss rifles. Increased energy use per shot slightly.
+Sonic Rifle shot rate increased.
+Energy per shot increased on Zap Glove.
+Shot rate on all melee weapons have been lowered.
+Energy drain per use increased on all summoning devices.
+
+
+5/29/2002
+
+Changed EXP reward for recovering Helmets. Basic's are the same. Vets are worth 35, except for Engineer's which are worth 25.
+Elites are 55. SL's are 35, Sarge's are 55 and Captains are 75.
+
+PLasma Bombs Inner Plasma damage was increased a small amount and Outer Shield Drain damage a small amount.
+Lowered Outer Energy Drain Damage on GR's.
+Increased Outer Explosive Damage and Outer AP damage on the SC1999k.
+Increased Outer Explosive damage on the SR2000k.
+Lowered Outer kinetic damage on the Needler.
+Increased projectile speed on several stand and fire weapons to make their velocity approximate move and fire weapons
+that are similar but lighter. THese include:
+    
+   AutoCannon
+   Stubb Cannon
+   Machine Guns
+
+RR Canister now bursts earlier.
+
+More updates pending... 
+
+5/24/2002
+
+Maser renamed Maser Cannon and is usable by Heavies if they meet the intellect req..
+Brought back a previous version of the Maser.
+Lowered inner AP damage on the Acid Projector from 8 hp to 6 hp.
+Adjusted Partial reload times on the projectile weapons that have clips, magazines, or belts.
+Fixed an error in the GP6 DOT setting.
+
+When you enter the Teleportal in Pioneer station you SHOULD warp near to any PDB's your team has created.
+If your team has no PDB's, you will spawn as normal.
+
+5/23/2002
+
+Maser is stand and fire and also requires a 5 Intellect to use. Otherwise it is unchanged.
+
+5/22/2002
+
+Maser muzzle velocity was greatly increased and shield drain was increased a small amount.
+Increased inner damage on the plasma bomb.
+Decreased the inner and outer shield drain on many rifle and pistol class slug weapons a small amount.
+Changed the way the g9 sniper Rifle works.
+Adjusted the Kamenev AP mk2. It has a 15 round magazine now.
+Adjusted the titan arms AP101. It now does a bit more damage.
+Increased Inner AP damage on the acid Projector.
+Gas Projector does 5hp DOT damage over 5 seconds per hit.
+Increased explosive damage and shield drain damage on SW2002.
+Infiltrator's can no longer use the blackout field.  This will be used in the future by Black Ops and Bounty Hunters.
+Lowered the inner AP damage and the outer energy damage on the 2 gauss rifles.
+
+Suit Teleport is no longer a free inventory item. I know some ppl will have a hard time adjusting. It is for the better
+in the long run, however. More on this topic in the near future.
+
+
+
+5/16/2002
+
+Gave meds and Biochems personal aid kits till an issue with medikits is worked out.
+
+Increased energy usage per shot on IRL909.
+
+5/15/2002
+
+I increased the resale price of a lot of gadget and field items.
+
+Sciops can no longer cloak.
+SciopS Energy pool raised to 650.
+
+Decreased drop percentage for all sensors.
+Exo Skeleton can no longer be dropped.
+
+Increased HoverBoard's reverse accelleration, increased bounce percentage.
+Increased DeathBoard's reverse accelleration, increased bounce percentage.
+
+Dual projectile weapons are changed. Instead of one of the pair of shots dissapearing on contact, both explode.
+
+You now have to select the player to be healed with Medikits.
+Changed the way medikits reload. 
+
+Added New Item: Phased Sensor Array
+Added New Item: Superior Combat Sensorium
+Added New Weapon: FusionCorp IRL909 Infrared Laser
+Added New Weapon: Particle Accelerator (EZ)
+Added New Item: Demolition Charge. Blow up them Pesky Walls.
+
+
+5/11/2002
+
+Added Hive Spiders back to the map.
+
+Added helmet's.  Start your collection. Just a note, Civilians will not drop helmets when they die, just military Classes.
+
+Increased Drop Pack's forward accelleration
+Increased Jump Pack's forward accelleration
+Increased HoverBoard's forward accelleration, decreased reverse accelleration
+Increased DeathBoard's forward accelleration, decreased reverse accelleration
+Increased DeathBoard's top speed.
+
+5/9/2002
+
+Base classes starting loadout was adjusted so that items given can be used without pre-requisites.
+
+5/8/2002
+
+Added attributes.  Be careful how you spend your experience points. Attributes can be accessed via f11 skill screen.
+
+4/24/2002
+
+Map Update
+
+Team Sizes set to 8 players max.
+
+
+2/27/2002
+
+Redid the team radar colouring.  Command classes show up in green, Medics/Bios show up in yellow, ppl on 
+packs/boards show up grey and all other classes show up as a light blue. Enemies still show up as red.
+
+Added new Item: Chain Sword
+Added new Item: PowerSword
+Added new Item: Combat Sword
+
+Chain Fist had it's weight raised and strikes lowered to 2 before recovery. Damage was increased to offset the 
+decrease.
+
+Combat Axe had it's weight raised and strikes lowered to 2 before recovery. Damage was increased to offset the 
+decrease.
+
+Combat Knife now has 4 strikes before recovery (reload). 
+
+2/26/2002
+
+Each brand of Rifle grenade does a different damage type. Kuchler is Explosive, Maklov is plasma and Titan Arms
+is Kinetic with Schrapnel.
+
+Buffed up the needler a little bit.
+
+Teammates are colour coded by class on Radar.
+
+Raised the recovery time (reload) on the Combat axe.
+
+2/25/2002
+
+Increased all normal reverse movement speeds a small amount.
+
+Increased reverse HyperThrust to equal forward running speed.
+
+Decreased energy usage for HyperThrust on all classes. For most classes the energy expenditure is twice recharge.
+SciOps uses the least amount of energy for HyperThrust. Infiltrator uses the most.
+
+
+2/23/2002
+
+Using the ?wipecharacter command will now completely wipe your character, EXP included.
+Change classes, dont ?wipe.
+
+Redid the weight carrying capacities. The stop weight remains the same, but the normal weight limit was lowered
+5 KG across the board.
+
+All units now have HyperThrust if they choose to use it. Shift+up/down is default.
+
+Added new Item: Blackout Field
+Added new Item: Kuchler PPA
+
+Decreased the chance of dropping Sensors to 4.5%
+
+Decreased the stun time of SR2002.
+
+
+2/19/2002
+
+Items lost due to death now drop at the place of death.
+Fixed Stealth Generator.
+Powercell's weight was reduced.
+
+2/17/2002
+
+Completely redid armor values from top to bottom, including field generators. It is worth noting that, although
+armor values are not cumulative and dont add together, they do work in the order displayed on your Inventory list 
+from top to bottom. I know this is somewhat counter-intuitive, but that is the way utility items work.
+
+Completely redid the damage check values. I was assigning improper values based upon a incorrect understanding
+of the parameters. Item loss do to battle damage should increase. Fields and sensors are more likely to be 
+destroyed, armor items less likely. We'll see how it goes.
+
+-The highest chance of battle damage effecting anything is 5% the lowest is 1.5% depending on the item.
+-Primary armors and field generators are exempt from battle damage.
+
+Redid the weight values of the packs and boards to reflect this zone, not CTF. Some ppl will look at this as 
+a major nerf. However it was never intended that players be able to circumvent weight restrictions AND gain a
+maneuver advantage. A JT should not be able to carry full armor and 6 weapons on a drop pack, for instance.
+
+Added new Item: Stealth Field Generator. Any class can use this. It acts like a stealth coating at the cost of
+energy.
+
+Heavy Weapons Troopers can now use partial carapace.
+
+2/14/2002
+
+All stunning weapons are now stand and fire only.
+Viral DOT (Damage over Time) damage was boosted a small amount.
+
+2/13/2002
+
+Adjusted weight triggers on PA so walls stop them.
+Adjusted SW2002 to not push the target so hard.
+Adjusted the Gravitron's radius of effect.
+Reduced the energy drain of sensors.
+Increased the energy drain of cloak and improved cloak.
+
+
+
+2/9/2002
+
+Recalculated the armor values for the secondary armors.
+Redid the system for battle damage of utility and secondary armors.
+
+As stated before there are 2 checks performedto see if an item is destroyed. The first check I use to
+simulate the potential chance that an item is destroyed in the process of dying. The second check is 
+against the items simulated toughness. This essentially the arbitrarily determined resistance to destruction
+of the item. A sort of a "saving throw" if you will. A better system would include a modifier from the weapon
+that killed the player. Unfortunately we dont have this ability at the present, so we make the best of what is
+possible...
+
+Increased all normal and stop weights by 5 kilo's.
+Temporarily removed Disruptor.
+Temporarily reduced HP back to their pre 1/9 levels except for JT which has 55 HP.
+
+2/4/2002
+
+This is a big update. Expect some things to be tweaked.
+
+Most utilities now have a potential chance to be destroyed and removed from Inventory when you die.
+The base chance is 5% that a piece of equipment was damaged. If the check indicates an Item was damaged
+there is a 25% chance that it will be completely destroyed and removed from Inventory. If an item is not
+destroyed (ie removed) then it is assumed it was repaired. Primary suit armor is uneffected, but secondary
+armors (gauntlets/etc.) can be destroyed. No basic equipment items (Items you start with) are effected 
+nor are weapons effected (yet muhahahah).
+
+Added new Item: Conversion Generator
+Added new Item: Energy Sensors
+Added new Item: Enhanced Combat Sensors
+Added new Item: Mineral Sensors
+Added new Item: Gauntlets
+Added new Item: Heavy Gauntlets
+Added new Item: Vambrace
+Added new Item: Armored Boots
+Added new Item: Harsh Environment Boots
+Added new Item: Enhanced Greaves
+Added new Item: Heavy Greaves
+Added new Item: Partial Carapace
+Added new Item: Enhanced Actuators
+Added new Item: Superior Actuators
+
+Maser now does Plasma Damage.
+Decreased energy use amounts for Sonic Rifle.
+
+Minerals no longer show up on radar unless you have mineral sensors. This is not so important now
+but will be in the future.
+
+Utility slots have been increased to 8.
+Walls now require 10 units of titox to create.
+
+PDB's take longer to create. The net end effect is you will be required to stand still longer to 
+place them.
+
+Increased ES (Anti Cloak) radius.
+Increased SciOps thrust.
+Engineers can now use CMP6 and Partial Carapace.
+
+
+
+2/1/2002
+
+Walls require 15 titox to make as opposed to 5.
+Adjusted VehicleGetInDistance to match ItemPickupDistance, which is 64 pixels.
+
+1/31/2002
+
+Made HP on child vehicles and autoturrets visible to all since there is a bug that precludes team only
+display of child vehicle and autoturret HP.
+Cloak is disabled on packs/boards
+Exoskeleton does not work on packs/boards.
+
+1/30/2002
+
+Adjusted all the structure and wall armours to roughly match the capabilites of the heavier HW and Infantry Weapons.
+Lowered weight on the LAW to 1.2kg
+Titox is spawning at 1/6th it's old rate.
+Temporarily removed the blink generator.
+Further adjusted plasma weapons outer damage (rolloff) amounts.
+Reduced the death timer to 8 seconds.
+Adjusted Walls so that they cannot be walked through. Remember to leave a door to your base.
+Adjusted plasma projector so that it's 3 shot burst is treated as 1 shot.
+Removed projectiles on radar.
+
+1/29/2002
+
+Adjusted turret and vehicle weights so that only things as heavy or heavier than autoturrets will trigger weight
+sensitive weapons like the LAW and the Disruptor.
+
+You now have to sit in place for 4 seconds when you place a blink generator marker.
+Adjusted damage rollof amounts for all the plasma weapons.
+Added PDB and Wall Kits. Wall limits are 12 per engineer, 36 total per team.
+Team sizes were changed 10 players for public, 8 players for private.
+
+1/28/2002
+
+Removed stun ability from gas projector.
+Added new weapon: Acid Projector.
+Added new weapon: SW2002 subsonic wave projector.
+Added new item: Exo-Skeleton, for Combat Engineers.
+Added new armor type: Ablat
+Added new armor type: Blast
+Updated Ceramax armor
+Updated Shock Armor
+Updated Drop Armor
+Updated Cmp4 and CMP6 armors
+
+
+All plasma weapons use their own category as far as damage types are concerned.
+
+
+
+1/22/2002
+
+Assist kills are now rewarded 5% of the targets bounty to their bounty.
+Base cash reward was raised to 200 credits.
+Base EXP reward was raised to 50 points.
+
+1/19/2002
+
+Increased Shotgun pellet inner damage by one point.
+Close Combat Shotgun was adjusted to shoot 2 Assault Shotgun blasts as opposed to 2 Shotgun blasts.
+Per kill bounty exp reward was adjusted to give you 3% of your bounty as a reward.
+
+
+1/19/2002
+
+Adjusted Blink Generator/Teleport Beacon to not work in a Satellite.
+Shortened pistol and SMG ranges a bit.
+Adjusted bounty system, raising the per kill increase, while removing assist bounty reward.
+Adjusted kill cash share reward raising it to 35% of targets bounty.
+Adjusted experience by increasing per kill reward, increasing target bounty reward percentage, and removing experience sharing. No more
+leeched exp, gotta make the kill.
+
+1/10/2002
+
+Lowered death Timer to 10 seconds from 15 seconds.
+
+Steron Injections now cost 2 units of Pandora to make.
+
+Stim Packs now cost 2 units of Tsolvy to make.
+
+Energizers now cost 2 units of Unilenium to make.
+
+Armour can no longer be dropped. Armour can be sold, however.
+
+********Stats were wiped. This was done because some ppl have inflated stats due to cheats that have been overcome.
+
+1/9/2002
+
+Removed reprogramming kit until a specific parameter is enabled.
+
+Reduced RPG proximity a small amount
+
+CAW now uses 5 energy per shot ( fighting suit powers the weapon)
+
+Made an adjustment to Suit Teleport. When you respawn after death, it takes 20 seconds for the Teleport Locator to re-calibrate.
+During this period you will be unable to teleport.  You can still be summoned as normal.
+
+AutoTurrets will give their team 10% of points/cash reward for kills they make. You have to make the kill to get EXP. Sorry. :)
+
+1/4/2002
+
+Increased the inactive time for Shrapnel
+
+Gave the CAW some outer damage.
+
+Decreased the caw's primary firing time.
+
+Increased the primary firing time for all the battle rifles a very small amount.
+
+Primary firing time increased slightly on RPG.
+
+Reload time increased slightly on RPG.
+
+1/1/2002
+
+SMG's inner damage raised to model pistols. Outer damage is still lower than the pistol equiv. This reflects the
+the fact that their ammunition is similar.
+
+SMG's alive time is closer to pistols. Again to reflect the fact they use similar ammo.
+
+Stunner is now stand and fire.
+
+The ChangeWeapon timing for stunner and Tranq has been increased.
+
+g9 damage was raised to 30 inner 0 outer.
+
+
+12/28/2001
+
+G9 sniper rifle has been modified.
+
+All explosive weapons with a blast radius will now hurt everyone. You cant team kill, but you can hurt your team.
+
+When you kill a player, if you kill him again in a short period of time, you will get no cash/exp for the kill.
+
+Pub teams are 12 players, private teams are 10.
+
+12/24/2001
+
+Welcome to "Chaos on EOL"
+
+Exp from bounty has been changed to 5+15% of targets bounty + 5% of your bounty.
+Exp is shared in a 320 pixel radius of killing player. Share amount is 25%

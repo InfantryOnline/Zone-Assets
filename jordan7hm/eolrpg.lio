@@ -1,0 +1,111 @@
+8,v12,2,"Terraform",2576,1632,    12,-1,50,This is one of many Terraforming facilities on Titan
+8,v12,3,"Powerplant",3328,2432,    7,-1,200,This power plant appears to have suffered some damage.
+8,v12,4,"powerplant2",4496,2160,    7,-1,29,I'm telling you this is no freak accident... someone sabotaged us.
+8,v12,5,"mall1",4080,352,    8,-1,50,Hey!? You buying? If not take a hike!
+8,v12,6,"Mall2",5824,1280,    8,-1,51,hhmm...?
+8,v12,7,"talking",1712,3616,    0,-1,25,and then I went to the.... Hey! this is a private conversation... do you mind?
+8,v12,8,"Arena",6368,1072,    8,-1,100,The stench of dried blood and sweat wafts out through the door.  This building is used for publicized duels and excutions.
+8,v12,9,"building",10336,640,    8,-1,100,The door is locked
+8,v12,10,"shuttleport",13616,1200,    0,-1,200,Shuttleport authority and control.
+8,v12,11,"shuttleport2",13632,1584,    0,-1,200,Shuttleport authority and control.
+8,v12,12,"Marine1",11184,3488,    8,-1,24,Sir I need to see your clearance.
+8,v12,13,"Marine2",11008,3488,    8,-1,24,Sir I need to see your clearance.
+8,v12,14,"downed ds",9232,7920,    8,-1,400,Recently this dropship in orbit malfunctioned and crashed perilously close to some residental buildings.
+8,v12,15,"morgan",14032,8192,    0,-1,75,This is the trademark of the Morgan Raiders
+8,v12,16,"morgan2",14032,6816,    0,-1,125,This building was completed just months before some very suspicious events happened.
+8,v12,17,"raided",12416,5264,    7,-1,200,This building has appeared to have been ransacked
+4,v12,100,"DeathEntry1",8512,4672,  0,300,0, 0,0,3000,
+4,v12,101,"PlayerEntry1",18624,2560,  0,300,1, 0,150,50,
+4,v12,1,"PlayerEntry2",18032,2576,  0,300,1, 0,150,50,
+4,v12,18,"PlayerEntry3",18656,2976,  0,300,1, 0,150,50,
+4,v12,19,"PlayerEntry4",18064,2976,  0,300,1, 0,150,50,
+6,v12,201,"MapEntry",18352,2752,    45,-1,5236,4800,2000, 400,0,uiart,warp,0,0,0,0,0,uiwav,warpin,0,0
+5,v12,300,"tox1",2112,7424,     5,500,500,1, 0,300,0,99999, 12,1000,2009,100, 2,0
+5,v12,20,"tox2",3744,6272,     5,500,500,1, 0,300,0,99999, 17,1000,2009,100, 2,0
+5,v12,21,"tox3",9328,3712,     5,500,500,1, 0,300,0,99999, 25,1000,2009,100, 2,0
+5,v12,22,"tox4",5584,5056,     5,500,500,1, 0,300,0,99999, 23,1000,2009,100, 2,0
+5,v12,23,"tox5",11984,1232,     5,500,500,1, 0,300,0,99999, 15,1000,2009,75, 2,0
+5,v12,24,"tsy1",9056,3600,     5,500,500,1, 0,300,0,99999, 20,1000,2005,75, 5,0
+5,v12,25,"tsy2",11808,1584,     5,500,500,1, 0,300,0,99999, 10,1000,2005,75, 5,0
+5,v12,26,"tsy3",14992,3120,     5,500,500,1, 0,300,0,99999, 20,1000,2005,75, 5,0
+5,v12,27,"tsy4",5344,3600,     5,500,500,1, 0,300,0,99999, 15,1000,2005,75, 2,0
+5,v12,28,"tsy5",4208,6496,     5,500,500,1, 0,300,0,99999, 10,1000,2005,75, 5,0
+5,v12,29,"tsy6",10816,5920,     5,500,500,1, 0,300,0,99999, 20,1000,2005,75, 5,0
+5,v12,309,"tox6",10576,5504,     5,500,500,1, 0,300,0,99999, 30,1000,2009,150, 5,0
+1,v12,150,"door1",2000,5040,    -2,-2,4,2, 0,0, DOORS,Metac,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,31,"door1 Copy (1)",2032,5040,    -2,-2,4,2, 0,150, DOORS,Metac,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,32,"door2",3072,1360,    -2,-2,4,2, 0,0, DOORS,Metac,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,33,"door2 Copy (1)",3104,1360,    -2,-2,4,2, 0,32, DOORS,Metac,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,34,"door2 Copy (2)",3136,1360,    -2,-2,4,2, 0,32, DOORS,Metac,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+2,v12,30,"door1",1940,5044,    0, 150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,400, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,uiwav,rclick,0,0
+2,v12,35,"door1 Copy (1)",2068,4916,    0, 150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,400, ,-1, 0,0,0,0,0,0, lock,DoorLckD,0,0,0,0,0,uiwav,rclick,0,0
+2,v12,36,"door2",3108,1236,    0, 32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,400, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,uiwav,rclick,0,0
+2,v12,37,"door2 Copy (1)",3028,1380,    0, 32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,400, ,-1, 0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,uiwav,rclick,0,0
+7,v12,40,"gas",2816,1280,    -1,1000,50,-1, 0,ambient,Gas01,0,0
+7,v12,38,"gas Copy (1)",3440,1280,    -1,1000,50,-1, 1,ambient,Gas01,0,0
+7,v12,39,"gas Copy (2)",2432,1248,    -1,1000,30,-1, 0,ambient,Gas01,0,0
+7,v12,41,"gas Copy (2) Copy (1)",3760,1264,    -1,1000,50,-1, 0,ambient,Gas01,0,0
+7,v12,42,"gas Copy (2) Copy (1) Copy (1)",15360,5008,    -1,1000,50,-1, 0,None,None,0,0
+7,v12,44,"chigger1 Copy (1)",7760,4896,    -1,400,400,0, 0,Alien2,chiggers,0,0
+7,v12,45,"chigger1 Copy (1) Copy (1)",15296,1024,    -1,400,300,0, 0,Alien2,bug,0,0
+5,v12,46,"pand1",10736,6864,     5,500,500,1, 0,300,0,99999, 20,1000,2007,100, 5,0
+5,v12,47,"pand2",4032,6736,     5,500,500,1, 0,300,0,99999, 15,1000,2007,75, 5,0
+5,v12,48,"pand3",2688,7424,     5,500,500,1, 0,300,0,99999, 5,1000,2007,50, 5,0
+5,v12,49,"pand4",5440,3984,     5,500,500,1, 0,300,0,99999, 15,1000,2007,75, 5,0
+5,v12,50,"pand5",11488,1408,     5,500,500,1, 0,300,0,99999, 10,1000,2007,50, 2,0
+7,v12,43,"powerflow",9264,7808,    -1,200,50,0, 0,robo,cydply2,0,0
+8,v12,72,"road",2304,8160,    11,-1,200,The road to the rest of Eol is blocked
+1,v12,79,"door3",8576,176,    -2,-2,4,2, 0,0, DOORS,Metala,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,80,"door3 Copy (1)",8576,208,    -2,-2,4,2, 0,79, DOORS,Metala,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,81,"door3 Copy (2)",8576,240,    -2,-2,4,2, 0,79, DOORS,Metala,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,82,"door3 Copy (3)",8576,272,    -2,-2,4,2, 0,79, DOORS,Metala,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,83,"door4",6464,208,    -2,-2,4,1, 0,0, DOORS,Metala,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,84,"door4 Copy (1)",6464,176,    -2,-2,4,2, 0,83, DOORS,Metala,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,85,"door4 Copy (2)",6464,240,    -2,-2,4,2, 0,83, DOORS,Metala,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,86,"door4 Copy (3)",6464,272,    -2,-2,4,2, 0,83, DOORS,Metala,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+2,v12,87,"Arena Entrance 1",6436,292,    0, 83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,1000, ,-1, 0,0,0,0,0,0, lock,DoorLckD,0,0,0,0,0,uiwav,rclick,0,0
+2,v12,88,"Arena Exit 1",6500,292,    0, 83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,1200, ,-1, 0,0,0,0,0,0, lock,DoorLckF,0,0,0,0,0,uiwav,rclick,0,0
+2,v12,89,"Arena Exit 2",8548,292,    0, 79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,1200, ,-1, 0,0,0,0,0,0, lock,DoorLckD,0,0,0,0,0,uiwav,rclick,0,0
+2,v12,90,"Arena Entrance 2",8612,292,    0, 79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,1000, ,-1, 0,0,0,0,0,0, lock,DoorLckF,0,0,0,0,0,uiwav,rclick,0,0
+2,v12,91,"Unittech Labs",10228,708,    0, 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,400, ,-1, 0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,uiwav,Cantfire,0,0
+8,v12,92,"92 lio w00t!",13584,3088,    2,-1,20,This is the 92 lio my map... if you found this.... don't you feel special
+8,v12,93,"corner",18272,112,    12,-1,100,Why yes this is the top corner of the map.
+8,v12,94,"arena2",8784,1120,    8,-1,50,The stench of dried blood and sweat wafts out through the door.  This building is used for publicized duels and excutions.
+5,v12,109,"tox7",1552,2832,     5,500,500,1, 0,300,0,99999, 30,1000,2009,50, 10,0
+1,v12,115,"door5",2544,3888,    -2,-2,4,1, 0,0, DOORS,Metala,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,116,"door5 Copy (1)",2544,3920,    -2,-2,4,1, 0,115, DOORS,Metala,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,117,"door5 Copy (2)",2544,3952,    -2,-2,4,1, 0,115, DOORS,Metala,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,118,"door5 Copy (3)",2544,3984,    -2,-2,4,1, 0,115, DOORS,Metala,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,119,"door6",1984,4416,    -2,-2,4,2, 0,0, DOORS,Metac,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,120,"door6 Copy (1)",2016,4416,    -2,-2,4,2, 0,119, DOORS,Metac,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,121,"door6 Copy (2)",2048,4416,    -2,-2,4,2, 0,119, DOORS,Metac,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,122,"door7",1872,3552,    -2,-2,4,2, 0,0, DOORS,Metac,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,123,"door7 Copy (1)",1904,3552,    -2,-2,4,2, 0,122, DOORS,Metac,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,124,"door7 Copy (2)",1936,3552,    -2,-2,4,2, 0,122, DOORS,Metac,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,125,"door7 Copy (3)",1968,3552,    -2,-2,4,2, 0,122, DOORS,Metac,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+1,v12,126,"door7 Copy (4)",2000,3552,    -2,-2,4,2, 0,122, DOORS,Metac,0,0,0,0,0,BoomBall,Barrier,0,0,None,None,0,0
+2,v12,127,"door3",2100,4436,    0, 119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,400, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,uiwav,Cantfire,0,0
+2,v12,128,"door3 Copy (4)",2004,4260,    0, 119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,400, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,uiwav,Cantfire,0,0
+2,v12,129,"door4",2052,3572,    0, 122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 400,0,0,0,400, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,uiwav,Cantfire,0,0
+3,v12,51,"Major Resource Point",3352,2088,     1,1000,0,300,1, 0,0,1,1,6000, 6000,0,0,0, -2250,-22500,0,0,0, 0,0,0,0, ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,ResourcePoint,0,0,5,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,52,"Major Resource Point",5336,7848,     1,1000,0,300,1, 0,0,1,1,6000, 6000,0,0,0, -2250,-22500,0,0,0, 0,0,0,0, ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,ResourcePoint,0,0,5,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,53,"Major Resource Point",15192,4888,     1,1000,0,300,1, 0,0,1,1,6000, 6000,0,0,0, -2250,-22500,0,0,0, 0,0,0,0, ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,ResourcePoint,0,0,5,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+5,v12,56,"unil1",10448,6720,     5,500,500,1, 0,300,0,99999, 20,1000,2010,100, 5,0
+5,v12,57,"unil2",9184,3568,     5,500,500,1, 0,300,0,99999, 10,1000,2010,60, 5,0
+5,v12,58,"unil3",5424,5696,     5,500,500,1, 0,300,0,99999, 20,1000,2010,100, 2,0
+3,v12,65,"Minor Resource Point",440,472,     1,1000,0,300,1, 0,0,1,1,6000, 6000,0,0,0, -225,-2250,0,0,0, 0,0,0,0, ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,ResourcePoint,0,0,20,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,54,"Minor Resource Point",3640,1032,     1,1000,0,300,1, 0,0,1,1,6000, 6000,0,0,0, -225,-2250,0,0,0, 0,0,0,0, ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,ResourcePoint,0,0,20,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,55,"Minor Resource Point",2008,3992,     1,1000,0,300,1, 0,0,1,1,6000, 6000,0,0,0, -225,-2250,0,0,0, 0,0,0,0, ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,ResourcePoint,0,0,20,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,59,"Minor Resource Point",6168,2488,     1,1000,0,300,1, 0,0,1,1,6000, 6000,0,0,0, -225,-2250,0,0,0, 0,0,0,0, ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,ResourcePoint,0,0,20,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,60,"Minor Resource Point",3096,8824,     1,1000,0,300,1, 0,0,1,1,6000, 6000,0,0,0, -225,-2250,0,0,0, 0,0,0,0, ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,ResourcePoint,0,0,20,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,61,"Minor Resource Point",7848,8584,     1,1000,0,300,1, 0,0,1,1,6000, 6000,0,0,0, -225,-2250,0,0,0, 0,0,0,0, ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,ResourcePoint,0,0,20,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,62,"Minor Resource Point",7544,7272,     1,1000,0,300,1, 0,0,1,1,6000, 6000,0,0,0, -225,-2250,0,0,0, 0,0,0,0, ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,ResourcePoint,0,0,20,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,63,"Minor Resource Point",13416,4936,     1,1000,0,300,1, 0,0,1,1,6000, 6000,0,0,0, -225,-2250,0,0,0, 0,0,0,0, ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,ResourcePoint,0,0,20,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,64,"Minor Resource Point",13400,5608,     1,1000,0,300,1, 0,0,1,1,6000, 6000,0,0,0, -225,-2250,0,0,0, 0,0,0,0, ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,ResourcePoint,0,0,20,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,66,"Elite Unit Standard",448,368,     1,1000,0,300,1, 0,1,1,1,30000, 1000,0,2,-3000, -750,-2500,6000,0,0, 0,0,0,0, 7|9|10,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,EliteBanner,0,0,85,5,-5,bongs,Bleep04,0,0,sounds,Wav00405,0,0
+3,v12,67,"Mercenaries Standard",9232,7984,     1,1000,0,300,1, 0,1,1,1,30000, 1000,0,2,-3000, -250,-7500,6000,0,0, 0,0,0,0, 7|9|10,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, eolobjectives_v4,EliteBanner,0,0,0,5,-5,bongs,Bleep04,0,0,sounds,Wav00405,0,0
+5,v12,68,"PiratesCommanderSpawn",13000,2400,     2,10000,10000,1, 0,300,0,99999, 20,10,-410,2400, 65535,0
+5,v12,69,"PiratesEliteSpawn",13000,2400,     5,7000,7000,1, 0,300,0,99999, 20,20,-408,2400, 65535,0
+5,v12,70,"PiratesHeavySpawn",13000,2400,     5,8000,8000,1, 0,300,0,99999, 20,15,-407,2400, 65535,0
+5,v12,71,"PiratesRaiderSpawn",13000,2400,     5,7000,7000,1, 0,300,0,99999, 20,30,-403,2400, 65535,0
+5,v12,73,"PiratesSniperSpawn",13000,2400,     0,30000,30000,1, 0,300,0,99999, 20,2,-409,2400, 65535,0

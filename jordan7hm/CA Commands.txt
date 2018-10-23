@@ -1,0 +1,85 @@
+~1~B-- Player Commands --~1~B
+
+~4?coord or ?coords
+~2	Gives your true game coordinates.
+~4?findstructure [structurename]
+~2	finds all the structures named structurename.
+~4?structures [num]
+~2	Shows all your team's structures.  Use ?structures 2, etc to scroll.
+~4?wp
+~2	Shows all your team's warp points.
+~4?reward
+~2	Shows your current HQ reward.
+~4?hq
+~2	Shows you all the HQs in the arena.
+~4?stats
+~2	Shows your session statistics.
+~4?duels
+~2	Shows who is signed up for duels.
+~4?stas
+~2	Z'OMG WTF PWNZORS!
+~4?highbounty
+~2	Shows the player with the highest bounty in the arena.
+
+~1~B-- Moderator Commands --~1~B
+
+~4*createwp
+~2	Creates a warp point.
+~4*showwp
+~2	Shows all the warp points and it's number.  The numbers are dyanmic and change so be careful when using *killwp.
+~4*killwp [num]
+~2	Removes the warp point you specify from *showwp.
+~4*getstats
+~2	Send as a private message to get the player's session stats.  This version includes team kills.
+~4*resetstation [num]
+~2	Resets a dueling station.
+~4*duelsignup [num]
+~2	Send as a private message to sign a player up for a duel.
+~4*createdueling
+~2	Creates a dueling station and makes it neutral.
+~4*createhq
+~2	Creates an HQ bypassing all limit checks.
+~4*showhq
+~2	Shows all the HQs and their numbers.  The numbers are dynamic so be careful.
+~4*restarthq [num]
+~2	Restarts the rewards for an HQ.
+~4*killhq [num]
+~2	Removes an HQ.
+~4*bonusallhq [bonus]
+~2	Gives a bonus to all HQ in the area.
+~4*bonusmyhq [bonus]
+~2	Gives a bonus to all HQ on your team.
+~4*veh [vehiclenumber]
+~2	Changes a player's default (base) vehicle.  Think ZZ style.
+~4*giveveh [vehiclenumber]
+~2	Creates a vehicle (tank, bike, whatever) and stuffs the player into it
+~4*setbounty [bounty]
+~2	Set a person's bounty
+~4*givebounty [amount]
+~2	Adds amount to a player's bounty
+~4?cannon
+~2	Fires the orbital beam cannon
+~4*immortal [playername]
+~2	Makes a player respawn in the same spot he died.  This is very useful for testing.  Only one immortal can exist in an arena.  If you don't turn it off with *immortal and no arguments he will stay immortal forever (even if he quits and comes back)
+~4*prizezone [itemname]
+~2	Gives everyone in the arena exactly 1 of an item.
+~4*unprizezone [itemname]
+~2	Takes 1 item from everyone in the arena.
+~4*expzone [exp]
+~2	Can only be used in private arenas.  Gives exp to everyone in the arena.
+~4*cashzone [cash]
+~2	Can only be used in private arenas.  Gives exp to everyone in the arena.
+~4*changevehzone [vehiclenumber]
+~2	Changes every player's default (base) vehicle in the arena.  Think ZZ style.
+~4*givevehzone [vehiclenumber]
+~2	Creates a vehicle (tank, bike, whatever) to every player in the arena and stuffs the player into it.
+~4*attach Send as a private message
+~2	Summons a player to you over and over. Send as a private message.  Used mainly to annoy people while we are on the testing servers.
+~4*resurrect
+~2	Resurrects a player who  is dead.  Send as a private message.
+~4*summoneveryone
+~2	Hmmm, what does this do?
+
+
+~5Compiled by n0b kilza 2/21/08
+

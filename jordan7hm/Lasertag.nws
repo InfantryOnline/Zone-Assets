@@ -1,0 +1,92 @@
+~BArcade: Laser Tag!~B
+
+The point of this zone is to simply join the game (F12) and kill the enemy! First team to 25 points, wins!
+Games have 2 teams, each team holding a max of 20 players
+
+~1
+~BZone Sysop:~B
+Super-Man
+
+~BHead Mod:~B
+Blaze -(OutLaw)
+
+~BMods:~B
+Nagini
+HellSpawn
+Qloos
+
+Thanks goes out to the current mod team, thanks guys for help keeping this zone clean and free to play for all our players!~2
+
+~3~BMuch Thanks To Syco For The Lua Script!~B~2
+
+~BPlease do not ask to become a mod, I will choose them myself based on your attitude and your respect towards others.~B
+
+~4
+~BRules~B
+I honestly don't like many rules, but heres just a few.
+1. No abusing bugs/glitches. Please report any bugs/glitches you find to me, Super-Man, so I can fix them.
+2. No racism taken to an extreme. Not saying that you can't say it at all, but don't start using it really offensively please, keep it cool.
+3. The more obvious ones, don't hack, etc...
+
+That should be it for rules...~2
+
+~6
+~BHow to play~B
+Start off by pressing F12 to enter the game. You will be randomly placed on a team, either Red or Blue.
+Your mission is to be the first team to 25 points!
+You get points by killing the enemy, or destroying the enemies turret! You get 1 point per kill, and 10 points for the turret.
+When game ends, and your team is victorious, you get to play with a Celebration character, then you are scrambled. You get to play with this character for 45 seconds, until a new game starts.
+
+Thats about it! Have fun!~2
+
+
+~5
+~BUpdates~B
+
+January 28, 2007
+- Celebration Vehicle now only has 75 hp, so it can actually be killed be enemy Celebrators. Its ok though, they still have 1337 energy :).
+- Start Game Delay has been reduced from 60 seconds, to 20 seconds.
+
+January 26, 2007
+- Fixed scramble problem (Thanks Syco!)
+- There are now emotes in the shop!
+- Changed the rotate speed for Celebration Vehicle to a bit slower, so you can control it easier.
+- Fixed some other minor bugs (un-listed)
+
+January 20, 2007
+- Switched back to old map
+- Changed game play to Killing instead of Flagging
+- Thanks to Syco for the Lua script!
+
+January 6, 2007
+- Made more flag graphics and arranged them so each team has their own colored flags!
+- New map! Thanks Qloos!
+- There is now 4 teams
+- Only 1 flag now and you only have to hold it for 25 seconds
+
+January 5, 2007
+- You now start with full HP (2) at game start, instead of sometimes starting with just 1
+- Added Sprint!
+- Shots are now in 3 round bursts, but longer reload and longer fire delay
+- You only need to hold flag for 30 seconds now
+- Fixed Scramble Problem
+- Players are now faster
+- You now die in 2 hits, instead of 3
+- Changed flag timers
+- Fixed shoot-through-wall bug :)
+- Fixed not being able to change arenas
+- Now it is 25v25 games to make things funner
+
+January 4, 2007
+- Added the weapons, classes, flags, and almost everything else, from scratch!
+- Laser Tag is now ready to be publically played/tested!
+- Made new flag graphics for Blue Team
+- Now everything for each team is color-coded. Even weapons and armor on characters :).
+- Removed fire graphic for Laser Rifle, was buggy.
+
+January 3, 2007
+- Qloos made an excellent map for the zone to be played in
+- I added physics/vision for the map and made a few adjustments because of crashes
+~2
+
+~6~BSuper-Man~B~2

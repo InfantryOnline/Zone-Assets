@@ -1,0 +1,2074 @@
+<SkinApp Name = "Station LaunchPad">
+
+	<Game>LaunchPad</Game>
+
+    <Command Event="navigate"
+             Name="CheckURLReskin">
+             <Param Name="MainWindow">MainWindow</Param>
+    </Command>
+
+    <Command Event="onskinload"
+             Name="SetChatParameters">
+
+		 <Param Name="ChatRoomPath">station.launchpad</Param>
+
+		 <Param Name="ColorLBDefault">#000000</Param>
+		 <Param Name="ColorLBModerator">#000055</Param>
+		 <Param Name="ColorLBDeveloper">#000000</Param>
+         <Param Name="ColorLBFriend">#000000</Param>
+
+		 <Param Name="ColorChatSelf">#000066</Param>
+		 <Param Name="ColorChatOther">#000044</Param>
+		 <Param Name="ColorChatDeveloper">#000055</Param>
+		 <Param Name="ColorChatModerator">#004400</Param>
+		 <Param Name="ColorChatStatus">#222299</Param>
+		 <Param Name="ColorChatHighStatus">#440000</Param>
+         <Param Name="ColorChatFriend">#ffcc00</Param>
+         <Param Name="ColorChatEmote">#CC99FF</Param>
+		 <Param Name="ColorChatText">#000000</Param>
+
+		 <Param Name="ColorIMSelf">#000000</Param>
+		 <Param Name="ColorIMOther">#000044</Param>
+
+		 <Param Name="ColorFriendOnline">#000000</Param>
+		 <Param Name="ColorFriendOffline">#555555</Param>
+		 <Param Name="IMWindow">true</Param>
+         <Param Name="WelcomeMessage">Welcome to Station Chat.
+  Double-click on any of the rooms to the right to chat with players.
+  Open multiple rooms by entering a room and pressing CHAT on the Launchpad again.
+</Param>
+
+	 </Command>
+
+    <!-- *** Begin StyleSheet Definitions ************************** -->
+
+    <StyleSheet Name="ListStyle"
+        Face="Arial"
+        Size="-1"
+        >
+        <Color Type="Default" Value="0,0,0"/>
+        <Color Type="Rollover" Value="255,255,255"/>
+        <Color Type="Selected" Value="255,255,255"/>
+    </StyleSheet>
+
+    <StyleSheet Name="EntryField"
+        Face="Arial Unicode MS"
+        Size="0"
+        >
+        <Color Type="Default" Value="0,0,0"/>
+        <Color Type="Highlight" Value="255,255,255"/>
+    </StyleSheet>
+
+    <StyleSheet Name="LabelStatic"
+        Face="Arial"
+        Size="-1"
+        Bold="true"
+        Italic="true"
+        >
+        <Color Type="default" Value="255,255,255,255"/>
+    </StyleSheet>
+
+    <StyleSheet Name="MessageTitle"
+        Face="Arial"
+        Size="0"
+        >
+        <Color Type="Default" Value="255,255,255"/>
+        <Color Type="Highlight" Value="0,0,200"/>
+    </StyleSheet>
+
+    <StyleSheet Name="VersionLabel"
+        Face="Verdana"
+        Size="-2"
+        >
+        <Color Type="default" Value="206,221,236"/>
+    </StyleSheet>
+
+    <StyleSheet Name="AreaText"
+        Face="Arial Unicode MS">
+        <Color Type="default" Value="0,0,0"/>
+        <Color Type="highlight" Value="255,255,255"/>
+    </StyleSheet>
+
+    <!-- *** End StyleSheet Definitions **************************** -->
+
+    <SkinInfo
+        Name="Station LaunchPad"
+        URL="http://www.station.com/">
+        <Author>Steve Lukas</Author>
+        <Author>Matt Sivertson</Author>
+        <Artist>Rich Sjoberg</Artist>
+    </SkinInfo>
+	<SkinSound preload="Sounds/click.wav"/>
+
+    <SkinWindow
+        Name="LoginWindow"
+        Visible="true"
+        Align="Center"
+        VAlign="Center"
+        Label="Station LaunchPad Login"
+        Icon="station_images\LaunchPad.ico"
+        >
+
+        <ToolTip>
+            <SkinText>
+               <SkinFont
+				Face="Arial"
+				Size="14"
+				Bold="false"
+				Italic="false"
+				Underline="false"
+				>
+					<!--  TO DEFINE TOOL TIP COLORS -->
+					<!-- <Color Type="Default" Value="0,0,255"/> -->
+					<!-- <Color Type="ToolTipBackground" Value="255,100,100"/> -->
+					<!--  Default is black text on pale yellow background -->
+				</SkinFont>
+			</SkinText>
+        </ToolTip>
+
+        <SkinArt
+            TransparentColor="0,255,0"
+            >
+            <Image Type="BackgroundImage" Path="station_images/login-bg.png"/>
+            <Image Type="MapImage" Path="station_images/login-map.png"/>
+            <Image Type="HoverImage" Path="station_images/login-hover.png"/>
+            <Image Type="SelectedImage" Path="station_images/login-selected.png"/>
+            <Image Type="FocusedImage" Path="station_images/login-focused.png"/>
+        </SkinArt>
+
+        <SkinButton
+            Name="Minimize"
+            MapColor="20,20,20"
+            Enabled="true"
+            TabID="50"
+			NoToolTipText="Minimize"
+            >
+            <Command Event="click"
+                     Name="minimizewindow">
+            </Command>
+        </SkinButton>
+
+        <SkinButton
+            Name="CloseBox"
+            Label="CloseBox"
+            MapColor="0,0,0"
+            Enabled="true"
+            TabID="60"
+			NoToolTipText="Close"
+            >
+            <Command Event="click"
+                    Name="loginexit"/>
+        </SkinButton>
+        
+        <SkinForm
+            Name="loginform"
+            Label="Login Form"
+            DefaultSubmit="LoginButton"
+            >
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="submit"
+                     Name="ProcessLogin">
+			</Command>
+
+            <SkinTextField
+                Name="Username"
+                Label="Username Field"
+                MapColor="0,255,125"
+                Editable="true"
+                TabID="10"
+                >
+                <Style Name="EntryField"/>
+                <Command Event="textChanged"
+                         Name="CheckPassword"/>
+            </SkinTextField>
+
+            <SkinButton
+                Name="OpenMenuButton"
+                MapColor="100,100,255"
+                >
+                <Command Event="click"
+                         Name="listmenutoggle">
+                         <Param Name="combobox">Username</Param>
+                </Command>
+            </SkinButton>
+
+            <SkinPasswordField
+                Name="Password"
+                Label="Password Field"
+                MapColor="0,125,255"
+                TabID="20"
+                >
+                <Style Name="EntryField"/>
+            </SkinPasswordField>
+
+			<SkinToggle
+				Name="SavePassword"
+				MapColor="255,128,0"
+				Enabled="true"
+				TabID="25"
+				NoToolTipText="Save Password for Later Use"
+				InitValue="false"
+				>
+				<Command Event="click"
+						 Name="savePassword"/>
+			</SkinToggle>
+
+            <SkinButton
+                Name="LoginButton"
+                Label="Login Button"
+                MapColor="255,0,0"
+                TabID="30"
+				NoToolTipText="Click here to login to the station"
+                >
+                <Command Event="click"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+                <Command Event="click"
+                         Name="submit"/>
+            </SkinButton>
+        </SkinForm>
+
+        <SkinButton
+            Name="ForgotStationButton"
+            Label="Forgot Station Name"
+            MapColor="255,0,255"
+            TabID="44"
+            >
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+
+            <Command Event="click"
+                     Name="ForgotUserInfo"/>
+
+        </SkinButton>
+
+        <SkinText
+            Name="VersionLabel"
+            Label="Version Label"
+            MapColor="100,100,100"
+            Enabled="false"
+            FixedWidth="true"
+            >
+            <Style Name="VersionLabel"/>
+            <Bind Field="text" Value="LaunchpadVersion" Global="true"/>
+        </SkinText>
+
+        <SkinButton
+            Name="CreateAccountButton"
+            Label="Create Account"
+            MapColor="0,0,255"
+            TabID="45"
+            >
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click"
+                     Name="BrowserLink">
+                     <Param Name="url">https://www.station.sony.com/secure/en/registration/registration.jsp?URL=LP</Param>
+            </Command>
+        </SkinButton>
+    </SkinWindow>
+
+    <SkinWindow 
+        Name="MiniWindow" 
+        Anchor="true"
+        Visible="false"
+        Label="Station LaunchPad"
+        Icon="station_images\LaunchPad.ico"
+        >
+
+        <SkinArt 
+            TransparentColor="0,255,0"
+            >
+            <Image Type="BackgroundImage" Path="station_images/mini-bg.png"/>
+            <Image Type="MapImage" Path="station_images/mini-map.png"/>
+            <Image Type="HoverImage" Path="station_images/mini-hover.png"/>
+            <Image Type="SelectedImage" Path="station_images/mini-selected.png"/>
+            <Image Type="FocusedImage" Path="station_images/mini-focused.png"/>
+        </SkinArt>
+
+        <SkinButton
+            Name="CloseBoxMini"
+            Label="CloseBox"
+            MapColor="0,0,0"
+            Enabled="true"
+            TabID="110"
+            >
+            <Command Event="click"
+                    Name="exit"/>
+        </SkinButton>
+        <SkinButton
+            Name="MinimizeMini"
+            MapColor="20,20,20"
+            Enabled="true"
+            TabID="150"
+            >
+            <Command Event="click"
+                    Name="minimizewindow">
+            </Command>
+        </SkinButton>
+        <SkinButton
+            Name="MainWindowSwapper"
+            MapColor="10,10,10"
+            Enabled="true"
+            TabID="100">
+            <Command Event="click"
+                    Name="NewView">
+                    <Param Name="windowsOn">MainWindow</Param>
+                    <Param Name="windowsOff">MiniWindow</Param>
+            </Command>
+        </SkinButton>
+
+        <SkinButton
+            Name="ChatMini"
+            MapColor="0,0,60"
+            Enabled="true"
+              TabID="130"
+            >
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+
+            <Command Event="click"
+                     Name="OpenNewChatRoom">
+					 <Param Name="RoomType">ChatWindow</Param>
+                     <Param Name="RoomName">Lobby 1</Param>
+                     <Param Name="windowName">ChatWindow</Param>
+            </Command>
+        </SkinButton>
+
+        <SkinButton
+            Name="BuddyListButtonMini"
+            Label="Toggle Drawer State Button"
+            MapColor="0,0,120"
+            TabID="140">
+            <Command Event="click"
+                 Name="toggledrawer"
+                 >    
+                 <Param Name="drawer">BuddyListDrawerMini</Param>
+            </Command>
+        </SkinButton>
+
+        <SkinButton
+            Name="MoreGamesMini"
+            MapColor="255,0,100"
+            Enabled="true"
+            TabID="120">
+                <Command Event="click"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+            <Command Event="click"
+                     Name="Link">
+                     <Param Name="url">http://www.station.com/</Param>
+            </Command>
+        </SkinButton>
+
+        <SkinDrawer
+            Name="BuddyListDrawerMini"
+            Label="Buddy List Drawer Mini"
+            Orientation="South"
+            OpenPositionColor="255,0,255"
+            ClosedPositionColor="0,255,0"
+            ConnectPositionColor="150,0,150"
+            Interval="10"
+            Frames="10"
+            MaxHeight="400"
+            >
+            <Bind Field="draweropen_state" Value="buddyListDrawerMiniState"/>
+
+            <SkinArt TransparentColor="0,255,0">
+                <Image Type="BackgroundImage" Path="station_images/buddy_mini-bg.png"/>
+                <Image Type="MapImage" Path="station_images/buddy_mini-map.png"/>
+                <Image Type="HoverImage" Path="station_images/buddy_mini-hover.png"/>
+                <Image Type="SelectedImage" Path="station_images/buddy_mini-selected.png"/>
+            </SkinArt>
+
+        <SkinListBox
+            Name="BuddyListTextMini"
+            MapColor="100,100,100"
+            TabID="100"
+            >
+            <Bind Field="option_list" Value="BuddyList"/>
+            <Style Name="ListStyle"/>
+
+            <Command Event="activate"
+                     Name="OpenNewChatRoom">
+					 <Param Name="RoomType">IMWindow</Param>
+                     <Param Name="windowName">IMWindow</Param>
+            </Command>
+
+			<Brush Type="Highlight" Color="0,0,100,255"/>
+			<Brush Type="Hover" Color="50,50,150,255"/>
+        </SkinListBox>
+
+        <SkinButton
+            Name="AddBuddy"
+            Label="Add Buddy Button"
+            MapColor="255,128,128">
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click"
+                     Name="AddBuddy"
+                     >    
+            </Command>
+        </SkinButton>
+        <SkinButton
+            Name="RemoveBuddy"
+            Label="Add Buddy Button"
+            MapColor="255,128,0">
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click"
+                     Name="RemoveBuddy"
+                     >    
+            </Command>
+        </SkinButton>
+
+
+        <SkinWindowResizer
+            Name="BuddyResizerMini"
+            MapColor="200,200,0"
+            ResizeY="1"
+            Window="BuddyListDrawer"
+            />
+            <ResizeObject Name="BuddyListTextMini" width="1.0" height="1.0" x="0.0" y="0.0">
+                <SplitBrush Color="156,168,180,255"/>
+            </ResizeObject>
+            <SplitRect Top="90" Bottom="90" Left="90" Right="90"/>
+            <SplitBrush Side="top" Tileimage="station_images/buddy_mini-left-tile.png"/>
+            <SplitBrush Side="bottom" Tileimage="station_images/buddy_mini-right-tile.png"/>
+            <SplitBrush Side="left" Tileimage="station_images/buddy_mini-left-tile.png"/>
+            <SplitBrush Side="right" Tileimage="station_images/buddy_mini-right-tile.png"/>
+        </SkinDrawer>
+
+    </SkinWindow>
+
+    <SkinWindow 
+        Name="MainWindow" 
+        Anchor="true"
+        Visible="false"
+        Label="Station LaunchPad"
+        Icon="station_images\LaunchPad.ico"
+        Align="Center"
+        VAlign="Center"
+        >
+
+		<Command Event="windowClosing"
+				 Name="exit"/>
+
+        <PopupWindow Name="MouseMenu"/>
+
+        <DockEntry name="dockRight" color="20,30,40" side="right"/>
+        <DockEntry name="dockLeft" color="20,30,50" side="left"/>
+        <DockEntry name="dockTop" color="25,35,45" side="top"/>
+        <DockEntry name="dockBottom" color="75,85,95" side="bottom"/>
+
+        <SkinArt 
+            TransparentColor="0,255,0"
+            >
+            <Image Type="BackgroundImage" Path="station_images/main-bg.png"/>
+            <Image Type="MapImage" Path="station_images/main-map.png"/>
+            <Image Type="HoverImage" Path="station_images/main-hover.png"/>
+            <Image Type="SelectedImage" Path="station_images/main-selected.png"/>
+            <Image Type="FocusedImage" Path="station_images/main-focused.png"/>
+        </SkinArt>
+
+        <SkinBrowser
+            Name="NewsBrowser"
+            MapColor="125,125,125"
+            InitURL="http://www2.station.sony.com/en/station_client_headlines.jsp"
+            />
+<!-- 
+        <SkinButton
+            Name="SubscribeButton"
+            MapColor="0,150,100"
+            Enabled="true"
+            Visible="false"
+            TabID="255"
+		    >
+            <Command Event="click"
+                     Name="subscribe">
+					 <Param Name="browserLink">true</Param>
+            </Command>
+            <SkinArt TransparentColor="0,0,0">
+	            <Image Type="BackgroundImage" Path="station_images/subscribe-bg.png"
+                    Animated="True" MaxFrames="10" Interval="100" Width="187" Height="31" 
+                    />
+	            <Image Type="HoverImage" Path="station_images/subscribe-hov.png"/>
+	            <Image Type="SelectedImage" Path="station_images/subscribe-sel.png"/>
+				<Image Type="FocusedImage" Path="station_images/subscribe-focused.png"/>
+
+            </SkinArt>
+       </SkinButton>
+-->
+        <SkinButton
+            Name="CloseBox"
+            Label="CloseBox"
+            MapColor="0,0,0"
+            Enabled="true"
+            TabID="30"
+            >
+            <Command Event="click"
+                    Name="closewindow"/>
+        </SkinButton>
+        <SkinButton
+            Name="Minimize"
+            MapColor="20,20,20"
+            Enabled="true"
+            TabID="510"
+            >
+            <Command Event="click"
+                    Name="minimizewindow">
+            </Command>
+        </SkinButton>
+        <SkinButton
+            Name="MiniWindowSwapper"
+            MapColor="10,10,10"
+            Enabled="true"
+            TabID="20">
+            <Command Event="click"
+                    Name="NewView">
+                    <Param Name="windowsOn">MiniWindow</Param>
+                    <Param Name="windowsOff">MainWindow</Param>
+            </Command>
+        </SkinButton>
+
+        <SkinButton
+            Name="Change User"
+            MapColor="120,200,100"
+            Enabled="true"
+            TabID="250">
+            <Command Event="click"
+                    Name="Change User">
+                    <Param Name="LoginWindow">LoginWindow</Param>
+            </Command>
+        </SkinButton>
+
+        <SkinDrawer
+            Name="BuddyListDrawer"
+            Label="Buddy List Drawer"
+            Orientation="West"
+            ClosedPositionColor="255,0,255"
+            OpenPositionColor="255,0,0"
+            ConnectPositionColor="150,0,150"
+            Interval="10"
+            Frames="10"
+			MaxHeight="400"
+            >
+            <BindDisabled Field="draweropen_state" Value="buddyListDrawerState"/>
+                <Command Event="DrawerOpening"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/slideopen.wav</Param>
+                </Command>
+                <Command Event="DrawerClosing"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/slideclose.wav</Param>
+                </Command>
+                <Command Event="DrawerOpen"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+                <Command Event="DrawerClosed"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+<!-- DSL Future Impl
+                <Command Event="DrawerResizing"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/spacebuzz.wav</Param>
+                </Command>
+                <Command Event="DrawerResized"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+-->
+            <SkinArt TransparentColor="0,255,0">
+                <Image Type="BackgroundImage" Path="station_images/buddy-bg.png"/>
+                <Image Type="MapImage" Path="station_images/buddy-map.png"/>
+                <Image Type="HoverImage" Path="station_images/buddy-hover.png"/>
+                <Image Type="SelectedImage" Path="station_images/buddy-selected.png"/>
+            </SkinArt>
+            <SkinButton
+                Name="ToggleDrawerState"
+                Label="Toggle Drawer State Button"
+                MapColor="200,100,100">
+                <Command Event="click"
+                         Name="toggledrawer"
+                         >    
+                         <Param Name="drawer">BuddyListDrawer</Param>
+                </Command>
+            </SkinButton>
+
+        <SkinListBox
+            Name="BuddyListText"
+            MapColor="100,100,100"
+            TabID="100"
+            >
+            <Bind Field="option_list" Value="BuddyList"/>
+            <Style Name="ListStyle"/>
+
+            <Command Event="activate"
+                     Name="OpenNewChatRoom">
+					 <Param Name="RoomType">IMWindow</Param>
+                     <Param Name="windowName">IMWindow</Param>
+            </Command>
+
+            <Brush Type="Highlight" Color="0,0,100,255"/>
+            <Brush Type="Hover" Color="50,50,150,255"/>
+
+        </SkinListBox>
+
+            <SkinButton
+                Name="AddBuddy"
+                Label="Add Buddy Button"
+                MapColor="255,128,128">
+                <Command Event="click"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+                <Command Event="click"
+                         Name="AddBuddy"
+                         >    
+                </Command>
+            </SkinButton>
+            <SkinButton
+                Name="RemoveBuddy"
+                Label="Add Buddy Button"
+                MapColor="255,128,0">
+                <Command Event="click"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+                <Command Event="click"
+                         Name="RemoveBuddy"
+                         >    
+                </Command>
+            </SkinButton>
+
+            <SkinWindowResizer
+                Name="BuddyResizer"
+                MapColor="200,200,0"
+                ResizeY="1"
+                Window="BuddyListDrawer"
+                />
+            <ResizeObject Name="BuddyListText" width="1.0" height="1.0" x="0.0" y="0.0">
+                <SplitBrush Color="156,168,180,255"/>
+            </ResizeObject>
+            <SplitRect Top="90" Bottom="90" Left="90" Right="90"/>
+            <SplitBrush Side="top" Tileimage="station_images/buddy-left-tile.png"/>
+            <SplitBrush Side="bottom" Tileimage="station_images/buddy-right-tile.png"/>
+            <SplitBrush Side="left" Tileimage="station_images/buddy-left-tile.png"/>
+            <SplitBrush Side="right" Tileimage="station_images/buddy-right-tile.png"/>
+        </SkinDrawer>
+
+        <SkinButton
+            Name="BuddyList"
+            MapColor="0,0,120"
+            Enabled="true"
+            TabID="50"
+            >
+            <Command Event="click"
+                     Name="toggledrawer">
+                     <Param Name="drawer">BuddyListDrawer</Param>
+            </Command>
+        </SkinButton>
+        <SkinButton
+            Name="Chat"
+            MapColor="0,0,60"
+            Enabled="true"
+            TabID="60"
+            >
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+
+            <Command Event="click"
+                     Name="OpenNewChatRoom">
+					 <Param Name="RoomType">ChatWindow</Param>
+                     <Param Name="RoomName">Lobby 1</Param>
+                     <Param Name="windowName">ChatWindow</Param>
+            </Command>
+
+        </SkinButton>
+        <SkinButton
+            Name="StationHelp"
+            MapColor="0,0,100"
+            Enabled="true"
+            TabID="70"
+            >
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click"
+                     Name="BrowserLink">
+                     <Param Name="url">http://launchpad.station.sony.com/</Param>
+            </Command>
+        </SkinButton>
+        <SkinButton
+            Name="AccountInfo"
+            MapColor="0,0,80"
+            Enabled="true"
+            TabID="80"
+            >
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click"
+                     Name="BrowserLink">
+                     <Param Name="url">https://www.station.sony.com/secure/en/registration/edit.jsp</Param>
+            </Command>
+        </SkinButton>
+        <SkinButton
+            Name="Subscription Info"
+            MapColor="0,0,20"
+            Enabled="true"
+            TabID="90"
+            >
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click"
+                     Name="subscription"
+                     >
+					 <Param Name="browserLink">true</Param>
+                     <!--
+                     <Param Name="username">$StationName</Param>
+                     -->
+            </Command>
+        </SkinButton>
+
+        <SkinButton
+            Name="Avacont"
+            MapColor="0,100,100"
+            Enabled="true"
+            TabID="90"
+            >
+        </SkinButton>
+        <SkinText
+            Name="StationName"
+            MapColor="0,200,100"
+            Enabled="true"
+            >
+
+            <Bind Field="text" Value="StationName" Global="true"/>
+
+            <SkinFont
+               Face="Arial"
+                Bold="true"
+                >
+                <Color Type="Default" Value="255,255,255"/>
+                <Color Type="Rollover" Value="200,200,255"/>
+                <Color Type="Selected" Value="100,100,255"/>
+            </SkinFont>
+
+            <Command Event="click"
+                     Name="profile"
+                     >
+					 <Param Name="browserLink">false</Param>
+                     <Param Name="username">$StationName</Param>
+            </Command>
+
+        </SkinText>
+
+        <SkinButton
+            Name="MoreGames"
+            MapColor="255,0,100"
+            Enabled="true"
+            TabID="210">
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click"
+                     Name="Link">
+                     <Param Name="url">http://www.station.com/</Param>
+            </Command>
+        </SkinButton>
+        <SkinButton
+            Name="Game1"
+            MapColor="255,0,255"
+            Enabled="true"
+            TabID="220">
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click" Name="GamePlayRequest">
+                <Param Name="game">Infantry.exe</Param>
+                <Param Name="Distribution">Infantry Distribution</Param>
+                <Param Name="DistPath">c:\Program Files\Sony\Station\Infantry</Param>
+				<Param Name="GameSession">Infantry</Param>
+            </Command>
+        </SkinButton>
+        <SkinButton
+            Name="Game2"
+            MapColor="255,0,200"
+            Enabled="true"
+            TabID="230">
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click" Name="GamePlayRequest">
+                <Param Name="game">Tanarus.exe</Param>
+                <Param Name="Distribution">Tanarus Distribution</Param>
+                <Param Name="DistPath">c:\Program Files\Sony\Station\Tanarus</Param>
+				<Param Name="GameSession">Tanarus</Param>
+            </Command>
+        </SkinButton>
+        <SkinButton
+            Name="Game3"
+            MapColor="255,0,150"
+            Enabled="true"
+            TabID="240">
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click" Name="GamePlayRequest">
+                <Param Name="game">CosmicRift.exe</Param>
+                <Param Name="Distribution">CosmicRift Distribution</Param>
+                <Param Name="DistPath">c:\Program Files\Sony\Station\CosmicRift</Param>
+				<Param Name="GameSession">CosmicRift</Param>
+            </Command>
+        </SkinButton>
+
+    </SkinWindow>
+
+<!-- ================== CHAT WINDOW ===================  -->
+
+    <SkinWindow Name="ChatWindow"
+        Anchor="false"
+        Visible="false"
+        InitX="100"
+        InitY="100"
+        Label="StationChat"
+        Icon="station_images\LaunchPad.ico"
+        AllowMultiple="true"
+        >
+        <Command Event="windowClosing"
+                 Name="exitEChatSession">
+                 <Param Name="RoomType">ChatWindow</Param>
+        </Command>
+
+        <SkinArt 
+            TransparentColor="0,255,0"
+            >
+            <Image Type="BackgroundImage" Path="station_images/chat-bg.png"/>
+            <Image Type="MapImage" Path="station_images/chat-map.png"/>
+            <Image Type="HoverImage" Path="station_images/chat-hover.png"/>
+            <Image Type="SelectedImage" Path="station_images/chat-selected.png"/>
+            <Image Type="FocusedImage" Path="station_images/chat-focused.png"/>
+            <Image Type="DisabledImage" Path="station_images/chat-disabled.png"/>
+        </SkinArt>
+
+        <SkinButton
+            Name="Cancel"
+            Label="Cancel"
+            MapColor="0,0,0"
+            TabID="100"
+            >
+            <Command Event="click"
+                    Name="closewindow">
+                     <Param Name="objectName">ChatWindow</Param>
+                     <Param Name="state">Toggle</Param>
+            </Command>
+        </SkinButton>
+
+        <SkinButton
+            Name="Minimize"
+            MapColor="20,20,20"
+            TabID="10"
+            Enabled="true">
+            <Command Event="click"
+                    Name="minimizewindow">
+            </Command>
+        </SkinButton>
+
+        <SkinScrollBar
+            Name="ChatTextScrollBar"
+            MapColor="69,96,69"
+            Enabled="true"
+            Orientation="Vertical"
+            PathColor="96,69,96"
+            DecrementNudge="0,100,255"
+            IncrementNudge="0,200,255"
+            >
+            <PuckImage>
+                <SkinArt>
+                    <Image Type="BackgroundImage" Path="station_images/chat_puck.png"/>
+                </SkinArt>
+            </PuckImage>
+        </SkinScrollBar>
+        
+<!--
+        <Command Event="submit"
+                 Name="BrowserOperation"
+                 NameNot="ChatEntry">
+                 <Param Name="Browser">ChatText</Param>
+                 <Param Name="Operation">SetURL</Param>
+        </Command>
+-->
+        <SkinTextArea
+            Name="ChatText"
+            MapColor="100,100,100"
+            TabID="100"
+            VerticalScrollBar="ChatTextScrollBar"
+			RichText="false"
+			ScrollAway="true"
+			MaxChars="65536"
+            >
+            <Style Name="AreaText"/>
+            <Style Name="ChatStyle"/>
+            <Bind Field="text" Value="ChatText"/>
+              <Text></Text>
+        </SkinTextArea>
+
+        <SkinButton
+            Name="RoomsBrowserButton"
+            MapColor="255,255,100"
+            TabID="100"
+            Enabled="false">
+            <Command Event="click"
+                    Name="RoomsBrowser">
+            </Command>
+            <Command Event="click"
+                    Name="listmenutoggle">
+                    <Param Name="ComboBox">ChatRoomName</Param>
+            </Command>
+        </SkinButton>
+
+        <SkinText
+            Name="ChatRoom Display"
+            MapColor="0,200,100"
+            Enabled="false"
+            >
+            <Bind Field="text" Value="ChatRoomName"/>
+            <Style Name="LabelStatic"/>
+        </SkinText>
+         <!--
+        <SkinComboBox
+            Name="ChatRoomName"
+            NoMapColor="0,200,100"
+            Editable="false"
+			Enabled="false"
+            TabID="10"
+            CoverWidget="RoomsBrowserButton"
+            >
+            <NoBind Field="text" Value="ChatRoomName"/>
+            <Style Name="LabelStatic"/>
+
+            <ListMenu
+                Name="popuplist"
+                >
+                <Style Name="ListStyle"/>
+                <SkinArt
+                    TransparentColor="0,255,0"
+                    >
+                    <Image Type="ForegroundImage" Path="station_images/popup-fg.png"/>
+                    <Image Type="BackgroundImage" Path="station_images/popup-bg.png"/>
+                    <Image Type="MapImage" Path="station_images/popup-map.png"/>
+                    <Image Type="HoverImage" Path="station_images/popup-hover.png"/>
+                    <Image Type="SelectedImage" Path="station_images/popup-selected.png"/>
+                </SkinArt>
+
+                <SkinScrollBar
+                    Name="ChatRoomsExplorerScrollBar"
+                    MapColor="169,196,169"
+                    Enabled="true"
+                    Orientation="Vertical"
+                    PathColor="169,0,169"
+                    DecrementNudge="169,196,0"
+                    IncrementNudge="200,100,0"
+                    >
+                    <PuckImage>
+                        <SkinArt>
+                            <Image Type="BackgroundImage" Path="station_images/chat_puck_small.png"/>
+                        </SkinArt>
+                    </PuckImage>
+                </SkinScrollBar>
+
+                <SkinListBox
+                    MapColor="100,100,100"
+                    VerticalScrollBar="ChatRoomsExplorerScrollBar"
+                    ShowHovered="true"
+                    >
+                    <Bind Field="option_list" Value="ChatRoomBrowserList"/>
+                    <Style Name="ListStyle"/>
+
+                    <Brush Type="Highlight" Color="0,0,100,255"/>
+                    <Brush Type="Hover" Color="50,50,150,255"/>
+
+                    <Command Event="activate"
+                                 Name="roomsbrowserselect"/>
+
+                </SkinListBox>
+            </ListMenu>
+        </SkinComboBox>
+-->
+        <SkinForm
+            Name="chatForm"
+            Label="Chat Form"
+            DefaultSubmit="ChatButton"
+            >
+            <Command Event="submit"
+                     Name="EChatEntry"/>
+
+            <SkinTextField
+                Name="ChatEntryField"
+                Label="Entry Field"
+                MapColor="200,200,200"
+                TabID="1"
+                Enabled="false"
+                >
+                <Style Name="EntryField"/>
+            </SkinTextField>
+            <SkinButton
+                Name="SubmitChat"
+                MapColor="0,200,200"
+				MaxChars="512"
+                Enabled="false"
+                TabID="50"
+                >
+                <Command Event="click"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+                <Command Event="click"
+                        Name="submit">
+                </Command>
+            </SkinButton>
+        </SkinForm>
+
+        <SkinScrollBar
+            Name="ChatRoomsScrollBar"
+            MapColor="169,196,169"
+            Enabled="true"
+            Orientation="Vertical"
+            PathColor="169,0,169"
+            DecrementNudge="169,196,0"
+            IncrementNudge="0,196,169"
+            >
+            <PuckImage>
+                <SkinArt>
+                    <Image Type="BackgroundImage" Path="station_images/chat_puck_small.png"/>
+                </SkinArt>
+            </PuckImage>
+        </SkinScrollBar>
+
+        <SkinListBox
+            Name="ChatRoomsBox"
+            MapColor="200,200,100"
+            TabID="200"
+            VerticalScrollBar="ChatRoomsScrollBar"
+			ASelectType="None"
+            CaseSensitive="false"
+            >
+            <Bind Field="option_list" Value="ChatRoomList"/>
+            <Style Name="ListStyle"/>
+
+			<Brush Type="Highlight" Color="0,0,100,255"/>
+			<DisableBrush Type="Hover" Color="50,50,150,255"/>
+
+            <Command Event="activate" Name="EChangeChatRoom"/>
+        </SkinListBox>
+
+        <SkinScrollBar
+            Name="ChatPeopleScrollBar"
+            MapColor="111,111,111"
+            Enabled="true"
+            Orientation="Vertical"
+            PathColor="222,222,222"
+            DecrementNudge="200,0,100"
+            IncrementNudge="200,100,0"
+            >
+            <PuckImage>
+                <SkinArt>
+                    <Image Type="BackgroundImage" Path="station_images/chat_puck_small.png"/>
+                </SkinArt>
+            </PuckImage>
+        </SkinScrollBar>
+
+        <SkinListBox
+            Name="ChatPeopleBox"
+            MapColor="200,100,100"
+            TabID="100"
+            VerticalScrollBar="ChatPeopleScrollBar"
+            >
+            <Bind Field="option_list" Value="ChatPeopleList"/>
+            <Style Name="ListStyle"/>
+			<Brush Type="Highlight" Color="0,0,100,255"/>
+			<DisableBrush Type="Hover" Color="50,50,150,255"/>
+
+            <Command Event="activate"
+                     Name="OpenNewChatRoom">
+					 <Param Name="RoomType">IMWindow</Param>
+                     <Param Name="windowName">IMWindow</Param>
+            </Command>
+
+        </SkinListBox>
+
+        <SkinWindowResizer
+            Name="Resizer"
+            MapColor="0,100,100"
+            ResizeX="1"
+            ResizeY="1"
+            Window="ChatWindow"
+            />
+        <SkinWindowResizer
+            Name="HorizontalResizer"
+            MapColor="222,222,0"
+            ResizeX="1"
+            Window="ChatWindow"
+            />
+        <SkinWindowResizer
+            Name="VerticalResizer"
+            MapColor="0,222,222"
+            ResizeY="1"
+            Window="ChatWindow"
+            />
+		<ResizeObject Name="VerticalResizer" width="1.0" height="0.0" x="0.0" y="1.0">
+			<SplitBrush Side="center" Color="0,0,0,255"/>
+		</ResizeObject>
+		<ResizeObject Name="HorizontalResizer" width="0.0" height="1.0" x="1.0" y="0.0">
+			<SplitBrush Side="center" Color="0,0,0,255"/>
+		</ResizeObject>
+        <ResizeObject Name="ChatText" width="1.0" height="1.0" x="0.0" y="0.0">
+            <SplitBrush Side="center" Color="216,223,229,255"/>
+        </ResizeObject>
+
+        <ResizeObject Name="ChatEntryField" width="1.0" height="0.0" x="0.0" y="1.0">
+            <SplitBrush Side="center" Color="216,223,229,255"/>
+        </ResizeObject>
+
+        <ResizeObject Name="ChatPeopleBox" width="0.0" height="1.0" x="1.0" y="0.0">
+            <SplitBrush Tileimage="station_images/chatpeople_tile.png"/>
+        </ResizeObject>
+
+        <ResizeObject Name="ChatTextScrollBar" width="0.0" height="1.0" x="1.0" y="0.0">
+            <SplitBrush Tileimage="station_images/chatscroll_tile.png"/>
+        </ResizeObject>
+        <ResizeObject Name="ChatWindow_ChatTextScrollBar_builtin_dec" width="0.0" height="1.0" x="1.0" y="0.0" />
+        <ResizeObject Name="ChatWindow_ChatTextScrollBar_builtin_inc" width="0.0" height="1.0" x="1.0" y="0.0" />
+        <ResizeObject Name="ChatWindow_ChatTextScrollBar_builtin_puck" width="0.0" height="0.0" x="1.0" y="0.0" />
+
+        <ResizeObject Name="ChatPeopleScrollBar" width="0.0" height="1.0" x="1.0" y="0.0">
+            <SplitBrush Tileimage="station_images/chatpeoplescroll_tile.png"/>
+        </ResizeObject>
+        <ResizeObject Name="ChatWindow_ChatPeopleScrollBar_builtin_dec" width="0.0" height="0.0" x="1.0" y="0.0" />
+        <ResizeObject Name="ChatWindow_ChatPeopleScrollBar_builtin_inc" width="0.0" height="0.0" x="1.0" y="0.0" />
+        <ResizeObject Name="ChatWindow_ChatPeopleScrollBar_builtin_puck" width="0.0" height="0.0" x="1.0" y="0.0" />
+
+        <ResizeObject Name="ChatRoomsBox" width="0.0" height="0.0" x="1.0" y="0.0" />
+        <ResizeObject Name="ChatRoomsScrollBar" width="0.0" height="0.0" x="1.0" y="0.0" />
+        <ResizeObject Name="ChatWindow_ChatRoomsScrollBar_builtin_dec" width="0.0" height="0.0" x="1.0" y="0.0" />
+        <ResizeObject Name="ChatWindow_ChatRoomsScrollBar_builtin_inc" width="0.0" height="0.0" x="1.0" y="0.0" />
+        <ResizeObject Name="ChatWindow_ChatRoomsScrollBar_builtin_puck" width="0.0" height="0.0" x="1.0" y="0.0" />
+
+        <ResizeObject Name="ChatRoomName" width="0.0" height="0.0" x="0.0" y ="1.0">
+            <SplitBrush Side="center" Color="0,0,0,255"/>
+        </ResizeObject>
+
+        <ResizeObject Name="ChatRoom Display" width="0.0" height="0.0" x="0.0" y ="1.0">
+            <SplitBrush Side="center" Color="0,0,0,255"/>
+        </ResizeObject>
+
+        <SplitRect Top="172" Bottom="172" Left="211" Right="247"/>
+        <SplitBrush Side="top" Tileimage="station_images/chat-top-tile.png"/>
+        <SplitBrush Side="bottom" Tileimage="station_images/chat-bottom-tile.png"/>
+        <SplitBrush Side="left" Tileimage="station_images/chat-left-tile.png"/>
+        <SplitBrush Side="right" Tileimage="station_images/chat-right-tile.png"/>
+    </SkinWindow>
+
+    <SkinWindow Name="IMWindow"
+        Anchor="false"
+        Visible="false"
+        InitX="100"
+        InitY="100"
+        Label="StationIM"
+        Icon="station_images\LaunchPad.ico"
+        AllowMultiple="true"
+        >
+        <Command Event="windowClosing"
+                 Name="exitEChatSession">
+                 <Param Name="RoomType">IMWindow</Param>
+        </Command>
+        <SkinArt 
+            TransparentColor="0,255,0"
+            >
+            <Image Type="BackgroundImage" Path="station_images/im-bg.png"/>
+            <Image Type="MapImage" Path="station_images/im-map.png"/>
+            <Image Type="HoverImage" Path="station_images/im-hover.png"/>
+            <Image Type="SelectedImage" Path="station_images/im-selected.png"/>
+            <Image Type="FocusedImage" Path="station_images/im-focused.png"/>
+        </SkinArt>
+
+        <SkinButton
+            Name="Cancel"
+            Label="Cancel"
+            MapColor="0,0,0"
+            TabID="100"
+            >
+            <Command Event="click"
+                     Name="closewindow">
+                <Param Name="objectName">IMWindow</Param>
+                <Param Name="state">Toggle</Param>
+            </Command>
+        </SkinButton>
+
+        <SkinButton
+            Name="Minimize"
+            MapColor="20,20,20"
+            TabID="30"
+            Enabled="true">
+            <Command Event="click"
+                     Name="minimizewindow">
+            </Command>
+        </SkinButton>
+
+        <SkinText
+            Name="ChatRoom Display"
+            Label="BuddyName Label"
+            MapColor="0,200,100"
+			Enabled="false"
+            >
+            <Bind Field="text" Value="IMBuddyLabel"/>
+            <Style Name="LabelStatic"/>
+        </SkinText>
+
+        <SkinScrollBar
+            Name="IMTextScrollBar"
+            MapColor="169,196,169"
+            Enabled="true"
+            Orientation="Vertical"
+            PathColor="169,0,169"
+            DecrementNudge="169,196,0"
+            IncrementNudge="200,100,0"
+            >
+            <PuckImage>
+                <SkinArt>
+                    <Image Type="BackgroundImage" Path="station_images/chat_puck_small.png"/>
+                </SkinArt>
+            </PuckImage>
+        </SkinScrollBar>
+        
+        <SkinTextArea
+            Name="ChatText"
+            MapColor="100,100,100"
+            TabID="100"
+            VerticalScrollBar="IMTextScrollBar"
+			RichText="false"
+            >
+            <Style Name="AreaText"/>
+            <Style Name="ChatStyle"/>
+            <Bind Field="text" Value="IMText"/>
+            <Text></Text>
+        </SkinTextArea>
+
+        <SkinForm
+            Name="imForm"
+            Label="IM Form"
+            DefaultSubmit="IMButton"
+            >
+            <Command Event="submit"
+                     Name="EChatIMEntry"/>
+
+            <SkinTextField
+                Name="ChatEntryField"
+                Label="Chat Entry Field"
+                MapColor="200,200,200"
+                TabID="10"
+                >
+                <Style Name="EntryField"/>
+            </SkinTextField>
+            <SkinButton
+                Name="SubmitChat"
+                MapColor="0,200,200"
+				MaxChars="512"
+                Enabled="true"
+                TabID="20"
+                >
+                <Command Event="click"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+                <Command Event="click"
+                        Name="submit">
+                </Command>
+            </SkinButton>
+        </SkinForm>
+
+        <SkinWindowResizer
+            Name="IMResizer"
+            MapColor="0,100,100"
+            ResizeX="1"
+            ResizeY="1"
+            Window="IMWindow"
+            />
+        <SkinWindowResizer
+            Name="IMHorizontalResizer"
+            MapColor="222,222,0"
+            ResizeX="1"
+            Window="IMWindow"
+            />
+        <SkinWindowResizer
+            Name="IMVerticalResizer"
+            MapColor="0,222,222"
+            ResizeY="1"
+            Window="IMWindow"
+            />
+		<ResizeObject Name="IMVerticalResizer" width="1.0" height="0.0" x="0.0" y="1.0">
+			<SplitBrush Side="center" Color="0,0,0,255"/>
+		</ResizeObject>
+		<ResizeObject Name="IMHorizontalResizer" width="0.0" height="1.0" x="1.0" y="0.0">
+			<SplitBrush Side="center" Color="0,0,0,255"/>
+		</ResizeObject>
+        <ResizeObject Name="ChatText" width="1.0" height="1.0" x="0.0" y="0.0">
+            <SplitBrush Side="center" Color="216,223,229,255"/>
+        </ResizeObject>
+
+        <ResizeObject Name="ChatEntryField" width="1.0" height="0.0" x="0.0" y="1.0">
+            <SplitBrush Side="center" Color="216,223,229,255"/>
+        </ResizeObject>
+
+        <ResizeObject Name="ChatRoom Display" width="1.0" height="0.0" x="0.0" y="1.0">
+            <SplitBrush Side="center" Color="0,0,0,255"/>
+        </ResizeObject>
+
+        <ResizeObject Name="IMTextScrollBar" width="0.0" height="1.0" x="1.0" y="0.0">
+            <SplitBrush Tileimage="station_images/chatpeoplescroll_tile.png"/>
+        </ResizeObject>
+        <ResizeObject Name="IMWindow_IMTextScrollBar_builtin_dec" width="0.0" height="1.0" x="1.0" y="0.0" />
+        <ResizeObject Name="IMWindow_IMTextScrollBar_builtin_inc" width="0.0" height="1.0" x="1.0" y="0.0" />
+        <ResizeObject Name="IMWindow_IMTextScrollBar_builtin_puck" width="0.0" height="0.0" x="1.0" y="0.0" />
+
+        <SplitRect Top="171" Bottom="171" Left="186" Right="220"/>
+        <SplitBrush Side="top" Tileimage="station_images/chat-top-tile.png"/>
+        <SplitBrush Side="bottom" Tileimage="station_images/chat-bottom-tile.png"/>
+        <SplitBrush Side="left" Tileimage="station_images/chat-left-tile.png"/>
+        <SplitBrush Side="right" Tileimage="station_images/im-right-tile.png"/>
+    </SkinWindow>
+
+    <SkinDialog
+        Name="MessageBox"
+        Label="Message Box"
+        Modal="true"
+        Icon="station_images\LaunchPad.ico"
+        >
+        <SkinArt TransparentColor="0,255,0">
+            <Image Type="BackgroundImage" Path="station_images/message-bg.png"/>
+            <Image Type="MapImage" Path="station_images/message-map.png"/>
+        </SkinArt>
+        <SkinText
+            Name="MessageBoxTitle"
+            Label="Message Box Title"
+            MapColor="255,0,255"
+            >
+            <Style Name="MessageTitle"/>
+        </SkinText>
+
+        <SkinTextArea
+            Name="MessageBoxText"
+            Label="Message Box Text"
+            MapColor="0,0,255"
+            VerticalScrollBar="MsgBoxScrollBar"
+            AutoScroll="false"
+            >
+            <Style Name="AreaText"/>
+        </SkinTextArea>
+
+        <SkinButton
+            Name="MsgBoxOK"
+            Label="MsgBoxOK"
+            MapColor="255,0,0"
+            TabID="10"
+            >
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/okbutton-center-bg.png"/>
+                <Image Type="SelectedImage" Path="station_images/okbutton-center-sel.png"/>
+                <Image Type="HoverImage" Path="station_images/okbutton-center-hov.png"/>
+                <Image Type="FocusedImage" Path="station_images/okbutton-center-focus.png"/>
+            </SkinArt>
+
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click"
+                     Name="closewindow"/>
+        </SkinButton>
+
+        <SkinButton
+            Name="MsgBoxClose"
+            Label="MsgBoxClose"
+            MapColor="255,100,100"
+            TabID="15"
+            >
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/xbutton-bg.png"/>
+                <Image Type="SelectedImage" Path="station_images/xbutton-sel.png"/>
+                <Image Type="HoverImage" Path="station_images/xbutton-hov.png"/>
+                <Image Type="FocusedImage" Path="station_images/xbutton-focus.png"/>
+            </SkinArt>
+
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click"
+                     Name="closewindow"/>
+        </SkinButton>
+
+        <SkinScrollBar
+            Name="MsgBoxScrollBar"
+            IncrementNudge="MsgBoxIncNudge"
+            DecrementNudge="MsgBoxDecNudge"
+
+			Orientation="Vertical"
+
+            MapColor="169,196,169"
+            PathColor="169,0,169"
+			>
+
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/mbslider-bg.png"/>
+            </SkinArt>
+
+			<PuckImage>
+				<SkinArt>
+					<Image Type="BackgroundImage" Path="station_images/chat_puck_small.png"/>
+				</SkinArt>
+			</PuckImage>
+
+        </SkinScrollBar>
+
+        <SkinButton
+            Name="MsgBoxDecNudge"
+            MapColor="169,196,0"
+            >
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/mbslider-arrowUp-bg.png"/>
+                <Image Type="HoverImage" Path="station_images/mbslider-arrowUp-hov.png"/>
+                <Image Type="SelectedImage" Path="station_images/mbslider-arrowUp-sel.png"/>
+            </SkinArt>
+        </SkinButton>
+        
+        <SkinButton
+            Name="MsgBoxIncNudge"
+            MapColor="200,100,0"
+            >
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/mbslider-arrowDown-bg.png"/>
+                <Image Type="HoverImage" Path="station_images/mbslider-arrowDown-hov.png"/>
+                <Image Type="SelectedImage" Path="station_images/mbslider-arrowDown-sel.png"/>
+            </SkinArt>
+        </SkinButton>
+    </SkinDialog>
+
+
+    <SkinDialog
+        Name="MessageBoxOkCancel"
+        Label="Alert"
+        Modal="true"
+        Icon="station_images\LaunchPad.ico"
+        >
+        <SkinArt TransparentColor="0,255,0">
+            <Image Type="BackgroundImage" Path="station_images/message-bg.png"/>
+            <Image Type="MapImage" Path="station_images/messageOption-map.png"/>
+        </SkinArt>
+        <SkinText
+            Name="MessageBoxTitle"
+            Label="Message Box Title"
+            MapColor="255,0,255"
+            >
+            <Style Name="MessageTitle"/>
+        </SkinText>
+
+        <SkinTextArea
+            Name="MessageBoxText"
+            Label="Message Box Text"
+            MapColor="0,0,255"
+            VerticalScrollBar="MsgBoxOkScrollBar"
+            AutoScroll="false"
+            >
+            <Style Name="AreaText"/>
+        </SkinTextArea>
+
+        <SkinForm
+            Name="messageBoxForm"
+            Label="MessageBox Form"
+            DefaultSubmit="MsgBoxOK"
+            >
+            <Command Event="submit"
+                     Name="dialogInput"/>
+
+            <SkinButton
+                Name="MsgBoxOK"
+                Label="MsgBoxOK"
+                MapColor="255,0,0"
+                TabID="10"
+                >
+                <SkinArt>
+                    <Image Type="BackgroundImage" Path="station_images/subscribebutton-bg.png"/>
+                    <Image Type="SelectedImage" Path="station_images/subscribebutton-sel.png"/>
+                    <Image Type="HoverImage" Path="station_images/subscribebutton-hov.png"/>
+                    <Image Type="FocusedImage" Path="station_images/subscribebutton-focus.png"/>
+                </SkinArt>
+                <Command Event="click"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+                <Command Event="click"
+                         Name="submit"/>
+            </SkinButton>
+
+            <SkinButton
+                Name="MsgBoxCancel"
+                Label="MsgBoxCancel"
+                MapColor="255,128,0"
+                TabID="20"
+                >
+                <SkinArt>
+                    <Image Type="BackgroundImage" Path="station_images/playbutton-bg.png"/>
+                    <Image Type="SelectedImage" Path="station_images/playbutton-sel.png"/>
+                    <Image Type="HoverImage" Path="station_images/playbutton-hov.png"/>
+                    <Image Type="FocusedImage" Path="station_images/playbutton-focus.png"/>
+                </SkinArt>
+                <Command Event="click"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+                <Command Event="click"
+                         Name="submit"/>
+            </SkinButton>
+
+        </SkinForm>
+
+        <SkinButton
+            Name="MsgBoxClose"
+            Label="MsgBoxClose"
+            MapColor="255,100,100"
+            TabID="25"
+            >
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/xbutton-bg.png"/>
+                <Image Type="SelectedImage" Path="station_images/xbutton-sel.png"/>
+                <Image Type="HoverImage" Path="station_images/xbutton-hov.png"/>
+                <Image Type="FocusedImage" Path="station_images/xbutton-focus.png"/>
+            </SkinArt>
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click"
+                     Name="closewindow"/>
+        </SkinButton>
+
+        <SkinScrollBar
+            Name="MsgBoxOkScrollBar"
+            IncrementNudge="MsgBoxOkIncNudge"
+            DecrementNudge="MsgBoxOkDecNudge"
+
+			Orientation="Vertical"
+
+            MapColor="169,196,169"
+            PathColor="169,0,169"
+			>
+
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/mbslider-bg.png"/>
+            </SkinArt>
+
+			<PuckImage>
+				<SkinArt>
+					<Image Type="BackgroundImage" Path="station_images/chat_puck_small.png"/>
+				</SkinArt>
+			</PuckImage>
+
+        </SkinScrollBar>
+
+        <SkinButton
+            Name="MsgBoxOkDecNudge"
+            MapColor="169,196,0"
+            >
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/mbslider-arrowup-bg.png"/>
+                <Image Type="HoverImage" Path="station_images/mbslider-arrowup-hov.png"/>
+                <Image Type="SelectedImage" Path="station_images/mbslider-arrowup-sel.png"/>
+            </SkinArt>
+        </SkinButton>
+        
+        <SkinButton
+            Name="MsgBoxOkIncNudge"
+            MapColor="200,100,0"
+            >
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/mbslider-arrowdown-bg.png"/>
+                <Image Type="HoverImage" Path="station_images/mbslider-arrowdown-hov.png"/>
+                <Image Type="SelectedImage" Path="station_images/mbslider-arrowdown-sel.png"/>
+            </SkinArt>
+        </SkinButton>
+
+    </SkinDialog>
+
+
+    <SkinDialog
+        Name="FirstTimeWindow"
+        Label="Alert"
+        Modal="true"
+        Icon="station_images\LaunchPad.ico"
+        >
+        <SkinArt TransparentColor="0,255,0">
+            <Image Type="BackgroundImage" Path="station_images/message-bg.png"/>
+            <Image Type="MapImage" Path="station_images/messageOption-map.png"/>
+        </SkinArt>
+        <SkinText
+            Name="MessageBoxTitle"
+            Label="Message Box Title"
+            MapColor="255,0,255"
+            >
+            <Style Name="MessageTitle"/>
+        </SkinText>
+
+        <SkinTextArea
+            Name="MessageBoxText"
+            Label="Message Box Text"
+            MapColor="0,0,255"
+            VerticalScrollBar="MsgBoxOkScrollBar"
+            AutoScroll="false"
+            >
+            <Style Name="AreaText"/>
+        </SkinTextArea>
+
+        <SkinForm
+            Name="messageBoxForm"
+            Label="MessageBox Form"
+            DefaultSubmit="MsgBoxOK"
+            >
+            <Command Event="submit"
+                     Name="dialogInput"/>
+
+            <SkinButton
+                Name="MsgBoxOK"
+                Label="MsgBoxOK"
+                MapColor="255,0,0"
+                TabID="10"
+                >
+                <SkinArt>
+                    <Image Type="BackgroundImage" Path="station_images/okbutton-bg.png"/>
+                    <Image Type="SelectedImage" Path="station_images/okbutton-sel.png"/>
+                    <Image Type="HoverImage" Path="station_images/okbutton-hov.png"/>
+                    <Image Type="FocusedImage" Path="station_images/okbutton-focus.png"/>
+                </SkinArt>
+                <Command Event="click"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+                <Command Event="click"
+                         Name="submit"/>
+            </SkinButton>
+
+            <SkinButton
+                Name="MsgBoxCancel"
+                Label="MsgBoxCancel"
+                MapColor="255,128,0"
+                TabID="20"
+                >
+                <SkinArt>
+                    <Image Type="BackgroundImage" Path="station_images/cancelbutton-bg.png"/>
+                    <Image Type="SelectedImage" Path="station_images/cancelbutton-sel.png"/>
+                    <Image Type="HoverImage" Path="station_images/cancelbutton-hov.png"/>
+                    <Image Type="FocusedImage" Path="station_images/cancelbutton-focus.png"/>
+                </SkinArt>
+                <Command Event="click"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+                <Command Event="click"
+                         Name="submit"/>
+            </SkinButton>
+
+        </SkinForm>
+
+        <SkinButton
+            Name="MsgBoxClose"
+            Label="MsgBoxClose"
+            MapColor="255,100,100"
+            TabID="25"
+            >
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/xbutton-bg.png"/>
+                <Image Type="SelectedImage" Path="station_images/xbutton-sel.png"/>
+                <Image Type="HoverImage" Path="station_images/xbutton-hov.png"/>
+                <Image Type="FocusedImage" Path="station_images/xbutton-focus.png"/>
+            </SkinArt>
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click"
+                     Name="closewindow"/>
+        </SkinButton>
+
+        <SkinScrollBar
+            Name="MsgBoxOkScrollBar"
+            IncrementNudge="MsgBoxOkIncNudge"
+            DecrementNudge="MsgBoxOkDecNudge"
+
+			Orientation="Vertical"
+
+            MapColor="169,196,169"
+            PathColor="169,0,169"
+			>
+
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/mbslider-bg.png"/>
+            </SkinArt>
+
+			<PuckImage>
+				<SkinArt>
+					<Image Type="BackgroundImage" Path="station_images/chat_puck_small.png"/>
+				</SkinArt>
+			</PuckImage>
+
+        </SkinScrollBar>
+
+        <SkinButton
+            Name="MsgBoxOkDecNudge"
+            MapColor="169,196,0"
+            >
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/mbslider-arrowup-bg.png"/>
+                <Image Type="HoverImage" Path="station_images/mbslider-arrowup-hov.png"/>
+                <Image Type="SelectedImage" Path="station_images/mbslider-arrowup-sel.png"/>
+            </SkinArt>
+        </SkinButton>
+        
+        <SkinButton
+            Name="MsgBoxOkIncNudge"
+            MapColor="200,100,0"
+            >
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/mbslider-arrowdown-bg.png"/>
+                <Image Type="HoverImage" Path="station_images/mbslider-arrowdown-hov.png"/>
+                <Image Type="SelectedImage" Path="station_images/mbslider-arrowdown-sel.png"/>
+            </SkinArt>
+        </SkinButton>
+
+    </SkinDialog>
+
+    <SkinDialog
+        Name="TextEntryBox"
+        Label="TextEntry Box"
+        Modal="true"
+        Icon="station_images\LaunchPad.ico"
+        >
+        <SkinArt TransparentColor="0,255,0">
+            <Image Type="BackgroundImage" Path="station_images/message-bg.png"/>
+            <Image Type="MapImage" Path="station_images/textentry-map.png"/>
+        </SkinArt>
+
+        <SkinTextArea
+            Name="TextEntryText"
+            Label="TextEntry Box Text"
+            MapColor="255,0,255"
+            OffsetX="5"
+            OffsetY="5"
+            >
+            <Style Name="AreaText"/>
+        </SkinTextArea>
+
+
+        <SkinForm
+            Name="textentryform"
+            Label="TextEntry Form"
+            DefaultSubmit="TextEntryOK"
+            >
+            <Command Event="submit"
+                     Name="closewindow"/>
+
+            <SkinButton
+                Name="TextEntryOK"
+                Label="TextEntryOK"
+                MapColor="255,0,0"
+                TabID="20"
+                >
+                <SkinArt>
+                    <Image Type="BackgroundImage" Path="station_images/okbutton-bg.png"/>
+                    <Image Type="SelectedImage" Path="station_images/okbutton-sel.png"/>
+                    <Image Type="HoverImage" Path="station_images/okbutton-hov.png"/>
+                    <Image Type="FocusedImage" Path="station_images/okbutton-focus.png"/>
+                </SkinArt>
+                <Command Event="click"
+                         Name="PlaySound">
+                         <Param Name="soundfile">Sounds/click.wav</Param>
+                </Command>
+                <Command Event="click"
+                         Name="submit"/>
+            </SkinButton>
+
+            <SkinTextField
+                Name="TextEntryField"
+                Label="TextEntry Field"
+                MapColor="0,0,255"
+                TabID="10"
+                >
+                <SkinArt>
+                    <Image Type="BackgroundImage" Path="station_images/messageBar-bg.png"/>
+                </SkinArt>
+                <Style Name="EntryField"/>
+            </SkinTextField>
+        </SkinForm>
+
+        <SkinButton
+            Name="TextEntryCancel"
+            Label="TextEntryCancel"
+            MapColor="255,128,0"
+            TabID="30"
+            >
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/cancelbutton-bg.png"/>
+                <Image Type="SelectedImage" Path="station_images/cancelbutton-sel.png"/>
+                <Image Type="HoverImage" Path="station_images/cancelbutton-hov.png"/>
+                <Image Type="FocusedImage" Path="station_images/cancelbutton-focus.png"/>
+            </SkinArt>
+
+            <Command Event="click"
+                     Name="PlaySound">
+                     <Param Name="soundfile">Sounds/click.wav</Param>
+            </Command>
+            <Command Event="click"
+                     Name="cancelwindow"/>
+        </SkinButton>
+    </SkinDialog>
+
+
+
+
+	<SkinWindow Name="PatcherWindow"
+        Anchor="false"
+        Visible="false"
+		Align="Center"
+		VAlign="Center"
+        Label="PatcherWindow"
+        Icon="station_images\LaunchPad.ico"
+        AllowMultiple="false"
+        >
+		<SkinArt 
+            TransparentColor="0,255,0"
+			>
+			<Image Type="BackgroundImage" Path="station_images/message-bg.png"/>
+			<Image Type="MapImage" Path="station_images/patcher-map.png"/>
+		</SkinArt>
+        <SkinText
+            Name="PatchCurrentFile"
+            Label="Patch Current File"
+            MapColor="255,0,255"
+            >
+            <Style Name="AreaText"/>
+			<Text>Looking for patch</Text>
+        </SkinText>
+
+        <SkinText
+            Name="TimeDescriptor"
+            Label="Time Remaining Descriptor"
+            MapColor="255,100,100"
+            Align="right"
+            >
+            <Text>Time Remaining:</Text>
+            <Style Name="AreaText"/>
+        </SkinText>
+
+        <SkinText
+            Name="PatchTimeRemaining"
+            Label="Patch Time Remaining"
+            MapColor="255,0,0"
+            >
+            <Style Name="AreaText"/>
+        </SkinText>
+
+        <SkinButton
+            Name="PatchCancel"
+            Label="PatchCancel"
+            MapColor="255,128,0"
+            >
+            <SkinArt>
+                <Image Type="BackgroundImage" Path="station_images/cancelbutton-center-bg.png"/>
+                <Image Type="SelectedImage" Path="station_images/cancelbutton-center-sel.png"/>
+                <Image Type="HoverImage" Path="station_images/cancelbutton-center-hov.png"/>
+                <Image Type="FocusedImage" Path="station_images/cancelbutton-center-focus.png"/>
+            </SkinArt>
+            <Command Event="click"
+                     Name="cancelpatch"
+                     />
+        </SkinButton>
+
+		<SkinProgress
+			Name="PatchProgressBar"
+			MapColor="0,0,255"
+			UnfilledImage="station_images/messageBar-bg.png"
+			FilledImage="station_images/patcher-progress.png"
+			MinValue="0"
+			MaxValue="100"
+			/>
+
+	</SkinWindow>
+
+    <SkinWindow
+        Name="MouseMenu"
+        Label="LaunchPad Menu"
+        Visible="false"
+        PopupWindowType="true"
+
+        Icon="station_images\LaunchPad.ico"
+        >
+        <SkinArt
+            TransparentColor="0,255,0"
+            >
+            <Image Type="ForegroundImage" Path="station_images/popup-fg.png"/>
+            <Image Type="BackgroundImage" Path="station_images/popup-bg.png"/>
+            <Image Type="MapImage" Path="station_images/popup-map.png"/>
+            <Image Type="HoverImage" Path="station_images/popup-hover.png"/>
+            <Image Type="SelectedImage" Path="station_images/popup-selected.png"/>
+        </SkinArt>
+
+        <SkinScrollBar
+            Name="MenuScrollBar"
+            MapColor="169,196,169"
+            Enabled="true"
+            Orientation="Vertical"
+            PathColor="169,0,169"
+            DecrementNudge="169,196,0"
+            IncrementNudge="200,100,0"
+            >
+            <PuckImage>
+                <SkinArt>
+                    <Image Type="BackgroundImage" Path="station_images/chat_puck_small.png"/>
+                </SkinArt>
+            </PuckImage>
+        </SkinScrollBar>
+
+        <SkinListBox
+            Name="MouseMenuOptions"
+            MapColor="100,100,100"
+            VerticalScrollBar="MenuScrollBar"
+            SelectType="none"
+            ShowHovered="true"
+            >
+            <Style Name="ListStyle"/>
+            <Brush Type="Hover" Color="0,0,100,255"/>
+
+            <Option>Station News</Option>
+            <Option>Credits</Option>
+            <Option>Reskin</Option>
+            <Option>Change User</Option>
+
+            <Command Event="activate"
+                         Name="MouseMenuSelect">
+                         <Param Name="WindowName">MainWindow</Param>
+                         <Param Name="BrowserName">NewsBrowser</Param>
+                         <Param Name="MoreSkinsURL">http://patch.station.sony.com:7000/patch/lpskins/index.html</Param>
+                         <Param Name="NewsURL">http://www2.station.sony.com/en/station_client_headlines.jsp</Param>
+                         <Param Name="LoginWindow">LoginWindow</Param>
+            </Command>
+        </SkinListBox>
+    </SkinWindow>
+
+
+    <SkinWindow
+        Name="BrowserWindow"
+        Label="BrowserWindow"
+        Align="Center"
+        VAlign="Center"
+		Visible="false"
+        Icon="station_images\LaunchPad.ico"
+        >
+
+        <SkinArt 
+            TransparentColor="0,255,0"
+            >
+            <Image Type="BackgroundImage" Path="station_images/browser-bg.png"/>
+            <Image Type="MapImage" Path="station_images/browser-map.png"/>
+            <Image Type="HoverImage" Path="station_images/browser-hov.png"/>
+            <Image Type="SelectedImage" Path="station_images/browser-sel.png"/>
+            <Image Type="FocusedImage" Path="station_images/browser-focused.png"/>
+        </SkinArt>
+
+        <SkinButton
+            Name="Minimize"
+            Label="Minimize"
+            MapColor="20,20,20"
+            >
+            <Command Event="click"
+                    Name="minimizewindow">
+            </Command>
+        </SkinButton>
+
+        <SkinButton
+            Name="Close"
+            Label="Close"
+            MapColor="0,0,0"
+            >
+            <Command Event="click"
+                    Name="closewindow">
+            </Command>
+        </SkinButton>
+
+        <SkinBrowser
+            Name="BrowserObj"
+            MapColor="125,125,125"
+            Visible="true"
+            InitURL="http://www.station.com/"
+            />
+
+        <SkinForm
+            Name="BrowserForm"
+            Label="Browser Form"
+            >
+            <Command Event="submit"
+                     Name="BrowserOperation"
+                     NameNot="ChatEntry">
+                     <Param Name="Browser">TestBrowser</Param>
+                     <Param Name="Operation">SetURL</Param>
+            </Command>
+
+            <SkinTextField
+                Name="URLEntry"
+                Label="Entry Field"
+                MapColor="152,149,23"
+                >
+                <Style Name="EntryField"/>
+            </SkinTextField>
+
+        </SkinForm>
+
+        <ResizeObject Name="BrowserObj" width="1.0" height="1.0" x="0.0" y="0.0"/>
+        <ResizeObject Name="Minimize" width="0.0" height="0.0" x="1.0" y="0.0"/>
+        <ResizeObject Name="Close" width="0.0" height="0.0" x="1.0" y="0.0"/>
+
+        <SplitRect Top="328" Bottom="328" Left="257" Right="257"/>
+        <SplitBrush Side="top" Tileimage="station_images/browser-top-tile.png"/>
+        <SplitBrush Side="bottom" Tileimage="station_images/browser-bottom-tile.png"/>
+        <SplitBrush Side="left" Tileimage="station_images/browser-left-tile.png"/>
+        <SplitBrush Side="right" Tileimage="station_images/browser-right-tile.png"/>
+        <SplitBrush0r Side="center" Tileimage="station_images/browser-right-tile.png"/>
+    </SkinWindow>
+
+</SkinApp> 

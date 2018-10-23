@@ -1,0 +1,6 @@
+"Infantry on the Station","http://infantry.station.sony.com/en/main.jsp"
+"Infantry Faq","http://infantry.station.sony.com/en/info_faq.jsp"
+"The Sony Station","http://www.station.sony.com"
+"Station Pass Forums","http://boards.station.sony.com/ubb/sp/cgi-bin/Ultimate.cgi"
+"Station Live Chat Support","http://www.station.sony.com/en/services/help/help.jsp"
+"Station Knowledge Base","http://station.com/kb"

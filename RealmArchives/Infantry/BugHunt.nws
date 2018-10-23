@@ -1,0 +1,1087 @@
+
+~B~0Bug Hunt~B~2
+~B---------------~B
+~B~0Infestation~B~2
+
+
+~1~BOrders*******Orders*******Orders*******Orders*******Orders*******Orders*******Orders~2~B
+
+~BBug Hunt~B
+
+
+~B~0COLCENTCOM Official~B~2
+
+~B~0From:~B~2 ~BEchelon 1 COLCENTCOM Division 6~B
+     ~B~0Directive Dated:~B~2 ~B2/9/2098~B
+
+
+     Investigate Asteroid Research Station 29AB in far elliptical around Saturn.
+
+     For reasons unknown the research station has fallen silent and all attempts
+     at restoring communication have failed. All attempts at remote monitoring 
+     or data acquisition have also failed.
+
+     Insert a full combat squad onto the station and ascertain why the crew has
+     been unwilling or unable to maintain communication.
+
+     If, for whatever reason, the crew is incapacitated or missing, immediately  
+     retrieve the primary data core on the main deck and the primary mission
+     recorder on the engineering deck.
+
+     Hostilities are not expected, however, the combat squad will be fully armed.
+
+
+     Upon mission completion return to Outpost 29Alpha for debrief and sitrep.
+
+~1~BOrders*******Orders*******Orders*******Orders*******Orders*******Orders*******Orders~2~B
+
+~BInfestation~B
+
+
+~B~0TMF Official~B~2
+
+~B~0From:~B~2 ~BEchelon 1, 3rd Platoon~B
+     ~B~0Directive Dated:~B~2 ~B8/6/3001~B
+
+
+     The Menglee facility has been illegally manufacturing weapons for over a decade. Drilling into 
+     the asteroids core for etherly crystals that radiate immense energy, making the weapons sustain a 
+     longer shelf life and better performance. The weapons are being made for a special undercover 
+     group of soldiers known as the Echelon.  The Collective withheld their pay and in return 
+     Echelon 1 Division 6 took their leave. Over the years the division went their seperate ways 
+     over shares of credits and ranks hungry for power and battle. Ever since then Echelon is 
+     notoriously known for doing the galaxy’s dirty work.
+
+     On May 2nd, 3001 CE a scientist discovered an odd heat signature from one of the mining droids 
+     on his monitoring console. A team was sent to investigate what the droid had found. Estimated at 
+     ten minutes the droid returned to the inner locks with only pieces of flesh and bone splatered to the 
+     side of its white, now bright red robocase.
+ 
+     The scientist known as Dr. Dobbo discovered that the immense power from the etherly crystals clustered
+     deep within the asteriod, was attracting a form of deep space creature. These creatures have been 
+     encountered once before on a similar Saturn asteroid station. Although the Collective deny that Echelon 
+     or what happend at the Saturn site as never taking place, we have all seen the leaked holocrons. Now in
+     the three years that have gone by they have seem to have taken residence around Titan. The evacuation 
+     notice for the Menglee facility came too late, most of the bases inhabitants were slaughtered in an 
+     onslaught of brutal bites and deep slashes.
+
+     Your major objective as 3rd Platoon is to take the Menglee facility at all cost,exterminate the skrall 
+     presence, and recover any data, weapons, or survivors from within the facility. 1st and 2nd Platoon will 
+     be 30 clicks from your current position cleaning out the rest of the roid. 
+
+~1~BOrders*******Orders*******Orders*******Orders*******Orders*******Orders*******Orders~2~B
+
+
+
+~B---------------------------~B
+~B~0----Geting Started----~B~2
+~B---------------------------~B
+
+Welcome to Bug Hunt/Infestaion.
+
+Bug Hunt is an action game that pits 2 teams, Collective Marines(Echelon) and Skrall Aliens against each other.
+
+The object is for a Sergeant on the the Marine Team to move the objectives to designated areas of the map
+before the game timer runs out. ONLY a Marine Sergeant can pickup the Objectives. Only ONE objective can
+be carried at a time.
+
+The Skrall have to keep the Marines from doing this...
+
+
+To enter the game press (F12)
+
+This will bring up the Skill (class) selection screen.
+
+Select the class you wish to play. The classes are listed as MarineClass/SkrallClass.
+
+Depending on whether you get placed on the Skrall Team or the Marine Team determines which class you end up.
+
+
+
+
+~B--------------------------~B
+~B~0----Release Notes----~B~2
+~B--------------------------~B
+~B~05/12/2010~B~2
+
+~1~BInfestation~2~B
+
+Made some cosmetic changes around the map.
+
+Added a door at B4 141,298.
+
+Implemented Sniper and Technician back into classes.
+
+Added a few more experience ranks.
+
+If you have any serious suggestions or comments about settings or bugs please dont hesitate to contact me.
+
+~B-Shox~B
+Static Elite
+
+
+~B~010/15/2008~B~2
+
+~1~BInfestation~2~B
+
+Relocated a few vents.
+
+Space glitch gone. 
+
+ps:its the same distance to enemy if both teams w0uld 
+go to the north ele (from west spawn for rines).
+
+~B-Shox~B
+Static Elite
+
+
+~B~010/10/2008~B~2
+
+~1~BInfestation~2~B
+
+15min games.
+
+Removed lower pickup points.
+
+Removed double doors.
+
+Removed Snipers.
+
+Removed Techs.
+
+--*edit*--
+
+Fixed skill logic on nades.
+
+added laws to amt.
+
+~B-Shox~B
+Static Elite
+
+
+~B~010/2/2008~B~2
+
+~1~BInfestation~2~B
+
+Object drop points are now located at both Marine spawns.
+
+10min games.
+
+Revised the orders/background.
+
+patched up B4(157,277) hall and added a room in its place.
+
+Removed G4(511,284) vent.
+
+Disabled lower doors.
+
+Vehicle Disruptor now doesn't explode after its lifetime is up.
+
+No, there isn't as strong a need for techs/vectros anymore besides  marineret defense/skrall anti-rets.
+
+~B-Shox~B
+Static Elite
+
+
+~B~09/29/2008~B~2
+
+~1~BInfestation~2~B
+
+Players have brought it to my attention that people have been excessively spawn camping, so i added doors 
+that lead to space so vectros can't just waltz in anymore.
+
+~B-Shox~B
+Static Elite
+
+
+~B~09/12/2008~B~2
+
+~1~BInfestation~2~B
+
+No more ES abuse.
+
+Vectromorph hp reduced to 200hp.
+
+Added vent at F4[478,305].
+
+Moved C5[233,361] building off the wall.
+
+Added LargeCrate at D11[259,811].
+
+*-Im out untill 09.
+
+~B-Shox~B
+Static Elite
+
+
+~B~09/3/2008~B~2
+
+~1~BInfestation~2~B
+
+Fixed a few things.
+
+Moved G2 spawn further south.
+
+~B-Shox~B
+Static Elite
+
+
+~B~08/28/2008~B~2
+
+~1~BInfestation~2~B
+
+Fixed the one flag spawn.
+
+Moved DoubleDoor Lock to D5(282,336). If it works out the way i want it to when one door opens the other will close.
+
+Stair Case added at F4.
+
+A bunch of map changes press F3 and look around to find them all. WHERES WALDO?
+
+Lower spawning removed.
+
+Added secondary skrall spawn with 20 people unspeced G10/G11.
+
+You now need a Lock Key to open DockLockA and DockLockB which only sergeant can carry. 
+Techs spawn with a key.
+Keys Spawn at C9(235,680) and C3(208,178) and F4(463,303).
+
+Added Weak Bite to Silomorph and removed Bio Bomb.
+
+Increased thrust in space for Vectro Space Hide, but reduced speed on land.
+Increased thrust on shuttle.
+Shuttle strafe thrust increased.
+
+Moved Docking Bay Sentrys into the dropship.
+
+Shuttle strafe thrust increased.
+
+Emotes added to classes.
+
+LAW carry max now 2.
+
+Eggs spawn at D8(287,612).
+
+Sniper Rifle
+-------------
+Minimum range extended. 
+Added vertical thrust. 
+Removed weapon jam.
+Requires .50 caliber rounds.
+
+Slio Shot
+----------
+Increased damage to 50hp
+Recharge is disabled for a short amount of time if hit by this.
+
+~B-Shox~B
+Static Elite
+
+
+~B~08/18/2008~B~2
+
+~1~BInfestation~2~B
+
+Games with a population under 15 will only have marines spawn upper, and the south spawn on lower was removed.
+
+Objects have been reworked to accommodate the spawns and number of players.
+
+SB arena warps fixed.
+
+AP Mines removed.
+
+Added a minigame area.
+
+Vent added at D11(242,838).
+
+Shaman top speed increase
+
+~B-Shox~B
+Static Elite
+
+
+~B~08/14/2008~B~2
+
+~1~BInfestation~2~B
+
+Finished SB arena.
+
+fixed space glitch.
+
+~B-Shox~B
+Static Elite
+
+
+~B~08/13/2008~B~2
+
+~1~BInfestation~2~B
+
+Expanded Toxin Grenade explosion radius to 150(a bit farther than frag)
+
+Had to switch back to where only vehicle disruptor damages turrets, dosent work they way i planed it to.
+
+Made LAW prefire a bit short making the user fire the law in a shorter amount of time after the button was pressed.
+
+Fixed a few other bugs not worth mentioning.
+
+SB arena is geting close to done.
+
+~B-Shox~B
+Static Elite
+
+
+~B~08/6/2008~B~2
+
+~1~BInfestation~2~B
+
+Fixed how some of the flags were spawning.
+
+Nerfed rewards.
+
+Opened up the rocks at F10(456,763)
+
+Switched silo graphic color
+
+Incinerator Charge now drops after death.
+
+All Skrall projectiles damage turrets now.
+
+Detached docking bay from lower and made both pickup points in lower spawn points.
+
+Removed all vents from spawns.
+
+~B-Shox~B
+Static Elite
+
+
+~B~08/4/2008~B~2
+
+~1~BInfestation~2~B
+
+Doubled the auto close delay time on the bay door. 
+
+Victory time is now in 40seconds.
+
+Reworked lower hall leading to marine spawn, this should help with the problems we have been having.
+
+Mordred is now only capturable by Sergeants and Electromorphs.
+
+Reworked objects for small and large games.
+
+~B-Shox~B
+Static Elite
+
+
+~B~08/1/2008~B~2
+
+~1~BInfestation~2~B
+
+Elevators fixed.
+
+Nerfed laws
+------------
+*longer delay to fire other weapons after law is fired.
+*longer amount of time after key is pressed that law fires.
+*max carry amount = 1.
+*minimum range expanded.
+*damage reduced to around 150.
+*laws now drop from inventory on death.
+*moved spawn to B2(118,126).
+
+working on transfering old map to this one for squad battle purposes.
+
+~B-Shox~B
+Static Elite
+
+
+~B~07/30/2008~B~2
+
+~1~BInfestation~2~B
+
+Game size increased to 30v20.
+
+Added the missing no minezone.
+
+Switched up the death vents, should be a bit easier to get by, but still fully capable of skrall defense.
+
+Moved "lower" so now it really is a lower and the coord will be relative to upper.
+
+Connected Docking Bay with Lower, you may think this takes out the need for shuttles but they serve as a far
+faster getaway than going all the way back through lower.
+
+Added a bay door to dock.
+
+All except one lower obj spawn with 10 or less people.
+
+Static Flag Rewards added.
+
+~B-Shox~B
+Static Elite
+
+
+~B~07/24/2008~B~2
+
+~1~BInfestation~2~B
+
+Decreased ammount of delay between kbar shots.
+
+Added two vectro Hide spawns at G4(494,308) and D5(253,391).
+
+Added a vent at D4(284,285)
+
+No-mine zone fixed so it wont eat objects anymore.
+
+~B-Shox~B
+Static Elite
+
+
+~B~07/22/2008~B~2
+
+~1~BInfestation~2~B
+
+Redesigned mid, this should once again help stop all the rape in that part of the map and hopefully expand
+the battle. Personaly i think it fit together quite well.
+
+Turrets my be built around the mordred flag.
+
+Fixed Sniper veh radius.
+
+Reduced AP Mine damage.
+
+Increased dart range.
+
+Changed Silomorph graphic color.
+
+AMT Toxin Grenade Fixed.
+
+Nest now requires ammo.
+
+AP mines may now not be places infront/inside vents.
+
+Added KBar for sniper to use, its just like the combat knife but with 4shots.
+
+~B-Shox~B
+Static Elite
+
+
+~B~07/21/2008~B~2
+
+~1~BInfestation~2~B
+
+Experience save fixed.
+
+Clock fixed.
+
+Added LAW spawns at K4 (833,277).
+
+Added another jukebox at I3 (680,194).
+
+Added Sniper to class selection. Their steath hides them from radar and they are equiped with a variety of items,
+jump may be added later on to his weapon set.
+
+Added Silomorph to class selection. They are a ranged unit, they are not part of the close quater combat group.
+
+Reduced required energy for Aura.
+
+Tech should now be abel to build turrets in each spawn by himself, as long as no one has already set up.
+
+Items Added
+-----------
+Toxin Grenades
+Stealth Suit
+Enercell
+Auto Pistol
+LAW
+AP Mine(back)
+Silo Shot
+Bio Bomb
+Acid Dart Spit
+
+~B-Shox~B
+Static Elite
+
+
+~B~07/13/2008~B~2
+
+~1~BInfestation~2~B
+
+Fixed the heart drop on AT/Tech.
+
+Added a airduct at B3/B4, and another at F3/F4.
+
+Added a medic call to medic, your welcome mor<3.
+
+Removed the energy drain from dieing marines/skrall.
+
+Relocated E5(340,323) Door to E5(394,351).
+
+Experience should now save.
+
+Added pretty stars in space.
+
+~B-Shox~B
+Static Elite
+
+
+~B~07/10/2008~B~2
+
+~1~BInfestation~2~B
+
+Reworked a room which should give some variety on paths to take around the map.
+
+Added a skrall hole north west section of map.
+
+Made shuttle passengers turn radius 360, you may now properly defend your shuttle.
+
+Took out warbird, it may not return.
+
+These may be the last of the updates, so thanks to everyone for the help and feedback, i hope this holds bh 
+together for another 7 years, Play nice.
+
+~B-Shox~B
+Static Elite
+
+
+~B~07/9/2008~B~2
+
+~1~BInfestation~2~B
+
+Took out mid and remade it to give a overall feel of bh to it. Hopefully this will drive all the action out 
+of mid and spread it elsewhere on the map.
+
+Took out AP mines
+
+Beefed Incin nade, it's not made for a one hit kill though it's more for clearing vents.
+
+Quarantined the warbirds so people stop crashing the client. Hopefully i can figure it out or find someone who can.
+
+Fixed the bug on the black terrain for objects.
+
+The updates are slowly coming to an end, so if you have any ideas now would be the time.
+
+~B-Shox~B
+Static Elite
+
+
+~B~07/1/2008~B~2
+
+~1~BInfestation~2~B
+
+Re-designed the map, took out the outdoors section and added a docking bay where Marines spawn.
+
+There are two warps in the drop ship which take you to the complex.
+
+The Sergeant must wait for a technician to come with a shuttle and take him back to the docking bay.
+
+Technicians can build MG turrets on the build terrains located at spawns (blue terrain), they are also the 
+only class abel to drive the shuttles and warbirds which makes them a necessary part of the team.
+
+Skrall Vechtromorphs are abel to fly in space, they also have vehicle disruptor to take down the shuttles, they
+are a last resort for skrall if the sergeant gets on the shuttle and is on his way back to the docking bay.
+
+The Vechtromorphs Aura is a repluse, the fragments that come out may also repluse and/or jam your weapon for a
+breif amount of time.
+
+Nerfed the Assault suit so there is no kenetic protection.
+
+Gave Sergeant Assault Suit.
+
+Increased a few delays on the DAP.
+
+Nerfed the damage of the AP Mine.
+
+Reduced the ammount of energy needed to use saliva.
+
+Fixed the vehicle radius/visual height for AT.
+
+Took AP mine from AT on death respawns, tech now has priority of them.
+
+Also a big thanks to NOD, Tyrael, and SatoriEnd for the help they have put in.
+
+Please be patient if something isnt working right, contact me at shox_stl@hotmail.com if you find a bug.
+
+~B-Shox~B
+Static Elite
+
+
+~B~06/27/2008~B~2
+
+~1~BInfestation~2~B
+
+Assault Trooper added to class selection. 
+
+Skrall Shaman added to class selection.
+
+Gave Medics 2 Med Packs at the beginning of each game. They will respawn with one.
+
+Gave Scouts 2 EMP Grenades at the beginning of each game.
+
+Med Packs fixed....again.
+
+Mordred Static fixed for reward times.
+
+Heart drops should be fixed.
+
+Chain Sword explosion fixed.
+
+20min games.
+
+More soon...
+
+~B-Shox~B
+Static Elite
+
+
+~B~06/25/2008~B~2
+
+~1~BInfestation~2~B
+
+Fixed the glitch were skrall can not attack on drop zones.
+
+Added physics around the edge of the map as a fallback just incase the terrain screws up again.
+
+Very slight increse to the damage of warrior/electromorph's melee attacks to combat the constant eating.
+
+Still looking into the ammo/heart drop problem, i know its frustrating but bear with me on this one.
+
+Gave Sergeant Chain Sword and removed his Combat Knife, the sword does slightly more damage
+
+More soon...
+
+~B-Shox~B
+Static Elite
+
+
+~B~06/24/2008~B~2
+
+~1~BInfestation~2~B
+
+Reworked the objects so with a small population they will spawn lower, and with a larger population
+they will spawn upper.
+
+Added 2 more Objects.
+
+Added a vent leading outside at B2(158,117)
+
+Added a vent at F5(438,326)
+
+Took the vent at C3(176,180) so marines wont have to deal with skrall spawning ontop of them when they
+are going for object.
+
+Moved the D2(271,136) vent to E2(327,136).
+
+Extended the F5 air duct and added some crates infront of it.
+
+Fixed the terrain bug where object resets when you walked on lower hallways.
+
+MedBay door now opens at the beginning of each game.
+
+Think i fixed the static flag in Mordred.
+
+More comeing soon.
+
+~B-Shox~B
+Static Elite
+
+
+~B~06/23/2008~B~2
+
+~1~BInfestation~2~B
+
+New map is open for beta. Different objects will spawn as more people enter the game.
+
+If you notice any bugs or have any suggestions or comments please feel free to email me at shox_stl@hotmail.com
+
+A big thanks to NOD for all the help.
+
+~B-Shox~B
+Static Elite
+
+
+~B~010/20/2003~B~2
+
+Added a Bug Hunt guide, courtesy of Marine+, to the f1 help menu.
+
+
+~B~01/16/2003~B~2
+
+~1~BBug Hunt~2~B
+
+All remaining vision and physics glitches on this map are fixed.
+
+Added Sentry Guns to the Marines spawn areas. They are not there to defend the spawn, they are there to assist the Marine
+team in clearing the spawn area when someone lets them in.
+
+Visually decreased the size of the arachnomorph graphic.
+Increased all the marine class speeds a very small amount to increase the overall play speed and action feel of the game.
+
+Tightened many network parameters in an effort to remove the effects of latency as much as possible.
+
+The next map will be called "Skrall Invasion" and will be a sort of reverse of normal Bug Hunt play.
+
+"Skrall Invasion" will see a unit of Collective Marines defending some civilians at an Outpost on Titan.
+
+The Marine team will need to hold off a swarm of invading Skrall until reinforcements arrive. While waiting they also need to 
+defend the civilians from being taken by the skrall.
+
+The Skrall team wins if they manage to take all the civilians back to their tunnels before the reinforcements arrive.
+
+There is no ETA for this map. It will arrive when done.
+
+
+~B~01/14/2003~B~2
+
+~1~BBug Hunt~2~B
+
+Added enhanced death graphics for your visual pleasure...
+
+Scout man vehicle trigger radius was made slightly smaller.
+Arachnomorph's trigger radius was decreased.
+Arachnomorph's forward thrust speed was reduced slightly, but strafe speed and reverse thrust we set to the same speed as 
+forward thrust.  This results in some pretty cool manuverability.
+Flame spot lifetime was increased to 10 seconds.
+
+Increased the brightness of Marine weapon projectiles to increase their visibility.
+Death Breath no longer leaves an "acid burn" mark when they are triggered.
+Set the zone manager to scramble teams after every game.  
+
+
+~B~01/13/2003~B~2
+
+~1~BBug Hunt~2~B
+
+Changed team presentation order so that Skrall team is always filled first and more likely to have more players at
+all times.
+
+Incinerator graphics changed to combat the frame lag from the old graphics.
+Incinerator leaves flame spots on the ground that do damage.
+Incinerator flame spots are not active for 1/2 second after they are created, allowing the quick to avoid double flamage.
+
+Skrall now autopickup Marine hearts.
+
+Item pickup distance was lowered slightly.
+
+Some minor graphical changes to combat frame lag.
+
+Some .cfg changes to combat some warp exploits that have arisen.
+
+
+~B~02/25/2002~B~2
+
+~1~BBug Hunt~2~B
+
+A long time in coming.  :)
+
+fixed some map physics and vision errors.
+Incinerator damage was increased.
+Working on fixing the warp exploit.
+
+
+~B~010/4/01~B~2
+
+~1~BBug Hunt~2~B
+
+Adjusted slime trail live time to 45 seconds.
+Adjusted Auto Cannon Damage.
+Damage adjusted on Acid Spit and electro blaster.
+Damage radius adjusted on Acid Spit.
+Incinerator damage adjusted.
+
+-Yankee
+
+
+~B~011/13/01~B~2
+
+~1~BBug Hunt~2~B
+
+Auto closing doors cover each Hangar lock. The doors will close on their own after 8 seconds.
+
+Moved one of the alien holes to a better map location.
+
+-Yankee
+
+
+
+~B-------------------------------~B
+~B~0----Class Descriptions----~B~2
+~B-------------------------------~B
+
+~1~BMarine Team~2~B
+
+~B~0Assault Trooper~B~2
+ 
+~FDual Auto Pistols   (Ctrl/Weapon 1)
+Shotgun             (Tab/Weapon 2)
+Hand Grenade        (Shift+Tab/Weapon 3)
+Chain Sword         (Shift+Ctrl/Weapon 4)~P
+
+~B~0Marine~B~2
+
+Marines are armed with:
+
+~FAssault Rifle   (Ctrl/Weapon 1)
+Shotgun         (Tab/Weapon 2)
+Hand Grenade    (Shift+Tab/Weapon 3)
+Combat Knife    (Shift+Ctrl/Weapon 4)~P
+
+~B~0Heavy Weapons~B~2
+
+Heavy Weapons are armed with:
+
+~FAssault Cannon   (Ctrl/Weapon 1)
+Incinerator      (Tab/Weapon 2)
+Hand Grenade     (Shift+Tab/Weapon 3)
+Combat Knife     (Shift+Ctrl/Weapon 4)
+Incendiary Grenade~P
+
+~B~0Scout~B~2
+
+Scouts are armed with:
+
+~FPulse Rifle      (Ctrl/Weapon 1)
+Ehanced Sensors  (Tab/Weapon 2)
+Hand Grenade     (Shift+Tab/Weapon 3)
+Combat Knife     (Shift+Ctrl/Weapon 4)
+EMP Grenade~P
+
+~B~0Medic~B~2
+
+Medics are armed with:
+
+~FMachine Pistol   (Ctrl/Weapon 1)
+Medikit          (Tab/Weapon 2)
+Hand Grenade     (Shift+Tab/Weapon 3)
+Combat Knife     (Shift+Ctrl/Weapon4)
+Med Pack~P
+
+NOTE: The medic will have to select the player to be healed.
+
+~B~0Sergeant~B~2
+
+Sergeants are armed with:
+
+~FMachine Pistol  (Ctrl/Weapon 1)
+Leader Summon   (Tab/Weapon 2)
+Hand Grenade    (Shift+Tab/Weapon 3)
+Combat Knife    (Shift+Ctrl/Weapon 4)~P
+
+Sergeants are the only class that can pick up the objectives and carry them. It is imperative
+that someone on the Marine team plays as Sergeant.
+
+~B~0Technician~B~2
+
+Technicians are armed with:
+
+~FDouble Barrel Shotgun    (Ctrl/Weapon 1)
+Repair Kit               (Tab/Weapon 2)
+Hand Grenade             (Shift+Tab/Weapon 3)
+Combat Axe               (Shift+Ctrl/Weapon 4)
+Sentry
+Auto MG Turret
+Incendiary Grenade~P
+
+Technicians are the only class that can drive vehicles or place turrets. It is imperative
+that someone on the Marine team plays as Technician.
+
+~B~0Sniper~B~2
+
+Snipers are armed with:
+
+~FSniper Rifle    (Ctrl/Weapon 1)
+Auto Pistol     (Tab/Weapon 2)
+Hand Grenade    (Shift+Tab/Weapon 3)
+Kbar            (Shift+Ctrl/Weapon 4)
+Toxin Grenade
+EMP Grenade
+Stealth Suit~P
+
+Snipers can not be seen on radar while useing stealth suit.
+
+
+~1~BSkrall Team~2~B
+
+~B~0Arachnomorph~B~2
+
+Skrall Arachnomorph's are armed with:
+
+~FLeft Pincer     (Ctrl/Weapon 1)
+Right Pincer    (Tab/Weapon 2)
+Sting           (Shift+Tab/Weapon 3)
+Slime Trail     (Shift+Ctrl/Weapon 4)~P
+
+Arachnomorphs can also charge by holding down the shift key while moving.
+Charging or using Slime Trail uses Stamina (Energy)
+
+~B~0Warrior~B~2
+
+Skrall Warriors are armed with:
+
+~FLeft Claw       (Ctrl/Weapon 1)
+Right Claw      (Tab/Weapon 2)
+Bite            (Shift+Tab/Weapon 3)
+Acid Spit       (Shift+Ctrl/weapon 4)~P
+
+Skrall Warriors can also charge by holding down the shift key while moving.
+Charging or using Acid Spit uses Stamina (energy)
+
+~B~0Shaman~B~2
+
+Skrall Shamans are armed with:
+
+~FLeft Claw       (Ctrl/Weapon 1)
+Right Claw      (Tab/Weapon 2)
+Bite            (Shift+Tab/Weapon 3)
+Nest            (Shift+Ctrl/weapon 4)
+Stealth
+Curing Saliva
+Battle Roar~P
+
+
+Skrall Shamans can also charge by holding down the shift key while moving.
+Charging using Nest, Saliva, or Battle Roar uses Stamina (energy)
+
+~B~0Electromorph~B~2
+
+Skrall Electromorph are armed with:
+
+~FLeft Claw            (Ctrl/Weapon 1)
+Right Claw           (Tab/Weapon 2)
+Bite                 (Shift+Tab/Weapon 3)
+BioElectric Blaster  (Shift+Ctrl/weapon 4)~P
+
+Skrall Electromorph can also charge by holding down the shift key while moving.
+Charging or using BioElectric Blaster uses Stamina (energy)
+
+~B~0Vechtromorph~B~2
+
+Skrall Vechtromorph are armed with:
+
+~FLeft Slash     (Ctrl/Weapon 1)
+Right Slash    (Tab/Weapon 2)
+Bite           (Shift+Tab/Weapon 3)
+Aura           (Shift+Ctrl/weapon 4)
+Vehicle Disruptor~P
+
+Skrall Vechtromorph can also charge by holding down the shift key while moving.
+Charging or using Vehicle Disruptor uses Stamina (energy)
+
+~B~0Silomorph~B~2
+
+Skrall Silomorphs are armed with:
+
+~FLeft Pincer         (Ctrl/Weapon 1)
+Right Pincer        (Tab/Weapon 2)
+Slio Shot           (Shift+Tab/Weapon 3)
+Spit and Dart       (Shift+Ctrl/weapon 4)
+Bio Bomb~P
+
+Skrall Silomorph can also charge by holding down the shift key while moving.
+Charging or using any long range attack uses Stamina (energy)
+
+
+~B----------------~B
+~B~0----Ranks----~B~2
+~B----------------~B
+
+Ranks
+
+Rank=Echelon Trooper
+Points=5000
+
+Rank=Echelon First Class Trooper
+Points=15000
+
+Rank=Echelon Lance Corporal
+Points=25000
+
+Rank=Echelon Corporal
+Points=50000
+
+Rank=Echelon Squad Leader
+Points=75000
+
+Rank=Echelon Sergeant
+Points=100000
+
+Rank=Echelon Master Sergeant
+Points=150000
+
+Rank=Echelon SubLieutenant
+Points=200000
+
+Rank=Echelon Lieutenant
+Points=265000
+
+Rank=Echelon Captain
+Points=350000
+
+Rank=Echelon Elite Captain
+Points=400000
+
+Rank=Echelon Major
+Points=450000
+
+Rank=Echelon Colonel
+Points=525000
+
+Rank=Echelon Bird Colonel
+Points=600000
+
+Rank=Echelon Commander
+Points=1000000
+
+Rank=Echelon Storm Commander
+Points=1500000
+
+Rank=Echelon Campaign Commander
+Points=2000000
+
+Rank=Echelon Storm Lord
+Points=3000000
+
+Rank=Echelon Overlord
+Points=5000000
+
+Rank=SE Overlord
+Points=10000000
+
+Rank=Shox
+Points=12500000
+
+Rank=TheKiller
+Points=15000000
+
+Rank=JDawG
+Points=17500000
+
+Rank=Swift
+Points=20000000
+
+Rank=Dobbo
+Points=22500000
+
+
+
+~B-----------------------~B
+~B~0----SOE Bulletin----~B~2
+~B-----------------------~B
+
+6-16-2007
+
+The Player Content Team (PCT) specifics have been announced on the Infantry message boards!
+
+http://forums.station.sony.com/station/posts/list.m?topic_id=11500004683
+
+
+5-29-2007
+
+Head on over to the Station Pass Forums regarding news on Infantry, Cosmic Rift and Tanarus going FREE! 
+
+http://forums.station.sony.com/station/posts/list.m?topic_id=11500004187
+
+
+5-8-2007
+
+Please check out the forums regarding news on our new design apprentice!
+
+http://forums.station.sony.com/station/posts/list.m?topic_id=11500003959

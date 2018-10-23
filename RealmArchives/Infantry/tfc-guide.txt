@@ -1,0 +1,80 @@
+Welcome to TerraFirma City
+
+You will start off as a conscript with 5 characturistic points in your inventory. 
+You can recieve up to 10 more by doing Missions. These are optional. 
+
+To see more info on the missions, Esc> Help..> Missions Help 
+This is a comprehensive guide to the missions currently available.
+
+The characturistic points are to be spend at the Character Vendor. 
+This is found in the market place at Coords of M5, 999,342
+
+You have 5 Characturistics, each one gives you different statistics for your character. 
+You may have up to 5 per characturistic.
+
+The characturistics available are :
+
+Agility
+Energy
+Health
+Stamina
+Strength
+
+Agility : This characturistic makes you accelerate faster, it also effects any 
+vehicle you are in control off.
+
+Energy : This characteristic makes your maximum energy increase. Energy level 
+increments are 15, 30, 45, 60, and 75.
+
+Health : This characteristic makes your overall health. Health level 
+increments are 4, 8, 12, 16 and 20.
+
+Stamina : This characteristic increases your top run speed. This skill effects 
+any vehicle you control as well.
+
+Strength : This characteristic makes you stronger and able to carry more. 
+Strength level increments are 2, 4, 6, 8, and 10.
+
+
+Once you've selected your characturistics, Buy some Rifle Rounds, and head 
+on to the newbie area to pick up some much needed Experience and cash,
+but be careful not to kill other conscripts with your grenades and rifle 
+as you will spend time in the brig.
+
+Once you have the experience and cash needed to progress. It's time to choose a career.
+For a full guide on all the classes available Esc> Help..> Class Selection Help
+This guide will tell you what each division is capable of doing. So when you choose 
+which division you would like to make your career path, you will of been well informed.
+
+------------------------------------------------------------------------------------------------------
+
+What is there to do in terrafirma?
+
+Missions - Missions are available in several forms, giving various prizes/rewards.
+Some are dependant on which faction you join. 
+For more info on missions check out the mission help in the help menu. Esc> Help..>Mission Help
+
+Flag - Around the city within various major buildings there are Resource Points. 
+Control these points to recieve experience, points and cash rewards. To go with these Resource Points
+there are a series of random flags to own. The Resource points and flag systems are both seperate. 
+However the more you own of each the higher the rewards you will recieve.
+
+Bounty/Street Rape -The higher your bounty the more points and experience as well as cash you 
+shall recieve when you kill enemy units.  There are 3 Bounty standards available to carry, carrying
+these standards increase your experience and points rewards every period.
+
+Vehicles - There are many different vehicles available, dependant on class and skills. 
+These range from atlas to tridents and other vehicles.
+
+Base - With the introduction of turrets like the plasma v2, terraformers to give you ore and 
+a series of walls and gates to build with. Basing has never been so much fun..
+
+Koth - Want to be the last man standing? Here is your chance. You get frequent games giving 
+each and everone a chance to be the best of the best and survive while all others fail.
+
+New weapons, class structure and more, this zone gives you chance to experience things not 
+found in other zones, while bringing in some of the best features around infantry.
+
+Enjoy
+
+Mode and Nod

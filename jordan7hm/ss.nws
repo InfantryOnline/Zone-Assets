@@ -1,0 +1,17 @@
+~B~1Chaos Zone~2~B
+
+Welcome to Chaos Zone.  For those familiar with our last game Subspace, this zone will bring back old memories.  We have tried to simulate all aspects of Subspace's chaos zone with a few exceptions.  The biggest difference you will note is the point of view.  Subspace had a purely top-down point of view, whereas our simulation looks at the ships from an isometric or 45 degree view.  This will take a few moments for Subspace veterans to get used to, but it will soon become natural.  The game engine supports a top-down view as well and as soon as we get some appropriate art, we will likely make an exact same version of this zone, only with a top-down view (just for fun).  Subspace vets will notice a few other minor differences as well.
+
+For those not familiar with Subspace, it's really quite simple.  The object of the game is simply to kill other players.  You are randomly assigned one of 7 ships when you first enter the game.  You can change which ship you are using by pressing F11.  All the ships are very similar, but each has one thing that they do different from the others.  The ships and their differences are:
+
+~BWarbird~B - Has more thrust and a faster rotation.
+~BJavelin~B - Has a higher top-end speed.
+~BSpider~B - Is the only ship capable of cloaking and it starts out with the Stealth prize.
+~BLeviathan~B - Shoots more powerful Level 3 bombs and mines.
+~BTerrier~B - Has double-barrel guns.
+~BLancaster~B - Shoots bombs and mines that bounce once off the walls.
+~BWeasel~B - Shoots EMP bombs that stall the enemies recharge, also starts out with XRadar.
+
+You are automatically assigned to a public team upon entry into the game.  There are up to 8 players per team.  You are free to create your own teams using the ?team command.  Private teams can be password protected, see the online Help for commands for details on how to create password protected private teams.
+
+Enjoy!

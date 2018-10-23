@@ -1,0 +1,101 @@
+~BGuide to Armor~B
+-------------
+
+There are many people who seem to have trouble understanding the armor
+system of RPG, I'm making this guide to explain everything I
+can about it. There are four main aspects
+to armor:
+-~BEnergy~B
+-~BInnate protections~B
+-~BArmor~B
+-~BDamage Calculation~B
+
+~B~4ENERGY~B~4
+~2Your energy is one form of your armor. The current percent of your
+energy you have left after the drain from being shot is how much the
+damage is reduced by. Here's an example, say your powercell size is
+600 and after you got hit by an AR it took your energy to 540.
+540/600=.9 so that means your energy alone would take away 90% of the
+damage from the bullet. In essence, the lower your energy, the more
+damage you take. Keep in mind that there are armors which you can
+purchase that will reduce the drain done by weapons as well.
+
+~B~4INNATES~B~4
+~2In Eol every class has an innate protection against one or several
+damage types. The protection they give comes after energy and before
+armor is calculated.
+
+~B~4ARMOR~B~4
+~2There are several aspects to armor that you need to know before I continue:
+
+-~BSoft vs Hard protection~B: Soft protection (the percent number under
+"Protection") reduces the damage by that percent. Hard armor (the
+number under "Ignore-Damage") subtracts that much damage from a bullet
+that hits you.
+
+-~BTypes of armor~B: There are three types of armor: Soft, Composite, and
+Hard. Soft armors consist of only percent protection. Composites have
+both Hard ignore and Soft protection.
+Hard armors only have Hard ignore.
+
+-~BArmor order~B: Damage is reduced via your armor from top to bottom.
+That makes it important to put your armor in an order that reduces the
+damage best. The best way to do this is to figure out which of your
+armors are Soft, Comp, and Hard then put the Softs at the top, Comps
+in the middle, and Hards at the bottom. To rearrange your armor just
+assign the piece you want to move to a key. Even if the key is taken
+by something else you can switch it back to what is was on before and
+it will stay in place.
+
+Here's an example of the right order vs the wrong order of soft/hard armor:
+Given that you have a 20 damage weapon, a piece of soft armor with 50%
+protection, and a piece of hard armor with 5 ignore and that we're
+excluding innates and energy protection.
+-Hard above Soft(wrong):
+20-5=15 damage
+15*.5=7.5 damage
+
+~BSoft above Hard(right)~B:
+20*.5=10
+10-5=5
+
+~B~4DAMAGE CALCULATION~B~4
+~2Now that you have the basics down let's do a full example of damage
+reduction using everything I just showed. Here's what I'll be using, a
+20 damage/60 shield drain AR vs a PF/Armored Boots/Vambrace -
+Alloy/CMP6 Infantry. Keep in mind that the Infantry has a 5%
+Kinetic innate and that the PF will reduce the drain of the weapon.
+I'll do two rounds, one at high energy and one at low.
+
+~BHigh~B: The Infantry currently has 500 energy, and after being hit by
+the AR bullet is drained to 455 energy. (The PF generator reduces
+energy drain by 25%.)
+455/550=.827 1-.827=.173 (.173 is how much damage would be left after
+the shot, while the .827 is how much damage would be removed)
+20*.173=3.46
+3.46*.95(Innate)=3.29
+3.29*.85(PF)=2.8
+2.8*.875(Boots)=2.45
+2.45-1(Vamb)=1.45
+1.45*.875(Vamb)=1.27
+1.27-3(CMP6)=-2.27 damage which is counted as 0.
+0*.77(CMP6)=0
+
+~BLow~B: The Infantry currently has 100 energy, and after being hit by the
+AR bullet is drained to 55 energy. (The PF generator reduces energy
+drain by 25%.)
+55/550=.1 1-.1=.9 (.9 is how much damage would be left after the shot,
+while the .1 is how much damage would be removed)
+
+20*.9=18
+18*.95(Innate)=17.1
+17.1*.85(PF)=14.54
+14.54*.875(Boots)=12.72
+12.72-1(Vamb)=11.72
+11.72*.875(Vamb)=10.26
+10.26-3(CMP6)=7.26
+7.26*.77(CMP6)=5.59 damage
+
+
+
+~1Armor Guide by ~Blio~B~1

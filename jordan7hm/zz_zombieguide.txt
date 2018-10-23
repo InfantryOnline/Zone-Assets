@@ -1,0 +1,159 @@
+ZZ Guide for n00b Zombies 
+by Mastar Singularity 
+copied from n0b kilza's "ZZ Guide for n00b Marines" 
+rev1.1 04/13/07 
+
+Basics of game play 
+---------------------------------------------- 
+As a zombie, your main goal is to kill the marines and have some good laughs in doing so. Some people find this a tedious class, and vocally announce that "zombies suck" or "zombies are no fun to play" or whatever. These people are idios. With the right tactics, zombies can be nearly as fun to play as marines - "what tactics" is what this guide is here to show. To be sure, I would not personally like to play zombie all the time, but once in a while is not bad. In fact, it's a nice change - and, if you do not spec or quit the game, Loose's new code guarantees that you're a marine the next game, so you might as well stick it out, and use some of these techniques to have a more enjoyable time. 
+
+Item set 
+----------------------- 
+
+Note that you will keep all items even when you die, so you may use them when you respawn. 
+
+• Bullet Mine Kit – The zombie skill "Devious Trapper" allows you to lay bullet mines. Buy a bullet mine kit if you get this skill. This is very useful for laying in front of marine base exits, especially at choke points. It is also somewhat useful for killing walls - lay one on a wall, and run back, and it will detonate about a second later. 
+
+• Portal – Lays a portal that spawns dead teammates as the "Portal Spawn" zombie. Spawns up to three portal spawns. Useful for amassing a small number of zombies, or continuing a raid (as dead zombies will automatically be portalled back in). Occasionally spawns a zombie bike also. 
+
+• Meteor shower - Summons a meteor shower at your current location. The shower starts off relatively weak but eventually reaches an intensity that will kill anyone, marine or zombie caught within it (and severely weaken walls and turrets). Meteor showers have greater horizontal area than vertical area, and you should observe some to ensure you can guess its area of effect. Use this to weaken walls and turrets, but try not to position it so that it owns the zombies, and not the marines. 
+
+• Call of the Dead - Currently the ultimate zombie item. Only Kings and Queens may get this. Summons approximately 1/4th the horde to your location. Do it around a marine base to organize your troops, or inside a marine base to cause severe havok. 
+
+
+What should I spend my xp on? 
+------------------------------------------------------------------ 
+Most people don't spend that much xp on zombies at first, and this is okay, but there are some very useful attributes that can be had. Here's a list of some, in no particular order. 
+-Thievery: Allows you to jack non-improved turrets or howitzers. Jack non-improved turrets to annoy marines in their own base, and jack a howitzer that's within range of a marine base to ruin its day. 
+-Mine layer: Allows you to lay bullet mines. Can really ruin a marine's escape plan if you lay it on a chokepoint right before a base gets overrun with zombies. You might also hide it on a door or other choke point and hope the marine who runs onto it is weak enough to die. 
+-Adept Zombie reduces the chances of spawning as the two weakest zombies, the calnad or whirlwind zombies. Your chances are increased for everythig else. 
+
+Wraith - Increases wraith hp, the number of crystals you have as a wraith (meaning you can use the wraith talents listed below more often), and your chances of spawning as a wraith. 
+
+The Path of Royalty: 
+Adept Zombie 
+Paternal 
+Royal 
+King Zombie 
+
+-Detachable Head and Keen motorist are really just for laughs. Most of the time, Detachable Head just makes you die twice to marines within the course of a few seconds. However, there have been one or two times when my detatched head did strike the killing shank on someone whom I had not quite been able to kill. Needless to say, this is pretty funny. The Keen motorist has a useful passenger seat with a flesh bomb, but it is very hard to control. 
+
+-DO NOT GET Professional Zombie UNLESS you would like this account to play zombie (and only zombie) every game - you will no longer be a marine. This skill is unreversible. 
+
+What are the classes and what are the differences? 
+---------------------------------------------------------------------------------------------------------- 
+
+There are 9 different zombie in ZZ. They are: the Calnad Zombie, Assassin Zombie, Flesh (Bomb) Zombie, Alien (Whirlwind) Zombie, Devourer Zombie, Wraith Zombie, Portal Spawn, Queen Zombie, and the King Zombie. You randomly spawn as one of these zombies everytime you die, but whenever you unspec you spawn as a Calnad zombie (which is pretty weak). Here are some general points: 
+
+• Zombies have no energy (so they take full damage from all weapons) but have high hit points. 
+• Most zombies have "ambush", which temporarily cloaks you. It's very useful for sneaking up on marines, to make an escape, or to surprise the marine by suicidng on a marine standing on mines. 
+• All zombie classes can kill, although it helps severely to have a few teammates ganging up on someone. 
+• Every marine's lifeline is his energy. So long as their energy is high, your claws won't do much damage. But, if you manage to beat down their energy, they will start to take serious damage even from the weakest clawing. So, try to concentrate your fire on the person who you think has been beaten down the most. Scale bomb does severe energy damage. 
+• The weakest marine classes (in order of increasing strength) are probably the engineer, chemist, squad leader, and heavy (although, because of heavies' incin, you probably do not want to take them down with claws if you are alone). The normal marine is very tough, and much harder to kill. You probably want to take down the engineer or SL first, because doing so cripples a marine team. 
+
+The usage of Ambush: 
+Ambush allows you to get in close undetected. A marine who is winning against a single zombie will easily find himself panicking when another zombie or two de-ambushes (de-cloaks) in front of them and starts attacking. Also, use Ambush when you're low on hp. If you're lucky, the marine will start shooting another zombie, and by the time you de-ambush you can go onto them once again without them concentrating fire on you. Finally, one of the best ways to kill a marine is by making one of his own mines explode on him - you can do this while running over the mine while he is standing on it. Ambush significantly increases the probability of you succeeding, as they will not know you are there until it is too late. 
+
+
+Zombie Classes broken down 
+----------------------------------------------------- 
+Calnad Zombie 
+This class is considered one of the weakest in the game, but it's not useless. The "Calnad Rifle" IS useless, don't ever use it. What is useful is the Ambush/Claw combo. Your claws do decent damage, especially if you concentrate fire on a low-energy marine. If you go in strafing like crazy, you might also be able to avoid a lot of their rifle shots. The Calnad Zombie is good with the Ambush strategies I suggested above, and especially good at killing marines by suicide mining people who are standing on it. 
+
+
+Assassin Zombie 
+Though relatively weak, the assassin is good for annoying. It has an Assassin Teleport, which allows you to teleport to anyone, marine or zombie, in the arena. Once there, you are temporarily cloaked and should proceed to try to kill them with your claws. 
+
+Note that, because the Assassin is so weak, you should go after the weak and essential targets as listed above (Engy and SL). You may also go after people in manned turrets, as each swipe against a turret brings its hit points down significantly. Since it is near-impossible for a marine to repair a turret, those shots will not have been wasted. 
+
+If you have Call of the Dead, you can wreak havok by attaching to someone in the middle of a base and using it. 
+
+
+Flesh (Bomb) Zombie 
+This is a very useful class, especially if you can aim grenades. It has an Ambush, Claw, and Flesh Bomb - basically a zombie grenade. It has more hit points than a Calnad Zombie, and you may use the same Ambush and Claw tactics with it, but the Flesh Bomb is a powerful weapon, and not to be underestimated. A few flesh bombs will make a huge dent in a marine's hit points, especially if they are also being attacked by other zombies. 
+
+You should try to attack marines who are concentrating fire on other zombies (they will usually fire at melee attackers first, so stay back and lob those flesh bombs). 
+
+In 1v1 duels, you will want to use the flesh bomb as much as possible. Keep your distance at the ideal distance for using flesh bombs, and run off and turn around if they try to get closer. If they do catch up to you, you may have no choice but to use claw and ambush. 
+
+The Flesh Bomb is extremely applicable against bases. The Flesh Zombie is one of the few who can stand at some point where marines cannot shoot him and make a dent in the base using the flesh bomb. Another useful tactic is to flesh bomb marine bases through walls. Stand next to the wall and fire the bomb, and the blast damage will do damage to everything within about one corpse length of the detonation. This is mostly useful against manned turrets, as their hp doesn't regen. It is also useful against marines as a shock tactic. 
+
+Note the flesh bomb can also pass over tall walls if you're close enough to them. Finding spots where you can throw flesh bombs over walls into a marine base has always been a favorite pasttime. 
+
+Here is an example of how to flesh lame a base: 
+ 
+
+Alien (Whirlwind) Zombie 
+
+Not much to say about this zombie. It only has (Rapid) Claw and Whirlwind. Whirlwind is good if you can repeatedly shoot it into bases to annoy (and if it hits manned turrets, it eventually will kill them), but for close combat your (rapid) claw should be used. The Alien Zombie is weak, but its rapid claw makes it a severe damage dealer. Try to use it on marines who are shooting other zombies, so that you may deal the damage that befits you. 
+
+
+Devourer 
+It has ambush and a relatively weak attack, called devour. Use it like you would a calnad zombie. The devour attack is special in that it also "devours" marine corpses, exploding them so that they cannot be resurrected. You can prevent a marine's army from getting any bigger by devouring any corpses you see. You also get experience for devouring corpses. 
+
+Wraith Zombie 
+"WRAITH AWAITING LAUNCH ORDERS!" 
+This is one of the really scary zombies. Wraith's main weapon is a (rapid) claw, but it also has the Phase and Summon attributes. Phase resets the wraith's hp and allows it to pass through walls. Use phase if you are about to die to get an instant heal. One tactic is to phase directly into the core of a marine base and repeatedly attack their turrets, and then phase everytime you're about to die, though this takes practice. Call of the dead can also be used here. 
+
+Wraiths cannot use bullet mines. 
+
+The "Wrath" attribute severely improves the wraith. 
+
+Portal Spawn 
+Relatively weak but really fast, this zombie is armed with a (rapid) claw and fireball (similar to a flesh bomb). The fireball is definitely the weapon of choice here, although the rapid claw also deals severe damage when close by. Because of its speed, the portal spawn can lob its fireball over more obstacles than any other zombie. If it gets a running start, it can lob over some walls the Flesh or King/Queen could not even hope to bomb over. Because you are usually spawned from a portal, you will almost certainly see action almost immediately after your birth. 
+
+
+Queen Zombie 
+
+Armed with a claw and a scale bomb (pretty much a flesh bomb which does more energy drain), the queen is pretty much like a flesh zombie, except that it also has a supar 800 hp. It can tank a lot, and stands a chance against a marine 1v1 (depending on relative skill levels). Use convert against chemist labs to turn them into marine factories. The Queen or King can collect marine and zombie parts to create portals or meteor showers in these converted labs. 
+
+Paternal gives you an increased chance to spawn as a queen. 
+
+King Zombie 
+
+Basically a Queen with a whooping 1100 hp. These guys tank so much, they stand a real chance against a marine 1v1 (but again, depends on relative skill levels). 
+
+Royal makes you spawn as King instead of Queen, and may also improve your chances of spawning as one further. 
+
+
+General Techniques in Killing Marines 
+Before you even do anything else, the first thing you should do is steal the marine items!. Many items, such as resurrection/preservation kit and call supply drop can be stolen, and even though you cannot use them as a zombie, leaving fewer for the marines can only be to your advantage. (Thanks to Icarus for pointing this out.) Unfortunately, ammo, medikits, turret kits, and class kits cannot be stolen. 
+
+Now we enter the early game. Some bases you can tell almost immediately are very powerful. You want a lot of zombies to go after those - and this means a relatively large Zombie Horde. Hence, you should always go after weaker bases first, to get more people into the Horde. Weaker bases are those teams with few people or a crappy engy or whatever. If you have summon or portal, you can immediately call in a few reinforcements, and you should relay the base location to your fellow teammates. 
+
+In the meantime, you might also be harassing those bigger bases by stealing turrets, laying bullet mines on their exits, bombing their weak points, running over mines when a marine is standing on top of them or whatever. But concentrate your power against the weak bases first. Getting more marines into the Horde is the first step to victory. 
+
+Once these small bases have been destroyed, you'll now concentrate on the large and tough ones. The ideal scenario, of course, is of every zombie attacking a single base and eliminating each one one at a time, doing away at the weakest bases first then progressing to the larger ones, but this hardly happens. Because the Horde is usually somewhat spread out, you'll have to play it smart, at least until your reinforcements arrive. Use the individual techniques I listed above for each class. Portal spawn, summon, or call of the dead whenever you can. Use meteor shower to beat down walls. If you see a howitzer that can severely damage a marine base (and have thievery), get in, and shoot the heck out of the base. IMO howitzers are more for the zombies' benefit than anyone else's. 
+
+If the marines are manning turrets (and especially if they are being severely attacked) and you are in a position to meteor shower these turrets, do so! The rines are faced with the choice of leaving the turrets temporarily and facing the attacking horde on foot, or losing their turrets entirely. Marines are almost always less effective on foot, because they have to worry about their energy and health, even though their guns may be stronger. 
+
+If you know the base you are attacking is the weakest, you should reiterate that to your fellow zombies. Usually they're more organized than they appear. 
+
+Even with a significant number of attackers, it may actually take two life cycles to destroy a base - perhaps more if you're unlucky. The first time, the manned turrets and a significant portion of the mechanical stuff usually gets destroyed. The second time, the marines hopefully also die or get cloaked by their SL and run off. Don't forget to mine the chokepoints at the exits so that at least one runner is going to have to take the heat, even if you cannot see them. Also, keep clawing and flesh bombing randomly. Quite often, you will hit a cloaked marine and they will die on you. 
+
+Don't forget to, if you're a Queen or King, collect marine and zombie parts and use them in marine factories to make meteors and portals. 
+
+
+
+Memorable plays 
+
+Here, I'll describe some plays I've seen which really stuck in my mind. Feel free to submit some of your own, though give it to n0b if it's a marine play. Names won't be given without permission. More will be added as I see/think of them. 
+
+To sever a marine from his base 
+A marine's base is his lifeline, and this play pretty much proved it. In the early-mid game, a moderate sized Horde was facing what was probably the strongest team in the arena (6 people, fully upgraded level 4s, experienced players). Normally, we wouldn't even think of seriously attacking them until late game, so they got a little overconfident: just about all of them were outside, defending the perimeter of their base. 
+
+A wraith made it into the heart of their base (C6) and summoned a couple of us, including me. The marine team was currently fighting off a small group of zombies, nothing too threatening. We rushed out to attack their flank. They saw red dots and turned around just in time to be met by a Call of the Dead from one of the summoned zombies, between them and their base. Exposed and unable to get back to base, they were picked off by somewhat superior numbers, and a major threat was dealt with even before mid game. 
+
+(Submitted by Icarus) 
+Something similar happened when a marine team in B7 decided to set up a forward attack post, from which they could retreat back to the main base if things got too messy. Upon retreating, they found the main base swarming with zombies (thanks to wraith summons and call of the dead) and that was pretty much the end for them. 
+
+
+Unpimpiest plays 
+
+The Suicidal Meteor Shower 
+Oh, this has to be the most infamous play, and we see it all the time: someone uses a meteor shower, and half the horde runs into it and gets killed before they even reach the marines. Possibly the most memorable one, though, was in the pre-nerf G7 base. Someone had meteor showered the main entrance in order to kill some walls, and it literally killed the entire attacking wave. Just try not to get yourself meteored in general. You can run into it up to a few seconds after it's summoned, but after that you should wait until it dies out. 
+
+To be continued...... 
+PS: I will add some more pictures if wanted. I will finish up heavy weapons and regular marine guide, add a Tips part, and add an advanced strategy part. I will also add a bit more to help the total n00bs understand how the level system works. 
+
+_________________

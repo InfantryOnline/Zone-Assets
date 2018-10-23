@@ -1,0 +1,53 @@
+~BINFANTRY CTF ZONE NEWS~B
+~BTwin Peaks~B
+~BCalisto Crossfire~B
+~BKliest's Ridge~B
+~BHeinrich's Point~B
+
+
+
+CTF v1.1
+
+As promised the rankings I have so far:
+
+Trooper		       5000
+Veteran Trooper 	15000
+Squad Leader 	    25000
+Corporal		      50000
+Elite Corporal	     75000
+Sergeant               100000
+Elite Sergeant 	   150000
+SubLieutenant 	   200000
+Lieutenant	         265000
+SubCommander	   350000
+Commander	       400000
+Elite Commander 	 450000
+Captain 		       525000
+Elite Captain 	      600000
+
+Voice Macro Sounds
+Bong #        says:
+22	Acknowledged
+23	Affirmative
+24	Attacking
+25	Defending
+26	Enemy Sighted
+27	Request Summon
+28     Under Attack
+
+Macro syntax (for you newbies) is //your message here %<bong number>
+					Ie  //I am under attack! %28
+
+You can only change classes while in Spec mode.
+
+Reimplemented selling.  You can sell a lot of items for 50% value.  The caveat being that anything you can sold can not be dropped. :)
+
+
+~B EXPERT CTF~B!!
+
+Just like normal CTF, with the caveat that you get 3 deaths per game.  Lose em all, and you are put into spec mode till next game.
+
+Just like the name says, only expert players need apply.
+
+Yankee
+

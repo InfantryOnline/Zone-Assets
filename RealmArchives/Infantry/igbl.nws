@@ -1,0 +1,11 @@
+~B~1GravBall League~2~B
+
+This zone is for the Infantry GravBall League (IGBL).  You are welcome to spectate games in progress, but only league members will be permitted to enter the game.
+
+For more information on the IGBL, please visit ~Bgravball.nmebase.com/igbl~B.  To read the league-rules or view past champions, press F1.
+
+~BFriday, May 11, 2001~B
+	- increased packet routing distance.  This will effectively make people appear on radar from further away; however, it will also increase the amount of traffic.  This is probably fine since games will tend to have so few participants, but to make sure, I have set a stricter max-playing cap on the zone.
+
+~BThursday, May 10, 2001~B
+	- Zone started up for next season.  Using currently live DvS map (soccer3b.lvl).  Although the floor-markings still show two-point terrain, all goals are worth only 1 point.

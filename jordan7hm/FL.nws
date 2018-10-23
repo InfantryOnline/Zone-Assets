@@ -1,0 +1,545 @@
+~B~1-Frontlines Documentation Report-~B
+~2FL is a player developed zone. It is a realistic zone with little armor, no shields, and high speed bullets. The objective is to capture the flags for a set amount of time.
+
+
+~4~BZone Devs:~B~2
+n0b kilza
+Nirvana06'
+Chronologix
+
+
+~4~BUpdates:~B
+-------------------------------------------------------------------------------------------------
+
+
+~4~B-April 3rd, 2008:-~B~2
+
+  - Switched to ForceFire map.
+
+  - Added descriptons for classes. 
+
+  - Fixed some typos in rpg list.
+
+~4~B-March 30th, 2008:-~B~2
+
+  - Renamed Match Teams to "A" and "B"
+
+  - Disabled West and East Spawns to Village. North and South Spawns are avaiable....but are blocked off. Village Flag will not appear now.
+
+  - Added safe zones to Village for matches.
+
+  - Fixed several vision and physics bugs in village.
+
+  - 100 cash/xp/points per kill now.
+
+  - Rewards for flags implemented...it depends on how many people are play :P
+
+  - Raised end game xp rewards a bit.
+
+  - Added flag rewards to all maps.
+
+  - Nerfed Leet Spec Ops guns a bit.
+
+~4~B-March 27th, 2008:-~B~2
+  
+  - Match teams added.
+  
+  - Spawns and Respawns added to match teams as well.
+
+  - Referee team added too. 
+
+
+~4~B-March 13th, 2008:-~B~2
+
+  - Gave all classes innate armor. They used to all have armor before, but now its easier to tell who has which armor.
+
+  - Fixed bugs with people hopping over green physics and shooting over orange. 
+
+  - Switched to JungleMX.
+
+~4~B-Febuary 27th, 2008:-~B~2
+
+  - Added mechs to Battleaxe. 2 types will be spawned @ each base at the start of the game.
+
+  - Lowered speed difference between Basic/Vet/Leet classes.
+
+  - Gave commander classes a small difference in speed and armor for each level.
+
+  - Renamed several vechs in .veh file.
+
+
+~B~4-Febuary 26th, 2008:-~B~2
+
+  - Changed some of the bongs around.
+
+  - Added periodic awards to flag captures.
+
+  - There must be 4 unspecced players to start game.
+
+  - Upped starting bty from 0 to 10.
+
+  - Lowered inactivity timeout to 500 seconds. You will be specced if not moving now.
+
+  - Manual team switching is now disabled.
+
+  - Invis bullets are now visable :)
+
+  - Pistols are much weaker. They are secondary guns and shouldnt be too strong.
+
+
+~B~4-Febuary 12th, 2008:-~B~2
+
+  - Updated Battleaxe's physics and vision.
+
+  - Updated JungleMX's physics/vision/terrain. There are 3 versions of this map. MX1 lio has warps underground + Village flag. MX2 lio has no warps underground/village + 4 flags. MX3 lio only has 3 flags and no underground/village spawn.
+
+  - Updated ForceFire's physics and vision. Also fixed the water.
+
+  - Updated BeachHead's physics and vision. There are 2 versions of this map, one with mechs and another without.
+
+  - Updated Docked's physics and vision. Updated its bloody pool.
+
+  - Renamed FL files to make switching maps and lios faster.
+
+  - If there are any map bugs, please report them to www.freeinfantry.net/forums/   
+
+
+~B~4-Febuary 5th, 2008:-~B~2
+
+  - Beefed Basic Assault Gun with better rof and more damage.
+  
+  - Took out Anti-Tank Class.
+  
+  - Gave Assault Class rocket capability, reduced rocket clicp to 2 max, gave them incin nade, took out Cade kit.
+  
+  - Gave Support Class Cade kit and AP mines.
+  
+  - Raised ROF on all stand and fire MGs. 
+  
+  - Raised exp levels for all classes but basic (Commandment still @ 1mill). 
+  
+  - The higher level commander classes gain more hp and armor.
+  
+  - Gave Staff/Master Sarge Silenced USP pistol instead of 2nd rifle.
+  
+  - Damage on Remmington SG and Benelli M4 increased as well as ROF.
+  
+  - DOA-12 SG's pellet speed increased.
+  
+  - Damage of MK3A1 SG increased.
+  
+  - M-79 Grenade Launcher had ROF increase to match 6G-30.
+  
+  - Added version 1 and version 2 of leet sniper class.
+ 
+  - Basic classes run a bit slower, Vet classes run a tad faster, Vet classes run fastest.
+
+  - Fixed vision, physics, and other bugs on docked map.
+
+
+~B~4-November 3rd, 2007:-~B~2
+
+  - Map has been set to the Canyon Snow map.
+  
+  - Artillery added. One per team at each base.
+  
+  - Middle flag setup changed.
+
+
+~B~4-October 3rd, 2006:-~B~2
+
+  - Cleaned up in-game menu. Added full bong list at bottom of zone news.
+
+
+~B~4-August 26th, 2006:-~B~2
+
+  - Map changed back to Vietnam. 
+
+
+~B~4-March 8th:-~B~2
+
+  - Map has been changed to Beachhead
+
+  - Fixed a bug with Orange Physics that you could not throw grenades over them.
+
+  - Added Mammoths to each teams spawn, added 2 more Medium Tanks to map, added 3 more Humvees to map. Added 2 APCs to map.
+	- Map now includes:
+	- 2 Mammoth Tanks
+	- 2 APCs
+	- 4 Medium Tanks
+	- 7 Humvees
+	- So you better get your AT mines and AT troopers on the field!
+
+  - Changed vehicle properties of tanks to have slightly more armor.
+
+  - Vehicles no longer become destroyed in battle. They now become "Incapacitated" and can be recovered by an Engineer with a Repair Kit.
+
+  - Reduced flag count from 6 flags to 3 flags.
+
+  - Added "Base Defences" to the areas of each team's base where they can "safely" spawn.
+
+  - SPR re-fire delay was slightly decreased.
+
+  - Added new "Chrono Laser" automated turret (uses same weapon as Base Defence...AKA The Chrono Laser)
+
+  - Fixed a small physics error near the "Western Flank" barbed wire.
+
+
+~B~4-March 1st:-~B~2
+
+  - Map is complete - East Portion of the map is now open - Tunnel/Cave is also added to the map allowing teams to RE-ENTER their own base via the cave - Some physics and sandbags were removed from the Spawn areas in each base as well as the NE, SW and Eastern safe zones - "The Hill" has been changed to only have 2 entrances from either side of the hill instead of 4 - Changes were made to the NE forest that previously housed the "Communications" Flag, it now has a small pathway leading through it up to the NE base from the south end of the forest.
+
+  - Silenced Weapons are now invisible - Sniper classes are now given the Silenced USP in replacement to the M9 Baretta - the Basic Spec Ops now carries the M4A1 (Silenced) instead of the normal M4A1.
+
+  - The SPR was added to Commandant Weapons, it is not silenced, but does have no bullet trail.
+
+  - Assault classes are now able to build Barricades using a pre-set Barricade kit just like the Engineer Classes.
+
+  - 3 Flags have been reduced to 2 - One Western flag located in the Middle Hill - One Eastern Flag located near the large statue in the center of the village.
+
+NOTE: The NE and SW bases are one of the 2 ways you can access the East portion of the map, this is to make the old Crash Site and Communications Outpost not entirely useless and un-explorable. The Secondary path into the East area is the Tunnel/Cave.
+
+The bases will warp you into the safe zones when accessing the Helipads making that path much safer than the tunnel which gives you no protection from enemies after you spawn into the next area.
+
+
+~B~4-October 14th:-~B~2
+
+  - Ammo Crate Amount Increased to 8 Per Team
+
+  - Fixed a Bug The Prevented Teams From Creating Max Amount of Ammo Crates
+
+  - Support Weapons Are Now Stand And Fire
+
+  - Elite Assault V2 Now Uses 5.56mm Ammunition and Only Has a 30 Round Clip
+
+
+~B~4-October 11th:-~B~2
+
+  - Reduced The Amount of Clips You Are Able To Carry
+
+  - Reduced Sniper weapons Ammo Amount from 10 to 5 shots
+
+  - Increased Pistol Damage
+
+  - Slightly Increased Shotgun Damage
+
+  - Reverted To Old Jungle Map
+
+
+~B~4-October 1st:-~B~2
+
+  - Fixed B4 Physics near SW base
+
+  - Added Ladders to the side of the C2 Mountain
+
+  - Changed Trees and Exits of United Offensive Area
+
+  - Changed Easters Map Considerably
+
+  - Added 40mm HEAT to Ammo Boxes
+
+  - Altered North Exit of UO Base Slightly
+
+  - Added HP and Damage Taken To Ammo Boxes and Barricades
+
+  - Added Terrain Outside Exits To Prevent Turrets/Barricades
+
+  - Added Terrain Above Ladders To Prevent Turrets/Barricades
+
+  - Fixed Commandant Weapon Sounds
+
+
+~B~4-September 29th:-~B~2
+
+  - Added Ammo Crate Item
+
+  - Added Mortar To Ammo Crates
+
+  - Lowered Ammo Crate HP
+
+  - Lowered Barricade HP
+
+  - Updated Sounds and Damaged for Hummvee and Medium Tank
+
+  - Increased Damage and Blast Radius for Ammo Crate Explosions
+
+  - Increased Radius of Mortar Slightly
+
+  - Lowered Medium Tank Minimum range
+
+  - Turrets Now Use H - 5.56x45mm/7.62x39mm Ammo
+
+  - Added 2 Extra Bases For Exhibition Uses
+
+  - Added Objects and Extras To Map
+
+
+~B~4-September 24th:-~B~2
+
+  - Previous Updates included removing grenades from certain classes, Adding 2 new classes (Sergeant Major and Commandant)
+
+  - Reduced amounts of carryable clips (drop clips if you are over the limit) If anyone wants to complain about this change direct them to MEKON or any of the whiners on the forums that asked for it. :P
+
+
+~B~4-August 9th:-~B~2
+
+  - Barricades can no longer be built inside the areas between the 2 bunker walls surrounded both main bases
+
+  - Mountain physics have been updated
+
+
+~B~4-April 27th:-~B~2
+
+  - New Map: Concept, uses multi-level indoor areas, be careful of your surrounding and pay attention to what is above and what is below ground level.
+
+  - MG weapons no longer self-damage when the projectiles strike on a wall near you
+
+  - Snipers are now "Ender" or "Finisher" classes, they deal the final blow to already damaged foes or can be used to put foes into critical states.
+
+  - New Map Objectives: In case you are wondering about the objectives for the new map, they go as follows:
+
+	The Map is based off of a "hold and recover" gamestyle, the players team must take control of the control room located in the center of the map, and there they will have access to the control panels which can open or close the flag room doors, if an enemy takes control of the room while your team is heading to the flag room, they have the ability to close to door before you reach it and allow their team to approach the flag room safely before re-opening the door to allow access for their team.
+
+  - Vehicles have been removed yet again, thy may be returned if the appropriate time is found.
+
+  - Several other map and game fixes.
+
+
+~B~4-April 8th:-~B~2
+
+  - Removed the Frag Shrapnal from Grenade Launchers, they are primarily anti-vehicle weaponry now.
+
+  - Grenade Launchers now have an explosive property, the projectile has a very small radius  so it is difficult to use against humans, but it deals a great amount of exposive damage so hitting a vehicle will have a higher impact. Also the explosion fires off shrapnal similar to the frag grenade making it also usable for room clearing.
+
+  - Team Colors have been changed to:
+	-United Military: Dark Grey
+	-Opposing forces: White / Silver
+
+  - HE Grenades are grenades designed to damage vehicles, so using thm against human targets is almost useless unless the grenade is very close to the target.
+
+  - Frag grenades deal the majority of their damage from shrapnal rather than the concussion blast.
+
+  - Elite classes (except Sniper) have built in armor with 15% protection (better than Heavy Kevlar)
+
+
+~B~4-November 3rd:-~B~2
+
+  - Boosted Sniper speed
+
+  - Lowered weapon velocities
+
+  - SRAW trail now looks nicer
+
+  - SRAW now can hit barricades
+
+  - Sniper now has higher proximity radius
+
+  - Boosted Engineer's speed
+
+  - Created a vision wall for safe zone
+
+  - Changed light armor and guille suit to have slightly higher armor
+
+  - Fixed window in souther ship building
+
+  - Fixed minor vision bugs around the map (including windows)
+
+  - Slightly changed bullet trail, SRAW trail and Grenade Launcher Trail for better vision
+
+  - Fixed minor "False Information" in assault description
+
+  - Increased MP5 firerate slightly
+
+
+~B~4-October 30th:-~B~2
+
+  - Removed Scrammble
+
+  - Fixed minor terrain bug
+
+  - Altered "Bunker" again so now you can enter a small opening top and bottom
+
+  - Slightly increased SRAW radius
+
+  - Changed SRAW color and trail variation
+
+  - (Test) Scrammble Teams every 3rd round
+
+  - Claymore damage slightly increased
+
+  - Minor changes to bunker and orange physics
+
+
+~B~4-October 29th:-~B~2
+
+  - Fixing small LIO bug on "Hangar" map
+
+  - Fixed Physics on bunker, now grenades/explosives can be thrown into the bunker, but normal fire cannt enter.
+
+  - Boosted pistol damage
+
+  - Fixed Spec Ops Sniper Guille/Light armor bug
+
+  - Fixed some bugs/changes on new map "Hangar"
+
+  - Fixed a few map bugs relating to "HP reduction"
+
+  - Slightly Reduced Grenadier radius
+
+  - Slightly increased delay for Basic Grenadier Fire
+
+  - Spec Ops Sniper now has Guille Suit again
+
+
+~B~4-October 28th:-~B~2
+
+  - Altered "Bunker" to retain original physics
+
+  - Slightly changed some map colors/etc.
+
+  - Changed Barricade HP/Armor and Graphic
+
+  - Added a fire delay on Grenadier Weapons
+
+  - Fixed several map bugs
+
+  - Changed centre of map slightly
+
+  - Added "Suicides"
+
+
+~B~4-October 27th-:~B~2
+
+  - Currently Testing new Grenade and 203 variations
+
+  - Removed M203 from Assault class
+
+  - Added class "Grenadier"
+
+
+~B~4-October 27th-:~B~2
+
+  - (Test) Multi-color for unit suits
+
+  - Increased bounty radius for teammates
+
+  - Increased ammo count for multiple ammo types and equipment ammo
+
+  - Attepted fix of min range damage and multiple weapon velocities
+
+
+~B~4-October 26th-:~B~2
+
+  - Reverted Sniper Guille Suit to original
+
+  - Added Classes to Sub-categories
+
+  - Changed pistol shot color to white and support shot color to blue
+
+  - Changed the SPR from high rank sergeants to Shotguns
+
+
+~B~4-October 26th-:~B~2
+
+  - Fixed Sniper Guille Suit to act more like a "cloak"
+
+  - Changed amount of players needed for Flag Match to 4
+
+  - Increased Veteran Sniper damage
+
+
+~B~4-October 26th-:~B~2
+
+  - Fixed vision bugs on map
+
+  - Fixed few other minor map issues
+
+  - Changed Sniper Cloak and Damage (only "Sniper" Class)
+
+  - Removed Guille Suit from Spec Ops Sniper and Replaced with Light Armor
+
+  - Slightly Decreased M249 and PKM recoil
+
+  - Slighty Decreased Grenade radius
+
+  - Increased PKM firerate slightly
+
+  - Rifleman is now known as "Assault" and Field Tech is known as "Engineer"
+
+
+~B~4-October 25th-:~B~2
+
+  - Increased Grenade radius
+
+  - Slightly increased 203 damage
+
+  - Fixed a couple class problems where lower exp versions has the incorrect weapons
+
+
+~B~4-October 23rd-:~B~2
+
+  - Added new medic sound for healing
+
+  - Added Visual for "Claymores"
+
+  - Added Multiple new "bongs" for use in macros/messages
+
+
+~B~4-October 23rd-:~B~2
+
+  - Removed Switches from both teams doors so there is no way of return into the "safezone" and to replenish ammo the "Armories" must be used.
+
+  - Added new text messages to terrain types to better let you know where you are on the map, armories and safezones are now clearly marked of their uses in the text message.
+
+  - Altered Map to add "Armory" lettering to indicate the armory location when you see it
+
+  - Added misc items/objects to the United Offensive armory.
+
+  - Added Zone News
+
+  - Fixed "Flag Terrain" drop so they will no longer appear outside the fighting area.
+
+
+~B~4-October 22nd-:~B~2
+
+  - Added Armories to the far ends of each team's ship, these armories are NOT safezone's and are only used to purchase ammo and other supplies.
+
+  - Altered doorways for both teams so players will not be able to return through the "laser grid" and must use the armories at the ends of the ships to replenish ammo.
+
+
+
+~1~BBong List:
+~4ie: %18
+
+~2Bong # says:~B
+
+
+1= captured
+2= defend
+3= enemy
+4= medic
+5= move
+6= retreat
+7= reins
+8= gamestart
+9=
+10=
+11=
+12=
+13=
+14= eatshitanddie
+15= blowitoutyourass
+16= explosion
+17= fishing
+18= outofgum
+19= ripyourheadoff
+20= death
+21= life
+22= objective
+23= captured
+24= attacking
+25= Defending
+26= EnemySighted
+27= Summon
+28= underAttack
+29= promotion

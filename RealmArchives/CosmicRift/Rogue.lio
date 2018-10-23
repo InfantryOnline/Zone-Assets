@@ -1,0 +1,81 @@
+9,v23,2,"Planets - Jupiter",7824,5504,0,0,0,-3,    35,35,1,Planets,jupiter,0,0,0,0,0,0
+9,v23,31,"Planets - Mars",7408,10848,0,0,0,-3,    35,35,1,Planets,mars,0,0,0,0,-5,0
+9,v23,32,"LNebula2",12077,8726,0,0,0,-3,    30,30,1,BackgroundSprites,Lnebula2,0,0,0,0,-20,0
+9,v23,33,"Planets - Moon1",15376,5056,0,0,0,-3,    35,35,1,Planets,moon1,0,0,0,0,-2,0
+9,v23,34,"Planets - Moon0",8688,7168,0,0,0,-3,    40,40,1,Planets,moon0,0,0,0,0,-7,0
+4,v23,1,"Cold Harbor SpawnA",1936,1776,300,250,0,-3,  0,500,0,500,0, 2,0,""
+4,v23,5,"Northern CrossA",26176,2976,100,80,0,-3,  0,500,0,500,0, 2,1,""
+4,v23,6,"Northern CrossB",26176,3616,100,80,0,-3,  0,500,0,500,0, 2,1,""
+4,v23,7,"Northern CrossC",26496,3296,80,100,0,-3,  0,500,0,500,0, 2,1,""
+4,v23,8,"HyperBuoyWarp",0,0,250,250,10,-3,  0,500,0,500,10, 0,0,""
+8,v23,9,"ColdHarbor",1984,1744,1500,1500,0,-3,    4,-1,"Cold Harbor SpaceDock.  One of many Deep Space SpaceDocks, it is of Terran origin, but has long since become the home to both Grazi and Skithzar in addition to Terrans."
+7,v23,10,"ColdHarborDock",1719,1799,100,200,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+5,v23,11,"RefineryA",10752,624,0,0,0,-3,     1,0,0,0, 0,500,0,99999, 1,-1,-400, 0,0,,0,-1, 0,0
+5,v23,12,"RefineryB",29504,29776,0,0,0,-3,     1,0,0,0, 0,500,0,99999, 1,-1,-400, 0,0,,0,-1, 0,0
+5,v23,16,"Global Tellerium SpawnA",19280,10160,2000,2000,0,-3,     1,3000,6000,1, 0,500,0,99999, 1,100,2003, 1,0,,0,0, 350,15
+5,v23,26,"Global Tellerium SpawnC",4688,8160,2000,2000,0,-3,     1,4500,4500,1, 0,500,0,99999, 1,100,2003, 1,0,,0,-1, 350,15
+5,v23,27,"Global Krandazite SpawnA",13520,8768,8000,8000,0,-3,     1,4500,4500,1, 0,500,0,99999, 1,50,2005, 1,0,,0,0, 350,10
+5,v23,46,"MeteorShowerA",16064,13872,15000,15000,0,-3,     1,6000,6000,1, 0,500,500,99999, -1,3,-402, 0,0,Meteor Shower Detected!,0,9999, 0,0
+5,v23,47,"DeathOrbSpawn",0,0,2000,2000,4,-3,     0,48000,48000,1, 0,500,1000,99999, 2,1,-401, 0,0,Attention! A Null Death Orb has been detected! All pilots on alert!,0,9999, 0,0
+5,v23,48,"Pirate Base",0,0,2000,2000,6,-3,     0,48000,48000,1, 0,500,1000,99999, 1,1,-403, 0,0,Attention! A Pirate Base has been detected! All Pilots on Alert!,0,99999, 0,0
+5,v23,49,"TradingPostA",4448,20848,0,0,0,-3,     1,0,0,0, 0,500,0,99999, 1,-1,-404, 0,0,,0,-1, 0,0
+5,v23,50,"TradingPostB",28112,7616,0,0,0,-3,     1,0,0,0, 0,500,0,99999, 1,-1,-404, 0,0,,0,-1, 0,0
+5,v23,52,"KillStationSpawn",0,0,2000,2000,4,-3,     0,48000,48000,1, 0,500,1000,99999, 1,1,-405, 0,0,Attention! A Null Kill Station has been detected! All pilots on alert!,0,9999, 0,0
+8,v23,53,"NorthernCross",26160,3312,1500,1500,0,-3,    4,-1,"Northern Cross SpaceDock.  This is the first SpaceDock to occupy this sector and thus it is VERY old."
+5,v23,54,"Global Tellerium SpawnB",20736,20000,2000,2000,0,-3,     1,6000,3000,1, 0,500,0,99999, 1,100,2003, 1,0,,0,0, 350,15
+5,v23,55,"Global Tellerium SpawnD",22096,28112,2000,2000,0,-3,     1,3500,8500,1, 40,500,0,99999, 1,100,2003, 1,0,,0,0, 350,15
+4,v23,56,"RandomHyperJump",16576,14608,15000,15000,0,-3,  0,500,0,500,9, 0,0,""
+4,v23,57,"DeepSpaceWarpA",16832,15888,10000,10000,0,-3,  0,500,0,500,0, 1,0,""
+4,v23,58,"CassandraA",25888,21376,350,300,0,-3,  0,500,0,500,0, 2,2,""
+4,v23,61,"YankeeStationA",6896,27072,100,100,0,-3,  0,500,0,500,0, 2,3,""
+4,v23,62,"YankeeStationB",6640,27328,100,100,0,-3,  0,500,0,500,0, 2,3,""
+4,v23,63,"YankeeStationC",6896,27584,100,100,0,-3,  0,500,0,500,0, 2,3,""
+8,v23,64,"Yankee Station",6896,27328,1500,1500,0,-3,    4,-1,"Yankee Station SpaceDock. The newest SpaceDock to be built in this Sector, it has seen rapid growth in it's militia and has had quite an effect on pirate activity in the area."
+8,v23,65,"Cassandra Station",25872,21392,1500,1500,0,-3,    4,-1,"Cassandra Station. This is the largest of the SpaceDocks in the sector."
+8,v23,66,"Scorpius Nebula",16432,1888,2000,1000,0,-3,    5,-1,"Named for it's Scorpion like shape, this large group of gas clouds provides many a trader or pirate with a place to hide when the heat is on."
+5,v23,67,"RepairDockA",1808,3024,0,0,0,-3,     1,0,0,0, 0,500,0,99999, 1,-1,-407, 0,0,,0,0, 0,0
+5,v23,68,"RepairDockB",27616,1904,0,0,0,-3,     1,0,0,0, 0,500,0,99999, 1,-1,-407, 0,0,,0,1, 0,0
+5,v23,69,"RepairDockC",24432,23008,0,0,0,-3,     1,0,0,0, 0,500,0,99999, 1,-1,-407, 0,0,,0,2, 0,0
+5,v23,70,"RepairDockD",5040,26480,0,0,0,-3,     1,0,0,0, 0,500,0,99999, 1,-1,-407, 0,0,,0,3, 0,0
+7,v23,71,"Northern Cross DockA",25806,3294,20,140,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v23,72,"Northern Cross DockB",26558,3294,20,140,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v23,73,"Northern Cross DockC",26174,2926,120,20,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v23,74,"Northern Cross DockD",26174,3678,120,20,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v23,75,"Cassandra Dock",26254,21390,100,200,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v23,76,"YankeeDockA",7246,27342,20,140,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v23,77,"YankeeDockB",6558,27342,20,140,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v23,78,"YankeeDockC",6894,26990,140,20,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v23,79,"YankeeDockD",6894,27662,140,20,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+5,v23,80,"MeteorShowerB",16064,13872,15000,15000,0,-3,     1,6000,12000,1, 0,500,500,99999, -1,3,-402, 0,0,Meteor Shower Detected!,0,9999, 0,0
+5,v23,81,"Global Tellerium SpawnE",9248,9648,8000,8000,0,-3,     1,3000,6000,1, 60,500,0,99999, 1,100,2003, 1,0,,0,0, 350,15
+5,v23,82,"Global Tellerium SpawnF",19328,11312,8000,8000,0,-3,     1,1000,7500,1, 60,500,0,99999, 1,100,2003, 1,0,,0,0, 350,15
+5,v23,83,"MeteorShowerC",16064,13872,15000,15000,0,-3,     1,3000,6000,1, 0,500,500,99999, -1,3,-402, 0,0,Meteor Shower Detected!,0,9999, 0,0
+5,v23,84,"Global Krandazite SpawnB",14752,23056,8000,8000,0,-3,     1,3000,6000,1, 60,500,0,99999, 1,50,2005, 1,0,,0,0, 350,10
+5,v23,85,"Global Tellerium SpawnG",13936,14880,8000,8000,0,-3,     1,1500,7500,1, 80,500,0,99999, -1,-1,2003, 1,0,,4,-1, 350,15
+4,v23,3,"Northern CrossD",25856,3296,80,100,0,-3,  0,500,0,500,0, 2,1,""
+4,v23,4,"YankeeStationD",7152,27328,100,100,0,-3,  0,500,0,500,0, 2,3,""
+5,v23,13,"MeteorShowerD",16064,13872,15000,15000,0,-3,     1,3000,6000,1, 0,500,500,99999, -1,3,-402, 0,0,Meteor Shower Detected!,0,9999, 0,0
+5,v23,51,"RepairDockE",11712,8480,0,0,0,-3,     1,0,0,0, 0,500,0,99999, 1,-1,-407, 0,0,,0,-1, 0,0
+8,v23,59,"Marianas FreePort",13696,8768,1500,1500,0,-3,    4,-1,"Marianas Freeport.  This ecclectic collection of prefabricated structures is a known haven of Rogue Traders, Pirates and Bounty Hunters."
+7,v23,60,"MarianasDockA",13150,9038,20,180,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v23,86,"MarianasDockB",14238,8494,20,180,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v23,87,"MarianasDockC",13422,9854,180,20,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v23,88,"AmbientA",27006,20942,300,400,0,-3,    -1,1000,1,0,0,  0,500,-1,  GraziWeapons,GraziBigMine,0,0,0,0,0,0,SFAmbient,space_radio_lp,0,0
+7,v23,89,"AmbientB",26558,19438,300,400,0,-3,    -1,1000,1,0,0,  0,500,-1,  GraziWeapons,GraziBigMine,0,0,0,0,0,0,SFAmbient,ambience_lp,0,0
+5,v23,90,"ColdHarbourDefSatA",1504,3920,100,100,0,-3,     1,6000,6000,1, 0,500,0,99999, 1,-1,-410, 0,0,,0,0, 0,0
+5,v23,91,"ColdHarbourDefSatB",3920,640,100,100,0,-3,     1,6000,6000,1, 0,500,0,99999, 1,-1,-410, 0,0,,0,0, 0,0
+5,v23,92,"ColdHarbourDefSatC",3920,2944,100,100,0,-3,     1,6000,6000,1, 0,500,0,99999, 1,-1,-410, 0,0,,0,0, 0,0
+5,v23,93,"NorthernDefSatA",24544,3408,100,100,0,-3,     1,6000,6000,1, 0,500,0,99999, 1,-1,-410, 0,0,,0,1, 0,0
+5,v23,94,"NorthernDefSatB",25968,5088,100,100,0,-3,     1,6000,6000,1, 0,500,0,99999, 1,-1,-410, 0,0,,0,1, 0,0
+5,v23,95,"NorthernDefSatC",28080,2544,100,100,0,-3,     1,6000,6000,1, 0,500,0,99999, 1,-1,-410, 0,0,,0,1, 0,0
+5,v23,96,"CassandraDefSatA",26432,18496,100,100,0,-3,     1,6000,6000,1, 0,500,0,99999, 1,-1,-410, 0,0,,0,2, 0,0
+5,v23,97,"CassandraDefSatB",27984,22896,100,100,0,-3,     1,6000,6000,1, 0,500,0,99999, 1,-1,-410, 0,0,,0,2, 0,0
+5,v23,98,"CassandraDefSatC",22640,22896,100,100,0,-3,     1,6000,6000,1, 0,500,0,99999, 1,-1,-410, 0,0,,0,2, 0,0
+5,v23,99,"YankeeDefStatA",8960,27600,100,100,0,-3,     1,6000,6000,1, 0,500,0,99999, 1,-1,-410, 0,0,,0,3, 0,0
+5,v23,100,"YankeeDefStatB",4624,27600,100,100,0,-3,     1,6000,6000,1, 0,500,0,99999, 1,-1,-410, 0,0,,0,3, 0,0
+5,v23,101,"YankeeDefStatC",6944,24240,100,100,0,-3,     1,6000,6000,1, 0,500,0,99999, 1,-1,-410, 0,0,,0,3, 0,0
+5,v23,14,"Global Iron SpawnA",30816,16992,500,2000,0,-3,     1,3000,6000,1, 0,500,0,99999, 1,100,2019, 1,0,,0,0, 350,15
+5,v23,15,"Global Iron SpawnB",8976,14992,500,2000,0,-3,     1,3000,6000,1, 0,500,0,99999, 1,100,2019, 1,0,,0,0, 350,15
+5,v23,17,"Global Iron SpawnC",10992,30032,2000,500,0,-3,     1,3000,6000,1, 0,500,0,99999, 1,100,2019, 1,0,,0,0, 350,15
+5,v23,18,"Solar Mold Spawn",16512,17136,8000,8000,0,-3,     1,48000,48000,1, 0,500,1000,99999, 1,1,-409, 20,0,Solar Mold infestation reported!,0,9999, 0,0
+5,v23,19,"MoldSporeSpawn",0,0,500,500,20,-3,     0,1000,500,1, 0,500,0,99999, 20,20,-414, 0,0,,0,9999, 0,0

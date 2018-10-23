@@ -1,0 +1,895 @@
+
+
+~b~6 ONE VERY IMPORTANT NOTE TO PLAYERS~B
+
+Zone is up for good now.  Enjoy it.  Report bugs at www.freeinfantry.com.  Sorry for the crashes.
+
+- the dev crew
+
+
+~b~1WZA:UC FAQ~B~2
+
+
+~bWZA:Urban Combat is a brand new zone, that has influences in the older infantry zones, but has a lot of new aspects.  It can make certain aspects of the zone a little confusing at first even for experienced players.  This FAQ is intended to resolve those issues.~B
+
+~b~4-Do I need broadband to play?~b~2
+No.  This is Infantry :P.  However, this zone has very quick moving projectiles (guns shoot fast) and most of the characters and vehicles also move pretty quickly (especially compared to original WZA).  It is reccommended you have pretty high system specs and a fast connection to play this zone due to its graphical intensity and fast pace.
+
+~b~4- Whats up with the weight system?  I can cary 125kg?!~b~2
+Everyone can carry the same weight no matter what class.  Other than being common sense, it's an opportunity to directly influence player speed by how much crap they want to lug around, which feels a lot more realistic.  So a heavy weapons can run around with a machine gun at the same speed as an infantry can... so long as he isn't wearing any armor and doesn't carry much ammo.  Some classes, like the heavy weapons aren't really intended to run around at 25kg (which is the set 'max').  If your weight turns yellow, each added pound will reduce your overall speed by 1%.  You can also carry as much ammo as you like, and there are no restrictions on how much you do or don't carry.  This allows a lot more freedom in how you customize your character in game. 
+
+~b~4- What are Energy Cells?  What are rechargers?~b~2
+In short, energy weapons and equipment use energy cells instead of the typical suit energy like other zones.  They work like ammo, though they weigh nothing.  The max you can "carry" is 600.  Rechargers allow you to manually recover your auxilary energy supplies (Energy Cells).  The size (Light, Medium, Heavy) determines how many energy cells you get each time you hit the recharger key.  You don't have to have a recharger, they can be heavy so some classes may prefer to play without, energy cells are in the store under Ammo.
+
+~b~4- Where are the SSC's?  Where are the generators?~b~2
+No longer necessary.  Along with the new energy system there is a new armor/weapon system.
+
+~b~4- How does the armor/weapon system work?~b~2
+I'm not going into too much detail here, because this is where things get complex, but this may get some new and advanced players up to speed quickly on what is different:
+
+~b~4- Why can't I sell some stuff?~b~2
+Add ?sell %tickitem to your macro list.  If you do not find something in the store that you want to sell, click on the item and use this macro.
+
+~b~6Vehicles~b~2
+
+~b~4-How do I build them?~b~2
+First, buy a blueprint for the vehicle you want.  These are one time use and can be dropped...
+Second, you need an engineer to build the vehicle for you, which is where the blueprint dropping comes in ;)
+Third, you need to build the vehicle at a vehicle bay either at G2 or C4.  Try not to build it into the walls...
+
+
+~b~6Armor~b~2
+
+~b~4-Weight~b~2
+Heavy armor will slow you down.  Light armors are good for classes that need to be mobile.
+
+~b~4-Battery Capacity~b~2
+Determines protection vs energy drain.  The larger the capacity the better protection you get against an individual hit.
+
+~b~4-Energy Rate~b~2
+Determines the protection vs successive fire weapons (everything minus rocket launchers).
+
+~b~4-Ignore Damage~b~2
+Determines how much of each type of damage the armor ignores.  Only energy weapons do major electronic damage (plasma does minimal in comparison).  There is very little (although some) electronic ignore items, so its usually a surefire way to penetrate armor without having to use a gauss weapon.
+
+~b~4-Armor Addons~b~2
+You can have one of these at any given time alongside your normal armor.  It is highly recommended you have some sort of addon on you.
+
+
+~b~6Weapons~b~2
+
+(these are the only ones to take note of)
+
+~b~4-Weight~b~2
+Again, a heavy gun will slow your movement, so consider it when choosing your main weapon.
+
+~b~4-Ammo Per Shot~b~2
+Most items that use energy use more than one energy cell per time the item/weapon is fired.  This will tell you exactly how much.
+
+~b~4-Why the hell do all the guns shoot so fast?~b~2
+The point of the zone is for it to move at a much faster pace than original WZA.  This isn't FL or Skirmish speeds, you can still dodge and duel, but its much much faster than what you're probably used to.
+
+~b~4-How do I get rid of my upgraded weapons?~b~2
+Use the ?sell command inside the marketplace.  IE: ?sell Machine Gun with Harness
+
+~b~4-Jump? Kick? Sprint?  Is this a track simulator?~b~2
+No, use sprint to run away from grenades, shrapnel, and the detpack you just put down.
+Use jump to get over green physics.  You can jump onto yellow physics from there too.
+Use Kick to push somebody away.  It also jams their weapons for 0.8 seconds.
+
+~b~5Compiled by ryanbe~b~2 ~3& made pretty by STAS ;)~2
+
+---------------------------------------------------------
+
+
+~b~1Warzone Alpha: Urban Combat~2~B ~b~2Zone News~2~B
+
+
+~b~4Friday November 10th, 2006~2~B
+
+~bdz~b
+
+- Fixed the spawns.  Stop touching my .lio you newbie (STAS).
+
+~bStas~b
+- Lies! You didn't fix anything!
+- Messed with spawns again, made them better now :P
+- More bunker hugging work...
+
+
+~b~4Thursday November 9th, 2006~2~B
+
+~bStas~b
+- Still messing with spawns... back to Wednesday spawns minus A1, which is now at the big park.
+- Tried to fix the bunker hugging problem where MGs from bunker won't hit the hugger... have to test it with you laggers around though.
+- Recoilless Rifle lost its concussive effect.
+- Added another range finder for RR, both RF's weigh 1kg each.  This one does not shoot as far.  The number after RF is the angle at which the projectile is launched at.  Does not seem like much, but it has barely any gravity on it, which is why it travels so far.
+- Temporarily made BO not be able to cloak and run at the same time.  This will be differentiated far more later, so just try not to waste the energy cells as they will still both create the temporary item, but only the first one will be on.
+- Redid Armor Skirts, there are now a total of 3 types.  They aren't that great so I'll keep working on them...
+- RR reload is now 5 seconds instead of 4 seconds.
+- Multi Missile reload is now 8 seconds instead of 12 seconds.
+- CZ-F4 has a 1.2 second reload on the drum with an 8 second prefire... so it takes 8 seconds to reload it now.
+- CZ-F4 is now move and fire.
+- Reduced the muzzle velocity on the Hand Cannon and put its ROF back at 200ms.
+- SI-1 now has 100ms ROF
+- The TS pistols now do 11 instead of 10 damage.
+- Tanks should now be able to crush sandbags too.
+- Razorwire should be easier to crush also.
+- S4ND90 now does 12 instead of 11 damage.
+- CAW does 11 instead of 10 damage.
+- Shotgun/EMP pellets now do not have a negative angle on them, so you have the whole blast traveling the whole way...
+- Zlite Carbine now has a ROF of 100ms
+- Added a range finder for the RPG
+- Gave APC a weaker squish effect and upped its armor (people inside won't die as easily from rockets).
+
+
+~b~4Wednesday November 8th, 2006~2~B
+
+~bStas~b
+- Fixed the lame ass Rocket LAW bug
+- Ammo boxes now have higher ignores, but lost their % protections.  They have 100 hp instead of 40 now too.
+- Prices for all ammunition inside ammo boxes is now half of what it is at the store.
+- Sonic Charge now does less damage and less radius.  It will blow single walls in one shot, but not double ones.
+- Cunt Punter doesn't throw you half a sector away now.
+- Changed the PGa gfx to be more red.
+- Both boots no longer usable on boards/packs.
+- Strength implants no longer usable on boards/packs.
+- Added Money $1000.  It has wannabe gold icon color.
+- The two Skimmers now have better fire control systems (read: longer tickmarks).
+- Changed the shared experience radius to 2048 from 512 pixels.  You should now get exp from your autoguns on other side of base.
+- Changed AutoTurret exp share to 25% instead of 100% ... you'll be getting the exp at least :P
+- Tank Explosion now has a sound to it.
+- Sentry has lights and sounds now and is also availible from microbase.
+- Stim Packs now spawn at C3
+
+- Redid the class groupings and group names.
+- Vehicle hedgehogs should deploy faster now
+- Hedgehogs no longer affect friendlies, meaning it won't repulse the tank away when you deploy it on the run
+- Monoblade weighs 1kg instead of 4kg
+- Vibro Lance weighs 6kg now
+- Lance weighs 4kg now
+- Both lances have 1500ms reload instead of 1000ms
+- G-18 Machine Pistol now has 60ms between shots instead of 100ms.  Give it a try, it's like a mini-CAW... kills heavy combat in 5 full bursts.
+- SG-19 now has 800ms reload instead of 1000ms
+- SI-1 Kunai now has 120ms ROF
+- Redid the rifle section significantly.  3 full AR bursts will kill heavy combat armor now.  Takes 10 full bursts against carapace though.
+- Removed Sniper Rifles from Packs/Boards
+- Kevlite is now part of Combat armor series.  Same 60kj/s recharge and 3/2 kinetic/explosive ignore as opposed to previous 45kj/s and 4/0.
+- AutoGun MG back to 5 burst.
+- AutoGuns can no longer be stacked.  You can place one AutoGun 100 pixels apart.  10 max per team of any mix of types.
+- Limited RazorWire to 30/team.
+
+- SciOps get concussion grenade now.
+- UltraBlack now weighs 8kg and has 4/4 protection rather than 5/5 for kin/exp ignore.
+- Redid SMG7 and D90.
+- SMG7 HV now costs $5/shot, but 3 full bursts almost kill cara.  It has a new graphic too.
+- Plasma Pistol now has ROF of 200ms instead of 230ms
+- PGa no longer bounces and acts more like a normal GL.. for now..
+- PSMG has 2 electric instead of 1.
+- Aldous HandCannon has 250ms instead of 300ms ROF now.
+- SI-4 does more drain (all rounds).
+- Strength implants "lift" 16kg now to nullify the implants' 1kg weight.
+- EMP effect lasts 4.5s and 3.0s for EMP grenade and GL version instead of 6.0s and 4.5s respectively.
+- EMP shotgun rounds now should stun vehicles more reliably for 0.75 seconds (keep shooting to keep it EMP'd).
+
+- Brummbar/Plasma Bunker now have dual lasers instead of a single MG.
+- Redid the spawns until the end of the week.  Watch out when walking back to ds as when you walk into middle one you won't end up inside ds ;P
+- Okay, BO decloaks for 1 second :P  Lost guns and grenades though.  Going to add thrown weapons in two weeks or may be the weekend if you're lucky ;P
+- More spawn adjustments... If you jump into one of the old outside DS spawns you can still get instant action as those spawn areas tend to be small and concentrated.
+- Redid some weights in armor addon section after some damage calculations.  0.5 ignore is not as weak as it seems (cara+plating=beast).  I added descriptions that hint at what type of armor the addon is best with.
+- Cyberdeck++ has a resale price now and takes 5 seconds to hack something instead of 1.
+- Shockwaves do same outer damage as inner now... so if you get hit, sucks for you :P
+- Shotgun pellets no longer hit the ground so fast.
+- Added Armor Skirts (Heavy)
+- Redid Cyberdeck.  You can now hack from a distance, but the projectile is invisible, slow, and has a 3 second lifetime.  Snipe the turrets, but make sure your way to it is free, because that's the only way the hack will work.
+- Gave SHEL to SLs only and upped its sell price.
+- Gave SMG7 HV rounds 0.5 bypass instead of 0.2, so a full burst of HV is like a gauss round, 3 bypass.
+- Monoblade and UV-9 don't resell for 100% anymore
+
+
+
+~bNOTE~b I may have overdone some stuff... sooo, you are the test subjects, go die in the name of science.
+
+
+~b~4Friday November 3rd, 2006~2~B
+- Fixed the OSM for real this time.  If you hold down the key while its engaged, your armor's energy and the armor of team mates within 400 pixels will all take damage at full energy (meaning it is constantly being repaired, so it doesn't reduce your energy after the first time ur hit, small arms fire and spam weapons will all do minimal to no damage), so everyone will live a shitload longer.  Get a team of 2 SLs with OSMs, 2 Meds and 4 or so infs, a hvy and a demo or two, and you should be able to bty on foot.  (Everyone should get hedgehog grenades also for repulsing RRs that will kill your whole team in one blast - Stas)
+
+~b~4Thursday November 2nd, 2006~2~B
+
+~bryan~b
+- I dunno where all the ranks went, but I put them back in.
+- Pulled the Gas Grenades from the Explosive Box.
+
+~bStas~b
+- SL summon now works anywhere, everywhere and in anything even while running.
+- Power Fists redone completely.  Only one damage type, reload time is 3 seconds and weapon switch time is 800ms.  Pfist does 20-30 and MPfist does 20-40 damage against heavy combat armor.
+- Melee proximity and blast area now half of prior values.  It should be possible to dodge melee now, but it may do less outer hits, so you will be hurting more if you can't dodge it.
+
+
+~b~4Wednesday November 1st, 2006~2~B
+
+~bryan~b
+- Fixed the SL summon.  I'll stick to actually testing my updates from now on.
+
+~bStas~b
+- Beam Cannon Beam got a boost to packet routing range as it was just a bit short before.
+- Rocket LAW bug fixed.
+- Gas grenades are out for now.  BioChem stuff needs a lot of work.  This was just a concept test.
+- SAW now drains 16 instead of 17.  Bunker SAW has same muzzle velocity as EB version.
+- Nanocomposite armor has 3 ignore on kinetic instead of 4.
+- Carapace weighs 30kg now (original weight, the 22kg was an accidental carry over)
+- Partial Carapace weighs 22kg (like the old carapace)
+- Micro carapace still weighs 14kg and was redone to match the other two.
+- Knives weigh 0.1 and 0.2 for Combat and Vibro respectively.
+- Redid Power and Chain weapons.  No more tank hunting and bunker busting.
+- CZ-F4 Grenade Drum reloads in 6 instead of 9 seconds now.
+
+
+~b~4Tuesday October 31st, 2006~2~B
+
+~bryan~b
+- SL can now summon from within vehicles and bunkers.  Hopefully this will make basing easier and encourge people to actually use a teleport summoner.
+
+~bStas~b
+- PRs bounce off walls more now.
+- Skeeter uses 6 cells/shot instead of 10
+- PAR4 uses 5 cells/shot instead of 10
+- Fixed the sandbag vehicle overload.  Before each sandbag was made of 2 vehicles and each sandbag x2 was made of 3.  Now it's 1 and 2 respectively.  Instead of using the vehicle file to fix the graphical offset, I changed the graphic itself.
+- Should have fixed most of the grenadelnch2.blo bugs during server launch.
+- AR247 Rifle Grenades were slightly retouched.
+- Removed inactive time from shrapnel.  If you get hit with a grenade to the face, you deserve to die :P  Hedgehog ftw
+- Redid debris trigger, should be more consistent now.
+- Added some new gfx that I will use a bit later for a couple new things.
+- Added dual EM-4 to Astraea.
+- Beam Cannon now has triple lifetime.  You should be able to fire it from one side of the map to the other.  Doing this for shits and giggles to see how it plays out with road sniping and all.
+- Skill logic on bunkers has been removed, meaning you can switch b/w positions while inside.
+- Added a small proximity to the PAR4 PGa projectile and made it cost 60 per shot.
+- Royally nerfed SAW muzzle velocity.  EB is now same muzzle velocity as what it was before without the EB.  Bunker SAW is only a tad slower.
+- Redid weights in plasma and energy section.
+- Ry-Tek SMG7 HV now does 0.2 bypass damage.  A full burst has 1 bypass total.  Not much, but hey ;P
+- SMG reload and weapon switch time is the same.  Bitch at me if that is bad, but test it first :P
+- Zlite Carbine now accessible to Infantry and Engineer too.
+- GR2 has new description and takes 100ms more to reload.  I think you now technically can fire off 1 round every 1.5s
+- GR1 now has a 6 round clip and reloads 100ms faster.  Overall ROF is 1 round per second.
+- Stand and fire weapons should no longer pretend to be fireable out of APC Passenger ports.  This will prevent ammo wasting.  Harnesses can shoot out though.
+- Warp Invincibility back down to 1 second.  Learn to attach, especially now that you can right out of DS.
+- Hopefully fixed the weird gas grenade bug
+- Walls/Gates/Sandbags/Wire now have a 3 hour expire timer on them.  This could help prevent server crashes...
+
+
+~b~4Monday October 30th, 2006~2~B
+
+~bStas~b
+- Nerfed gas grenade and added a gas mask to armor addons.
+- Removed Sonic Trigger from store... oops
+- DetPack and Sonic Charge now have an icon for when you drop it.
+- Shuttle passenger positions now have 128 pixel barrel so you can shoot stuff out of it.
+- K, fixed gas grenade so it spreads still... I put too much friction on the clouds
+- Gas mask ignores 2 instead of 1 psionic now.
+- PAR4 now has less reload
+- PAR4 and Skeeter both do 15 kinetic damage now and have a higher muzzle velocity
+- Hopefully fixed the detpack in DS problem alongside anything else in there...
+- ...Market recall has 3.5s no shoot time on it, so you should teleport before you can begin placing something down
+- Flash railgun now drains 25 instead of 15 and does 7 instead of 6 bypass.
+- PillBox crew positions now have SAW also.  So it's 4 SAWs in a bunker.
+- Turns out that the protections on bikes and buggies were 5% rather than 50% on kinetic and eletronic for both... so I fixed that.
+- Hedgehog array fires 3 times now, but only 2 grenades at a time.
+- Ammo Boxes now charge you ~2/3 of the price of the ammo in the store.  I had to change some handout amounts due to that though.
+- Micro cara protects 8 vs explosive now instead of 5
+
+
+~b~4Sunday October 29th, 2006~2~B
+
+~bdz~b
+- Fixed the tunnel teleport.
+- Made the tunnel wider.
+- Made the DS bigger.
+- Added safety under the external DS teleports.
+
+~bryan~b
+- fixed ammo boxes.
+- you can teleport, recharge, and build small vehicles in the market now.
+- team sizes are now 12 public, 10 private.
+
+~bStas~b
+- MedAid heals 20 in 10 secs now instead of 15 over 15 secs.
+- Removed Dual Chainfist for now
+- Laser overload has prefire time and sound now, does more kinetic damage and less drain, so it's better at anti tank.
+- Skeeter has a 5-round burst now instead of 4
+- G-Labs PAR4 PGa now does more damage
+- G-Labs PAR4 weighs 8kg now
+- Vibro Knife now actually uses energy cells
+- You can buy a stim pack for $1000 now
+- Medics can now use vibro knife
+- Cyberdeck++ now takes turrets over in 64 pixel radius instead of 20
+- RR weighs more
+- Multi Missile weighs less
+- AutoGun MG now shoots 10 rounds
+- Added Sonic Charge for wall busting.
+- Explosives boxes now explode better
+- Added graphics to dethed concrete walls and gates
+- Shuttle can only be used by staff now :D
+- Cyberdeck uses less energy cells (100 vs 300)
+
+
+~b~4Saturday October 28th, 2006~2~B
+
+~bdz~b
+- Added sewers.
+- Spread out vehicle bays.
+- Added new vehicle bay.
+- Broke some buildings.
+- Vision to all trees.
+- Changed rock vision / physics.
+- Changed vision on the cliffs.
+- Changed the spawn areas.
+- I forget what else I fixed / changed.  Just find out on your own :)
+
+~bryan~b
+- Did the ammo boxes
+
+~bStas~b
+- Random shit... will update later
+- More work on ammo boxes, gfx, explosions are in
+- More work on sentry
+- Laser Overload added
+- Fixed the cloak for everybody...
+- Money can be bought at store to be traded between players outside the DS after they reach 10k exp.
+
+
+~b~4Friday October 27th, 2006~2~B
+
+~bStas~b
+- Got drunk
+
+~bdz~b
+- Me too
+
+~bryan~b
+- Ryan did too. (dz put this in)
+
+~b~4Thursday October 26th, 2006~2~B
+
+~bStas~b
+- AutoGun MG now shoots HMG instead of MG bullets.
+- Gates limited to 10 of each type per team.
+- Teleport summoner weighs less
+- AutoGun Sentry added.  It spots commandos, has TD and a siren.
+- Commandos no longer targeted by normal autoguns.
+
+
+~b~4Wednesday October 25th, 2006~2~B
+
+~bRyan~b
+- Added Plasma Rifle
+- Added Plasma Bomb
+
+~bStas~b
+- Added razorwire
+- Micro and Macrobases now have half hitpoints and 75% protection vs everything.  So they are tougher and easier to repair.
+- LAW drains 100 instead of 80 now.  Should hurt people inside tanks.
+- PL-1 energy drain is now 5
+- Tweaked the PR and PB
+- Completely redid micro carapace.
+
+
+~b~4Tuesday October 24th, 2006~2~B
+
+~bRyan~b
+
+- Added GooBoard, Jetboard
+- Added Gas Grenade
+- Added Laser Pistol
+- Added Ry-Tek ThrustBoot CP
+
+~bStas~b
+- Test dummy added (vehicle 131)
+- Added Beam Explosion 2, graphical test
+- Added Beam Cannon Beam 2 through 5, graphical tests
+- CAW a tad more accurate.
+- S4ND90 a tad fast velocity and bursts at 50ms instead of 60ms.
+- AFP beefed back up... took same amount of hits to kill heavy combat as normal MG
+- Heavies get LMG now
+- Accuracy on AFP adjusted
+- Juno Chaingun drains 16 instead of 15 now.
+- SAW back to 17 drain.  It uses ammo cannon, so good luck spraying it.
+- Ammo Gauss back to $15.  Get SI-4 with API if you want to have bypass.  It's cheaper, but weighs more.
+- Inactive times removed from everything in cannon/mg section.
+- Explosion push effects higher on some weapons now
+- Power Fist and Mega Power Fist now have the same outer damage.  Mega shouldn't one hit kill on outers anymore.
+- Vibro knife weighs 0.5kg now instead of 0.3kg
+- Non cutting (no gash effect) melee weapons now have some push or pull effects and weapon jam time.
+- Kick jams weapons for 1 second now and drains 50
+- Vibro Lance now weighs 4kg
+- DBS now drains 50, has higher blast radius and shoots once a second.  Also has sound.
+- Did different smoke for DP...
+- Redid vehicle speeds (hyperthrust and hyperbackthrust)
+- Teleport Summoner now teleports faster and cheaper and on the run.
+- Armor coating back to 4kg
+- Energy weapons no longer expire in an explosion
+- Zlite G6 weighs less and does more damage
+- Things you wanted to work in DS now do. Yay!
+- Nerfed the Ry-Tek ThrustBoot CP.  It was sort of one hit kill >_>
+- Boards and DropPack now setup to be pickupable... not sure if this works in this version of engine though.
+- Boards and DropPack now buildable in DS and are one time use items.
+- AR4 RS weighs 0.5kg instead of 2kg now
+
+
+~b~4Monday October 23rd, 2006~2~B
+
+~bStas~b
+- Added Micro Carapace
+- Added G-Labs SHEL Shield on ryan's behalf
+- UltraBlack now weighs 10kg
+- Put 4 vector fields in for testing
+- APC can hop over green physics now without flying into orbit
+- Kick had -100 gravity... I removed that and made its lifetime like the other melee, except with explosive expiration.  Gave it a shadow too... :\
+- Ram renamed to Crash solely for my sake when looking for it in the editor :P
+- Deathboard Slash has come back.  Works like Crash and Crush.
+- Passive ramming weapons now fire 10 times a second.  This might lead to some bad lag, but I hope not :\
+- CAW has less time in between bursts and its weapon switch time is lower.
+- Ammo prices cut a bit.
+- Ry-Tek SMG7 HV have been added
+- SMG7 weighs less and has longer reload in between bursts.
+- Kunoichi switch time and reload time are now equal and are set at 1.2s and it weighs 1.9kg now instead of 1.5kg
+- SI-1 now has higher ROF
+- Except for SI-2 the two other SMGs are availible to all classes except demo and heavy.
+- S4ND90 has no recoil and has higher projectile speed.
+- SAW uses ammo cannon now.
+- SI-4 had tweaks
+- AFP weighs more
+- MG weighs less
+- Upgrades in MG section had weights adjusted
+- Harnesses now have greatly reduced accuracy (read: spray wildly), but the reload time is the same as stationary counterparts.
+- SAW drains less
+
+
+~b~4Sunday October 22nd, 2006~2~B
+
+~bSTAS~b
+
+- Macrobase can now be built from microbase without the need for a blueprint, which has been removed from the game.
+- AutoGun Minigun now costs more
+- AutoGun MG now has 5 more hp.
+- SAW EB is no longer bugged.  You need SAW to use it.  SAW is also more accurate now.  Good luck spraying.
+- Strider HP is now 100 instead of 120.
+- Skimmers now have 50% protection against energy weapons.  I know I don't use %'s much, but it's usually to effectively double hit points of a vehicle against a certain damage type or to make the vehicle have less hit points, making it more easily repairable.
+- Lynx AC is a tad more powerful and has a larger blast radius.
+- Wespe has dual MGs now instead of LMGs.  Same with the PDB.
+- Min/Max weights for all classes are now 20/120kg.  This should affect heavies and squad leaders the most, though engies also (engies need a lot of work, so don't bitch, you'll be fine next week).  Other classes should not be affected as much.
+- BlackOps get stimpack kit now.
+- Armor - Special had weights on everything lowered.
+- ARs are now accessible to medics, engineers and commandos.
+- TS-80 Optical sight is stand and fire again, but same reload rate as normal TS-80 and more drain.
+- Lowered weight on RR
+
+
+~b~4Saturday October 21st, 2006~2~B
+
+~bdz~b
+
+- Fixed vision in the trees.
+- Fixed the LOS.
+- Fix the missing red physics inside certain rooms.
+- Change the spawns so left side are set spawns, right side are random ones.
+
+~bryan~b
+
+- Assault Shotgun reload was changed to 3.8 seconds from 10 seconds.  This may have been excessive.  Oh well.
+- Tried to fix the skill logic for the jump boots.  I don't really know logic grammer so I probably messed it up again.
+- Added more forward recoil to the jump boots so you need to setup a better angle, but hopefully you'll be able to get over walls easier.  I also made it so engineers can use them, since it makes sense for them to climb their own walls.
+
+~bSTAS~b
+
+- Hyperthrust now has a purpose.  Use it to accelerate and then switch to normal movement as normal has a higher top speed.
+- Deathboard lost strafe.  Wasn't boarding with it.  You can use lances only on DB now too.
+- Lances do bypass if you get a good hit in.  Yes, you can use it instead of GR to plink at drivers.  Don't get crushed.
+- DropPack backthrust got cut... I don't see any forward pointing ones :P
+- Bikes now have some explosive ignore.  Shockwaves shouldn't automatically wipe you out anymore.
+- APC's driver position got double energy drain ignore now.  Should kill driver in two LAWs instead of one.
+- APC passenger position is no longer invulnerable by itself... or shouldn't be at least.  Same armor change as APC itself.
+- Vehicle minigun should now not suck so much.  More accurate + faster projectile.
+- GLs now have a prefire graphic that will notify you that it's about to be fired like the LAW.  I hope it doesn't look too ugly.
+- Same with rocket launchers.
+- RPG has longer prefire.
+- Drum ammo, once "loaded" into the weapon no longer weighs anything as a lot of people have trouble figuring out how to get rid of it.
+- Engineer repair costs half as much as before.
+- Rockets weigh 2kg now.  Heavy HE weighs 3kg.
+- DetPack should own now.
+- CAW and CZ-5P4M3R are better too.  CAW weighs less and the minigun is more accurate with higher muzzle velocity.
+- SMG7 and S4ND90 now have higher ROFs on par with CAW.
+- Zanbato weighs less and API rounds cost way less.
+- DB, DP and bikes carry less, way less.
+- Mortar Bike now uses ammo (Medium HE).
+- Fragmentation now has a longer activation timer, meaning it shouldn't trigger on you immediately when you are hit directly.
+- Gates are team only now.
+- Hedgehogs have larger area of repulsion but less repulsive force.
+- Gates are teammate only now but cost more than before.
+- Engi base items overall cost less, so do vehicles.
+- Beam cannon uses 300 energy to fire, 12sec reload.
+- All engi items from the bases can now be dropped and have placeholder icons.  Engies, make your team buy the shit for you, then deploy it for them.
+- Drop Armor put back at its original values during private testing.  By the way, its true cost is $11000 as that's the difference between buy/sell.
+- Impact and Ceramax improved just because.
+- Multi Missile weighs less
+- RPG round costs modified
+- Rocket launchers cannot be used on DB or DP anymore
+~6More..~2
+- UGL has prefire gfx too now
+- Strider speeds got fixed, so no more superman speeds
+- Thrust boots should no longer work inside vehicles
+- Okay, I want to try beam cannon with 12 second reload, no ammo, let's see if you guys lame the hell out of it still.
+- Squeesh does more damage now, meaning when you hear that sound running over somebody, they'll be hurting more.
+- Dart bike has more armor
+- Strider has more energy ignore armor now.
+- DB and DP now have 30/80 lower/max weight limits.  Go GL lame.
+
+~b~4Friday October 20th, 2006~2~B
+
+~bdz~b
+
+- Spawns are now fixed.
+- Dropship generates health.
+- Map bug at F3 fixed.
+- Missing tile in the dropship fixed.
+- Spawns are now random.  You will spawn anywhere on the map if using the ds teleport.
+- B1 walls are now orange physics.  Got mortar?
+
+~bSTAS~b
+
+~bAutoGuns~b now work.
+~bPassive Sensors~b fixed.
+~bActive Sensors~b detect cloakers farther.
+~bArmor Skirts~b now weigh more.
+~bEngi Repair~b is now stand and fire and uses more energy cells.
+~bCZ-F4 GL~b now has its own ammo that comes in drums.  You reload the grenade launcher manually.
+~bAstraea's Flash Railgun~b should now own vehicles.  It's a tank hunter, for real.
+
+~bLynx's AC~b is back to 40/40.  That wasn't the one hit autocannon... but you should still be scared of it :P
+~bBulldozer and Staff kick~b no longer do any damage.  This is for the dev team to kick you guys around ;P
+~bBeam Cannon~b on Bison/Beam bunker now takes 9 seconds to reload instead of 6.
+~bRR Blast~b now has less shockwaves.
+~bRPG Tandem~b now hurts vehicles more if the second warhead goes off too.
+~bGrenade Launchers~b weigh less overall.
+
+~bMed and Surgeon Kits~b now are way faster to heal with than before.  Overall healing items are better.
+~bAEROD-5~b now uses 150 instead of 50 cells.
+~bFS-80~b optical sights are move and fire, but do less energy drain.
+~bRifle section~b had weights lowered all across the board.  Same with Pistol, Shotgun and SMG.
+~bAssault Shotgun~b now uses a drum (manual reload).
+~bRocket PDB~b now shoots tandem warheads.  Way more effective against vehicles, but still same against infantry.
+
+~bZanbato~b ammo changed a little...
+~bGauss Ammo~b costs 15 vs 10 now.
+~bThrustBoots~b now available to JTs too.  Should now jump over single walls.  They weigh 2kg instead of 3kg now.
+~bWeapon Upgrades~b section is no more.  I know this will cause some of you to lose cash, but sorry :\
+~bHarnesses~b take longer to reload (slightly).
+~bVehicles~b blow up now.
+~bVehicle Turrets~b now have less hitpoints than the hull.
+
+~6More stuff...~2
+~bDrums~b now work... sorry about that :\
+~bVibro Knife~b has been added.
+~bThrust Boots~b skill logic should work fine now.
+~bBroiler~b now doesn't TK.  This was done for the AutoGun primarily.
+~bBeam Cannon~b now uses 600 energy cells/shot.  Better get a heavy battery :P  Eventually vehicles may end up using ammo, but we will try to make it as painless as possible.  For the beam cannon, you just need your basic recharger, though only the heavy one is really of any use.
+
+
+~b~4Thursday October 19th, 2006~2~B
+
+~b~1Launch!~b~2 ~b~6:D~2~b
+
+Decided to append this at the bottom of the FAQ.
+
+~bSMG7~b now has 70ms instead of 80ms between each shot.
+~bARs~b in general have had their burst rates improved.
+~bBRs~b have had their burst rates improved.
+~bSI-4~b shoots 5 rounds a second now as opposed to 4.
+~bSuit Teleport~b now can be activated on the run, but still requires 3 seconds to triangulate the coordinates ;P
+~bShotgun pellet energy drain~b was decreased by 0.5 down to 6, like it was originally (6.5 was used in testing).
+
+~bGrenade cost~b has been halved.  The other one-time use stuff was not touched, just the grenades store section.
+~bSell prices~b for some armors were adjusted to be higher.
+~bDZGL-69~b now weighs less and shoots more often.  Same with its sights.
+~bSI-3~b shoots a little more often too.
+~bShockwaves~b have had another tweak as they always do each update...
+~bArmor Addons~b have had weights cut across the board.
+
+~bExperience Cost~b for SciOps and BlackOps was increased.
+~bStrider~b is now summonable.
+~bSL's hp~b no longer shows up on enemy view (SL was damage calibration platform in private tests).
+~bBunkers~b have had their hp increased by 100.  This was right pre launch.
+~bHeavy Pillbox~b has had its hp increased too.
+~bCAW~b had its reload decreased to 800 from 1000.  You think assault and cara protect well? ... see how many full CAW bursts they can eat.
+
+
+~6More stuff...~2
+
+~bShotgun~b pellets now drain 5 instead of 6.  This seemed okay in testing... just got upped before launch for some reason.
+~bHMGs~b now drain less.
+~bWarp Invinciblity~b is now 3 seconds as opposed to 1.
+~bAC on Lynx~b now drains 30 instead of 40.  If you are full health and have combat or higher on, you should live through one shot.  It has 0 proximity, you can dodge it... unless you're in a crossfire.
+~bShrapnel~b now drains less too, so it shouldn't hurt so much unless you get hit by a clump.
+~bFafnir~b rockets should be able to hit now.
+
+~bShockwave~b tweaks as usual...
+~bDZGL-69 and SI-3~b had their bounce counts switched.
+~bSI-4~b got tweaked a bit.
+~bShadows~b have been added to classes so you can see how far off the ground you are.
+~bSkimmers~b (Selene, Astraea) turn faster.
+~bAutoGuns~b now have 1/4th of the hitpoints they did before, but they also have 75% protection on everything.  This should make them a breeze to repair.
+
+~bSI-4~b explosive round had its shrapnel altered.  It should not one hit kill anymore.  It's also slower, but has a larger blast radius.
+~bMedic items~b should work now...
+~bCZ Minigun~b has higher velocity and weighs less.
+~bFAEGs~b now do same outer drain as inner.
+~bCloaks~b take longer to recloak.
+~bDetPack~b takes less to deploy.
+~bBison HMG~b now shoots from middle not side... aesthetic... not sure I got it right though.
+~bLAW,AVM,RPF~b now cost less.  RPF owns little buildings.
+~bBunkers~b disappear in 30 seconds rather than 300 now.
+
+
+~b~4Wednesday October 18th, 2006~2~B
+
+
+~6New Stuff~2
+~bSI-3 'Tetsubo' GL~b is in.  It's a bouncy type that can use different ammunition types.  There'll be an arcing one like this too.
+~bRR Range Finder~b is in.  Launches RR shells at a 2 degree angle for like 1.5~2 sectors away... umm... it had to make up for RPG's l33tness somehow! :P  RR does 120/100 damage now.
+~bCZ-F4 GL~b has been added.  It's a 6-chamber arcing GL.
+~bCA-4 'Executioner' Revolver~b has been added.  It's a TK weapon for SLs to fuck up griefers.  If they grief themselves, nobody will want them anyway.
+~bTS F-80~b assault rifle has been added.  It has an underbarrel shotgun and an optical sight addons availible.  It doesn't feel right as of now, I need some "feel" testing about whether and how fgt this weapon is.
+~bAss Kick~b has been added.  Boot of power pwnage.
+~bPump Shotgun~b has been added.
+~bPump Shotgun EMP rounds~b have been added.
+~bCombat Shotgun~b now has a high capacity 12 round magazine.
+~bThor~b is in.  Vehicle number 128.
+~bRPF~b is in.  Same thing as RPG's thermobaric warhead, except one time use, 11kg and $1200.
+~bAR247~b lost its GL, but now has two rifle grenades instead.
+~bMinigun Turret~b on APC.  WIP.
+~bHull SMG~b is now online for Fafnir and Thor.  Limited rotation like the Wespe.  Has a PSMG and a hedgehog launcher.
+~bSkill Items~b are in for all the classes.  Same thing as '*prize staff skill' except now it's '*prize infantry skill' etc.  This should make testing easier.
+~bSI-4 'Zanbato' Auto Cannon~b has been added.  Currently shoots 3 different ammunition types (default kinetic, API, Explo)
+
+
+~6Tweaks~2
+~bGrenade sounds~b have been fixed.  I had to go into the .itm file and fix the text by hand.  The editor kept fucking up the sounds.
+~bEMP grenades~b now only disable vehicles.  They no longer disable infantry, just hurt a little.  EMP vs vehicles + LAW = dead vehicle.
+~bBlast waves~b are now on a lot of explosive weapons.  They only work near walls.
+~bRPG warheads~b now weigh a lot more.  Thermobaric one is basically a mini nuke.  Btw, there is a reason I added combing armor addon ;)
+~bShotguns~b have been played around with.
+~bMPFist~b drains 24 instead of 28 now.
+~bBoth PFists~b now do same outer explosive as inner explosive.  Outer electronic is half.
+~bKick~b should hurt now a little bit.  It also jams for 800ms.
+~bRy-Tek light mortar~b is now a inaccurate.
+~bSTC-S4ND11~b now has 1100ms reload vs 1000ms before.  That thing pwns anyway.
+~bClass Weights~b have been adjusted to hard max of 125kg.  It was 120 before, which didn't make sense with 25kg normal.  Now 1kg = 1% overweight.
+~bConscript~b now has 4kg minimum and 104kg maximum.  That's normal weight minus built in items.  They can't buy additional main armor though, but they can get the rest of the stuff in the store that isn't locked down.  I figured that some players may want to feel l33t by playing conscript.  Might as well let them.
+~bLAW~b now weighs 2.5kg and has 1.2 vs 1 second preload.  Its damage is back up to 80/80.  Won't hurt people inside tanks, but the tank itself will be hurting.
+~bBison~b no longer has 100 ignore on energy drain, just 90 like the other tanks, but gets a 25% bonus on passenger protection for everything else (except gauss).
+~bWespe~b turrets adjusted to have a limited rotation arc.  It looks funny when spawned, but it won't hit itself this way.
+~bBeam Cannon~b now does 205/95 instead of 150/150.  Killing occupants was cool and all, but the vehicles would remain completely intact.  This makes it the opposite.  One hit kill, the whole vehicle is dead.
+~bRy-Tek AR4 UGL~b now has a single wall bounce and is fairly short range.  You can sort of use it to shoot over walls and to a limited extent inside buildings.
+
+
+
+~b~4Tuesday October 17th, 2006~2~B
+
+~bLAW~b has been redone a little with damage.  Shouldn't be so fucking evil anymore, we'll see if this is better or worse.
+~bHedgehogs~b now do 20/20 elec/drain damage.
+~bConcussion Grenades~b now do an actual concussion effect... needs testing
+~bGrenades~b now do not activate until the first bounce like the bouncy GL.  It's stupid when a dumb grenade just explodes for no good reason.
+~bFAEGs~b have a larger than normal blast radius now.
+
+~bTandem Warhead~b for RPG is in.
+~bGrenades~b now have new sounds and some new gfx.
+~bHull SMG~b is being tested on Fafnir (105) right now.
+~bSensors~b do not do anti stealth anymore.  I am going to separate those two.  Passive sensors just detect cloak in 250 pixels.
+~bDetPack~b ... just go use it, you'll like it.
+
+~bExplosive Spreads~b  Alright, have you ever thought it was dumb the way, say Thor rockets for example, have that huge explosive cloud on the ground when the rockets detonate waaaay up in the air?  That should no longer happen.  You probably won't get the cloud when you hit vehicles too, but I will keep playing with this for a while until I get it right.
+~bBike colors~b are a little different now for the Mortar and Assault bike.  Those need names :\
+~bGLs for ARs~b now shoot farther again.  It was just too short...
+~bShockwaves~b for concussion grenade now have a lifetime of 1.2s vs 1.5s.
+
+~bRPG~b has a bunch of new warheads.  It's a work in progress, but I finally started it :P
+~bShield Wall prototype~b is in.  It's POS... item number 411.  Holds for 10 seconds, has 150hp and no armor.  Gfx are fuxed up and it's not double height yet.
+
+
+
+~b~4Monday October 16th, 2006~2~B
+
+Long time no news, but the map is uber now.  Thanks, dz! :D
+
+Other than that, the list is too long, so I am going to omit it ;P
+
+Oh wait, ~btanks can strafe~b now and commies won't be targeted by autoturrets anymore.
+~bSkills~b should be set now so that you can't fire from vehicles.
+
+Fixed up some ~bmedic stuff~b and put the BR2 and BR3 back in just for them.
+~bSprinting~b has been added.
+~bFrag Grenades~b need severe testing, so please run around spamming them at each other.  Try them inside buildings without any armor on and try taking bikes out with them... They may prove a bit too effective against bikes, so please do tell if that is the case.
+
+Also, ~bSciOps in Selene = Mean~b :P  Tell me if there is an FPS hit... I think there might be, which means I'll just have to nerf the spammage.
+I think that it could be neat having different weapons in vehicles for use by different classes.
+For example, Selene could have a Hedgehog array alongside Flash that can be used by engineers, so that when an engi is the driver, this thing cannot really be hit anymore from the front...
+
+~6More stuff...~2
+~bAstraea~b is in.  Selene's cousin.  Has a hedgehog array and a railgun turret.  It is slightly more armored and a tad bit slower than Selene.
+~bBrummbar and Gun Turret~b now both have hedgehog arrays too.
+~bDrop Armor~b has been redone quite a bit.  50 energy and 1 ignore (previously 40 energy and 3 ignore).
+~bSTC-A1 UltraBlack~b is now kinda like a stripped and retooled partial carapace.
+
+~bAPC~b is in with all the passenger slots filled.  They can be fired out of (yes, no grenades, rockets, melee or pistols, but everything else is okay).
+~bShuttle~b now has passengers also.
+~bAutoturret Minigun~b is in too.
+
+~bNew implants and armor addons~b
+~bNew SciOps armor~b
+
+~bNo more vehicle drama~b meaning you cannot switch between positions while inside a vehicle, you have to get out and then get back in.
+~bSkills~b should be set for everything now
+~bVehicle Cell~b has been discontinued.  I figured it was pointless and annoying having to reload inside the vehicle constantly.
+
+~bBrummbar and Bison~b turrets (alongside bunker versions) now have an MG.  This could be temporary until I get a hull MG going.
+
+~bHop is in!!~b  It will let you hop over green physics, but won't let you hop over single walls, which is perfect.  Ryan pwns with this vertical shit.
+~bLances are in~b ... yes that's right, we have a vibro lance.  Much humor will reslut from this.. *result
+
+
+
+
+~b~4Thursday October 12th, 2006~2~B
+
+Bikes are redone completely.  They are weak as shit now... at first...  They have like half hp and explosive ignore completely removed, but the kinetic % is now 50, which effectively doubles their hitpoints against kinetic weapons.  I know it's kinda like a hack, but hey :P
+
+~bPDBs~b are in
+~bGates~b are in
+~bDeathboard~b is in
+~bDropPack~b is in
+
+~bKick~b is in
+~bCombat Knife~b is in
+
+
+~b~4Tuesday October 10th, 2006~2~B
+
+Redid the weights on the powercells and added a medium one.  Description now says how many they make.
+
+~b~4Monday October 9th, 2006~2~B
+
+No funnies this time around, just news.
+
+dangerz reduced the green physics height and removed green physics from the bushes
+
+~bMGs, HMGs~b have had their shadows increased to original size as that looks better and is a good warning sign to dodge.
+~bExoskeleton~b is now Power Armor and is an average combination between Assault, Drop and Carapace, using their best respective properties
+~bPower Armor~b is now Power Armor Adv and is an average combination between Impact, Drop and Carapace, using their best respective properties
+~bArmor Sloping~b has been added (needs severe testing) it's 0.5 ignore on energy drain.
+~bG-Labs SHEL Shielding System~b has been reworked (120 instead of 180 capacity and it now can recharge in a minute)
+~bAssassin Suit~b now has 30 instead of 40 capacity and does not have 150% on hyper speed, but just 30% like the rest of the stats on it
+
+~bBunker~b has been added (no turret on top, just an MG)
+~bPill Box~b has been added.  It's essentially a heavy bunker with a SAW.
+~bBeam cannon packets~b are sent a few sectors away now, so that it can be used to snipe across the map in the lamest fashion.
+~bPfist explosion sound effect~b was given more sound overlap, though I don't know if that was just a problem on my PC.
+~bUV-9~b had its sounds changed
+~bXP-5~b had its sounds changed
+~bEM-4~b had its sounds changed
+~bPL-1~b had its firing sound changed
+~bBattle Rifle 3~b has been added.  BR2 that uses HMG ammo.  It's less accurate and weighs more.  Sounds and gfx are not done yet.
+
+~bBattle Rifle 2~b has been made inaccurate
+~b900xSAW~b has been made inaccurate, got gravity added, and had its projectile proximity nullified
+~bLAW's~b rocket child has had its damage radius decreased
+~bShotgun Children~b have had their speed reduced and now incur 30% of running speed
+~bMega and normal Power Fist~b now use smaller explosion gfx
+~bCombat Shotgun~b has been added
+
+~bMonoblade~b has had its damage/drain reduced, but if you score a critical with it, it will  kill the target.
+~bShredder~b has had its damage/drain reduced, but if you score a critical, it will probably kill the target.
+~bWalls~b have been given their initial 24 physics radius back.  Need to do some tests regarding point blank and lagging.
+~bBunkers~b are now fixed all around and have MGs (or HMG in case of Beam Bunker).
+~bSensors~b no longer drain you, but your movement characteristics are cut when they are on.  Its sound is changed too.
+~bAR247 GP50~b has been added.  It's a POS GL.  Really POS.
+~bSniper Rifle 1&2~b have gravity set to off for now.  I will probably end up giving them an alternate fire option that lets them have a prox.
+
+On a more technical mode, I made backblast's velocity negative and gave 0 degree rotation in any multi-use item it was used with instead of the prior -180.  Please inform me if I missed anything regarding this (IE: backblast firing forward on a weapon).
+
+~6More stuff...~2
+
+~bGauss Rifle, Machine Gun, and Minigun~b have been added.  They are all overpowered as shit, but have their own ammo type, which costs $50/pc.  Subsequently, Gauss Cannon is going to undergo a revamp at some point.
+~bBypass Damage~b I actually decided to use, since we already have most things hurting a lot anyway.  Bypass hurts vehicles 100% but vehicles have a point (or 2 in the case of shuttle) of bypass ignore for passenger protection (for tanks and bunkers only).
+~bShuttle~b got its HP bumped to 250, and passenger explode protection is now 60.
+~bAR4 and AR4 RS~b now have 700ms time between bursts as opposed to 800ms.  AR4 is now the heaviest AR system, but also the most versatile.  Since it spams and shoots fast and has a GL, you have to carry shitloads of ammo.  I felt that it was a bit weak, so I decided to boost it.
+~bPower Armors~b now weigh 30kg for normal and 35kg for Adv.  They seem to be sort of balanced as it only really just ignores rifle caliber and below and still gets eaten by anything else.
+~bSensors~b now detect stealth rather than cloak.  The negative numbers on movement modifiers do not work, so this is the only alternative I could think of.  You'll see the guys on radar, but not on the screen, so good luck hitting them.
+~bLight, Heavy, and Vehicle cells~b have new sounds and are move and fire.
+~bVehicle Cell~b now recharges 600 instead of 300.
+
+~6Even more stuff...~2
+
+~bSI-2 'Kunoichi' SMG LS~b now operates differently.  Since there is no workaround for shooting over walls with a high proximity, the laser scope version instead now has no gravity and just one pixel proximity point (vs standard -1 gravity and 0 proximity).  This should, quite contrare to the past, let you shoot over walls from a relatively far distance.  It may make it a sniper rifle though :\  I just added a +-1 horizontal rotation on the normal non LS version of Kunoichi just to differentiate them even more.
+
+~bAFP HMGx~b now has harness and tripod upgrades.
+~bMachine Gun~b now has harness and bipod upgrades.
+~bGauss Minigun~b had its weight lowered to 26
+~bGauss Rifle~b had its weight lowered to 10
+~bGauss Machine Gun~b had its weight lowered to 18
+~bAmmo Gauss~b now costs 10 instead of 50 (that was just too much) and weighs 0.005, the lightest ammo aside from energy.
+~bWeapon Upgrades~b now only lists actual upgrades (that are as such technically from the engine's perspective).  I moved the AR upgrades to the Kinetic - Rifles section, because it made sense for them all to just line up.
+
+~bEnergy Weapons~b were tweaked a bit to do less damage against vehicles.
+~bEM-4~b now should look even prettier
+~bCCP-8 'Aldous' Handgun~b has been added.  Nickname: "handcannon" ;)
+~bSI-1 'Kunai' Combat Pistol~b has been added.
+~bRy-Tek SMG7~b has been added, it's a basic SMG.  Sucks unless used indoors...
+~bSTC-S4ND90~b has been added, it's an advanced SMG.
+~bRy-Tek LMG2~b has been added.  Nothing great yet, but it will be getting an upgrade option soon.
+
+~bArtillery Bike~b has been added.  It has a side MG and a mini mortar.
+~bDZGL-69~b has been added.  Bouncy GL that can have sights bought for outdoor use.
+~bPlasma Pisol~b is now made by Gatasa Laboratories and has new gfx and sound.  It pwns.
+
+
+~b~4Sunday October 8th, 2006~2~B
+
+The kinetic rifles section was worked on.  The current items there are pretty much set minus descriptions.
+
+I added shadows to a bunch of weapons too.
+
+~bTwo BRs,~b one "normal" and one that uses Ammo MG.
+~bTwo Sniper Rifles~b now are in.  One is cheap, high refire rate, okay damage and light.  The other one is its meaner heavier cousin.
+~bAR247~b has been added (previous The Other AR).  It is the $500 weapon of the Kinetic Rifle section.
+~bAR4 RS~b is now just a 4-burst version of AR4.  So 7kg = AR4, +3kg RS = 10kg LMG + 2kg UGL = 12kg of LMG+GL.  Not a bad deal.
+~bAR4 UGL~b is now run-n-gun.  It seemed too much to ask to stand still while the preload sound was running.
+
+~bLAW 4x~b just got added.  It lets you launch 4 LAWs in rapid succession.
+~bPlasma Weapons~b now do 1-2 electronic damage each.  They need to be good against heavy armor and since they all spam so far...
+
+~b~4Saturday October 7th, 2006~2~B
+
+Shitlaods of stuff crap has been added since 29th.  This list is not comprehensive, but is mildly amusing.
+
+
+~bAssault Shotgun~b works ... umm... like the really old school one, ~1BAM BAM~2 ~5URDETHD!#%~2.. but it ~1BAMBAMs~2 4 times a second .. >_>
+~bSawed off Shotgun~b works and proudly deserves the name of "BOOM STEEKC!"
+~bRPG~b is done and balanced (instant kill, but you can't aim for shit... then again, what can you expect from a flying smoking dildo?)
+~bRR~b is done and balanced, though may have its gfx still changed (one hit wonder, blows through walls and everything.. not your pants!)
+
+
+~bStrider has Crush~b, much fun! ~1Squish! Squish! Squish!~2 (it does that only when you're on top of infantry)
+~bMG, HMG, SAW~b weapons are all teh pwn now, though SAW is a bit gay
+~bCZ-5P4M32~b is now a standplatz-und-feuer dreiergruppe stoss CAW
+~bCAW~b is in and it rips everything apart as it had back in old school
+
+
+~bGC~b is in, but its damage is random as fuck, fucking slot machine wannabe
+~bArmors~b seem to be mostly balanced ok with all weapons, though some were reweighed (can't help it, bunch of fat self-conscious little bitches)
+~bArmor upgrades~b, well, particularly the plating, is balanced in terms of damage absorption.  Not sure about the weight yet though.
+~bMonoblade~b is one hit kill, but it does shitloads of glancing hits...
+~bClaw~b is a wannabe Monoblade, at least 2 hits to kill, doesn't damage vehicles (may change), has its own slashthrough effect
+
+
+~bSandbags~b are in... had to do a dirty workaround due to sandbag gfx origin offset
+~bDouble height concrete walls~b are in... for more privacy for .. "special" .. occasions...
+~bDouble height sandbags~b are in... to clean up the mess...
+~bAssault Bike~b is in... Dual XP-5 overpowered?  Well, yeah, but what are you going to do about that? Enjoy it? .. err.. not -that- much! HEY! Put that fucking toilet paper down!! OMFG YOU SICK FUCK!! WETF?!#%
+~bDart Bike~b is in and it dies fast as shit... Fucker is like a PA round wannabe, cept it can die.  I am considering making Dart Bike's die gfx the $$ taunt... may be same with commie.. hm
+
+
+~bPSMG and PP~b .. Plasma Pistol, not Pea Pistol (or Pee...).. Anyway, PSMG is okayish, while the PEEPEE ..er.. PP actually owns.  It'll prolly go to SL alongside Cara and most melees.
+~bTank list:~b Bison, Brummbar, Fafnir, Lynx, Wespe, Gungnir and Loki (flame tank, POS as of now, hard to make flamers look good.. go figure, fucking flaming fgts)
+~bShuttle's hover/thrust~b is still being worked on.. fucking POS is like a big flying cow, just doesn't want to stay up, fuckin MOO.. ugh!  Anybody got any cow porn?  I'm sure it'd stay up then.. stupid bull testicle malfunction... May be I should put in that smaller shuttle gfx as a heifer, hmm...
+
+
+
+
+~b~4Friday September 29, 2006~2~B
+
+Finished the Beam Cannon for Bison.  You have got to try it (from inside the turret).  Make sure you have some paper towels or something near.  Use *vehicle 103 to spawn a tank.
+
+
+
+~b~4Monday September 18, 2006~2~B
+
+-Began building and testing :D

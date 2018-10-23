@@ -1,0 +1,57 @@
+4,v25,1,"TitanDropShip",14624,2336,200,180,0,-3,  0,300,0,500,2, 2,0,""
+4,v25,2,"CollectiveDropShip",14592,4160,200,180,0,-3,  0,300,0,500,2, 2,1,""
+6,v25,3,"TitanDrop1",14896,2192,40,40,0,-3,    0,3,, 300,0,0,uiart,warp,0,0,0,0,0,0,,,0,0,0,0,0,0,weapons2,movingar,0,0
+6,v25,4,"TitanDrop2",14992,2192,40,40,0,-3,    0,3,, 300,0,0,uiart,warp,0,0,0,0,0,0,,,0,0,0,0,0,0,weapons2,movingar,0,0
+6,v25,5,"TitanDrop3",14992,2448,40,40,0,-3,    0,3,, 300,0,0,uiart,warp,0,0,0,0,0,0,,,0,0,0,0,0,0,weapons2,movingar,0,0
+6,v25,6,"TitanDrop4",14896,2448,40,40,0,-3,    0,3,, 300,0,0,uiart,warp,0,0,0,0,0,0,,,0,0,0,0,0,0,weapons2,movingar,0,0
+6,v25,7,"CollectiveDrop1",14864,4000,40,40,0,-3,    1,3,, 300,0,0,uiart,warp,0,0,0,0,0,0,,,0,0,0,0,0,0,weapons2,movingar,0,0
+6,v25,8,"CollectiveDrop2",14864,4256,40,40,0,-3,    1,3,, 300,0,0,uiart,warp,0,0,0,0,0,0,,,0,0,0,0,0,0,weapons2,movingar,0,0
+6,v25,9,"CollectiveDrop3",14960,4256,40,40,0,-3,    1,3,, 300,0,0,uiart,warp,0,0,0,0,0,0,,,0,0,0,0,0,0,weapons2,movingar,0,0
+6,v25,10,"CollectiveDrop4",14960,4000,40,40,0,-3,    1,3,, 300,0,0,uiart,warp,0,0,0,0,0,0,,,0,0,0,0,0,0,weapons2,movingar,0,0
+5,v25,11,"Titox1",5984,4208,200,200,0,-3,     10,500,500,1, 0,300,0,99999, 20,200,2009, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,12,"Titox2",10032,4208,200,200,0,-3,     10,500,500,1, 0,300,0,99999, 20,200,2009, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,13,"Titox3",11296,4880,200,200,0,-3,     10,500,500,1, 0,300,0,99999, 20,200,2009, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,14,"Titox4",9632,8144,200,200,0,-3,     10,500,500,1, 0,300,0,99999, 20,200,2009, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,15,"Titox5",6176,9008,200,200,0,-3,     10,500,500,1, 0,300,0,99999, 20,200,2009, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,16,"Titox6",4816,7632,200,200,0,-3,     10,500,500,1, 0,300,0,99999, 20,200,2009, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,17,"Tsolvy1",10240,3520,200,200,0,-3,     10,500,500,1, 0,300,0,99999, 20,200,2005, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,18,"Tsolvy2",11936,2480,200,200,0,-3,     10,500,500,1, 0,300,0,99999, 20,200,2005, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,19,"Tsolvy3",10096,7888,200,200,0,-3,     10,500,500,1, 0,300,0,99999, 20,200,2005, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,20,"Tsolvy4",5408,8192,200,200,0,-3,     10,500,500,1, 0,300,0,99999, 20,200,2005, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,21,"Pandora1",12672,3152,200,200,0,-3,     10,500,500,1, 0,300,0,99999, 20,200,2007, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,22,"Pandora2",8384,9232,200,200,0,-3,     10,500,500,1, 0,300,0,99999, 20,200,2007, 2,0,,0,-1, 0,0,-2,0, -1
+3,v25,23,"Admin Flag",4640,3649,1500,1500,0,-3,     1000,0,300,  3,2,2,1,0,  0,0,0,  1,1,1,9000,  10000,0,0,0, 0,0,1000,0,0, 0,0,0,1,0, 0,"",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,0,bongs,Captured,0,0,subsounds,Flag,0,0
+3,v25,24,"Krag Flag",11088,4833,1500,1500,0,-3,     1000,0,300,  3,2,2,1,0,  0,0,0,  1,1,1,9000,  10000,0,0,0, 0,0,1000,0,0, 0,0,0,1,0, 0,"",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,0,bongs,Captured,0,0,subsounds,Flag,0,0
+3,v25,25,"Base Flag",5040,10961,1500,1500,0,-3,     1000,0,300,  3,2,2,1,0,  0,0,0,  1,1,1,9000,  10000,0,0,0, 0,0,1000,0,0, 0,0,0,1,0, 0,"",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,0,bongs,Captured,0,0,subsounds,Flag,0,0
+3,v25,26,"HortiDome Flag",10272,10609,1500,1500,0,-3,     1000,0,300,  3,2,2,1,0,  0,0,0,  1,1,1,9000,  10000,0,0,0, 0,0,1000,0,0, 0,0,0,1,0, 0,"",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,0,bongs,Captured,0,0,subsounds,Flag,0,0
+6,v25,27,"EuropanDrop1",14864,5744,40,40,0,-3,    2,3,, 300,0,0,uiart,warp,0,0,0,0,0,0,,,0,0,0,0,0,0,weapons2,movingar,0,0
+6,v25,28,"EuropanDrop3",14960,5744,40,40,0,-3,    2,3,, 300,0,0,uiart,warp,0,0,0,0,0,0,,,0,0,0,0,0,0,weapons2,movingar,0,0
+6,v25,29,"EuropanDrop2",14960,6000,40,40,0,-3,    2,3,, 300,0,0,uiart,warp,0,0,0,0,0,0,,,0,0,0,0,0,0,weapons2,movingar,0,0
+6,v25,30,"EuropanDrop4",14864,6000,40,40,0,-3,    2,3,, 300,0,0,uiart,warp,0,0,0,0,0,0,,,0,0,0,0,0,0,weapons2,movingar,0,0
+4,v25,31,"EuropanDropShip",14592,5888,200,180,0,-3,  0,300,0,500,2, 2,2,""
+3,v25,32,"Bridge Flag",6720,6961,0,0,0,-3,     1000,0,300,  3,2,2,1,0,  0,0,0,  1,1,1,9000,  10000,0,0,0, 0,0,1000,0,0, 0,0,0,1,0, 0,"",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,0,bongs,Captured,0,0,subsounds,Flag,0,0
+8,v25,33,"DropPortal1",14960,2320,100,100,0,-3,    0,-1,"Drop Portal Area.  To enter the map walk into a Drop Portal."
+8,v25,34,"DropPortal2",14928,4144,100,100,0,-3,    0,-1,"Drop Portal Area.  To enter the map walk into a Drop Portal."
+8,v25,35,"DropPortal3",14928,5872,100,100,0,-3,    0,-1,"Drop Portal Area.  To enter the map walk into a Drop Portal."
+8,v25,36,"DropShip1",14592,2336,250,250,0,-3,    2,-1,"This is your DropShip.  You can purchase Equipment and Weapons here."
+8,v25,37,"DropShip2",14560,4144,250,250,0,-3,    1,-1,"This is your DropShip.  You can purchase Equipment and Weapons here."
+8,v25,38,"DropShip3",14560,4144,250,250,0,-3,    3,-1,"This is your DropShip.  You can purchase Equipment and Weapons here."
+8,v25,39,"MilitaryBase",4272,10192,500,500,0,-3,    0,-1,"Abandoned remains of the Collective outpost on Heinrich's Point.  Some of the hardware is still functional."
+8,v25,40,"MethaneTap",2384,10224,250,250,0,-3,    0,-1,"Methane tap that supplied power to the Collective Outpost.  Non functioning."
+8,v25,41,"Horticulture",10784,10816,500,500,0,-3,    0,-1,"Horticulture Experiment station.  Abandoned..."
+8,v25,42,"PowerStation",8432,2768,500,500,0,-3,    0,-1,"Civilian Powerplant.  Still functions but without a core overhaul it will soon cease..."
+8,v25,43,"MedStation",4720,2768,500,500,0,-3,    0,-1,"Abandoned Medical Station.  Almost thoroughly stripped of useful equipment."
+8,v25,44,"Admin",3664,5184,500,500,0,-3,    0,-1,"Abandoned Civilian Administration building."
+8,v25,45,"Krags",11760,3264,500,500,0,-3,    0,-1,"Heinrich's Krags.  There are lots of mineral deposits all around.  A troop of Morgan's Raiders used area this as a base after the destruction of Morgan's Base."
+8,v25,46,"PussyHill",6992,9200,250,250,0,-3,    0,-1,"Pussy Hill.  Titan Milita named this hill to commerate their massacre of a collective patrol who attempted to dig in on it's crest."
+8,v25,47,"Uplink",3584,3280,100,100,0,-3,    0,-1,"Uplink Station.. The dish appears undamaged."
+5,v25,48,"Unilenium1",12064,2576,200,200,0,-3,     10,250,100,1, 0,300,0,99999, 20,200,2010, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,49,"Unilenium2",12064,4048,200,200,0,-3,     10,250,100,1, 0,300,0,99999, 20,200,2010, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,50,"Unilenium3",10944,3840,200,200,0,-3,     10,250,100,1, 0,300,0,99999, 20,200,2010, 2,0,,0,-1, 0,0,-2,0, -1
+5,v25,51,"Pandora3",11088,4464,200,200,0,-3,     10,500,500,1, 0,300,0,99999, 20,200,2007, 2,0,,0,-1, 0,0,-2,0, -1
+4,v25,52,"DropQuadrant1",8416,4144,2000,300,0,-3,  0,300,0,10,3, 0,0,""
+4,v25,53,"DropQuadrant2",7584,10448,2000,300,0,-3,  0,300,0,10,3, 0,0,""
+4,v25,54,"DropQuadrant3",4720,7456,800,800,0,-3,  0,300,0,10,3, 0,0,""
+4,v25,55,"DropQuadrant4",11792,6960,300,2000,0,-3,  0,300,0,10,3, 0,0,""
+4,v25,56,"DropQuadrant5",7376,11200,1000,1000,0,-3,  0,300,0,10,3, 0,0,""
+4,v25,57,"DropQuadrant6",10160,5136,1000,1000,0,-3,  0,300,0,10,3, 0,0,""

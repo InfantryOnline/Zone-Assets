@@ -1,0 +1,185 @@
+~B~5Noob Armor Guide~5.~B
+by Tombstone
+
+
+~1~BArmor Knowledge Basics~B~1
+
+	
+	~4~BThickness~B~4
+			~2- (Total Battery Capacity) the amount of energy the armor has. 
+			This helps protect you against single hits. Useful for the more powerful 
+			1-shot guns, like rockets. The armors that are very thick usually offer low 
+			recharge rates - shield armor for example.
+			
+			~BHow it Helps~B - If you have a bigger "reserve" of energy, the same amount 
+			of drain would be a smaller percent on a thicker armor than compared to a thin 
+			armor. So if you have 30 energy and a gun does 15 drain, you would lose half your energy, 
+			however if you had 60 energy, the gun would only take away 25% of your energy. ~2
+			
+
+	~4~BAnti Multi Hit~B~4
+			~2- (Energy Shield Recharge) the number here is how many units of energy recharge 
+			in 1 second. This helps protect against high rate of fire guns like SMG. 
+			Usually these high rate of fire guns have weak projectiles (drain/kinetic), 
+			and the High Anti Multi Hit armors offer low ignore, and have a low amount 
+			of thickness - Drop Armor for example.
+			
+			~BHow it Helps~B - If you are being hit by multiple projectiles, having a high 
+			recharge rate would allow your energy to increase more in the time between each hit. 
+			Again, the more energy you have, the less damage you take.~2
+
+
+	~4~BIgnore~B~4
+			~2- The amount of damage of the specified type that is ignored by that armor. 
+			If you have a high explosive ignore, you can eat shockwaves. 
+			If you have a high amount of electronic ignore, with some kinetic, 
+			you will find you hardly take damage from lasers. Only bypass ignore/protection 
+			protects against bypass.
+			
+			~BHow it Helps~B - Your energy can only stop so much of the damage. After 
+			the damage gets through your shield it goes against the ignore. Say your shield 
+			takes off half the damage from a 10 damage explosion, If you have 5 or more ignore 
+			(of that type) you take no damage, but if you have less than 5 you take the difference 
+			between the Damage that got through your shields, and the Ignore amount. Note that 
+			while your health doesn't display 35.5, that half an hp can be there, so even 0.5 ignore 
+			counts.~2
+
+
+	~4~BDrain Protection %~B~4
+			~2- The % drain damage on a gun is reduced by. Drain matters A LOT!
+			If you have 100% drain protection, you take no damage except bypass. 
+			The combination that offers highest drain protection is Sloped Armor and Heavy 
+			Armor Sloping - totals 40%. There is more on this combination later on.
+			
+			~BHow it Helps~B - When you take a hit drain is the first thing calculated. 
+			Drain is reduced on your drain protection (if you have any) then that amount is 
+			taken from your energy.~2
+
+
+	~4~BStealth~B~4
+			~2- Distance (in pixels) you do not show up on the enemy's radar. 
+			So if it is 200, you can not be seen on radar outside of that 200 pixel radius, 
+			unless your opponent has greater than 200 pixel anti-stealth (stealth detect). ~2
+
+
+	~4~BStealth Detect~B~4
+			~2- Distance (in pixels) that you can detect stealth units on your radar.~2
+
+
+	~4~BCloak~B~4
+			~2- Distance (in pixels) you can not be seen visually by enemies. 
+			So if it is 200, you can not be seen outside of that 200 pixel radius, 
+			unless your opponent has greater than 200 pixel anti-cloak (cloak detect).~2
+
+		
+	~4~BAnti-Cloak~B~4
+			~2- The Distance (in pixels) you can see a cloaked unit.~2
+
+
+	~4~BCloak/Stealth Disable Time~B~4
+			~2- The time (in seconds) that cloak or stealth is disabled 
+			after firing a weapon.~2
+		
+		
+	~4~BArmor - Addons~B~4
+		~2- You may only have 1 active addon. There are usuall 2-3 version of each addon. The first is light to carry but the weakest. The second is somewhat heavy but more effective. The thrid type is the heaviest but the most effective.
+	
+	
+	~4~BImplants - Passive~B~4
+		~2- You may have 2 active passives. These weight nothing but the effect of each passive is minimal.
+	
+	
+	~4~BEnergy and Drain~B~4
+			~2- The MOST IMPORTANT factor in armor is your energy. Energy gets taken away by 
+			a thing called "drain" - which is a very important type of damage. Drain determines 
+			how much damage gets pass your shields. At max energy you take no damage, 
+			at half energy you take half of the damage, and at no energy, you take all 
+			of the damage.~2
+
+			
+	~4~BVector and Hedge~B~4
+			~2In case you can't dodge all those Gauss Minigun projectiles, you have a solution: 
+			Vector. As long as it keeps you from getting hit consecutively your shield will have time 
+			to regenerate. I prefer hedgehog grenades as they don't use my energy cells and if thrown 
+			right, it can divert the projectile(s) much further away from you. I'd say use hedgehogs 
+			on rockets, and vector on machine gun spam.~2
+	
+	
+	~4~BDodge, Duck, Dip, Dive, and Dodge~B~4
+			~2Most of the armor system is setup on dodging, if you can manage not to take 
+			consecutive hits, you will survive a whole bunch longer. As STAS would say "learn2dodge." 
+			You can use sprint to strafe faster, or get out of the way of bullets. You can also buy 
+			implants and armors that improve your speed. Though it is important to note that these 
+			DO NOT stack, meaning if you have +15%, and +25% you get the highest one 
+			(25%), NOT +40%.~2
+
+		
+		~2Now that you've learned how you take damage, and what each aspect of armor does we are 
+	going to apply this to a real CA example. In the first part of this example your Assault 
+	Armor featuring 60 thickness, 60 anti multi hit, 3 kinetic ignore, 5 explosive ignore 
+	will be put against the laser rifle that shoots a total of 5 shots 
+	one shot per every tenth of a second, each doing 12 kinetic, 3 electronic, and 15 drain.
+	
+		The first shot hits you your have 45 energy - 75% shield - 3 kinetic gets by, 0.75 electronic 
+	also gets by. The 3 kinetic is ignored by your 3 kinetic ignore. The result after this first 
+	hit is 0.75 damage. All damage could have been prevented if you bought electronic ignore. 
+	
+		The second hit comes 1/10 a second  later, your shield has recovered by 6 energy. It drains 
+	15 from 51, you have 36 shield - 60% of your shield. 40% of all damage is taken - 4.8 
+	kinetic damage 1.2 electronic. 3 of the 4.8 kinetic damage is blocked by your shield, and none 
+	of the electronic is blocked. The result is (1.8+1.2) 3 damage. 
+	
+		You would continue to take more and more damage per hit, the third being 5.25. But lets say 
+	you took my advice and decided to dodge the fourth one, but get hit by the 5th one. 
+	You would only take 2.25 on the fifth hit, which is a big difference from the 12.75 you 
+	would have taken on the fifth, plus 10.5 on the fourth, if you didn't dodge the 4th one. 
+	With out dodging even one, the total damage would be 32.25 damage. 
+		 ~2
+		
+	
+
+~1~BWhich Armor To Choose~B~1
+
+~4Conscript has innate armor.. I believe it's one of the ceramaxes. That's why it has energy. Energy is good. Don't switch to another class unless you can afford armor.
+
+~BThere are three types of playing style in CA and 3 main different layouts for armor.
+		
+		#1 Street Killing
+		#2 Basing
+		#3 Tanking (Light vech, Heavy vech, or airplane)
+		
+	#1 Street Killing~4~B
+	~2	Most of the time this will require high kinetic and electronic ignore armor. These armors usually include:
+		Assault Combat Armor
+		Assault Drop Armor
+		Carapace
+		Ceremax V/VI/VII
+		Combat Armor
+		Drop Armor
+		Heavy Combat Armor
+		Heavy Drop Armor
+		Kevlite Armor
+		Micro Carapace
+		Partial Carapace
+		Power Armor
+		Sloped Armor
+		
+	~4~B#1 Basing~4~B
+	~2	Defending a base requires one to have high explosive ignore armor. These armors might include:
+		Blast Armor
+		Carapace
+		Impact Armor
+		Power Armor
+		Shield Armor
+		Shock Armor
+		
+	~4~B#3 Tanking~4~B
+	~2	This requires kinetic, explosive, and bypass ignore armor. These armors usually include:
+		Nanocomposite Armor
+		Rigid Polonium Armor
+		Flexible Polonium Armor
+		
+				
+	~5Revamped by n0b kilza 2/21/08
+	
+	

@@ -1,0 +1,120 @@
+1,v12,12,"redlift1",144,4432,    -1,-1,2,2, 0,0, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,13,"redlift2",176,4432,    -1,-1,2,2, 0,12, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,14,"redlift3",208,4432,    -1,-1,2,2, 0,12, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,15,"redlift4",240,4432,    -1,-1,2,2, 0,12, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,16,"redlift5",272,4432,    -1,-1,2,2, 0,12, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,17,"redlift6",304,4432,    -1,-1,2,2, 0,12, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,18,"redlift7",336,4432,    -1,-1,2,2, 0,12, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,19,"redlift8",368,4432,    -1,-1,2,2, 0,12, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,21,"bluelift1",6576,3312,    -1,-1,2,2, 0,0, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,22,"bluelift2",6576,3344,    -1,-1,2,2, 0,21, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,23,"bluelift3",6576,3376,    -1,-1,2,2, 0,21, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,24,"bluelift4",6576,3408,    -1,-1,2,2, 0,21, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,25,"bluelift5",6576,3440,    -1,-1,2,2, 0,21, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,30,"bluelift6",6576,3456,    -1,-1,2,3, 0,21, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,31,"greenlift1",4880,4256,    -1,-1,2,2, 0,0, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,32,"greenlift2",4912,4256,    -1,-1,2,2, 0,31, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,33,"greenlift3",4944,4256,    -1,-1,2,2, 0,31, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,34,"greenlift4",4976,4256,    -1,-1,2,2, 0,31, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,35,"greenlift5",5008,4256,    -1,-1,2,2, 0,31, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,36,"greenlift6",5040,4256,    -1,-1,2,2, 0,31, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,41,"greenlift7",5072,4256,    -1,-1,2,2, 0,31, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,42,"purplelift1",2384,2016,    -1,-1,2,2, 0,0, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,43,"purplelift2",2384,2048,    -1,-1,2,2, 0,42, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,44,"Purplelift3",2384,2080,    -1,-1,2,2, 0,42, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,45,"purplelift4",2384,2112,    -1,-1,2,2, 0,42, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,46,"purplelift5",2384,2144,    -1,-1,2,2, 0,42, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,47,"purplelift6",2384,2176,    -1,-1,2,2, 0,42, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,48,"purplelift7",2384,2192,    -1,-1,2,3, 0,42, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,49,"Uredlift1",144,7824,    -1,-1,2,2, 0,0, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,50,"Uredlift2",176,7824,    -1,-1,2,2, 0,49, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,51,"Uredlift3",208,7824,    -1,-1,2,2, 0,49, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,52,"Uredlift4",240,7824,    -1,-1,2,2, 0,49, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,53,"Uredlift5",272,7824,    -1,-1,2,2, 0,49, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,54,"Upurplelift1",2176,7824,    -1,-1,2,2, 0,0, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,55,"Upurplelift2",2176,7856,    -1,-1,2,2, 0,54, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,56,"Upurplelift3",2176,7888,    -1,-1,2,2, 0,54, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,57,"Upurplelift4",2176,7920,    -1,-1,2,2, 0,54, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,58,"Upurplelift5",2176,7952,    -1,-1,2,3, 0,54, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,59,"Ugreenlift1",4848,7232,    -1,-1,2,2, 0,0, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,60,"Ugreenlift2",4848,7264,    -1,-1,2,2, 0,59, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,61,"Ugreenlift3",4848,7296,    -1,-1,2,2, 0,59, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,62,"Ugreenlift4",4848,7328,    -1,-1,2,2, 0,59, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,63,"Ugreenlift5",4848,7360,    -1,-1,2,3, 0,59, doors,Metala,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,64,"Ubluelift1",6336,7808,    -1,-1,2,2, 0,0, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,65,"Ubluelift2",6368,7808,    -1,-1,2,2, 0,64, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,66,"Ubluelift3",6400,7808,    -1,-1,2,2, 0,64, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,67,"Ubluelift4",6432,7808,    -1,-1,2,2, 0,64, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,68,"Ubluelift5",6464,7808,    -1,-1,2,3, 0,64, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,69,"Bredlift1",688,8160,    -1,-1,2,2, 0,0, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,70,"Bredlift2",720,8160,    -1,-1,2,2, 0,69, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,71,"Bredlift3",752,8160,    -1,-1,2,2, 0,69, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,72,"Bredlift4",784,8160,    -1,-1,2,2, 0,69, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,73,"Bredlift5",816,8160,    -1,-1,2,2, 0,69, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,74,"Bredlift6",848,8160,    -1,-1,2,2, 0,69, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,75,"Bredlift7",880,8160,    -1,-1,2,2, 0,69, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,76,"Bredlift8",912,8160,    -1,-1,2,2, 0,69, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,77,"Bredlift9",928,8160,    -1,-1,2,2, 0,69, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,129,"SWBay1",480,6016,    -1,-1,2,3, 0,0, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,130,"SWBay2",512,6016,    -1,-1,2,3, 0,129, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,131,"SWBay3",544,6016,    -1,-1,2,3, 0,129, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,132,"SWBay4",576,6016,    -1,-1,2,3, 0,129, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,133,"SWBay5",608,6016,    -1,-1,2,3, 0,129, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+1,v12,134,"SWBay6",640,6016,    -1,-1,2,3, 0,129, doors,Metac,0,0,0,0,0,sounds,wav01006,0,0,None,None,0,0
+2,v12,89,"B Base Lift Lock",6324,7700,    0, 64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckG,0,0,69,20,0,None,None,0,0
+2,v12,84,"Blue Lift Lock",6772,3364,    0, 21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckC,0,0,60,20,0,None,None,0,0
+2,v12,82,"Purple Lift Lock",2580,2116,    0, 42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckC,0,0,72,20,0,None,None,0,0
+2,v12,83,"Green Lift Lock",5076,4180,    0, 31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckB,0,0,30,20,0,None,None,0,0
+2,v12,86,"R Base Lift Lock",324,7860,    0, 49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckB,0,0,0,20,0,None,None,0,0
+2,v12,87,"P Base Lift Lock",2020,7860,    0, 54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,72,20,0,None,None,0,0
+2,v12,88,"G Base Lift Lock",4708,7236,    0, 59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,30,20,0,None,None,0,0
+2,v12,20,"Red Lift Lock",132,4340,    0, 12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckG,0,0,0,20,0,None,None,0,0
+2,v12,90,"R Bay Door Lock",692,8068,    0, 69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,0, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,20,0,None,None,0,0
+2,v12,128,"SW Door Lock",676,6052,    0, 129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,0, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,0,-100,0,None,None,0,0
+6,v12,118,"Blue Base",6400,7904,    70,-1,6704,3376,100, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,8,"BlueSurface",6368,3392,    70,-1,6432,7664,100, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,117,"Green Base",4976,7296,    70,-1,4736,4288,70, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,7,"Green Surface",4976,4368,    70,-1,4752,7296,60, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,116,"Purple Base",2304,7888,    70,-1,2496,2080,70, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,2,"Purple Surface",2224,2112,    70,-1,2096,7888,60, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,115,"Red Base",208,7728,    70,-1,256,4272,70, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,1,"Red Surface",256,4544,    70,-1,208,7936,70, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,3,"Collective Portal",10960,9616,    50,-1,3728,3296,3100, 200,0,uiart,warp,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,5,"Collective Portal2",10864,9616,    50,-1,3728,3296,3100, 200,0,uiart,warp,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,6,"Collective Portal3",10960,10016,    50,-1,3728,3296,3100, 200,0,uiart,warp,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,26,"Collective Portal4",10864,10016,    50,-1,3728,3296,3100, 200,0,uiart,warp,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,4,"TitanPortal1",10864,7152,    50,-1,3728,3296,3100, 200,0,uiart,warp,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,27,"TitanPortal2",10960,7152,    50,-1,3728,3296,3100, 200,0,uiart,warp,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,28,"TitanPortal3",10960,7552,    50,-1,3728,3296,3100, 200,0,uiart,warp,0,0,0,0,0,uiwav,warpin,0,0
+6,v12,29,"TitanPortal4",10864,7552,    50,-1,3728,3296,3100, 200,0,uiart,warp,0,0,0,0,0,uiwav,warpin,0,0
+5,v12,96,"Pandora1",272,3440,     5,500,100,1, 0,300,0,99999, 20,-1,2007,200, 5,0
+5,v12,97,"Pandora2",5552,5792,     5,500,100,1, 0,300,0,99999, 20,-1,2007,200, 5,0
+5,v12,94,"TOX1",480,2864,     5,500,100,1, 1,300,200,99999, 20,-1,2009,200, 5,0
+5,v12,95,"TOX2",6288,6080,     5,500,100,1, 1,300,200,99999, 20,-1,2009,200, 5,0
+5,v12,102,"TOX3",2400,480,     5,500,100,1, 1,300,200,99999, 20,-1,2009,200, 5,0
+5,v12,124,"TOX4",5296,1344,     5,500,100,1, 1,300,200,99999, 20,-1,2009,200, 5,0
+5,v12,100,"Tsovly1",5328,3552,     5,500,100,1, 1,300,200,99999, 20,-1,2005,200, 5,0
+5,v12,101,"Tsolvy2",1136,2816,     5,500,100,1, 1,300,200,99999, 20,-1,2005,200, 5,0
+5,v12,103,"Tsolvy3",6624,5440,     5,500,100,1, 1,300,200,99999, 20,-1,2005,200, 5,0
+5,v12,125,"Tsolvy4",2368,4160,     5,500,100,1, 1,300,200,99999, 20,-1,2005,200, 5,0
+5,v12,98,"Unil1",4448,544,     5,500,100,1, 1,300,200,99999, 20,-1,2010,200, 5,0
+5,v12,99,"Unil2",2352,2944,     5,500,100,1, 1,300,200,99999, 20,-1,2010,200, 5,0
+3,v12,107,"Control Room",768,833,     200,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,1000,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v12,106,"Garage",6608,4305,     250,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,1000,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v12,108,"Hill 24",6864,6097,     200,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,1000,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v12,109,"House",6640,2065,     200,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,1000,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v12,110,"Hill 47",1376,2609,     200,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,1000,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v12,104,"Road",1072,5105,     125,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,1000,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v12,105,"Roamer",4832,2593,     30000,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,1000,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,None,None,0,0
+4,v12,9,"Collective Start",10432,9824,  0,300,1, 2,1,200,
+4,v12,11,"Titan Start",10480,7360,  0,300,1, 2,0,200,
+8,v12,126,"Condo",3904,3072,    4,-1,100,Fear the condo. for it has the ability to travel through time and space to be fought over in many locations.
+8,v12,123,"Hill 47",1376,2608,    4,-1,200,Hill 47
+8,v12,114,"House",6640,2064,    4,-1,200,Vacation home of one of Titan's leaders before his assasination
+8,v12,113,"Control Room",768,832,    4,-1,200,This was the control room for the dropships stationed here
+8,v12,112,"Damaged Reactor",2352,2944,    4,-1,200,This reactor was damaged during routine maintenance. Strange it now generates a small amount of Unilennium.
+8,v12,111,"Hill 24",6864,6096,    4,-1,200,Hill 24
+7,v12,37,"DropShipSargeant",10528,7376,    -1,500,250,2000, 0,CTFSounds,StepItUp,0,0
+7,v12,38,"DropShipSargeant2",10496,9824,    -1,500,250,2000, 1,CTFSounds,StepItUp,0,0
+7,v12,39,"DropArea1",10928,7344,    -1,1000,100,4000, 1,CTFSounds,WarningKlaxon,0,0
+7,v12,40,"DropArea2",10928,9808,    -1,1000,100,4000, 1,CTFSounds,WarningKlaxon,0,0

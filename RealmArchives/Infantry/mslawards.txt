@@ -1,0 +1,147 @@
+wards
+
+~2Championship Team~0 -- ~4Awarded to the Championship team ~0
+
+Season 18 - ~bJuggernaut~b~0
+Season 17 - ~bTeam Sabotage~b~0
+Season 16 - ~bJuggernaut~b~0
+Season 15 - ~bJuggernaut~b~0
+Season 14 - ~bSystem Err0r~b~0
+Season 13 - ~bSemper Fi~b~0
+Season 12 - ~bAllied Force~b~0
+Season 11 - ~bSemper Fi~b~0
+Season 10 - ~bSemper Fi~b~0
+Season 9 - ~bSemper Fi~b~0
+Season 8 - ~bRage~b~0
+Season 7 - ~bSuper Troopers~b~0
+Season 6 - ~bNew Beginning~b~0
+Season 5 - ~bNew Beginning~b~0
+Season 4 - ~bSystem Err0r~b~0
+Season 3 - ~bNew Beginning (tournament)~b~0
+Season 2 - ~bDeath_C0mpany~b~0
+Season 1 - ~bAfter-Life~b~0
+
+~2Meritorious Campaign Combat Banner~0 -- ~4Awarded to the squad who is most efficient at killing. ~0
+
+Season 18 - ~bAccess Denied~b~0
+Season 17 - ~bSystem Err0r~b~0
+season 16 - ~bTeam Sabotage~b~0
+Season 15 - ~bJuggernaut~b~0
+Season 14 - ~bSemper Fi~b~0
+Season 13 - ~bBlack Dragon Society~b~0
+Season 12 - ~bJuggernaut~b~0
+Season 11 - ~bSemper Fi~b~0
+Season 10 - ~bForce~b~0`
+Season 9 - ~bRage~b~0
+Season 8 - ~bSemper Fi~b~0
+Season 7 - ~bResurrection~b~0
+
+~2Meritorious Campaign Defense Banner~0 -- ~4Awarded to the squad who is most efficient at survivving ~0
+
+Season 18 - ~bOUT FOR BLOOD~b~0
+Season 17 - ~bApocalypse~b~0
+Season 16 - ~b Team Sabotage~b~0
+Season 15 - ~b Apocalypse~b~0
+Season 14 - ~bApocalypse~b~0
+Season 13 - ~bTeam Sabotage~b~0
+Season 12 - ~bApocalypse~b~0
+Season 11 - ~bEternal~b~0
+Season 10 - ~bSemper Fi~b~0
+Season 9 - ~bSemper Fi~b~0
+Season 8 - ~bSemper Fi~b~0
+Season 7 - ~bNew Beginning~b~0
+
+~2Campaign Commander Medal~0 -- ~4Awarded to the captain with the team that wins the championship ~0
+
+Season 18 - ~bSM~b~0
+Season 17 - ~bDrift~b~0
+Season 16 - ~b Homey D. Clown~b~0
+Season 15 - ~b SM~b~0
+Season 14 - ~bPokey~b~0
+Season 13 - ~bKVQ~b~0
+Season 12 - ~bMaddux~b~0
+Season 11 - ~bAkzel~b~0
+Season 10 - ~bImCanadianEh~b~0
+Season 9 - ~bAkzel~b~0
+Season 8 - ~bCash~b~0
+Season 7 - ~bMarsVolta~b~0
+
+~2Combat Infantry Star Medal~0 -- ~4Awarded to the most efficient and deadly player ~0
+
+Season 18 - ~bSamurai~b~0
+Season 17 - ~bKobe~b~0
+Season 16 - ~bSamurai~b~0
+Season 15 - ~bHoodrich~b~0
+Season 14 - ~bSM~b~0
+Season 13 - ~bAkzel~b~0
+Season 12 - ~bDai Shan~b~0
+Season 11 - ~bAkzel~b~0
+Season 10 - ~bN0oNe~b~0
+Season 9 - ~bAkzel~b~0
+Season 8 - ~bAkzel~b~0
+Season 7 - ~bBlitzkrieg~b~0
+
+~2Combat Medical Cross Medal~0 -- ~4Awarded to the most efficient and contributing medic to the success of a team ~0
+
+Season 18 - ~bSlob~b~0
+Season 17 - ~bRattlesnake -UPGRADED-~b~0
+Season 16 - ~bJuv~b~0
+Season 15- ~btv~b~0
+Season 14 - ~boNurHeeLsWiThHeaLs~b~0
+Season 13 - ~bCanadian_Chronic~b~0
+Season 12 - ~bJoeDaPimp~b~0
+Season 11 - ~bkaga~b~0
+Season 10 - ~bSky~b~0
+Season 9 - ~bJane~b~0
+Season 8 - ~bSky~b~0
+Season 7 - ~bSky~b~0
+
+~2Meritorious Conduct Cross Medal~0 -- ~4Awared to the most contributing staff member~0
+
+Season 18 - ~bChaos Blade~b~0
+Season 17 - ~bChaos Blade~b~0
+Season 16 - ~bDrift~b~0
+Season 15 - ~bkippa~b~0
+Season 14 - ~bRob Zomby~b~0
+Season 13 - ~bRamza~b~0
+Season 12 - ~baL oNes~b~0
+Season 11 - ~bKi~b~0
+Season 10 - ~bMTR3~b~0
+Season 9 - ~bNap~b~0
+Season 8 - ~bFlaw~b~0
+Season 7 - ~bThyxlaxious~b~0
+
+~2Combat Commendation Medal~0 -- ~4awarded to each player with over one hundred kills ~0
+
+Season 18-
+~b@Chaos Blade  England  kippa  Largo  Legend  Lethal  Mecca  Samurai  Slash  SM  Splittah  Sum  Tactical  Trisance  xTREAMxMEASUREx~0
+
+Season 17-
+~bChaos Blade, Ender, Eric, Kobe, SM~B~0
+
+Season 16-
+~bDevil,Drift, Ender, Factor, Hoodrich, Kevin Garnett, Lethal, Monkey,Sabotage, Samurai, SM, Void~B~0
+
+Season 15 -
+~bDevil, Pokey, Khaos, easoe, Drift, SM, Hoodrich~B~0
+
+Season 14
+~bSM~b~0
+
+Season 13
+~bCash, Akzel, Sabotage, Tide, Splittah~b~0
+
+Season 12
+~bDeviak, Unbelievable, Cael, Satan, Wiretap, Dreamwalker, Er, Maddux~b~0
+
+Season 11
+~bAkzel, Killer, Cronus, Frost, ER, Pandy, Ki, Under Par~b~0
+
+Season 10
+~bAkzel, SM~b~0
+
+Season 9
+~bAkzel, c0mbo, Maddux, Label~b~0
+
+Season 8
+~bAkzel, MarsVolta, Cash, Soulja~b~0

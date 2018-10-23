@@ -1,0 +1,44 @@
+~B~1GravBall: Mayhem~2~B
+
+
+~B~11/8/05 Update~B~2
+Hope everyone had a good holiday season and got what they wanted. Down to business. Updates this round include:
+
+- Raised the second ball to 20 total players in the room, effectively moving the one ball game from teams of 4, to teams of 5.
+
+- First ball will always spawn Center of the map. The North and South spawns will only become active once the second ball spawns.
+
+- Map Changes abound, mostly trying to free up some of the flow of the map and killing some of the more bottlenecked areas of the map.
+	
+
+~B~1Mayhem Changes~B~2
+
+Unlike with Gravball, you score on the your goal, not your opponents. The reason for change, is that the engine is limited on how things work, and this is one of the few realistic ways of working a 4 team map. You will spawn on the opposite side of the map from your goal.
+
+
+~B~1Gravball Basics~2~B
+
+Life as a space marine can get awefully stressful. Fortunately the most popular sport in the solar system is the cure for those 22nd century blues. GravBall.
+
+The games objective is simple; pick up a ball and get it into your teams goal. Players score on the goal that is roughly the same color as their gravbike.
+
+The ball can only be carried for a few seconds, then players have to pass the ball.
+
+Depending on the map, some goals have two-point shots and the number of goals needed to win the game varies. Some maps also have special terrain that damages your bike around the goal.
+
+GravBall is a full contact sport and each player is equipped with various weapons.  However, when carrying the ball the primary-fire-key (CONTROL by default) will do a long-pass and the secondary-fire-key (TAB by default) will do a short-pass.
+
+There are also specialty weapons that can picked up on the playing field as you fly around as well as Super Scooters.  If you have not reconfigured your keyboard, the keys will be as follows:
+
+CONTROL = Fire Pulse Gun (if carrying ball, it will do a long-pass)
+TAB = Fire Fusion Bomb (if carrying ball, it will do a short-pass)
+SHIFT-TAB = Fire AP Mine
+SHIFT-CONTROL = Fire Repel
+F5 = Fire Panic Disruptor
+F6 = Fire Rocket Rain
+F7 = Warp back to defense
+HOME = Hop
+END = Fire Jammer
+ALT+1 = Fire Stunner
+ALT+2 = Use Chucker/Hucker
+SHIFT-UP/SHIFT-DOWN = Scooter hyper-thrusters

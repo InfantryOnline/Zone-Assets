@@ -1,0 +1,150 @@
+Hockey Zone!
+~4
+~BZone Developers:~B
+7hm
+NANX
+~1
+
+
+~1Rules for the zone can be found via ESC --> Help
+
+~0
+~BUpdates~B
+
+~BTuesday, January 30th, 2007~B
+- replaced the player graphics with new ones. Each class group now has it's colour: 
+ Goalies are yellow, Defensemen are light blue and Forwards/Wings are olive green. Home team is blue, Away team is red. 
+ Huge thanks to Marex and LooseCannon for their efforts with this.
+- increased death respawn time to 1.5 seconds
+
+~BSaturday, January 20th, 2007~B
+- removed update from January 12th. Sorry about that
+- new goal physics will stay as the majority of you voted for the new version over the old version
+
+~BFriday, January 12th, 2007 (Subsequently Removed)~B
+- added shot/pass items so they are now changable in-game and aren't locked to primary/secondary fire
+
+~BMonday, January 1st, 2007~B
+- reverted finesse defense back to how it was prior to december updates
+- slightly lowered wing's check damage
+- added stop for finesse defense and speed forward. Takes 500 and 200 energy respectively.
+- added a backwards pass for skilled wing
+- announcing prior update to test some different goal physics
+
+~BThursday, December 28th, 2006~B
+- increased finesse defenseman's check a little bit
+- decreased finesse defenseman's thrust and energy level to 600
+
+~BWednesday, December 27th, 2006~B
+- Fixed the goal bugs
+- increased finesse defenseman's shot slighty
+- decreased finesse defenseman's prox 
+- increase skill wing's speed and carry time
+- increased speed forward's energy check cost
+- increased shooting wing's shot
+- shooting wing is now the same speed as center
+
+~BTuesday, August 22nd, 2006~B
+- Unnannounced changes from before: increasing Shooting Wing shot power to 8, and increasing Finesse D prox by 5
+- Changed timer settings back to normal.
+
+~BSaturday, August 12th, 2006~B
+- Lowered tile on the nets by 1
+- Increased goalie prox by 2 (both reflex and positional)
+- Lowered Speed forward top speed by 50 (like 3%)
+- Increased Power For top speed by 50
+- Removed visible bounty
+- Fixed leg speed
+
+~BSunday, August 5th, 2006~B
+- Changed graphics back (last night) to the small man.  When we get real hockey graphics, they'll be somewhere in between, size wise.
+- Added dive for the two goalies.  Gives them a fast thrust, at a large energy cost.
+- Lowered total energy for goalies.  Increased recharge.  Increased top speed.
+- Added a stop for players.
+...
+Later in the day:
+- Removed stop.  May see it again in the future (not season one).  Dive is still there.
+- New ruleset.  No racism in pub.  If you are racist (or just being an idiot) you will be warned, silenced, banned.
+- I'm going away for a couple days for work, so you'll have a chance to actually get used to these settings. :)
+
+~BSaturday, August 5th, 2006~B
+- Undocumented update from last time: Center check set to 400 (nerf of 50); Pfore recharge set to 950 (beef of 50); Skilled wing recharge set to 1120 (not sure how much it was beefed, but that's what the center and shot wing are at)
+- Increased Finesse D hold time to 5 seconds (from 4); increased Finesse D acceleration to 90 (from 75)
+- New map: difference is the nets.  They are one tile bigger on each side, and have a crossbar now to prevent lob goals
+- Goalie check is now a one hit kill
+...
+Later in the day:
+- Increased size of players (this is strictly a chance to the graphics, no gameplay effect)
+- Some changes to the map, to prevent it being messed up (scoring from behind the net)
+- Increased goalie speed by 10 across the board, as well as boosting the strafe
+- Your team now has to lead by 8 for the win
+
+~BThursday, August 3rd, 2006~B
+- Increased top speeds (all Skating classes except PFore)
+- Lowered accel (all skating classes)
+- Increased rotation speed (Wings + SFore)
+- Implemented name change that Tech suggested
+- Added arena ownership (owners can only use *unspec and *spec command) to assist in scrims
+
+~BTuesday, August 1st, 2006~B
+- Added another D class.  D Classes now are:
+	- Power D: Powerful check, but using it puts him into a bad situation.  Strong shot.  Lower speed (lowest in the game, but faster than before).
+	- Finesse D: No real check or shot, but fast (second fastest in the game).  Good energy for the tank.
+- Minor changes to goalies, beefing reflex (hold time, energy and recharge), slight nerf to the Positional goalie rotation speed.
+- The settings we go into the preseason with will be used for league.  Changes will not occur before league is over.  So... yeah.  Any suggestions etc, tell me now.
+
+~BThursday, July 27th, 2006~B
+- New map file
+- Lowered PFor recharge
+- Increased wing recharge
+- Increased goalie pass speed
+- Made checking visible
+
+~BWednesday, July 26th, 2006~B
+NEW: - Returned the backward thrust to normal.  Increased hyper for speed classes, and lowered hyper for non speed classes remain.
+- Added Zone Rules to the help section.  Esc -> Help -> Hockey Zone Rules
+- Made minor changes to the class speeds... each skating has individual hyper thrust (30 higher than their regular thrust, as opposed to all classes having 100 before); each skating class had a nerf to their backward thrust, except defenseman
+
+~BMonday, July 24th, 2006~B
+RIHL website is up at www.hzleague.com.  Go there.
+
+~BSaturday, July 15th, 2006~B
+- Minor changes to checking energy costs - attempt to decrease clusterfucking by making it a less viable tactic.
+- Slight nerf to skilled wing (speed lowered, it was too close to that of the speed forward)
+- Slight boost to center (energy increased to 500, gave them a lvl 3 check -> using it with only 500 energy puts the center at a great disadvantage if the check fails)
+- Returned D-man's energy gain to normal, but the lvl 4 check received the largest increase in energy cost
+- Gave each class their own vehicle size (should make checking some classes easier, others harder - also increases catch radius)... order goes: Positional Goalie, Reflex Goalie, Defenceman, Power Forward, Center, Shooting Wing, Skilled Wing, Speed Forward
+- Gave the shooting wing a raised slapshot (didn't change the power on the shot)
+- Removed stop from the speed forward, until I can figure out a way for it to work
+- Gave each class their own check -> not sure why we were trying to copy Subspace in that regard... individual classes can have individual checks, it's stupid not to do it that way
+
+~BFriday, July 14th, 2006~B
+- Lowered prox goalie speed... attempting to kill the stupid technique tech uses (ridiculously far into the crease)
+- Lowered energy gain for D slightly
+- Increased speeds across the board, slightly (5:3 ratio for skaters:goalies)
+
+~BThursday, July 13th, 2006~B
+- Lowered goalie prox
+- Added scramble back in
+
+~BTuesday, July 11th, 2006~B
+- So much for the temp setting... if I can figure out a way to get it to work, I will, till then we're using the same settings as before
+
+~I- Temporary settings: they will be rolled back after a day or so
+	- No hold times for the puck
+	- Only minimal energy gain while holding the puck - CONSERVE YOUR ENERGY and hyper-thrust intelligently
+	- Increased energy + gain across the board while not holding the puck to account for this~I
+
+~BSunday, July 9th, 2006~B
+- Updated news file
+- Made some minor cfg changes (removed scramble, lowered player min, increased # of players required to maintain stats)
+- Lowered Power Forward thrust and rotate speeds, should make it a bit more balanced
+- Gave goalie a second pass that should easily clear the puck for them when thing are tough... still being tested
+- Added a second goalie and edited the existing goalie
+	- Reflex Goalie: Fast, smaller prox
+	- Positional Goalie: Slow, larger prox
+- Added turnover stat
+- Added Stop item for speed forwards... still in testing
+- Increased Heavy D slapshot
+
+~BDeleted the past updates.  If anyone is intersted for historic purposes, I still have them stashed away.~B

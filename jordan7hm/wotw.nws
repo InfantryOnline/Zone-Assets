@@ -1,0 +1,86 @@
+~B~1INFANTRY: Conquest - War of The Worlds~2~B
+
+- Fixed LMG damage (its now higher, 12dmg/shot I believe)
+- Made spawn killing impossible
+- Removed turret guards to prevent putting the ball in the spawn
+- Changed VLR's so they have to be stopped to fire.
+- AntiWarp towers should work now.
+
+---
+- Made AntiWarp Towers Buildable
+- Lowered the Damage of the Gauss Cannon by 3 HP
+- Increased the LMG firing rate
+- Fixed the Auto Pistol
+- Fixed the Martian Speed
+- Lowered reload time of First Aid Kits
+- Fixed the spawn areas so they cant be fired into
+- Made the VLR a stand and shoot weapon
+- Fixed the Kamikazee Weapon
+
+
+~BThursday, March 16, 2000~B
+
+WELCOME TO WAR OF THE WORLDS!
+The zone in which you must infiltrate the enemy base and steal their pride and joy, their flag.
+The current zone objectives are as follows:
+
+- You get three deaths, you lose them, you're out!
+- The 'powersource' in the centre of the map (the Atomic Centre) is a sub game, you score on the opponent's goal for experience and points (which are used to upgrade your weapons).
+- You must warp to the enemy 'Mars base' and get their base key. Which is needed to gain entrance to the enemies base.  The 'Mars complex' is guarded of course, by the enemies in Player-controlled turrets, and nothing else.  So its a fast paced game at only 10 minutes per game.
+- You bring the enemy flag back to your base and hold it in your 'base area' for 2 minutes, after that time, you win, and its all reset again. If 10 minutes is up, its a tie, and its all restarted.
+- So the main objective is to get the enemy's flag, stay alive, and use medics as much as possible. Also, you can use the various recharge stations in the level, they use all your energy so use them sparingly.
+
+~BThere is a custom briefing file for this zone, type ?briefing to hear it.~B
+
+NOTE - This zone is a lot like Rod's Skirmish, this is in NO WAY going to replace skirmish zone, it is just an alternative game style of basically the same zone.  There is NO store, and ample vehicles, just so you know, ANTI WARP towers do NOT.. I repeat do NOT work yet.  if you build them they will only make noise, and it gets to be very annoying.  Also, the Atomic Centre game is Temporarily disabled, was giving a conflict in the game starts etc.
+
+Any suggestions to the zone, please post a message on the main Infantry BBS.
+
+Also, many thanks to my zone testers for all their much needed support and bug finding(s) (in no particular order):
+
+- Captain Harloch
+- Obelisk.
+- Conspiracy Theory
+- Yazour
+- Dressed in Black
+- Daedaleao
+- Col. Kitty Hawk
+- Unit92
+- 4U2NV
+- Cokeman
+
+Enjoy the zone.
+
+
+~BFriday, March 10, 2000~B
+
+Added a bunch of stuff to the gameplay, I am about to make a change to the map (I am adding two small islands).  This is the document that will be released when the zone is released:
+
+----
+WELCOME TO WAR OF THE WORLDS!
+The zone in which you must infiltrate the enemy base and steal their pride and joy, their flag.
+The current zone objectives are as follow:
+
+- You get one death, you die, you're out!
+- The 'powersource' in the centre of the map (the Atomic Centre) is a sub game, you score on the opponent's goal for experience and points (which are used to upgrade your weapons).
+- King of the hill is implemented, basically, the last man standing gets ez $$/EXP/PTS
+- You must warp to the enemy 'island' and get their base key. Which is needed to gain entrance to the enemies flag room.  The 'island complex' is guarded of course, by the enemies in Player-controlled turrets, and nothing else.  So its a fast paced game at only 10 minutes per game.
+- You bring the enemy flag back to your base and hold it in the 'base area' for 2 minutes, after that time, you win, and its all reset again. If 10 minutes is up, its a tie, and its all restarted.
+- So the main objective is to get the enemy's flag, stay alive, and use medics as much as possible. Also, you can use the various recharge stations in the level, they use XP so use them sparingly.
+----
+
+Many thanks to JeffP for the huge additions to the game for me (team based skills, and the deathmatch mode [1 death games]).  Also thanks to Glitch33 for a few ideas to make gameplay more fun and interesting (like those wonderful one use keys. . .)
+
+~BMonday, March 6, 2000~B
+
+Added 4 quotes to the tip file, so when you enter the zone you will get a random quote from the beginning of the book 'War of the Worlds'
+Added various SYSOP items, will begin adding weapon dependancies...
+
+~BSunday, March 5, 2000~B
+
+Had a big problem last night that was crashing the server, turned out to be the doors in the .LIO file. I am working on them right now.  Staff skill works again (now called HAL) you can get it by typing *prize 52  - weapons are only implemented for the staff skill right now.  I will work on weapons for the other classes later today.
+
+
+~BSaturday, March 4, 2000~B
+
+First build of the map WITH settings, no guns yet

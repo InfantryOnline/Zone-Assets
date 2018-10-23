@@ -1,0 +1,89 @@
+~b~4-This guide is for people who want to learn what CA is about. If you need more information about armors, please follow the link called "Tombstone's Armor guide".
+
+-----------------
+
+
+~2 ~3BASIC CA GAMEPLAY
+
+ ~3Contents:
+ ~31) Basic Introduction
+ ~32) Vehicles
+ ~33) Weapons
+ ~34) Random tips
+
+~61) Basic Introduction~b~2
+
+~4-CA is a fast paced zone, both in terms of bullet speeds, running speeds, weapon damages, and energy rates. Because of this, there is a lot of emphasis on strategy and tactics, as opposed to pure dodging and aiming skill, although it is not quite as dominant as, for example, in FL.
+
+
+~b~4- Why am I overweight?  I'm barely carrying any equipment! ~b~2
+You're using a lightweight setup.  Most standard loadouts will be between 20-30% overweight.  This simply means that if you'd like to move faster, you can carry less equipment, and if you like to hold more, you'll need to sacrifice a bit of speed.  This simulates "class setups" because weapons are designed to be heavier for heavier classes, requiring no difference in minimum and maximum weights.
+
+~b~4- Whats up with the weight system?  I can cary 120kg?!~b~2
+Everyone can carry the same weight no matter what class.  Other than being common sense, it's an opportunity to directly influence player speed by how much crap they want to lug around, which feels a lot more realistic.  So a heavy weapons can run around with a machine gun at the same speed as an infantry can... so long as he isn't wearing any armor and doesn't carry much ammo.  Some classes, like the heavy weapons aren't really intended to run around at 20kg (which is the set 'max').  If your weight turns yellow, each added pound will reduce your overall speed by 1%.  You can also carry as much ammo as you like, and there are no restrictions on how much you do or don't carry.  This allows a lot more freedom in how you customize your character in game.
+
+~b~4- My cloak isn't working against turrets!~b~2
+The commando class is the only class that is not shot at by turrets.  This has nothing to do with cloaking.  I repeat, you will be shot at by turrets unless the class you select in the class screen is a commando. 
+
+~b~4- What are Energy Cells?  What are rechargers?~b~2
+In short, energy weapons and equipment use energy cells instead of the typical suit energy like other zones.  They work like ammo, though they weigh nothing.  The max you can "carry" is 600.  Rechargers allow you to manually recover your auxilary energy supplies (Energy Cells).  The size (Light, Medium, Heavy) determines how many energy cells you get each time you hit the recharger key.  You don't have to have a recharger, they can be heavy so some classes may prefer to play without, energy cells are in the store under Ammo.  Everytime you die your energy cells will return to 600.
+
+~b~4- Where are the SSC's?  Where are the generators?~b~2
+This zone doesn't have big thick shields like other infantry zones, you aren't draining to kill people here, however, almost every weapon does a different amount of damage to different armor setups.
+
+
+~b~62) Vehicles~b~2
+
+~b~4- How do I build them?~b~2
+First, buy a blueprint for the vehicle you want. A blueprint is a 1-time use item can be dropped...
+Second, you need an engineer to build the vehicle for you, which is where the blueprint dropping comes in ;)
+Third, you need to build the vehicle at a vehicle bay.  Try not to build it into the walls...
+
+~B~4There are 3 types of vechicles and 3 types of pads.~B~2
+Light vech pad - Can only build light vechs from the "Blueprints - Mechanized" part of the store. Slowest repair rate.
+Heavy vech pad - Can build vechs from the "Blueprints - Mechanized", "Blueprints - Artillery", and "Blueprints - Tanks" part of the store. Medium repair rate.
+Air vech pad - Can build any vech in the game, including aircraft. Fastest repair rate.
+
+
+~b~63) Weapons~b~2
+
+~b~4- Weight~b~2
+A heavy gun will slow your movement, so consider it when choosing your main weapon.
+
+~b~4- Ammo Per Shot~b~2
+Most items that use energy tend to use more than one energy cell per shot.  This will tell you exactly how many energy cells are being used.
+
+~b~4- Jump? Kick? Sprint?  Is this a track simulator?~b~2
+No, use sprint to run away from grenades, shrapnel, and the detpack you just put down.
+Use jump to get over green physics.  You can jump onto yellow physics from there too.
+Use Kick to push somebody away.  It also jams their weapons for 0.8 seconds.
+
+
+~b~4If you are still having problems type ?chatadd !911, type your problem like this: ";1; I need help!" and someone will pm you shortly.  Players abusing !911 can be banned from the game.
+
+
+
+~64) Random Tips~b~2
+
+~4-Don't switch from conscript until you are able to afford armor.
+
+~4-To get money, it's not a bad idea to tag along with a rape group.
+
+~4-Lots of people are willing to donate money if you play and ask nicely - Just something I noticed.
+
+~4-Not all weapons damage a tank. Additionally, the general rule is that the gunner of a tank can only be damaged from shooting the back of the tank, even with legitimate AT weapons. Although it's not supposed to be that way anymore, you might want to play it safe.
+
+~4-Although being in a vehicle offers some protection, you need armor to be fully or almost-fully protected from weapons.
+
+~4-Bypass damage will damage people in tanks.
+
+~4-Rightclick on most things to find info on its stats, including how much damage it does/ignores.
+
+~4-You can test stuff in private arenas. Type ?go arenaName to create or join an arena of arenaName. Type ?arena to get a listing of the arenas. If you created the arena, you can send the mod commands *cash and *experience as personal messages. To send to yourself, one way is to have your name selected and type /*cash 3224324322 or if your name is Myname type :Myname:*experience 32324233
+
+-What is "linking"? To "link" two weapons together is to fire them one right after the other, with no fire delay in between. This allows for increased damage, as the victim does not get any breathing room to recharge their energy. Linking is used, for example, with the sawed off shotgun followed by a rifled burst, or with the silenced pistol followed by the silenced smg. Some weapons cannot be linked, while others are linked to deadly effect. You can try weapons out in private arenas to see if they can be linked.
+
+
+
+~5Compiled by ryanbe and master~b~2 ~3& made pretty by STAS and n0b kilza 2/21/08
+

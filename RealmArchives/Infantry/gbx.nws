@@ -1,0 +1,73 @@
+~B~1GravBall: X~2~B
+~B~1Updates to the bottom of the page~2~B
+
+Life as a space marine can get awefully stressful. Fortunately the most popular sport in the solar system is the cure for those 22nd century blues. GravBall. 
+
+But as with everything, eventually interest is lost, and the game fades. To renew the sport, the game was redesigned. Seperate bikes and new specials were introduced, and the map was shrank down to increase the speed of the game.
+
+
+~B~1Bike Types~2~B
+
+Goalie Bike: Built for improved shot stopping ability. Higher jumping ability at the cost of its fusion bomb. Does not start with repel or panic disruptor. Starts with Drift jets.
+
+Shooter Bike: Best shooting bike in the game. Better lob than all other bikes but loses fusion bomb. Does not start with repel or panic disruptor. Starts with Drift Jets.
+
+Attack Bike: The F-16 of the gravball arena. Afterburner system is cut to provide this bike Dual Pulse and Rapid Fire Bomb upgrades on spawn. An Energy Cell is removed to install a more effiecient energy system for lowering the energy requirements on the RF Bomb.
+
+Defense Bike: Removing the main propulsion jet to add an additional Fusion energy cell, this bike gains Energy reserves over any other bike on the field. While the main propulsion jet is an important loss in the speed department, the space saved on the bike allows for multiple smaller jets that leaves the bike only slightly slower than the standard bike, and it gains an improved AP mine.
+
+Octane Bike: Octane has simply become too expensive to import from the outer rim, and can no longer be randomly spawned in the arena as in years past. This lead us to create a specialized bike that uses the revolutionary "Petersen MAX" octane injection system to maximize the costly fuel. The only setback is that the Plasma bomb, afterburn, and AP Mine systems have to be removed to make room for the MAX system. While the MAX system doesn't make quite the same power as the old standard bikes did guzzling octane, the fact that the MAX system is far lighter than the systems removed, the loss of weight makes the bike equal the speed of old bikes running 3 octane tanks.
+
+Classic Bike: The standard bike of gravball, it has the ability to use everything in the game, but has no specialized abilities. Its the stock bike, and is aimed more for the new player who first needs to learn the sport and decide which bike to move up to, or the all around player who doesn't really feel its nessasary to lose different abilities to gain others.
+
+
+~B~1New Weaponry/Additions~2~B
+
+Warps: Warps have been split into offensive and defensive catagories. The offensive warp will spawn you near center like the old Warps did, however this warp is close to center, and costs 300 Energy. The defensive warp brings you back to your goal entrances, but will cost you 450 Energy, which on offensive bikes, like the attack and octane bike, will require you to be at max energy to use.
+
+Brake Jets: Pickup Upgrade, Useable until death. Gives the bike the ability to stop all momentum. Item is a manual on and off, meaning if you don't turn it back off, you will simply sit there, unable to move.
+
+Mortor Bomb: Pickup weapon, Useable until death. A shell much like a plasma bomb, except in the fact that it is airborne, instead of parallel along the arena floor. Used mainly for airborne enemies that are trying to escape or make a cut over a wall, or used as a deterent for a goalie that is perched on the goal.
+
+Cell Distruptor: Pickup special, One time use. Disrupts the bikes ability to recharge its energy cells, giving the attacker time to destroy the bike without fear of the opponent.
+
+Orbital Mine: Pickup Upgrade, One time use. This mine is equipped with orbital stabilizers which allow it to hang at whatever altitude it is dropped at. First developed by the military forces for global defense. IGBL officials were among the first group to make use of the weapon in the civilian sector. This smaller charge was backwards engineered to match the weaponset in the gravball arenas and match the standard AP mine, as the original version was far too destructive for a professional sport.
+
+~B~1Debriefing~2~b
+
+The games objective is simple; pick up a ball and get it into the opposing teams goal. Players defend the goal that is roughly the same color as their scooter.
+
+The ball can only be carried for a few seconds, then players have to pass the ball.
+
+Depending on the map, some goals have two-point shots and the number of goals needed to win the game varies. Some maps also have special terrain that damages your bike around the goal.
+
+GravBall is a full contact sport and each player is equipped with various weapons.  However, when carrying the ball the primary-fire-key (CONTROL by default) will do a long-pass and the secondary-fire-key (TAB by default) will do a short-pass.
+
+There are also specialty weapons that can picked up on the playing field as you fly around as well as Super Scooters.  If you have not reconfigured your keyboard, the keys will be as follows:
+
+	CONTROL = Fire Pulse Gun (if carrying ball, it will do a long-pass)
+	TAB = Fire Fusion Bomb (if carrying ball, it will do a short-pass)
+	SHIFT-TAB = Fire AP Mine
+	SHIFT-CONTROL = Fire Repel
+	F5 = Fire Panic Disruptor
+	F6 = Fire Rocket Rain
+	F7 = Warp back to defense
+	HOME = Hop
+	END = Fire Jammer
+	ALT+1 = Fire Stunner
+	ALT+2 = Use Chucker/Hucker
+	SHIFT-UP/SHIFT-DOWN = Scooter hyper-thrusters
+
+~B~1Updates~2~B
+
+6/14/06
+
+- Defensive Bikes speed increased so they can keep up a little better than before
+- Fixed a bug where changing class with the ball during the game would warp you with the ball. Also changed it so you will not spawn with rep or PD on an in-game change.
+
+
+6/11/06
+
+- Defensive Bikes gain a 3rd droppable Imp. AP mine
+- Mortar Bomb's projectile color change to help distingish it from a Fusion bomb.
+- Changed shrapnel around to lessen its effects on FPS.

@@ -1,0 +1,88 @@
+~B Ultimate Conquest: Kliest's Ridge~B
+
+~1
+~BPlease read Zone Rules located in the Help menu | Press ESC to acesss it~B
+
+~6
+~BZone Developer:~B
+Octavian
+
+~4 ~B
+Zone Objective: Attack and defend flags located on the map. Hold all flags for 180 seconds for victory.
+
+New concepts:   
+
+		Training      - Every item in UCQ:KR requires a corresponding training to use it. Training is the only limiting factor (besides weight) to how you set up your character.
+
+		Combat Suits  - Combat Suits are bit like classes with pre-equipped armors. They are inclusive of your protection, carry weight, and speed. Some Combat Suits have special utilities installed on them.
+
+		Garage/Hangar - Vehicles are created via menu at a Garage/Hangar terminal, these are located close to each home base. You must have the vehicle training for the vehicle you wish to make or control. Once a vehicle is created, there is a time limit between the production of the same vehicle for that team. 
+
+		MVP System - There is a very complex system in place to receive MVP points. The goal of this system is to reward players based upon how much they have helped their team, which means you can become an MVP by just supporting your teammates instead of killing. Examples -- Engineers receive MVP points for building structures that defend flags, Medics receive points for healing/reviving/injecting their teammates, summoners receive points for moving their teammates across the map, drivers receive points for allowing their gunner get kills. MVP rewards will be distributed at end of the game.
+
+~B
+~6~B Questions or Comments ~B
+
+If you have any questions or comments feel free to contact me via forums at www.freeinfantry.net
+
+If you offer suggestions in this manner I will be able to give them more detailed consideration.
+
+
+
+~2 Zone Updates
+
+~B 3-1-08 ~B
+	
+	Third flag will now appear at Delta Outpost at 50 players in game.
+	Fourth flag will appear at Kliest's Ridge at 60 players in game.
+	Titanium Oxide spawns near each hill.
+	New weapon under Heavy Support: Mortar 36HPAB
+	New weapon under Neurological: EX45 Immobilizer
+	Repair kit now uses energy and takes longer to repair.
+	Flamethrower is not as wild anymore and damage increase.
+	Incinerator no longer damages teammates.
+	MMVL Whistler damage increased.
+	Pulse Carbine received slight damage decrease.
+	Darklight Optics no longer usuable in vehicles.
+	Enhanced Sensors now usuable in vehicles.
+	Vehicles now have more bypass protection for occupants.
+	Vehicles occupants lose energy when undergoing fire.
+	AutoTurret MG's damage decreased.
+	Pandora's Element weight decreased.
+	Various small tweaks have made to most weapons.
+	
+	
+~B 2-22-08 ~B
+
+	New weapon under Weapons - Basic: Plasma Flak
+	Particle Accelerator damage has been reduced.
+	Eraser given minimum range.
+	Rail Cannon speed and damage  reduced.
+	Repair Kit given prefire and gradual repairing.
+	Increased vehicle occupant's protection against Biological and Neurological weapons.
+	Light and Medium ExoSuit speed increased.
+	**Expect new weapons soon -- Post an ideas you have in the forums.**
+	
+	
+~B 2-16-08 ~B
+
+	Map has been edited. I've added many more paths onto the hills. This will make the flags easier to fight over.
+	Heavy AutoTurret HMGs have been added to protect both Titan and Collective's base.
+	Vision on all of this hills have been removed.
+	Attempted to increase LOS. (distance seen)
+	All combat suit speeds have been increased. (again)
+	Heavy ExoSuit and Light ExoSuit armor reduced.
+	Light ExoSuit Dual LMGs should now hit players.
+	Raven/Striker armor reduced slightly.
+	Raven/Striker machinegun damage reduced slightly.
+	Phoenix missiles have had a damage increase.
+	Turret builders now get cash/points/experience for enemies their turret kills.
+	Various engineering kits weight reduced.
+	Injection kits weight reduced.
+	Reload delay on Medikit/Deluxe Medikit increased.
+
+~B 2-12-08 ~B
+
+	LUA code has been rewritten, hopefully will improve stability.
+	Weapon speeds have been increased in an attempt to improve gameplay. I've got a feeling they are a bit too fast, essentially just a test.
+	Various weapons have had damage increases/decreases to improve balance.

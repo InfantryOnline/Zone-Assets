@@ -1,0 +1,12 @@
+v6,2,1,2002,1,  0,1004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Asp","Ship Hull - Terran","","Terran Special Ops AeroSpace Fighter",  ShipSelectMov,ss_asp,0,0,0,0,0,550
+v6,15,1,2011,1,  0,1004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Excelsior","Ship Hull - Terran","","Terran Heavy Fighter",  ShipSelectMov,ss_excelsior,0,0,0,0,0,550
+v6,16,1,2012,1,  0,1004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Ravager","Ship Hull - Terran","","Terran Heavy Bomber",  ShipSelectMov,ss_ravenger,0,0,0,0,0,550
+v6,8,1,2000,1,  0,1004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Hornet","Ship Hull - Terran","","Terran Space Superiority Fighter",  ShipSelectMov,ss_hornet,0,0,0,0,0,550
+v6,1,1,2001,1,  0,1036,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Skithist","Ship Hull - Skithzar","","Skithzar Heavy Fighter",  ShipSelectMov,ss_skithist,0,0,0,0,0,550
+v6,4,1,2004,1,  0,1036,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Mastakith","Ship Hull - Skithzar","","Skithzar Space Superiority Fighter",  ShipSelectMov,ss_mastakith,0,0,0,0,0,550
+v6,11,1,2010,1,  0,1036,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Tarthist","Ship Hull - Skithzar","","Skithzar Special Ops Fighter",  ShipSelectMov,ss_tarthist,0,0,0,0,0,550
+v6,3,1,2003,1,  0,1036,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Kragath","Ship Hull - Skithzar","","Skithzar Heavy Bomber",  ShipSelectMov,ss_kragath,0,0,0,0,0,550
+v6,5,1,2005,1,  0,1041,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Rak'Kir","Ship Hull - Grazi","","Grazi Space Superiority Fighter",  ShipSelectMov,ss_rack,0,0,0,0,0,550
+v6,6,1,2006,1,  0,1041,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Rip'Pir","Ship Hull - Grazi","","Grazi Special Operations Fighter",  ShipSelectMov,SS_RIPP,0,0,0,0,0,550
+v6,9,1,2008,1,  0,1041,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Zap'Pir","Ship Hull - Grazi","","Grazi Heavy Bomber",  ShipSelectMov,ss_zappir,0,0,0,0,0,550
+v6,10,1,2009,1,  0,1041,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Zag'Gir","Ship Hull - Grazi","","Grazi Heavy Fighter",  ShipSelectMov,SS_ZAGG,0,0,0,0,0,550

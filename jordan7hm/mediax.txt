@@ -1,0 +1,25 @@
+Infantry main site: www.freeinfantry.com
+Medieval CTF forums: www.simfantry.com
+
+
+
+Welcome to Medieval CTF!
+
+This zone is very unfinished (but still in a playable state, so I thought I'd give people something to look forward to).
+There are hardly any experience/cash limitations right now because I need to see how all the weapons/classes interact
+with the short time span I have. You have may have noticed there is no armor. Why? Because this gives everyone equally
+vulnerable to damage. The only armor available is resistances (and a few short duration spells).
+
+Post your suggestions at www.simfantry.com please, I value everyone's input (and will do my best to respond to everything)
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Acknowledgments: Thanks to xThe_Shame for the killer map. Thanks to war, kwekly, Enska, and Cibrong for alot of the graphics seen.
+Thanks to Xelos, Syco, Hellspawn, Qloos, Super-Man, LooseCannon, and anyone else who has helped me one time or another with devving difficulties.
+Thanks to Frawg, Ning is here, duxx, Hrothgar, razak, stupendous, Hellspawn, Death, miraj, and anyone else who helped test or give suggestions.
+Thanks Angar for the melee icon graphics :)

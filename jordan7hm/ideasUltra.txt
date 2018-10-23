@@ -1,0 +1,55 @@
+ideas
+
+Random Brewery Spawns with turrets
+
+When it destroys there's a bunch of beer that spawns
+<_7hm> so lets say the brewery is spawned... once an hour
+<lune> u go to the brewery and u have to activate it
+<PSYCHOKILLER> hour - tolong
+<_7hm> with turrets to defend
+<_7hm> yeah
+<PSYCHOKILLER> make 30min
+<Sivaschin> computer controlled turrets*
+<_7hm> and the team that activates it first gets to defend it
+<Sivaschin> or pdb style?
+<PSYCHOKILLER> i say auto
+<_7hm> it will still be strong enough to live on its own for maybe 5 minutes with no team defending it
+<demoship> make it so
+<Sivaschin> are these brewery camps set in predefined locations?
+<demoship> it produces 60 beer / hour, OR 12 beer immediately if you destroy it
+<demoship> but if you want it to produce 60 beer / hour
+<demoship> you have to "invest" 12 beer
+<demoship> and if NME team destroys it
+<_7hm> it costs beer to activate it
+<demoship> tough
+<Sivaschin> yeah, a gamble to between long term and short term gains
+<Sivaschin> i like that
+<_7hm> and once its activated, it doesnt drop beer
+<_7hm> i like that
+
+
+Cash Reward system
+
+<_7hm> there's gotta be other ways
+<_7hm> with the lua there are
+<_7hm> ill add a Reward system
+<lune> maybe put flags on the map or something
+<_7hm> when you get 10 kills in a row, when you reach 200 kills, stuff like that
+<lune> flags = $
+<_7hm> you get 1 $
+
+Wreckage
+
+When you destroy buildings Junk is dropped that can be converted to BP
+Tanks do too
+
+Buyable brewery at high cost
+
+Convert BP to beer at a loss
+
+Implement population Limits for vehicles
+
+yeah we'll make the # of vehicles allowed based on population size
+<_7hm> maybe 1 heavy tank / team
+<_7hm> 2 light tanks
+

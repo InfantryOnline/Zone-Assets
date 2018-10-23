@@ -1,0 +1,236 @@
+~1 Welcome to Chambert's Moon Xtreme
+
+~2~4Rewards~2~B
+The new rewards system is weirdish, so I'll provide a list here.  In addition to basic killing/crown game rewards, you get:
+
+1)Bonus rewards for killing someone with more xp than yourself, or someone who uses more 100k weapons/armors.
+*Note: for these purposes, slug carbine counts as a 100k.
+
+2)Relatively large bonus rewards for killing enemy crowners.
+3)Relatively large endgame rewards for lasting long with a crown - if you were the 2nd last crown to die you'd get more than if you were the 4th last crown
+*Note: 2),3) are distributed evenly amongst teammates, including yourself.  The smaller the team, the more of the actual reward you get.  This is to encourage vets to try and solo.
+
+**Note: This means you get rewards for helping your team crown and hunt!
+
+4) Individual endgame rewards based on how much trucing you've been doing relative to the rest of the arena.
+*Note: This is still experimental, and may require tweaking.
+
+
+*Note: To avoid spam, rewards from teammates are only shown if they are 100 or more.
+
+
+
+
+
+~2~4What is CMX?~2~B
+CMX is CT/new CM, or rather another incarnation of it.  It was suggested to the CT balancers that if we made a new zone starting with the classically balanced CM template, imported CT items and balanced bit by bit, we might get better results.  CMX is that zone.  In some sense, this is an attempted reconstruction of CT.  Note that CMX should not be considered as separate from CT, and the CT devs are also credited as CMX devs.  For one thing, many (though not all) of the new CMX weapons are shameless ripoffs from CT ["Ripping" in the zone news is from CT, unless stated otherwise.]  Right now, the path of this zone is uncertain.  CMX may end up replacing CT, it may diverge so much as to become its own zone, or it may be scrapped.  Until then, have fun testing and feedback is always welcome.
+
+~2~4Differences between CT and CMX~2~B
+This zone is meant to evolve to CT, and is not meant to have drastic differences aside from balance.  That said, however, I can already see a few ways they might be different. Since we start off with a more balanced template, CMX changes will probably be more conservative, with more a philosophy of "don't fix something if it isn't broken".  The result will probably be a reduced itemset, without some of the fancier changes (e.g. jakob pistol).  The armor set will probably be more newbie friendly (though this does not allow for as much customization).  Other changes will come as testing gives us direction.
+
+Anything that has "hunter" in its name is specifically an anti-alien weapon (ineffective against humans).  Anything that has "(Hunter)" or "(pre-Hunter)" in its name is a weapon that has sacrificed some effectiveness against humans in exchange for increased effectiveness against aliens.
+
+~5Please see the two second anti alien guide, under Esc --> Help, if you are not an expert at fighting aliens.
+
+~6Note: Spec hunting is NOT allowed, DO NOT constantly spec a player in attempt to hunt and kill them.
+
+
+~2Important Bongs
+-%5 = Crowner Spotted
+-%6 = Crown In Danger
+-%7 = Summon Me Now
+-%8 = You've Been Antiwarped
+-%9 = Low Crown Timer
+
+~5Zone Sysops:
+NiTe
+Xelos
+
+Other Zone Devs:
+Mastar Singularity
+Randy
+
+~b~4Use ?sell %tickitem , when selected on you itemlist to sell certain things.~b~4K
+
+~2~4Zone Updates~2~B
+
+March 5, 2008
+Mastar:
+-You get bonus rewards at endgame for killing a variety of people.  Basically if you truce and/or victimize only a few people, you get less bonus.  Still in testing phase.
+-Bonus rewards for killing crowners or being one of the last crowns = 1.5*CT's reward.  Winning crowner(s) also get bonus.
+-Ripped PDU Plus (Psycho)
+-Reduced prices for items which cost less than 15k so that dropwiping is no longer necessary, only useful
+-Added different color warps
+-Hunter RPF improved
+-Removed the (Hunter) line of weapons, the (pre-Hunters) remain
+-CM Aliens reinstated, new abilities probably coming soon
+-Moving seggs might be coming soon
+-Beefed Pulse rifle (NOT master) a little
+
+Oct 15,2007
+Mastar:
+-Added the (Hunter) line of weapons which, unlike the spirit of hunter weapons so far, are basically normal weapons jury-rigged (i.e. they don't only hurt aliens).
+-Added the (pre-Hunter) line of weapons, cheaper versions that do as much damage against aliens but less against humans.
+
+
+
+Oct 1, 07
+Mastar:
+-Font colors changed to give trucers a slightly harder time ;)
+-Minor updates to the .itm
+
+Sep 30,07
+Mastar:
+-Tweaked the setups you are automatically given upon changing class, hopefully they are now more helpful.
+-Hunter grenade shamelessly advertised via that method; I'm not sure how many of y'all read the news :p
+-PDU also advertised, not quite so shamelessly; there's been an influx of new players, many of whom don't use pdu nearly as often as they should =/
+
+Sep 29, 07
+Mastar:
+-Reduced hunter rifles/pistols weights by 1/4ths, I expect to see a lot more of yall carrying it.
+-Made the zone news more organized: moved "managing cash" and the "anti-alien guide" to the halp section
+-Reduced Hunter mas nade weight slightly
+-Reduced Hunter Psi Annhilation weight
+
+Sep 23, 07
+Mastar:
+-Added alcoholic fumes, with ripped graphics
+-Added spec sensors
+-Full electronic protection added to dependent vehicles as well.
+
+Sep 22,07
+Randy:
+-Color changes on new hunter weapons to help differentiate them from other weapons, rpf got completely new graphic
+-Crossbow ZH removed, unfortunately it is incompatable with cm armors
+-Crossbow (Water) beefed slightly
+
+Mastar:
+-Just noticed: for some reason, driver was missing from F11.  Still not sure why or how long this has been, but reuploading the .rpg appears to have fixed it.  Apologies for any inconvenience.
+-Made drivers able to use: hunter grenade mas, hunter rpf
+-Beefed hunter grenade mas inner damage by 5
+
+Sep 21,07
+Mastar:
+-Added Hunter Psionic Annhilation
+-Ripped concussion effect from CA, modified the concussion effect slightly to get a weak thermobaric effect.  The "concussive force" sub-effect was not ripped, so the ripped concussions don't push you around.
+-From those two, added the Hunter FAE Grenade, Hunter RPF.  Note that the latter is pretty much unlike the thermobaric effect in CA, and you should go there for the real thing.
+-Fixed the skill requirements for some xbows
+-Slightly lowered damage on (normal) hunter grenades
+-PGU25 AC round nerfed slightly
+
+Sep 20,07
+Randy:
+-Moved Flamertrowers to new Heavy section in store.  Not nearly as much clutter.
+-Radioball no longer point-blankable, and radius given slight nerf.
+
+Sep 19, 07
+Mastar:
+-Added hunter grenade, hunter grenade MAS
+-Vehicle elec ignores now at 100%
+-Slightly reduced beefy alien strafe (i seem to have entered the wrong number last time)
+-Reduced max players on team to 5, we will see how this goes - hopefully it'll lead to faster games.
+-Kill, killshare, and win rewards upped slightly again.  I'm hoping everyone gets 100k soon.. we need a party ;)
+-Ripped Mind Tempest
+-Reduced ammo consumption by tsunami and wave
+-Ghost spit now does same damage as hot spit.
+-Explosives section in store was getting large, so moved heavy weapons to "heavy" section
+-Minor description changes.
+
+Sep 18,07
+Mastar:
+-Completely redid alien system, made most 100k alien items cheaper
+-Took out the PDU pluses that weren't supposed to be in store
+-Increased kill and crowning cash rewards
+-Behemoth and Rusty back down to 20kg
+-More alien related nerfs:
+-Aliens speed, hp downgraded one step
+-Increased segg energy cost, phos requirement
+-Increased summon energy requirement
+-Alien flame, spit, cold spit given SLIGHT nerfs, wasp drone given higher nerf
+-Alien energy rates down to King standard
+-Ghost TD range decreased from 200 to 150 pixels
+
+-This is the last update to aliens with 75% probability:
+-Phasing, Ghost, sixth sense is no longer innate (except phasing for Ghostly Aliens), they cost 100k.
+-Aura and radiate are 100k
+-Added 100k summon, 100k queen recharge
+
+Sep 17,07
+Mastar:
+-Added PDU Plus (All), PDU Plus (Slow) [non-purchasables] just in case
+-Ripped xbow LH, ZH, water and explosive darts
+-Made prox of AC AP rounds 0.
+-Made snipers unable to use Skorp MAS
+-Added Colt MAS, Jakob MAS
+-Added AP rounds for the 'Rusty'
+-Brought hunter pistol mas round back to 13
+-Tripled prices of handigates
+
+
+
+
+
+Sep 16, 07
+Mastar:
+-Added noob shackles, restrictive shackles
+-Mas gauss weight increased to 10kg, energy usage to 46.5kj
+-Auto Cannons' HE Rounds prox decreased to 8
+-Fixed bug where SRM Launcher given to heavy mech
+-Ripped Deep Concentration, Made (Drop), (Drop Addon) - all non-purchasable, but the day may yet come...
+-Made High Concentration (Drop), (Drop Addon); Steroid Kit (Drop), (Drop Addon), Steroid kit gives directly to inventory
+-Changed skill logic of all AC variants so it's used by heavy
+-Made Rusty unsellable
+
+Sep 15, 07
+Mastar:
+-Ripped Behemoth AC, Behemoth rounds, Rusty AC
+-X-Roaster ammo capacity increased from 10 to 12
+-MAS Skorp weight increased from 4 to 5kg
+-Ripped PDU Plus
+-All 100k armors, Assault Laser k1, Avenger Tank, Heavy Mech, Paralyzer, Mk6, taunts now 100% sellback.  This should be all of them.
+-Mas fusion carbine ammo capacity back down to 11
+-Added Seducer (non-purchasable) but I suspect it will need some tweaking.
+-Skorpion MAS actually buys and sells for 100k now
+-Made Hurricane droppable, unsellable
+-Fixed skill logic bugs: made Gyros used by heavies and Spanker by contam
+-Due to popularity, added "Fart 'O' Doom", a Gyro usable by everyone (non-purchasable)
+-High concentration now gives crystals directly into psi inventory
+
+Sep 13, 07
+Mastar:
+-Ripped Hurricane, Tsunami, Wave
+-Riped Bolt Empowered, Blast Express, Zephyr (not imported), Spanker
+-Made all currently ripped weapons use (their amount of energy cost) on Terrain 1 rather than -1.  Please note this should continue in future.
+-Reduced Schwartz fire delay to 5s
+-Ripped HE Gyro Launcher
+-Increased M4 Incinerator lifetime to 0.85s from 0.8s
+-Renamed Psionic Hurricane to Psionic Incursion, in preparation for "importing" CT Hurricane
+-Random description changes
+-Added MAS Hunter rifle, MAS hunter pistol
+
+Sep 12, 07
+
+Randy:
+-Changed a bug in the .itm set
+-Changed graphic colors for the MASes fusion rifle, fusion carbine, gauss rifle
+-Fixed skill logic bug with ripped incins
+
+Mastar:
+-Added mas fusion rifle, mas fusion carbine, mas gauss rifle
+-Added mas skorpion smg
+-Added The Schwartz (non-purchasable)
+-Added assault suit 0.75, 0.5, attack suit 0.75, 0.5, anti-rad combat suit 0.75, 0.5,  mental shield 0.5, infantry reduced energy field 1, 2, 3 (0.25, 0.5, 0.75)
+-Ripped toaster, x-roaster, and x-cold fusion cell
+-Ripped M202 Flamethrower, M4 Flamethrower (renamed Incinerators)
+
+-100% sellback given to the following items:
+force
+all mas rifles
+mas shotgun
+all ripped items
+xbow vh
+megablast
+
+(All 100ks from now on recieving 100% sellback.)
+
+~1a~2b~3c~4d~5e~6f~7g~8h~9i~10j

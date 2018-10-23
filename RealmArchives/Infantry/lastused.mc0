@@ -1,0 +1,24 @@
+;6;Figured you were busy. We appreciate your time.
+'Take it Center!%5
+'Take it South!%6
+;7;Welcome to !911 chat, how may we help you?
+. :)
+'Defend North!%1
+'Defend Center!%2
+'Defend South!%3
+//Go to the Bridge!%7
+//I'm in the goal!%8
+//Take it Back!%10
+?loadmacro switch
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,163 @@
+4,v12,100,"DeathEntry",19888,3104,  0,300,0, 0,0,290,
+4,v12,0,"viewer",5344,10832,  0,0,0, 0,0,0,
+4,v12,1,"MarketRecall",19888,2576,  0,300,1, 0,0,120,
+6,v12,50,"DS Airport",19040,2672,    60,-1,3520,8880,2000, 100,0,wzauc_01,warp_small,0,0,0,0,0,None,None,0,0
+6,v12,51,"DS Mountain Range",19584,2464,    60,-1,11136,7760,700, 100,0,wzauc_01,warp_small,0,0,0,0,0,None,None,0,0
+6,v12,52,"DS West City",19760,2272,    60,-1,5120,704,700, 100,0,wzauc_01,warp_small,0,0,0,0,0,None,None,0,0
+6,v12,53,"DS East City1",19920,2288,    25,-1,12896,2000,700, 100,0,wzauc_01,warp_small,0,0,0,0,0,None,None,0,0
+1,v12,300,"City Wall South A1",8896,2272,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,301,"City Wall South A2",8928,2272,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,302,"City Wall South A3",8960,2272,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,303,"City Wall South A4",8992,2272,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,304,"City Wall South A5",9024,2272,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,305,"City Wall South A6",9056,2272,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,306,"City Wall South A7",9088,2272,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,307,"City Wall South A8",9120,2272,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,308,"City Wall South A9",9152,2272,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,309,"City Wall South AA1",9168,2272,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+2,v12,400,"City Wall South IN",8596,2164,    0, 300,301,302,303,304,305,306,307,308,309,0,0,0,0,0,0, 150,0,0,0,2000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,None,None,0,0
+1,v12,310,"City Wall West B1",7392,720,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,311,"City Wall West B2",7392,752,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,312,"City Wall West B3",7392,784,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,313,"City Wall West B4",7392,816,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,314,"City Wall West B5",7392,848,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,315,"City Wall West B6",7392,880,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,316,"City Wall West B7",7392,912,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+2,v12,402,"City Wall West IN",7588,596,    0, 310,311,312,313,314,315,316,0,0,0,0,0,0,0,0,0, 150,0,0,0,1500, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,None,None,0,0
+6,v12,56,"DS Duel Arenas",20192,2464,    60,-1,22064,14560,80, 100,0,wzauc_01,warp_small,0,0,0,0,0,None,None,0,0
+6,v12,54,"DS Duel Arenas Exit",22072,14816,    20,-1,19888,3104,290, 100,0,wzauc_02,bb_disk,0,0,0,0,0,None,None,0,0
+6,v12,55,"DS X",20192,2672,    60,-1,15376,624,700, 100,0,wzauc_01,warp_small,0,0,0,0,0,None,None,0,0
+2,v12,401,"City Wall South OUT",8180,2996,    0, 300,301,302,303,304,305,306,307,308,309,0,0,0,0,0,0, 150,0,0,0,2000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,None,None,0,0
+2,v12,403,"City Wall West OUT",6916,1156,    0, 310,311,312,313,314,315,316,0,0,0,0,0,0,0,0,0, 150,0,0,0,1500, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,None,None,0,0
+5,v12,7,"DuelingStation01",22064,13984,     1,0,0,1, 0,300,0,99999, 1,0,-426,0, -1,0
+1,v12,317,"G-Labs West A1",14400,2896,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,318,"G-Labs West A2",14400,2928,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,320,"G-Labs West A4",14400,2992,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,321,"G-Labs West A5",14400,3024,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,322,"G-Labs West A6",14400,3056,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,323,"G-Labs West A7",14400,3088,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,319,"G-Labs West A3",14400,2960,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,324,"G-Labs North C1",15760,1840,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,325,"G-Labs North C2",15792,1840,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,326,"G-Labs North C3",15824,1840,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,327,"G-Labs North C4",15856,1840,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+2,v12,404,"G-Labs West IN",14548,2852,    0, 317,318,319,320,321,322,323,0,0,0,0,0,0,0,0,0, 150,0,0,0,1000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,None,None,0,0
+2,v12,405,"G-Labs West OUT",14324,3172,    0, 317,318,319,320,321,322,323,0,0,0,0,0,0,0,0,0, 150,0,0,0,1000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,None,None,0,0
+2,v12,406,"G-Labs East OUT",17156,3412,    0, 331,332,333,334,335,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,1000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,None,None,0,0
+2,v12,407,"G-Labs East IN",16996,3172,    0, 331,332,333,334,335,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,1000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,None,None,0,0
+1,v12,328,"G-Labs North C5",15888,1840,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,329,"G-Labs North C6",15920,1840,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,330,"G-Labs North C7",15952,1840,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,331,"G-Labs East B1",17088,3264,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,332,"G-Labs East B2",17088,3296,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,333,"G-Labs East B3",17088,3328,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,334,"G-Labs East B4",17088,3360,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,335,"G-Labs East B5",17088,3376,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,336,"G-Labs South D1",15952,3616,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,337,"G-Labs South D2",15920,3616,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,339,"G-Labs South D4",15856,3616,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,338,"G-Labs South D3",15888,3616,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,341,"G-Labs South D5",15824,3616,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,342,"G-Labs South D6",15792,3616,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,343,"G-Labs South D7",15776,3616,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,344,"G-Labs South D8",15744,3616,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,8,"Garage North West A1",3872,1248,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,9,"Garage North West A2",3872,1280,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,10,"Garage North West A3",3872,1312,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,11,"Garage North West A4",3872,1344,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,12,"Garage North West A5",3872,1376,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,13,"Garage North West A6",3872,1408,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,14,"Garage Center B1",9456,6128,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,15,"Garage Center B2",9456,6160,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,16,"Garage Center B3",9456,6192,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,17,"Garage Center B4",9456,6224,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,18,"Garage Center B5",9456,6256,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,19,"Garage Center B6",9456,6288,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,20,"Garage Center B7",9456,6320,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,21,"Hanger East A1",16688,10096,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,22,"Hanger East A2",16720,10096,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,23,"Hanger East A3",16752,10096,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,24,"Hanger East A4",16784,10096,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,25,"Hanger East A5",16816,10096,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,26,"Hanger East A6",16848,10096,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,27,"Hanger East A7",16880,10096,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,28,"Hanger East A8",16912,10096,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,29,"Hanger East A9",16944,10096,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,30,"Hanger West B1",3408,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,31,"Hanger West B2",3376,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,32,"Hanger West B3",3344,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,33,"Hanger West B4",3312,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,34,"Hanger West B5",3280,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,35,"Hanger West B6",3248,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,36,"Hanger West B7",3216,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,37,"Hanger West B8",3184,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,38,"Hanger West B9",3152,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,39,"Hanger West BB1",3120,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,40,"Hanger West BB2",3088,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,41,"Hanger West BB3",3056,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,42,"Hanger West BB4",3024,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,43,"Hanger West BB5",2992,8944,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,44,"Hanger North C1",13040,560,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,45,"Hanger North C2",13040,592,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,46,"Hanger North C3",13040,624,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,47,"Hanger North C4",13040,656,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,48,"Hanger North C5",13040,688,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,49,"Hanger North C6",13040,720,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,57,"Hanger North C7",13040,752,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,58,"Hanger North C8",13040,784,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,59,"Hanger North C9",13040,816,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,60,"Hanger South D1",16352,10544,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,61,"Hanger South D2",16352,10576,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,62,"Hanger South D3",16352,10608,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,63,"Hanger South D4",16352,10640,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,64,"Hanger South D5",16352,10672,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,65,"Hanger South D6",16352,10704,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,66,"Hanger South D7",16352,10720,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,0,0,0,None,None,0,0,None,None,0,0
+2,v12,67,"G-Labs North IN",15748,2004,    0, 324,325,326,327,328,329,330,0,0,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,None,None,0,0
+2,v12,68,"G-Labs North OUT",16004,1796,    0, 324,325,326,327,328,329,330,0,0,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,None,None,0,0
+2,v12,69,"G-Labs South IN",15700,3508,    0, 336,337,338,339,341,342,343,344,0,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,None,None,0,0
+2,v12,70,"G-Labs South OUT",16004,3700,    0, 336,337,338,339,341,342,343,344,0,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,None,None,0,0
+2,v12,71,"Garage Center IN",9492,6100,    0, 14,15,16,17,18,19,20,0,0,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,None,None,0,0
+2,v12,72,"Garage Center OUT",9412,6100,    0, 14,15,16,17,18,19,20,0,0,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,None,None,0,0
+2,v12,73,"Garage North West OUT",3908,1188,    0, 8,9,10,11,12,13,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,None,None,0,0
+2,v12,74,"Garage North West IN",3828,1188,    0, 8,9,10,11,12,13,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,None,None,0,0
+2,v12,75,"Hanger West OUT",3444,8884,    0, 30,31,32,33,34,35,36,37,38,39,40,41,42,43,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockD256,0,0,0,0,0,None,None,0,0
+2,v12,76,"Hanger West IN",2964,9012,    0, 30,31,32,33,34,35,36,37,38,39,40,41,42,43,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,None,None,0,0
+2,v12,77,"Hanger East IN",16660,10196,    0, 21,22,23,24,25,26,27,28,29,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockH256,0,0,0,0,0,None,None,0,0
+2,v12,78,"Hanger East OUT",16996,10020,    0, 21,22,23,24,25,26,27,28,29,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockD256,0,0,0,0,0,None,None,0,0
+2,v12,79,"Hanger South OUT",16228,10756,    0, 60,61,62,63,64,65,66,0,0,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,None,None,0,0
+2,v12,80,"Hanger South IN",16484,10500,    0, 60,61,62,63,64,65,66,0,0,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,None,None,0,0
+2,v12,81,"Garage North IN",12948,868,    0, 44,45,46,47,48,49,57,58,59,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockC256,0,0,0,0,0,None,None,0,0
+2,v12,82,"Garage North OUT",13140,516,    0, 44,45,46,47,48,49,57,58,59,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockG256,0,0,0,0,0,None,None,0,0
+5,v12,83,"Energy Cubes G-LABS",16592,2112,     5,1000,1000,1, 0,300,0,99999, 5,200,141,90, 1,0
+5,v12,84,"Hanger East Ammo Store",16880,10656,     1,18000,18000,1, 0,300,0,99999, 1,-1,-449,0, -1,0
+5,v12,85,"Hanger West Ammo Store",3312,9520,     1,18000,18000,1, 0,300,0,99999, 1,-1,-449,0, -1,0
+5,v12,86,"Public Explosives Box CityEast2",15536,896,     1,18000,18000,1, 0,300,0,99999, 1,-1,-416,0, -1,0
+5,v12,87,"Public Explosives Box CityEast1",13536,1808,     1,18000,18000,1, 0,300,0,99999, 1,-1,-416,0, -1,0
+5,v12,88,"Public Explosives Box CityEast3",16976,3456,     1,18000,18000,1, 0,300,0,99999, 1,-1,-416,0, -1,0
+5,v12,89,"Public Explosives Box CityWest2",8384,1408,     1,18000,18000,1, 0,300,0,99999, 1,-1,-416,0, -1,0
+5,v12,90,"Public Explosives Box CityWest1",7712,1936,     0,18000,18000,1, 0,300,0,99999, 1,-1,-416,0, -1,0
+5,v12,91,"Public Explosives Box CityWest3",9824,2048,     1,18000,18000,1, 0,300,0,99999, 1,-1,-416,0, -1,0
+5,v12,92,"Roof G-Labs A1",16544,2400,     1,18000,18000,1, 0,300,0,99999, 1,-1,-446,0, -1,0
+5,v12,93,"Roof G-Labs A3",16432,3584,     1,18000,18000,1, 0,300,0,99999, 1,-1,-447,0, -1,0
+5,v12,94,"Roof G-Labs A2",16544,3024,     1,18000,18000,1, 0,300,0,99999, 1,-1,-446,0, -1,0
+5,v12,95,"Roof G-Labs A4",14944,3008,     1,18000,18000,1, 0,300,0,99999, 1,-1,-446,0, -1,0
+5,v12,96,"Roof G-Labs A5",15712,3008,     1,18000,18000,1, 0,300,0,99999, 1,-1,-446,0, -1,0
+5,v12,97,"Roof G-Labs A6",14960,2400,     1,18000,18000,1, 0,300,0,99999, 1,-1,-446,0, -1,0
+5,v12,98,"Roof G-Labs A7",15760,2336,     1,18000,18000,1, 0,300,0,99999, 1,-1,-446,0, -1,0
+6,v12,99,"DS East City2",20000,2288,    25,-1,13808,3504,700, 100,0,wzauc_01,warp_small,0,0,0,0,0,None,None,0,0
+6,v12,101,"DS East City3",20080,2288,    25,-1,9984,2560,700, 100,0,wzauc_01,warp_small,0,0,0,0,0,None,None,0,0
+6,v12,102,"DS East City4",20160,2288,    25,-1,8160,848,700, 100,0,wzauc_01,warp_small,0,0,0,0,0,None,None,0,0
+5,v12,103,"Explosive Barrels EastCity1",15920,2816,     0,18000,18000,1, 0,300,0,99999, 1,-1,-451,0, -1,0
+5,v12,104,"Explosive Barrels EastCity2",13472,2944,     0,18000,18000,1, 0,300,0,99999, 1,-1,-452,0, -1,0
+5,v12,105,"Explosive Barrels EastCity3",13728,960,     0,18000,18000,1, 0,300,0,99999, 1,-1,-453,0, -1,0
+5,v12,106,"Explosive Barrels EastCity4",15072,1568,     0,18000,18000,1, 0,300,0,99999, 1,-1,-453,0, -1,0
+1,v12,107,"Garage East Z1",5424,6064,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,108,"Garage East Z2",5392,6064,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,109,"Garage East Z3",5360,6064,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,110,"Garage East Z4",5328,6064,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,111,"Garage East Z5",5296,6064,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v12,112,"Garage East Z6",5264,6064,    -1,-1,2,2, 0,0, DOORS,Metac,0,0,0,0,0,None,None,0,0,None,None,0,0
+2,v12,113,"Garage East IN",5476,6100,    0, 107,108,109,110,111,112,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockA256,0,0,0,0,0,None,None,0,0
+2,v12,114,"Garage East OUT",5220,6020,    0, 107,108,109,110,111,112,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,7000, !(%1|%2),-1, 0,0,0,0,0,0, o_doors,DoorLockE256,0,0,0,0,0,None,None,0,0
+6,v12,2,"KR Base Stairs",2152,2832,    15,-1,2592,12192,90, 0,0,wzauc_02,bb_disk,0,0,0,0,0,None,None,0,0

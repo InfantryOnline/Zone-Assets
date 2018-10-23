@@ -1,0 +1,398 @@
+~B~1Chaos Advanced~2~B
+
+~B~5******************************
+If you like the zone please nag MP and Amy whenever you see them. Tell them that you want to see Chaos Advanced in Infantry
+******************************~2~B
+
+Welcome to Chaos Advanced. The object of this zone is simply to kill the enemy. Press F11 to select a ship and get started. Press F1 for a help-menu at any time.
+
+If you come across a large silver colored vehicle, go up next to it facing it and press space-bar to hop in it (shift-space to exit)
+
+~B~1Rules / Things You Should Know~B~2
+- Stat padding is against the rules. Letting people kill you or you killing someone repeatedly to get money or skulls is stat padding.
+
+~B~1How To Play~B~2
+The gameplay is exactly the same as Chaos Zone, kill or be killed. There is also a King of the Hill game going on. Each kill or King of the Hill victory nets you somma dat ca$h money. The store can be accessed anytime by pressing F10.
+- Weapons
+	Only one of a classification of weapon is allowed at a time, meaning one cannon, one heavy weapon (bombs), one mine, one rocket system, etc. If you want to buy new weapons you will have to sell the standard weapons you spawned with. You won't get any money for selling standard weapons, and they are $1000 to buy back.
+- Special Weapons
+	Special weapons use the red/blue/purple powerups on the map as ammo.
+- Ship Upgrades
+	Upgrades for your thrust, rotation, strafe, energy amount or recharge rate. You are allowed only one upgrade at a time.
+- Reward Bay
+	Is located at M10, inside the safe zone. You can trade in Skulls for specials or vehicles.
+	2 Skulls for a Repulsor, 3 for Specials, 15 Skulls for Armakith, Barrage, or Daggir, 25 Skulls for the Shrike, 100 Skulls for Defender or Reaver
+
+~B~6FREQUENTLY ASKED QUESTIONS~2~B
+This section is going to get big...
+- What is the Reward Bay? Where is it? What does it do? Who built it?
+	See above, How To Play, Reward Bay
+- What are Skulls?
+	Skulls count your kill streak. You lose them when you spec or die and lose 3 when you kill a teammate. 
+- Whats the best weapon?
+	All weapons have advantages and drawbacks. Try different ones to see what works for you.
+- How come you can only have one ship upgrade at a time?
+	Because.
+
+~B~6COMMENTS AND SUGGESTIONS~2~B
+Are always welcome especially any new ideas, find me in game as Rabbit or email to phowl.mouth@gmail.com
+
+~B~6IF YOU WOULD LIKE TO HELP~2~B
+Just let me know. I can probably find something for you to do.
+I would like to make an Arach capital ship so talk to me if you can do graphics, also any ideas for new Arach weapons are welcome.
+
+~B~6DYSLEXIC CR PLAYERS UNTIE~2~B
+~4?chatadd crleague~2 all the cool kids are doin it.
+
+~B~1Change Log~2~B
+~B~4Captains Log, Stardate 15228 Alpha 4~2~B
+Everyone on the ship is dead. MADNESS
+
+~B~4Monday June 7th, 2010~2~B
+- Fixed portal fire delay
+- Fixed null swarms graphic
+- Periodic flag rewards are now fixed ($70+ every two minutes per flag)
+- 3-2-2-2 specials again, by lame request
+
+~B~4Thursday May 20th, 2010~2~B
+- Mold spawns fan out more
+- Portals are less exact
+
+~B~4Wednesday May 19th, 2010~2~B
+- Small updates (I nerfed everything)
+
+~B~4Tuesday May 18th, 2010~2~B
+- Everything is nerfed
+- Shrap missile nerfed
+- All weapons are nerfed
+- Max specials is 2-1-1-1, they are also nerfed
+- Shrap bomb proximity lowered (nerf)
+- I nerfed everything
+- Vehicles should be unsummonable now (nerf'd)
+- Everything is nerfed
+
+~B~4Wednesday May 12, 2010~2~B
+- Tweaked colors of Moltor Shower and Lame Chunks
+- Crystal Meteor colors altered
+- Sonic Bomb is faster
+- other stuff
+
+~B~4Tuesday May 11, 2010~2~B
+- New proximity bomb out inspired by Rival, called Sonic Bomb
+- BioMissiles nerfed again
+- Testing some useless antigravity weapons
+- Nerfed manueverability upgrades (Rotation, Strafe and Thrust)
+- Increased Blackout Bomb fire delay by .25s and slightly reduced the jamming time
+- 50% of your skulls now drop when you die
+- Probably other stuff..
+
+~B~4Monday May 10, 2010~2~B
+- BioMissiles now do 700 damage (was 750), 100 pixel blast radius (was 56), they should PB now
+- I did some other stuff that I forgot to document...
+
+~B~4Wednesday May 5th, 2010~2~B
+- Fixed crystal colors
+- Added AntiWarp in the store
+
+~B~4Tuesday May 4th, 2010~2~B
+- Tweaked flagging rewards
+- Varied flag spawns to 5, 7, 9, 10, etc instead of just every 5 players
+- Prize crystals should spawn now
+- Reduced energy cost of Flak cannon to 70 per shot (was 95)
+- Reduced damage of Radiation Missile to 450 (was 600)
+- Fixed Reward Bay crashing zone when Shrike or Barrage is purchased
+- Turned down Bio Missile damage
+- Repulsors have been made less powerful so Attractor was altered to match
+
+~B~4Weekend of May 1st, 2010~2~B
+- Trying out Seek & Destroy settings. Number of flags will scale to the number of players there are. Games last 20 minutes, flags drop after 3 minutes without a kill. What I'm aiming for is a periodic reward of $77 with 10 people, winning the game should net you about $5,000 and losing but getting MVP should be about $3000. I'm also reducing the cash you get from kills. Killing while carrying flags will earn you 2.5 times the cash.
+- The shotgun is sprayers only
+- The Shotgun Is Sprayers Only
+- THE SHOTGUN IS SPRAYERS ONLY
+- Cash for killing now works like this $25 + 50% of what you kill + 20% of your own bounty
+- Added vehicle upgrades. Yes they will always be red in the store but you can buy them anyways and they won't turn on until you are in a vehicle.
+- Radiation Missile disables thrust for a short time
+- Added in Classic Meson Cannon
+- Shrapnel Bomb damage is now 725 (from 750), proximity reduced to 70 (was 75)
+- Reflex Bombs now gain 18% speed when bouncing, was 25%
+- Tweaked the way Moltor Rocks/Dual Moltor Rocks fire, damage increased to 275 from 250
+- Tweaked speeds and damages of Light and Heavy Mass Drivers
+- Rockets should PB now
+- Fusion Torch now cost 110 energy to fire (was 100)
+- Flak Cannon is now a fun bright orange color, the flaks spread out more and do less damage
+- Killing a player now drops 25% of their skulls
+- Repulsors are less powerful now
+- Raised a bunch of prices
+
+~B~4Friday April 30th, 2010~2~B
+- Switched back to Chaos map...
+- Tweaked some of the ship upgrades
+- Fixed being able to own multiple special bursts
+
+~B~4Thursday April 29th, 2010~2~B
+- The game is now Super Fortress, Hive map
+- Nulls now require 250,000 points to play. Nulls have slightly higher recharge rate. They will be the only ship able to use any of the upgraded items.
+- Upped the energy sapping effect safe zones do
+- Tweaked the spread on flak cannon
+- Raised prices on Special Bombs. I'll do the rest later.
+- BioMissiles now do more damage, 825 compared to 750
+- More bounce on shraps and Spaz bullets
+- Slightly increased energy to fire for Spaz and Dual Spaz
+
+~B~4Wednesday April 28th, 2010~2~B
+- Added five or so turf flags that should randomize on every new game. Hold flags for 60 seconds to win, there is a reward every two minutes, and being within 256 pixels gives a small energy boost. More players means more flags.
+- Cash for killing has been reduced, the new formula is $50 plus 15% of your bounty plus 50% of your targets bounty.
+- Max team size is 4 again. Shrike and Barrage have been added into the Reward Bay. Shrike is 25 skulls and Barrage is 15.
+- Shrapnel Mine and Flak Cannon are in the store (Defensive Weapons)
+- Skiars Antiwuss is now available in the store (Special Bomb), temporarily cripples your enemies top speed
+- Wake Casters were tweaked I changed the spread a bit and the damage is 230
+- Tetron Bomb graphic is smaller
+- The following bombs are now limited by class, limited time full refund to anyone that needs to switch because of this:
+	Tachyon Bomb is now available for bombers only,
+	Tetron Bomb is now available for spammers only,
+	Plasma Bomb is now for fighters only
+
+~B~4Weekend of April 23rd, 2010~2~B
+~5- I am removing "racial" upgrades, Advanced Moltor Core, Terran Actuators, Bio Reaction Pod, etc. For now they are made useless, put in the REMOVED category, and you can sell them back to the store for $45,000 which is $5,000 more than you paid for it. I will probably put out some race-agnostic combo upgrades in the future. Also Rock Armor is back to Chaos stats, 10% ~2
+- New weapons: Radiation Field, Radiation Missile
+- At the Reward Bay you can now trade in 2 Skulls for a Repulsor, 3 for special ammo, also only half as many specials spawn now
+- Removed hyperspeed boost from SuperManeuver powerups and tuned the powerup down a bit
+- Shrapnel Bomb now cost 375 energy to fire
+- Reflex Bomb cost 400 energy to fire
+- Wake Casters are now linked meaning hitting one bullet will make the others disappear also 4 bullets are now fired instead of 2 and the damage is increased to 250
+- Tweaked the spread on Xiaolabs AutoSG, damage tuned down middle bullet does 275, inside bullets do 250, outside bullets do 225 opposed to 300, 250, 200
+- Laser Burst now fires like lasers (no momentum)
+- Increased Trick Mine damage from 600 to 725
+
+~B~4Thursday April 22nd, 2010~2~B
+- Reward Bay works now, cash in 15 skulls for an Arma or Daggir and 100 for a Reaver or Defender
+- I've recategorized all rockets as Special Bombs. They are not bombs, they are rockets. I did this so maybe it would be more obvious that they use the RED PRIZES as ammo. Nobody reads the zone news anyways.
+- SuperManeuver no longer works inside vehicles
+- Shrapnel Bomb is available in the store
+- Phase Beam is available as a special bomb for Nulls only
+- Hornets now get default weapons
+
+~B~4Tuesday 420~2~B
+- Reward Bay should be working now
+- New weapons: Trick Mine, Death by Blacka
+- Rock Armor and Null Field should be taken out of your inventory when you switch now.
+
+~B~4Weekend of April 17th, 2010~2~B
+- Testing out Reward Bay in far right safe zone. Could work perfectly or be broke as a joke.
+- No longer can you warp around inside a vehicle.
+- Added ability to gift money to someone. Look under the Money category in the store.
+- Updated energy cost for the three special bombs
+- Battery upgrades have been nerfed. Instead of 100, 200, 300 its now 75, 150, 250
+- Made Rock Armor and Null Field standard for Grazi/Null ships. Rock Armor is nerfed to 7%.
+- Upped damage of Quick Mine to 225 per mine, hitting all 5 does 1125 damage
+- Upped damage of Plasma Spaz and reduced the spread a tiny bit.
+- Changed graphic for EMP Field
+- Arach rear bombs are back to normal Chaos Zone settings.
+- Lame Chunks now has recoil, also tweaked to be in line with standard energy:damage ratio.
+- Plasma Bomb has slightly more recoil to it, Rear Plasma Bomb now shoots from the rear of the ship.
+- New shotgun weapon available the Xiaolabs Auto SG
+
+~B~4Friday April 16th, 2010~2~B
+- Safe zones now drain energy slowly
+- Fixed explosion graphic for Heavy Mass Driver
+- Tweaked graphics for Plasma Bomb
+- Made Quick Mine explosion normal
+- SuperManeuver prizes (pink boxes) are now automatically picked up.
+
+~B~4Thursday April Something~2~B
+- Fixed Corvus Field. Chill out over it. The range is 256 pixels now too.
+- Bio Orbiter bullets are now linked (like Dual Bio Cannon)
+- Siic Strafe is always on now
+- Hyperspeed is apparently not the same thing as Hyperthrust. I changed the names of the hyperthrust upgrades to reflect this revelation.
+- Added SuperManeuver prizes. Boost your thrust and rotation for a small time.
+- Plasma Bomb was fixed
+- Fixed a few sounds
+
+~B~4Weekend of April 10th, 2010~2~B
+- Sitting Duck is back
+- Decreased proximity of Tachyon rockets, increased proximity of Shrapnel missiles and Rocket Pod
+- Terran Fusion Bomb had RT properties, brought it back to CZ stats, normal proximity and damage
+- Fusion Torch will now point blank.
+- Point blank damage is now 125% instead of 150%
+- You don't need any points to wear a banner now
+- Increased the radius you get cash for assists
+- Added MagnaMissile Launcher
+- Killing someone now adds 17% of their bounty to yours, was 20% before. Kill assists add 7% to your bty, was 5%
+- Plasma Spaz is tweaked. It now has noticably less spread, shooting a full burst (5 rounds) is 350 energy, doing 750 damage if all bullets hit. Dual Spaz is also tweaked, it shoots a bit faster and a full burst takes 300 energy, if all bullets hit 900 damage will be dealt.
+- You can now sell back the Daggir and Arma. You can also drop them.
+- ECM and Terran ECM are the same prize in the store. If you buy ECM and switch to a Terran ship it will be fixed to Terran ECM automatically and vice versa. Hopefully.
+- Added a bunch of different sounds from Infantry (cza_sounds.blo), will make use of them later, maybe, hopefully, probably not.
+- Added a new light bomb, but I forgot what I called it.
+- Added Rear Plasma Bomb, replacement for mines
+
+~B~4Friday April 9th, 2010~2~B
+- Max team size is 2, Shrikes have been taken out of the store. Maybe one day we'll have enough population to bring back the Shrike. Suicides are enabled again so be careful you don't kill yourself.
+- Upped damage on MIRV and BioStorm a bit, full blast does 1440 damage now.
+- Added Corvus Field, brings enemy ships to a full stop.
+- Upped lifetime of Bio Oribiter to normal bullets
+- Modified fire delay on a few special bursts. You won't be able to shoot them consecutively anymore.
+- Lasers have been crippled to the point of them being useless. They now cost more energy to fire than they do in damage. Laser weapons are being phased out, right now I suggest selling your laser weapons for a $2,000 profit. We apologize for the inconvenience.
+- X-Laser is now a missile special
+- Orion Booster is now useless. You can sell it for $2,000 more than you bought it for. The next update will take it out completely.
+- ECM Devices are now purchasable, with Stealth and Cloak detection devices separated
+- Rippers top speed decreased and thrust increased.
+
+~B~4Wednesday April 7th, 2010~2~B
+- Started standardizing weapons. I have the BioPulse Bomb, Heavy Moltor Bomb, Plasma Bomb, Tachyon Bomb and Tetron Bomb done. Weapons are standardized based on damage, explosion proximity, damage proximity, velocity, rate of fire and energy efficiency, each statistic ranged from 1 to 9, with the total score being 30 (6 stats times the average value 5). I'll have more details of this system later. I'd like a few people to test out the tweaked bombs and tell me what they think.
+- Fixed an exploit.
+- Defender and Reaver have been taken out of the store for now. You may have noticed that you get a Skull in your inventory when you kill somebody. Eventually these Skulls will be used to count kill streaks, you will be able to trade them in for vehicles.
+- Put the push back on Rav bombs.
+- Soon there will be a guns & bombs dueling area built into the map.
+
+~B~4Tuesday April 6th, 2010~2~B
+- Many weapons have been tweaked. Off the top of my head a full BioStorm blast and MIRV blast now do 1350 damage instead of a one-hit KO and Tachyon missiles are actually useful now.
+- Players now spawn with standard specials (MIRV/Bio Burst/Warp Field/etc) if you want to get an upgraded special you have to sell the one you want to replace. Corvey, I was thinking about you babe <3
+- Reaver and Defender are now pulled in by gravity wells, also the price has been raised to $100,000. Reaver and Defender now disappear after 3 second of being empty and they have a 30 minute time limit on them. Other ships disappear after 60 seconds. We'll see how the new bounty system works out and how fast you accumulate cash. Guardians may be removed if the zone turns into constant pod wars.
+- Tweaked bounty system you now start at 50, auto to 100, when you kill someone you get $50 plus 90% of their bounty plus 15% of yours as cash, 20% of their bounty is added onto yours.
+
+~B~4Monday April 5th, 2010~2~B
+- Chaos Advanced goes Live! Still many things to work out. Please don't ask me for cash or pods or I'll hunt you down with my top secret homing missiles.
+
+~B~4Saturday April 3rd, 2010~2~B
+- Migrated RT weapons into Chaos Zone. I think the zone is 99% done just a couple bugs left to iron out.
+
+~B~3Chaos Zone Log
+~4Friday February 2nd, 2007~B~2
+
+Test item and vehicle changes:
+
+Rak'kir gravitic bomb speed was increased slightly
+Meson Cannon shots will push their target on impact.
+Crystal Meteor damage was greatly reduced and recoil from impact increased.
+Excelsior has a slightly different weapon called Burst Mass Driver.
+Zag'Gir fires 3 shot again in a slightly different pattern.
+
+
+
+
+~B~4Tuesday December 5th, 2006~B~2
+
+The following changes were made:
+
+Players start with 10 bounty.
+
+Auto bounty to 100 has been restored.
+
+Arach/Null Ships require 1000 points to play, not 10000.
+
+Banners are activated at 1000 points, not 10000.
+
+
+~B~4Wednesday November 22nd, 2006~B~2
+
+New Map is up.  Along with the new map we have a database reset.
+
+Additionally, the method for getting prizes has been changed.  Crystal Asteroids will spawn and need be destroyed in order to get a prize.  The Asteroids are colour coded to show what prize they contain.
+
+~B~4Sunday June 22nd, 2003~B~2
+
+New MAP!  Finally, chaos zone has a new map.
+
+There are several important things to note about this map:
+
+- There is a HyperSpace tunnel running through the middle. Inside this tunnel you are very, very fast.  When you are in the HyperSpace tunnel
+  you cannot be repulsed out of the tunnel.  Warp Field Generators will not workin the HyperSpace tunnel either.
+
+- Time Space Anomaly. These areas slow your ship down greatly, but have no other effects.
+
+- Additional Flags.  There are a couple more flag areas on this map.
+
+- HyperSpace Tunnel Race.  Added a start and end zones for tunnel racers, as well as a portal at the end that takes them back to the start
+  area.
+
+~B~4Tuesday June 17th, 2003~B~2
+
+Some changes have come down the pike as many of you have noticed. Here is a quick rundown:
+
+Asp had its rotation speed increased a great deal.  The Plasma Pulse anti effects have also been increased in duration.
+
+Ravager is now at RiftBall standards: Slightly more manuverable and the Meson Cannon fires a 3 round burst.
+
+Tarthist has been equipped with the Reflex Bio Bomb.  This bomb has 3 bounces and it increases speed with each bounce.
+
+Rip'Pir has had it's top speed increased.
+
+Shrike is back. 1 will spawn when the arena has more than 25 players.
+
+Reaver and the Defender are also back, with a lower recharge rate. They will spawn when the arena has 35 or more players.
+
+Additionally, several static, non carriable flags have been added to the map at points of interest.  Flags can not be captured, or carried, by
+multi man ships, or the Reaver/Defender.
+
+~B~4Wednesday January 1st, 2003~B~2
+
+Set crown timer for 240 seconds as per request.
+
+Added a "Point Ball" flag object.  When the point ball is picked up, it is carried and can not be dropped. The only way to lose the point ball is via a kill
+the killing player getting the ball.  Every 5 minutes the team with a player carrying the point ball will get a point reward based upon the number of ppl in the arena.
+
+Multi Man ships WILL come back, but at this date it makes little sense to have multi man ships and KoTH active at the same time. 
+
+
+~B~4Thursday, December 12th, 2002~B~2
+
+Removing multi-man ships and Guardians for a couple weeks. Gonna have a period of pure chaos for a while.
+
+~B~4Friday, September 27th, 2002~B~2
+
+Adjusted the global live timer for the Reaver and Defender to 60 minutes. 
+
+That means the max you can be the Reaver/Defender is 60 minutes.
+
+~B~4Tuesday, September 10th, 2002~B~2
+
+Defender and Reaver had their recharge lowered slightly and the weapons energy use was tuned again.
+
+Defender and Reaver will only spawn after an arena hits 40 players.
+
+
+~B~4Friday, August 30th, 2002~B~2
+
+The Defender and The Reaver have been added.  When the Defender or Reaver dies, they drop a pod. Pick it up quick!
+
+~B~4Tuesday, July 23rd, 2002~B~2
+
+The KoTH game is now in "Silent Mode"
+
+
+~B~4Monday, July 15th, 2002~B~2
+
+The next few days are going to see a few small changes to things in an attempt to evolve the basic game into something that Unique to Cosmic Rift.
+
+When we created CR, we did so under and edict from above to make a SubSpace like game that captured the gameplay of Subspace. Unfortunately, the 
+gameplay, in a lot of ways, is too much like SS.  Even though CR is a superior game technically, and in a lot of ways, gameplay wise, it comes down to this:
+
+Why pay for a SubSpace like game when SubSpace is free?
+
+So, I am looking at changing a few of the more fundemental things just a bit to see if we can evolve the basic SS model into a CR model. I plan to start by
+dramatically increasing the lateral thrust capability of each ship.  A have made lateral thrust the same as basic roll thrust. That means you have the same
+thrust moving side to side as you do moving forward and backward.
+
+This should really increase the manuverability of each ship a great deal and thus giving more tactical options leading to strategies that may never have been
+tried before.  Or it could make the game unplayable.  Either way, can't tell till we try it.  So we are. :)
+
+
+
+~B~4Thursday, May 16th, 2002~B~2
+
+Added a King of the Hill game to chaos.  The zone does not reset after a win. It takes 2 crown kills to get your crown back.
+
+There is a 4 minute crown timer, if you dont get a kill within that time you lose your crown.
+
+When one team is left with crowns, the game is over and will restart.
+
+If you are in spec or enter after the game starts, you will not have a crown.
+
+~B~4Monday, May 7, 2001~2~B
+	- Added new Skitzar two-man ship called the Armakith.  It is armed with all new weapons and will likely need a lot of balancing as I am trying some bizarre stuff.
+
+~B~4Wednesday, May 2, 2001~2~B
+	- Made the Cyclone Mine a function of the Daggir-Turret to make Daggir vehicle much less useful as a single-man vehicle.
+	- Limited there to being 2 live Cyclone Mines per player and 4 live ones per team.
+	- fixed all the cloaking problems Daggirs were having.  We will see how this works (see release notes for details), but may ultimately prevent cloaking in Daggir ship entirely.
+

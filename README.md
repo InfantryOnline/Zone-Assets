@@ -80,8 +80,8 @@ There are a few ways available to contribute:
 1. [Provide Updated Zone Information](#option-1-provide-updated-zone-information)
 2. [Fix Incompatible Archives](#option-2-fix-currently-incompatible-zones)
 3. [Supply Additional Zones](#option-3-provide-your-own-complete-zone-files)
- 1. [From your own old game backups (if we don't already have it)](#from-old-file-backups)  
- 2. [By developing your own and including all files required to run the zone](#new-creations-or-mashups)
+   1. [From your own old game backups (if we don't already have it)](#from-old-file-backups)  
+   2. [By developing your own and including all files required to run the zone](#new-creations-or-mashups)
 
 ---
 
@@ -159,6 +159,7 @@ For a zone to be accepted into the archive, it must:
 - The zone file folder has the exact same name as the CFG file (preferably without spaces)
 
 > *It is highly recommended to name your own zone files' filenames uniquely so that there is no chance of your files being overwritten on users' computers by the game client.*  
+>  
 > __Example__ *(developer\_gametype\_name.ext)*:  
 > `Kaze_TDM_StarCraft.cfg`
 

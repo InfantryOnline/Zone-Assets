@@ -1,0 +1,10 @@
+[ZoneInfo]
+name=""
+description=""
+zone_creators=""
+map_creators=""
+map_name=""
+game_type=""
+scripts_included=false
+scripts_needed=false
+map_image=

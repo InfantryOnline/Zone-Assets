@@ -1,0 +1,134 @@
+~B~1The commands explained~2~B
+------------------------------
+
+~B~4?commands~2~B
+
+ ~5?accountinfo~2 - Shows all your aliases and their usage.
+ ~5?arena~2 - Displays a pop-up menu of all (non-#private) arenas.
+ ~5?away~2 - Toggles your away state on/off.
+ ~5?away <message>~2 - Sets your away message to <message>.
+ ~5?alarm~2 - Sets a message alarm.
+ ~5?briefing~2 - Plays the zone briefing.
+ ~5?buy~2 - Commandline buy function (?buy grenades:10 or ?buy grenades:10,monkeys:20 and ?buy grenades:#<amount> if you wish have no more than <amount> in your inventory.)
+ ~5?chat~2 - Lists your chat channels.
+ ~5?chat name1,name2,..,name9~2 - Adds the named chat channels to your chat channel list.
+ ~5?chat off~2 - Leaves all chat channels.
+ ~5?chatchart~2 - Displays a chart of everybody online in your chat channels and their location.
+ ~5?crown~2 - Shows how many crowned people you need to kill to get a crown. (for King of the Hill).
+ ~5?drop~2 - The syntax works like ?buy, drops the item(s) listed to your current location.
+ ~5?fakealpha~2 - Toggles fake alpha blending on/off.
+ ~5?find <name>~2 - Displays the zone and arena <name> is in, a wildcard is added to the end, so total_newb would show up total_newbie.
+ ~5?flags~2 - Displays the state of the flags (if any) in the game.
+ ~5?go <arena>~2 - Moves you to <or creates> an arena named <arena>, use #<arena> to make an private (invisible) arena. 
+ ~5?hide~2 - Hides you from the ?find command.
+ ~5?ignore~2 - List all the people you have ignored.
+ ~5?ignore <name>~2 - If <name> isnt in your ignore list it adds them, if they are in your ignore list it removes them. 
+ ~5?ignoresave~2 - Saves your ignore list to ignore.tx<profile number>. (ex. ignore.tx0 for profile #1).
+ ~5?info~2 - Sent privately, will display information of the persons ping/packetloss and his squadname (if applicable).
+ ~5?lag~2 - Displays combined information of your packetloss and latency.
+ ~5?loadmacro <filename>~2 - Loads the FKey macros from the named file. 
+ ~5?log <filename>~2 - Logs all messages to the named file. If you dont specify a filename "session.log" is use. If a log file is already open, it is closed. 
+ ~5?mark~2 - Sent as a private message, marks the player for easier visibility in radar, playerlist and message display.
+ ~5?marksave~2 - Saves the marked players list.
+ ~5?namewidth <numbers>~2 - Sets the name-field width in message area (in pixels), default is 84.
+ ~5?packetloss~2 - Displays your current packetloss.
+ ~5?password <newpassword>~2 - Changes your password to <newpassword>.
+ ~5?playerchart~2 - Displays a chart of players in the current arena.
+ ~5?ping~2 - Displays your current ping times.
+ ~5?quit~2 - Exits the game.
+ ~5?radarsize <numbers>~2 - Changes the size of your radar (in the lower right of your screen) to <numbers>, default is 160.
+ ~5?resources~2 - Displays your team's inventory (where applicable).
+ ~5?rotatetime <numbers>~2 - Changes your rotation ramp-up time to <numbers>.
+ ~5?savemacro <filename>~2 - Saves your FKey macros to <filename>.
+ ~5?score~2 - Displays the current score of the game (if any).
+ ~5?score_top100~2 - Displays Top 100 scores in the current zone.
+ ~5?score_online~2 - Displays scores of online players in the current zone.
+ ~5?score_lastgame~2 - Displays scores of online players in the last game (where available).
+ ~5?sell~2 - Syntax works like ?buy, all items arent sellable.
+ ~5?showballtrail <time>~2 - Adds a trail for the ball (Currently applicable only in GravBall).
+ ~5?showfog <on/off/auto>~2 - Toggles LOS viewing on, off or sets it to automatic.
+ ~5?showphysics~2 - Puts up a grid to help you see what objects cannot be walked over (green=object is half-height (shootable over), red=object is full-height (not shootable over)).
+ ~5?showterrain~2 - Should do something similiar to showphysics, doesnt work in most zones.
+ ~5?showvehicle~2 - Shows vehicles with an small orange grid below them, helps targetting the vehicles.
+ ~5?showvision~2 - Works like showphysics but adds the grid only to objects that block your line of vision.
+ ~5?sounddelay <numbers>~2 - Sets the delay wherein sounds are played, default is 5. 
+ ~5?spec~2 - Lists the persons who are currently spectating you. 
+ ~5?squad <squadname>~2 - Lists all the online players in the squad <squadname>, if no squadname is specified, lists the online players in your current squad. 
+ ~5?squadleave~2 - Removes you from your current squad.
+ ~5?squadjoin <squadname>:<password>~2 - Allows you to join an already existing squad. You have to specify the squad name and password. 
+ ~5?squadcreate <squadname>:<password>~2 - Creates a new squad with the given name and password. The named squad must not exist already.
+ ~5?squadchart <squadname>~2 - Displays a chart list of everybody currently online in squad <squadname> and their location, if no squadname is specified, lists your own squad.
+ ~5?squaddissolve~2 - Dissolves your existing squad. You must be the squadmaster in order to use this.
+ ~5?squadkick <playername>~2 - Kicks the named player off your squad. You must be the owner of the squad to do this.
+ ~5?squadrename <new squadname>~2 - Renames your squad to <new squadname>, you must be the squad owner to do this.
+ ~5?squadtransfer <playername>~2 - Transfers the ownership of a squad to the named player. You must be the owner of the squad in order to do this. The named player must exist and cannot own a squad already.
+ ~5?squadpassword <password>~2 - Changes the squad password to <password>. You must be the owner of the squad to do this. 
+ ~5?summon~2 - If toggled off, you cannot be summoned by anyone using an item to do so.
+ ~5?team~2 - Displays what team you are on.
+ ~5?team <name>~2 - Switches you to the named team.
+ ~5?team <name>:<password>~2 - Switches you to the named team with the given password.
+ ~5?teaminfo~2 - Displays the names (and possible squad) of the players in the current arena.
+ ~5?timer~2 - Displays the amount of time left in a game when the game moderator has a game timer with the *timer command.
+ ~5?usage~2 - Shows statistics of your usage for the name your using.
+ ~5?viewpercent <numbers>~2 - Changes the position your character shows on the screen, default is 75. 
+ ~5?volume <numbers>~2 - Sets the sound volume to <numbers>.
+ ~5?wipecharacter~2 - Erases your current characters information, you have to be in spectator mode to use this.
+ ~5?zone~2 - Displays the name of the zone you are at.
+ ~5?zonelist~2 - Allows you to change zones within the game.
+
+~B~4%commands~2~B (used in messages, ex: //i am at enemy -%coord-)
+
+ ~5%coord~2 - The current radar coordinate you are at.
+ ~5%count[ItemName]~2 - Displays the amount you have of ItemName in your inventory.
+ ~5%date~2 - Todays date on your machine.
+ ~5%killed~2 - The name of the person who you killed last.
+ ~5%killer~2 - The name of the person who killed you last.
+ ~5%selfname~2 - Your own name.
+ ~5%squad~2 - Your squad's name.
+ ~5%tickname~2 - The name of the person you have highlighted on the playerlist.
+ ~5%tickitem~2 - The name of the item currently highlighted in the inventory.
+ ~5%time~2 - The current time on your machine.
+
+~B~4*commands~2~B (used by sys-ops and owners of private arenas)
+
+ ~5*kill <time>,<reason>~2 - Sent as a private message, will kick target player out of the game. You can specify an optional time-limit after the kill as well which will keep them out of the zone for that amount of time (in minutes).
+ ~5*lock~2 - Locks the arena so nobody can leave spectator mode (players already in the game remain there).
+ ~5*spec~2 - Sent privately will force target player into spectator mode.
+ ~5*spec all~2 - Sent publicly, forces everyoen into spectator mode. 
+ ~5*info~2 - Sent privately it will display various information about the target player (like ping and packetloss).
+ ~5*arena~2 - Sends a green sysop-message to everybody in the arena (ex: *arena Test message).
+ ~5*warp~2 - Sent privately it will warp you to the location of the target player. Sent publicly it will warp you randomly somewhere in the level.
+ ~5*summon~2 - Sent privately it will warp target player to your location (works in specator mode too).
+ ~5*prize~2 - Sent privately it will add specified prize to target player's inventory. Sent publicly, it will drop specified prize at your current location. You can optionally specify a quantity after the prize-name as well. (ex: *prize repel:3).
+ ~5*cash~2 - Sent privately it will grant target player the specified amount of cash. Sent publicly it will grant you the specified amount of cash.
+ ~5*experience~2 - Sent privately it will grant target player the specified amount of experience. Sent publicly it will grant you the specified amount of experience.
+ ~5*grant~2 - Sent privately it will grant shared arena-ownership rights to target player (more than one player can have ownership rights at the same time). Normally the oldest player in the arena (usually arena creator unless he leaves) has ownership rights.
+ ~5*shutup~2 - Sent privately it will silence/unsilence the target player.
+ ~5*timer~2 - Starts a game-timer useful for timing games, specified in minutes. (ex: *timer 5).
+ ~5*team~2 - Sent privately it will force target player onto the specified team. (ex: *team Titan Terriers).
+ ~5*teamprofile~2 - Displays a breakdown of the total inventory that a team has.
+ ~5*scramble~2 - Will randomly scramble the teams in the game.
+ ~5*scramble <on/off>~2 - Turns team scrambling on or off.
+ ~5*restart~2 - Will restart any GravBall, King of the Hill, or flag-games that are in progress.
+ ~5*wipe~2 - Sent privately it will wipe a players stats completely (same as player doing ?wipecharacter). Sent publicly as "*wipe all" it will wipe everybodys stats.
+ ~5*profile~2 - Sent privately it will list target players inventory and skills.
+ ~5*disable~2 - Disables spawn-owners priviledges and notifies everybody publicly. The *disable, *enable, and *arena will still work when the arena is in disabled mode.
+ ~5*enable~2 - Enables spawn-owners priviledges, notifies everyone publicly when used.
+ ~5*block <time>,<reason>~2 - Blocks a player from joining the arena where *block was used.
+ ~5*blocklist~2 - Lists all blocked people.
+ ~5*killlist~2 - Lists all killed people.
+ ~5*blockremove~2 - Removes a block from the current arena.
+ ~5*killremove~2 - Removes a zone wide ban.
+ ~5*getball~2 - Gets the ball to either yourself, or to the person who you sent the command privately.
+ ~5*specquiet~2 - Prevents spectators from talking in the game (chat channels and squad chat excepted).
+ ~5*watchmod~2 - Allows moderators to monitor all mod-commands issued by other moderators.
+ ~5*unspec~2 - Sent privately, will force the target player into the game (unless the player has high ping/ploss).
+ ~5*unspec <teamname>~2 - Sent privately, forces the target player into the game and to the specified team.
+ ~5*addball~2 - Adds a ball in a GravBall type game.
+ ~5*removeball~2 - Removes a ball in a GravBall type game.
+ ~5*permitadd <name>~2 - Adds a player to the permission list in the current zone.
+ ~5*permitremove <name>~2 - Removes a player from the permission list.
+ ~5*permitlist~2 - Displays a list of all the players in the permission list.
+Updated to match the commands in 1.05.
+
+                               - ~B~4gambit~B~2,the ~B~4One Spirit~2~B guy.

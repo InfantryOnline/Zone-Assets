@@ -1,6 +1,0 @@
-"Cosmic Rift on the Station","http://cosmicrift.station.sony.com/main.jsp"
-"Cosmic Rift Faq","http://cosmicrift.station.sony.com/faq.jsp"
-"The Sony Station","http://www.station.sony.com"
-"Station Pass Forums","http://boards.station.sony.com/ubb/sp/cgi-bin/Ultimate.cgi"
-"Station Live Chat Support","http://www.station.sony.com/en/services/help/help.jsp"
-"Station Knowledge Base","http://station.com/kb"

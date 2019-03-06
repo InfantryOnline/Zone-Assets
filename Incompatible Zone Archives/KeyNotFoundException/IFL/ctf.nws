@@ -1,0 +1,543 @@
+~B Infantry CTF~B
+~B HPoint~B
+
+How to play CTF.  You have 5 flags total. The flags are moveable.  You need to take then to a good base and defend them.  There is a 60 second carry timer, then you drop the flag and it cannot be picked up again.  When all flags are captured you must continue to hold them for 90 seconds to win.
+
+You cannot place flags in the Drop Ships.
+~6
+~BPlease read Zone Rules located in the Help menu | Press ESC to access it~B
+
+Bong Reference 
+17	Beacon Set!
+18	Flank Needed!
+19	Flanking!
+20	Cloakers!
+21	Rally on Coordinates
+22	Summon me to Enemy
+23	Affirmative
+24	Attacking
+25	Defending
+26	Enemies Inbound
+27	Request Summon Home
+28      Under Attack
+29      Base Critical
+
+~4 CTF: Underground League
+~B Clearing up a few rules:
+-No Milking.
+-Teams start only with 150 Tsolvy Crystals and 150 Titanium Oxide.
+-Only 4 substitutions are allowed to be made during a league match.
+-Sterons are allowed.
+-Wall Nading is not allowed.
+-Tking yourself to drop the flag faster is not allowed.
+
+
+~3 A reminder to all squad captains playing in Ctful to make sure each squad member only has one alias in that squad.
+
+~B Do Not ASK IF YOU CAN BECOME A MOD~B
+If you want to be a mod, become a role model and active participant in the infantry community. If you follow these steps, I may ask you to be a mod.
+
+
+~4 Zone Updates
+
+
+
+
+~2 April 28th,2007
+
+-New bong sounds please check the list for  changes and update your macros accordingly
+- 3 team Hpoint. Engineers you can use walls and bunkers
+April 22, 2007
+
+
+-Reverted settings back for League. Expect a dedicated League zone to be up next week. Thanks -Skin
+
+-Increased Prefire delay on Rifle Grenades to 60 ticks from 50
+-Increase Firedelay from 150 to 250 ticks 
+-Increase Firedelay other from 150 to 350 ticks.
+Basically, there is an extra second delay on the firing of the grenades, and an additional second imposed on firing another weapon. This change is done to avoid using these items as a primary weapon
+
+
+-April 21, 2007
+-PA rounds are now visible
+-Medic teleport summoner and medikit reverted back to orginal settings
+-implemented a slight energy recharge on dropship tiles, this will hopefully assist in combating the attach bug.
+
+
+April 17, 2007
+
+-Slight Twin Peaks map physics tile change. The a5 and a1 areas are accessible again. 
+-You can now drop flags in the E1 condo
+-CTFUL texture added between dropships
+- I am alive again. Thanks should go to Kuptain during my absence -Skin 
+
+
+April 15, 2007
+
+~B Teams~B
+-Adjusted squad team colours.
+
+~B Item Changes~B
+-Incinerator: Removed team kill effect.
+-Haywire Grenades: Team Kill.
+
+~B New Help/FAQ files~B
+-Esc -> Help -> Bong Reference
+-ESC -> Help -> Ctful Schedules
+-ESC -> Help -> Ctful Rules
+-They are slightly messy partly due to me being short on time.
+
+
+April 14, 2007
+
+~B Bug Fixes~B
+-Fixed a bug that caused DropPack to move slower then intended.
+-Fixed DeathBoard vehicle variables.
+
+~B Teams~B
+-Adjusted squad team colours. Squad leaders should check their squad colour and let me know if it needs any further changes.
+
+~B Item Changes~B
+-Suit Teleport: Back to the original settings but with async reload.
+
+
+April 10, 2007
+
+~B Bug Fixes~B
+-Linked Dual Kamenev AP mk2 to their proper child projectiles.
+-Fixed a bug that caused shrapnel not to trigger on vehicles.
+
+~B Team~B
+-Added teams Rev, Allstar, Infiniti. Squad leaders should check their squad colour and let me know if it needs any changes.
+
+
+April 9, 2007
+
+~B Teams~B
+-Fixed teams O and D start spawn.
+
+
+April 7, 2007
+
+~B Teams~B
+-Decreased public team sizes back to 16.
+-Added teams O, D, and NP.
+
+
+April 4, 2007
+
+~B General~B
+-Added an indicator for stand and fire weapons. (Not viewable by enemies)
+-Raised the max utility slots allowed on to 6.
+
+~B Item Changes~B
+-Carapace: Increased kinetic ignore to 7.
+-Shotguns: Removed recharge stun effect.
+-Tranq: Decreased stun length to 2 seconds. (Stunner is 4 seconds still).
+
+
+April 1, 2007
+
+~B Item Changes~B
+-Teleport Summoner: Decreased energy cost to 250.
+-Medikit: Decreased energy cost to 100.
+-Deluxe Medikit: Decreased energy cost to 100. Reduced prefire delay to 1 second.
+
+
+March 28, 2007
+
+~B Bug Fixes~B
+-Disabled Teleport Beacon and Blink Generator in Collective Dropship.
+
+
+~B Breakdown~B
+-Cleaned up kill statistics breakdown.
+
+
+~B Teams~B
+-Increased public team sizes to 20. Team sizes will increase or decrease depending on zone rotations.
+
+
+~B Rewards~B
+-Increased point and experience rewards. 
+
+
+~B Item Changes~B
+-Maklov ar mk606: Increased projectile velocity to 15.42m/s.
+-Rifle Grenades: Decreased proximity radius to 0.07m.
+-Rpg: Decreased proximity radius to 0.18m.
+-Dropship Recall: Disabled in dropship.
+-Battle Rifles: Increased projectile velocity to 15.42m/s.
+-Teleport Summoner: Decreased reload to 1 second. Increased energy cost to 300.
+-Squad Leader Summon: Decreased reload to 1 second.
+-Deluxe Medikit: Decreased reload to 1.25 seconds. Increased energy cost to 250. Increased prefire delay to 2 seconds.
+-Medikit: Decreased reload to 1.25 seconds. Increased energy cost to 150.
+-Energizer Kit: Decreased reload to 1 second. Increased energy cost to 250. Makes Energizers. Requires no minerals to use.
+-Stim Pack Kit: Decreased reload to 1 second. Makes Stim Packs. Requires no minerals to use.
+-Replaced Steron Infusion Device with Steron Kit.
+-Increased Energizer reload delay to 1.5 seconds.
+-CMP6 Assault Armor: Decreased energy protection to 25%.
+-Carapace: Decreased kinetic ignore to 6.
+-Haywire Grenade: Removed teamkill effect.
+
+
+
+March 24, 2007
+
+~B Default Equipment~B
+
+-Classes now start with better equipment.
+
+
+~B Auto Scramble ~B
+
+-Randomly scrambles every 3 games.
+
+
+~B Mineral Prizing~B
+
+-At the start of every new game Field Medics get up to 100 Tsolvy crystals if they start the game with less then 100 Tsolvy Crystals.
+-At the start of every new game Combat Engineers get up to 100 Titanium Oxide if they start the game with less then 100 Titanium Oxide.
+
+
+~B Breakdown~B
+
+-?breakdown Lists the current arena statistics. Also displayed at the end of a game.
+
+
+~B Misc Commands~B
+
+-?time Displays the current game time.
+-Type ?help for an inspirational life altering messsage brought to you by rome.
+
+
+~B~4 Acknowledgments~B
+
+-Thanks to Rage for putting the time and effort into writing the 99% of the lua script and to LooseCannon for lua script advisory.~4
+
+
+March 22, 2007
+
+~B Bug Fixes~B
+
+-Grapeshot mines are linked to their proper mine category.
+-Fixed the recoil on Dual Unittech Tech 09 SMG.
+
+
+~B General~B
+
+-Renamed Unittech Tech 09 SMG (2) to Dual Unittech Tech 09 SMG.
+-Renamed Unittech Tech 07m PSMG (2) to Dual Unittech Tech 07m PSMG.
+
+
+~B Item Changes~B
+
+-Carbine: Increased kinetic damage to 12. Increased energy drain to 140.
+-Flechette Rifle: Increased kinetic damage to 12. Increase energy drain to 160.
+-Needler: Increased bypass damage to 3.
+-Close Assault Weapon: Decreased energy drain to 120.
+-Incinerator: Increased energy drain to 100.
+-Haywire Grenade: Hurts team members.
+-Shotguns: Increased lifetime to 1 second.
+-Teleport Beacon: Disabled in Dropship.
+-Blink Generator: Disabled in Dropship.
+-Removed Omnilabs Suit Supercharger.
+-CMP6 Assault Armor: Increased energy protection to 30%.
+
+
+March 21, 2007
+
+~B General~B
+
+-Reduced Auto-Turret MG minimum range.
+
+
+~B Item Changes~B
+
+-Heavy Machine Gun: Increased projectile velocity to 14.51m/s.
+
+
+March 17, 2007
+
+~B Bug Fixes~B
+
+-Fixed a bug causing rifle grenades to randomly jam.
+
+
+~B Item Changes~B
+
+-Added independent reload support to Teleport Beacon.
+
+
+
+March 16, 2007
+
+~B Bug Fixes~B
+
+-Removed left over Nerve Gas Mines from player inventories.
+
+
+March 15, 2007
+
+~B General~B
+
+-Fixed the reload delay of the Suit Teleport and DropShip Recall that was inadvertently changed when the map was switched to Twin Peaks.
+-The maximum number of turrets allowed in a 1000 pixel radius was raised from 4 to 7. Sentries now count towards the turret maximum but no longer have to be built in a specific order to maximize efficiency. It is now possible to build 2 plasma turrets, 2 mg turrets, 1 rocket turret and, 2 sentries in a 1000 pixel radius IN ANY ORDER.
+
+
+~B Item Changes~B
+
+-Added independent reload support to Rifle Grenades, Grenades, Mines.
+-Repulsor Field: Decreased energy cost to 0.
+
+
+
+March 14, 2007
+
+~B Item Changes~B
+
+Turret Dismantle: Dismantles team owned turrets more easily. 
+
+
+~B Dec 13, 2006~B
+-Removed hard arena cap.
+-Back to TP. Trying 20 man Teams. I put a hard arena cap at 44 players per arena. Monitoring what effect this will have on gameplay.
+
+~B Dec 12, 2006~B
+-Nerfed walls (Still tryin gto get a proper idea of the correct setting)
+-Increased team size to 20 per team
+-Trying 3man Hpoint with walls. Let me know how this works 
+
+
+
+
+~B Dec 2, 2006~B
+-Added More CTFUL Squads
+-I believe you can no longer drop mines in the walls.
+-Gave myself a special present
+-Back to TwinPeaks. It is my gift to you.
+~B Nov 30, 2006~B
+
+-Hpoint up for a day or so, as I want a change in the CTF maps.
+-Put Steiner LMG back in. It was removed for some reason
+-fixed graphic bug where explosion graphic from PCv2 cannon did not show
+-restored orginal RPG settings &, sped up projectile speed slightly to 16.33 m/s
+
+PC BB changes from last week (for drogba):
+	upped energy cost to 400 
+	only 2 bounce	
+	now damages everyone
+
+~B Nov 25, 2006~B
+
+- Fixed error with PCv2 not displaying explosion graphic
+- testing new medic weapon
+- Nerfed BB significantly to reduce the amount of spam flying around: still in testing phase. Expect proper documentation of changes shortly. 
+~B Nov 24, 2006~B
+
+-Lads, some significant changes are in this update Please read.
+
+- New Plasma Cannon "Europa Plasma Cannon Mark BB". For the old school players, this may seem familar. I may be phasing out the least used weapons during the next month.
+- RPG. Blast radius has reduced significantly
+- You can now buy N00b Nads. 
+- Now a 1 step process to create sterons, Medics purchase a Steron Infusion kit from the store. It will create a steron vehicle for 5 units of pandora
+- Medics and Engineers create advanced versions of stim packs and engizers. People can still buy the normal (nerfed) stims/gisers in the store, but this will give players an incentive to mine for their support troops
+- I am trying to get the Decoy project to work properly
+- It now costs 300 energy to deploy a Blink in the drop ship
+- Since I do not believe i can fix the warp bug, i reduced the suit teleport reload time to 700 ticks from 1000 ticks. Let me know if this is enough of a reduction.
+- turned music off for the moment due to the bug where it kept playing ad nausim =)
+- Medics can no longer use battle rifles. This will reduce the instances of street rape. I will give medics something more usefull shortly :D
+~B Nov 18, 2006 ~B
+
+-Added a few more voice macros, changed the game start to something more game related than "let the carnage begin". 
+-I added a few squad teams into the game for testing purposes, If you have emailed me your CTFUL squad name and colours, I have included them. Go to a private arena and use the *team command to assign yourself to your squad team (They do not have a warp spawn at the moment).
+-Tomorrow I will be making some changes to the sterons and stimpacks/energizers.
+
+~B Nov 4, 2006~B
+
+- Reverted back to the old school steron frenzys. I increased the cost of the steron from 5 Pandora's element to 10. I have yet to see what effect this will have on gameplay, so hold onto your hats for some interesting ctf matches tonight. 
+
+~B Nov 3, 2006~B
+
+-Increased the cash payout per game, this may help the poor infantry players.
+
+~B Nov 2, 2006~B
+
+Doubled the titox rate of spawning. Engineers, please let me know your opinions on this setting change. There will now be more titox upon game start, and there will be a decrease in the time that it takes to spawn.
+~B Oct 29, 2006~B
+
+Increased shotgun child life to 0.07. I may adjust the spread to make it wider.
+
+You can no longer drop Deluxe Medikits or Medikits. 
+
+~B Oct 25, 2006~B
+
+Reduced shotgun child life to 0.05 seconds, this should reduce the instances of SG laming :)
+
+~B Oct 24, 2006 ~B
+
+New map up Outpost. I could not stand keeping the nameas BMCTF. I will leave it up to the community to help determine the final name of this map. I will put up a poll on the forums shortly. This map may be bugging, therefore please let me know by posting in the forums. 
+
+~B Oct 16, 2006 ~B
+
+Back to normal CTF. Due to the Database sharing, if your weapons are messed up pick a new class using the f11 key.
+
+~B Oct 8, 2006 ~B
+
+-Added a new team bong for players to rally at a coordinate and made the previous bong more clearer
+
+-Added a new team Bong to alert players that their base is about to fall, use %29 to access it
+
+-New weapon to be awarded to the winner of the CTF dueling competition. The winner will be able to use the weapon for as long as they hold the title of 'Dueling Champ'
+
+
+~B Oct 6, 2006 ~B
+
+Switching to CTFUL Flag drop points. These may change during the weekend.
+
+I will be tweaking the titox spawn rate in the coming days
+
+~B Oct 1, 2006 ~B
+
+- Increased the velocity of Shotguns to 13 m/s. I made minor changes to the actual physics of the shotgun in order to achieve a proper spread
+
+-Reps are no longer droppable
+
+- It is back to the normal Twin Peaks for a week.
+
+
+~B Sept 25, 2006 ~B
+
+-Trying a slightly different version of the map. The centre island should not look as ugly
+
+-Trying to determine maximum CTF player limit, teams are now increased to 16.
+
+~B Sept 24, 2006 ~B
+
+Welcome to 4 team Callisto Crossfire. I may add additional flags if warranted, or peform some minor tweaking to ensure optimal gameplay for this map. Teams are set to 10, Titan and COll will fill up before Europan and Morgan.
+
+~B Sept 20, 2006 ~B
+
+added lock.blo and door.blo to the CTF server directory. Some of you were missing this file and were unable to see or access the switches or doors:) This problem occured during the switch from the TP zone to the CTF zone. I did not notice prior because Hpoint has no switches or doors :)
+
+Thanks to Ares1020 for assisting me with this problem.
+
+~B Sept 19, 2006 ~B
+
+Some Classic TP, you can now build a base at the E1 Condo, I encourage you to do so :)
+
+~B Sept 16, 2006 ~B
+
+-Increased max team size to 25 for testing purposes, have fun with 50 people playing per arena. This will result in Hpoint feeling more crowded :)
+
+-Renamed Enhanced Sensors to Cloak Field Damper.
+
+-Increased Election Beamer energy drain.
+
+-Decreased Incinerator Energy drain.
+
+~B Sept 13, 2006 ~B
+
+-Hpoint is up and running, let me know what you think.
+
+-I will now address the teleport issue many of you are experiencing
+
+
+~B Sept 3, 2006 ~B
+
+-Increased Cash Reward to 20000$ (hope this helps the poorer infantry players)
+
+-Decreased Bty Multiplier slightly.
+
+~B Sept 2nd, 2006 ~B
+
+-Stim packs now heal 15 hp. I will not make anymore changes to the stims until I can ascertain the effect this new setting will have on gameplay.
+
+-Increased the cash, exp, and points payout for the person that owns a flag. (I am unsure of the exact algorithm used, so this will take a little bit of tweaking in subsequent updates.)
+
+-Increased the default cash amount to $40000.
+
+-Fixed a bug where coll could fire a PA $$ in the Coll DS.
+
+~B August 30, 2006 ~B
+
+-I removed Line of Sight to the Flags, they will now appear on radar again. Thank you to GinsuGuy585 and others who provided player feedback. The concept in my head turned out to be a lot different than what actually occurred in game. The only way I could know this is by testing. After playing and watching games with LOS enabled, I came to the conclusion, like many of you, that the games are too slow at the moment. I think enabling Flag LOS is better suited for CTFUL.
+
+P.S. Hill flags do not move =)
+
+
+-Reduced EZ grendade cost to 16000$
+
+-A general comment about the status of Bounty (Bty) It is still enabled in this zone; however, you cannot see it. I apologize for any confusion.
+
+~B August 29, 2006 ~B
+
+-I added Line of Sight to the Flags. This will make it a little bit harder to find them; although, they still show up on radar.  I believe it is a better solution than removing flags from the radar. (It could make flag hunting go on for a long while)
+
+-If you have a flag, you can no longer use DS Recall
+
+-New Fun Weapon Added: The Holo-Taunt EZ grenade: The grenade for people who can afford to taunt. 
+
+-I will be looking to add more of these types of features to reward players for flagging. They also serve as a status symbol =)
+
+~B August 28, 2006~B
+
+Removed BulletMark1Red from SL inventory, and replaced it with Repulsor Field. (I trust everyone will be ok with this change :) )
+
+Added a new rank Commodore 6000000 exp. (please email me your suggestions for rank names).
+
+I turned of scrambleteams until I resolve a few problems, namely having it scramble after cash is awarded.
+
+New arenas will now spawn when 28 players are playing in an occupied arena.
+
+You can now *prize again in private arenas (thanks to t for pointing this out)
+
+
+
+~BAugust 26, 2006~B
+
+PC Cannon is now red. a little bit of nostalgia for everyone.
+
+
+
+~BAugust 16, 2006~B
+
+Reduced max team size to 16. 
+
+Enabled team scramble after 4 wins or if teams are unbalanced.
+
+Turned off bty to see how it will affect gameplay.
+~B Please note this is only a test.~B
+
+I know some people will complain about this. However, the purpose of CTF is flagging not btying. If you want to bty please go to cm. 
+
+Reduced Vehicle Warp Delay.
+
+Private Arenas no longer wipe stats upon enter
+
+
+~2~B Dueling Tournament ~B
+
+Week 1:
+
+Aaya
+
+Week 2:
+
+Aaya
+
+Aaya is this week's winner. Contact Phlow for more info
+
+
+
+
+~1~B CTF Underground League ~B
+
+Sunday October 29th,  all Squads must to show up at 9 eastern time for some Exhibition Play. Just so we can see what kind of numbers were looking at and what squads are actually active. Please see the CTF forums for the current rule set  Anyone Interested in Being a Ref must contact Phlow ingame. Some of these Rules may not apply for exhibition matches. For example Double squading. 
+~B Update: we are working on the ruleset at the moment ~B
+
+Thanks goes out to Iz-Good.
+
+updated web links.
+
+

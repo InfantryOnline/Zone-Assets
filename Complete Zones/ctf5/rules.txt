@@ -1,0 +1,441 @@
+
+~B~1Infantry/Cosmic Rift Rules (last updated: November 3, 2009)
+
+~B~0Before playing Infantry or Cosmic Rift, you are presented with a License 
+Agreement to which you've agreed to, making you responsible to abide by the 
+further elaborated game-specific rules listed in this document. While these 
+rules may not cover absolutely everything, they do provide a good grounding 
+to the reader as to what is expected of them while enjoying the games.
+
+The rules in the game are enforced by volunteer Trainees (Tmods) and Moderators. 
+Outside of enforcing these rules, any Tmod or Moderator may come upon a 
+disruptive activity that he/she deems worthy of acting upon. If you have a 
+complaint regarding that arbitrary or unwritten intervention, follow
+the instructions in the "Moderators List" for how to submit that complaint.
+In most cases, Moderators will apply punishment to specific offenses using the 
+steps of punishment escalation shown at the bottom of this page. For more 
+information on Moderators, see the "Moderators List" in your F1/Help menu.
+
+The following are activities that you are not permitted to do and will be 
+moderated:
+
+
+
+
+
+
+
+
+
+
+~B~11. Any player found to be engaging in the following gameplay offences will be 
+subject to typical or custom punishments as directed:~B
+
+
+
+~B~1(a) ~0Intentionally leaving an arena/game with the intent to avoid 
+punishment from a Moderator (e.g., lock, silence, ban, or jail time).~B
+
+~1Example(s):
+~0-Typing "?go" or "?quit" after a Moderator silences or locks you.
+-Leaving the arena or game because you think a Moderator is about to ban 
+you.
+
+
+
+~B~1(b) ~0Using a hack, trainer, exploit, or abuse bugs with the intent to 
+cheat in any way.~B
+
+~1Example(s):
+~0-Any programs that run while Infantry/Cosmic Rift are running and have 
+some effect on your gameplay (e.g., health, rate of fire, speed, weapons, 
+etc).
+-Map related bugs such as shooting through walls and placing your character 
+on physics in order to make your summons randomly warp players to different 
+locations on the map (summon bug).
+
+
+
+~B~1(c) ~0Forcing your character to be spectated or disconnected in order to 
+avoid death.~B
+
+~1Example(s):
+~0-Spamming in chat.
+-Pulling connection to create lag or disconnection.
+
+
+
+~B~1(d) ~0Using a secondary "dummy" account. Meaning, having two accounts on 
+at the same time and in the same arena.~B
+
+~1Example(s):
+~0-Using the second account to find players on the map while your main 
+character is in game.
+-Using the second account to feed your main character free kills 
+(statistics padding).
+
+
+
+~B~1(e) ~0Repeatedly summoning players without permission (also known as 
+"Random Summoning").~B
+
+~1Example(s):
+~0-Summoning a whole team without consent to help your chances of survival.
+-Summoning people into enemy mines and/or weapons fire (this can be seen as 
+Statistics Padding or Team Sabotage as well).
+-Summoning the same player repeatedly without request.
+
+
+
+~B~1(f) ~0Intentionally sabotaging team efforts, friendly turrets, structures, assets, 
+or players on your team (also known as "Team Sabotage", "Team Killing" and "TKing").~B
+
+~1Example(s):
+~0-Using a Demolition Pack or Demolition Charge to destroy a team's base 
+structures.
+-Intentionally firing weapons (ones that deal damage to teammates) at your 
+teammates to lower their health points.
+-Purposely getting vehicles stuck or moving them out of sight so your team 
+does not utilize them.
+-Playing goalie for the opposing team, handing the ball to the opposing team, 
+taking the ball in the wrong direction (ball zones). 
+
+
+
+~B~1(g) ~0Statistics Padding your characters (also known as 
+"Stat Padding").~B
+
+~1Example(s):
+~0-Feeding (or receiving) kills to (or from) someone in order to increase 
+their (or your) bounty, better their (or your) kills to deaths ratio, 
+experience, repeated deaths to collect helmets (your own or not), logging 
+off your alias to log on another alias to buy supplies for your main alias 
+(cash padding), or any other activity with the intent of artificially 
+inflating a players score.
+-Forcing an unowned flag drop. Being summoned/recalling to the dropship to 
+force drop the flag you are holding, switching to Spectator Mode to force 
+drop the flag you are holding, or running across terrain known to cause flag 
+drops.
+-In static flag zones, taking turns capturing a flag repeatedly in 
+cooperation with a friend on the opposing team.
+
+~1Exception(s):
+~0-It is legal for a player who is leaving the game to give their bounty 
+away to a player of their choosing. This is allowed provided the player in 
+question leaves the arena and ends their session for the minimum amount of 
+time of 30 minutes.
+
+~1Note(s):
+~0-Statistics Padding is usually dealt with first by a warning and then a wiping of the character.
+
+
+
+~B~1(h) ~0Playing the game with excessively high lag/latency (intentional or unintentional).~B
+
+~1Example(s):
+~0-Flagging in zones where capturing the flag/position is the objective 
+while your lag info is above the allowed limit (400ms ping, 4% packet loss 
+non-combined, 250 c2s latency) or otherwise visually seen as disruptive by 
+a moderator.
+
+~1Note(s):
+~0-The abovementioned lag limits do not only apply to flagging. In any zone, 
+a moderator that sees your lag as being disruptive to the game may use those 
+limits or may base it on a solely visual basis.
+-Having higher latency than average ping in any zone may get you removed from playing.
+
+
+
+
+
+
+
+
+
+
+~B~12. Any player found to be engaging in the following zone-specific offences will be 
+subject to typical or custom punishments as directed:~B
+
+
+
+~B~1(a) ~0Soccer Brawl~B
+~0(i) Sticking the ball on the wall.
+
+
+
+~B~1(b) ~0Bug Hunt~B
+~0(i) Elevator cheating ("ele cheating"), where Skrall spawns directly on an elevator 
+in the map using a prohibited technique.
+(ii) Air Clawing, where Skrall spawns directly on Marines to cause damage/kill using 
+a prohibited technique.
+
+
+
+~B~1(c) ~0Capture The Flag~B
+~0(i) Intentionally dropping flags in difficult to reach places on elevators or next to them.
+
+
+
+~B~1(d) ~0Eol Crater~B
+~0(i) Using maser and certain types of grenades against players in dropship.
+(ii) Using the Assassin's black hole weapon to suck players out of the dropship to kill them.
+(iii) Building certain types of base structures meant for outdoor use, in an "Indoors" environment/terrain.
+
+
+
+~B~1(e) ~0Eol Advanced~B
+~0(i) Building certain types of base structures meant for outdoor use, in an "Indoors" environment/terrain.
+
+
+
+~B~1(f) ~0Skirmish~B
+~0(i) Placing a vehicle against a wall to shoot through it.
+(ii) Taking the enemy's vehicle into their safe zone.
+(iii) Using the summon bug to randomly warp a player across the map.
+
+
+
+~B~1(g) ~0Chambert's Moon~B
+~0(i) Abusing the credit system.
+
+
+
+~B~1(h) ~0Cosmic Rift~B
+~0(i) Getting the Shrike stuck.
+(ii) Using the ship change abuse.
+(iii) Spawning directly on a player using a prohibited technique to cause damage.
+(iv) Interrupting duels taking place between two other players in their own area 
+(Dueling Zone Public arenas only).
+
+
+
+
+
+
+
+
+
+
+~B~13. Any player found to be engaging in the following chat/communication offences will be 
+subject to typical or custom punishments as directed:~B
+
+
+
+~B~1(a) ~0Wearing inappropriate banners.~B
+
+~1Example(s):
+~0-Racist words and symbols
+-Letter banners that turn an alias into an illegal one
+-Profanity
+-Middle-finger
+-In-game graphics as banners
+-Nudity
+
+~1Note(s):
+~0-Banner privileges can be removed by Smods if using them is abused in the 
+abovementioned ways.
+
+
+
+~B~1(b) ~0Using inappropriate aliases, squad names, or team names.~B
+
+~1Example(s):
+~0-Racist, vulgar, profane or any name created using numbers and symbols to avoid the 
+game's word filter.
+-Aliases representing key mainstream religious figures; the use of which 
+aliases and behaviour while on them may show offense to other players.
+
+
+
+~B~1(c) ~0Flooding and Spamming.~B
+
+~1Example(s):
+~0-Any amount of message flooding that a moderator deems to be disruptive to the chat interface.
+
+~1Note(s):
+~0-Spamming offences are typically dealt with first by a warning then a silence. 
+Banning will occur if the player avoids the silence or is spamming to force disconnect.
+
+
+
+~B~1(d) ~0Demonstrating excessive derogatory behavior.~B
+
+~1Example(s):
+~0-Insults relating to race, nation, gender and religion.
+-Extreme vulgarity.
+-Drawing pornography in the chatbox.
+-Spelling any of the above on the map with in-game structures and/or items.
+
+
+
+~B~1(e) ~0Giving coordinate information to the public chat.~B
+
+~1Example(s):
+~0-Base coordinates, flag coordinates, team coordinates, and personal
+coordinates. 
+
+~1Note(s):
+~0-Team chat is allowed. Just not public (cyan) or enemy (dark cyan) chats.
+-Other methods of providing spectator information may be considered for moderation
+as long as it's easily verifiable and equally damaging to fair gameplay.
+
+
+
+~B~1(f) ~0Intentionally abusing the ?help command.~B
+
+~1Example(s):
+~0-False or prank reports.
+-Spamming the command.
+-Derogatory remarks in ?help requests.
+
+~1Note(s):
+~0-When using the ?help command, add a reason to it (e.g., "?help How do I 
+play sergeant?").
+
+
+
+~B~1(g) ~0Intentionally abusing the !911 chat.~B
+
+~1Example(s):
+~0-Spamming the !911 chat.
+-Derogatory language.
+-Refusing to leave the chat without valid reasons for staying.
+-Entering and leaving the chat repeatedly.
+-Remaining in the chat and impersonating Moderator status to visitors.
+
+~1Note(s):
+~0-Proper usage of !911 includes: stating your purpose in the chat as soon 
+as you enter, dropping the chat as soon as you are finished (or told to), 
+and using the chat for rule violation reports only. For other matters use 
+the ?help command.
+
+
+
+~B~1(h) ~0Impersonating a Trainee, Game Moderator, Super Moderator, Head 
+Moderator, or SOE Employee for any reason.~B
+
+~1Example(s):
+~0-Saying you are a Tmod or Moderator.
+-Creating aliases that resemble any Tmod or Moderator's alias.
+-Serious claims that you have mod capabilities in public zones.
+
+
+
+~B~1(i) ~0Impersonating a player in order to cause a bad reputation for that 
+player.~B
+
+~1Example(s):
+~0-Making aliases close to other players' aliases, claiming to be them, and 
+behaving in a derogatory manner on the similar alias.
+
+
+
+~B~1(j) ~0Intentionally misleading players in a manner that is significantly self-destructive.~B
+
+~1Examples:
+~0-Telling players that typing "?wipecharacter" will result in some kind of benefit.
+
+
+
+~B~1(k) ~0Promoting any URL not pertaining to Infantry/Cosmic Rift/Sony 
+Online Entertainment for any reason.~B
+
+~1Example(s):
+~0-Posting links that look like they relate to Infantry but infact are 
+infected with a virus of some kind.
+-Any derogatory sites, pornographic/vulgar sites, or personal sites (due to 
+personal computer security risks such as viruses).
+-Linking to competing products or companies.
+-Any promotion of pirated Infantry/Cosmic Rift/SOE software (with or without URL).
+
+
+
+~B~1(l) ~0Harassing a player/moderator in a manner that is verifiable, persistent and disruptive.~B
+
+~1Examples:
+~0-Continuously making disparaging and hateful comments towards a player in a public chat with no
+provocation on the targeted player's end.
+-Serious real life death threats towards another player.
+
+~1Note(s):
+~0-Common and mutual "flaming", arguments and playing skills comparisons does NOT constitute the 
+type of harassment covered under this rule.
+-If harassment occurs through private channels, use ?ignore.
+
+
+
+~B~1(m) ~0Sending mass squad invites to a player without the player's consent.~B
+
+
+
+~B~1(n) ~0Engaging in disruptive behaviour in an SOE supported league's public chat channel.~B
+
+~1Examples:
+~0-Spamming and derogatory behaviour.
+
+~1Note(s):
+~0-League chat channel refers to the league's public chat that is entered using ?chatadd. 
+Not the public chat inside a league zone.
+-This rule only comes into effect when a head staff member of the league asks a moderator to enter
+the chat and moderate it for the duration of the incident. The service is intended to help leagues
+with problems in their chat that are beyond their own control measures. Does not include league staff chat.
+-SOE support is defined as leagues that have been given their own zones.
+
+
+
+
+
+
+
+
+
+~B~14. Any player found to be engaging in any activity that a general moderator, super moderator, 
+head moderator, or SOE employee deems inappropriate may be subject to typical or custom punishments 
+at their discretion.~B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~B~1Punishments:~B
+
+~1Punishments for violations of the above rules may include, but are not 
+limited to, any combination of the following:
+
+Wiping of character(s)
+Being silenced
+Being locked into Spectator Mode
+A temporary zone ban
+A temporary game ban
+A permanent account ban
+Banner privileges being removed
+Being warned
+Any other action a Game Moderator, Super Moderator, Head Moderator, or SOE 
+Employee deems appropriate
+
+~B~1Typical escalation of punishments is as follows:~B
+
+1st Offence = Warning
+2nd Offence = 60 minute removal from the zone.
+3rd Offence = 120 minute removal from the game.
+4th Offence = 1440 minute removal from the game.
+5th Offence = 2880 minute removal from the game.
+6th Offence = 4320 minute removal from the game. (possible account suspension/closure)
+
+
+
+Most offences will follow a typical escalation punishment model, but others may fall under 
+specific custom escalations. Moderators may act on occurrences that are not listed here 
+and those occurrences will be assessed later to see if it warrants being added to this document.
+

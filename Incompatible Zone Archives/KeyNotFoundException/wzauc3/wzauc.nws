@@ -1,0 +1,591 @@
+-----------------------------------------------------------
+~1
+Combined Arms is a player developed zone.  You can hold a base with a headquarters or try to destroy an enemy team's HQ.  You can also ride around in a tank or just hop into the action.  The game will try to reward you for playing however suits you best.  Enjoy, and have fun :).
+
+~6IF YOU NEED HELP GO TO http://www.freeinfantry.net/forums OR ASK A TEAMMATE.  IF SOMEONE ASKS FOR HELP, DO YOUR BEST.  ~bYOU, THE PLAYERS~b CAN CONTRIBUTE TO FREEINFANTRY'S POPULATION AND POPULARITY.
+
+
+
+
+~6~B Developer's Corner~B
+
+FreeInfantry is back!Be active in the community, tell your friends, post FI on any bulliten boards you visit, get people playing!  We can all contribute to the game we love.
+
+~2~4Zone Updates~2~B
+
+
+~b~4Feb 16th 2008~2~b
+- Fixed B10 a bit. It should be easier to kill now. Fixed vision bug in there as well as made it a bit harder to shoot PBD's into spawn area.
+- Added stim pack spawns around the map.   TY Navak for the reminder :P
+- Fixed various vision, floor, and physics bugs around the map.
+- Beefed M2/N2 base and made it into indoor terrain.
+- Beefed several mini-bases around the map. They arent the strongest bases but should be fun to defend.
+
+~b~4Feb 14th 2008~2~b
+~bn0bkilza~b
+- Updated the Airport map. There are 2 pads to make planes. Ammo boxes for planes are in different area. Upped repair rate for heavy and airplane pads.
+- Added several mini-bases in the city. They are quite hard to defend but can make for some fun fights.
+- Most trees around the map will give you much better ablity to hide. Use this to your advantage!
+- Planes can fly over any building but cannot shoot indoors. They can still parachute out of the plane right next to your HQ, so keep an eye out for that.
+- There are now 5 spawn points around the map. Northwest, northeast, southwest, southwest, and the middle (mountain range).
+- I've started updating onthewater and dz's map. They should be finish within a week. 
+
+~b~4Friday, November 16th 2007~2~b
+~bn0bkilza~b
+- Nerfed L2 base and added furnature.
+- Added physics to prevent copters from being able to stay on ground.
+- Prevented copters from entering buildings and flying over blue physics.
+- Redid entrance to A4 base.
+- Made hacked doors stay open a bit longer.
+- Added insta-flank warps in most bases.
+- Made race track a bit harder.
+- Able to rep most vechs/mechs on light rep pads now.
+- Fixed most map bugs.
+
+~b~4Tuesday, November 13th 2007~2~b
+~bEffsi~b
+- Conscripts given back their old base weight of 5kg
+- All cloaks given old unstealth and uncloak times
+- Snipers were given back access to SMGs
+- Snipers lost access to Thermo+, Sensors+, and all Eye Interfaces
+- PAs, X Corp SR, Zlite G5 SR, and the Ry-Tek LSR all recieved slight velocity drops (250, 250, 1000, 750)
+- Velocity increase on SI-6 Sniper Cannon (750)
+- PAs energy drain raised to 60 (from 55)
+- Taunt versions of the PA had a cell usage drop of 200
+- Ammo Creator beefs: Cannon, Gauss, HMG, and MG all create 2x as much ammo.  Pistol increased 30 and Rifle 10
+- Disrupter's duration was increased 5 seconds and the range on the antiwarp was increased 100 pixels
+- Cyber Eye Interface had a weight drop of .9 and recieved an additional 7 seconds to it's time
+- IDF was given an extra .5 to it's protection
+- Zap Glove dropped to 100 cell cost per use
+- Chainsword was removed from Drop Troopers and given to Engineers
+- Chainfist was given to Drop Troopers
+- SilenTech SymAC was given a 5kj increase
+- Variable Armor was given back to Drop Troopers
+- Ceramax V - SpecOps was given back cloak detection
+- All gauss weaponry was changed
+- SMGs set to original lifetimes
+- Saw Machine Gun was given a velocity increase and the EB was lowered to 5% velocity boost (200)
+- SI-7 Machine Gun and Sling burst speed returned
+- MMG277 burst speed returned
+- Ry-Tek SMG7 HV dropped 1 kinetic damage and the was drain increased to 14
+- G-Labs PMG-08 dropped 3kg in weight and was dropped, along with it's harness, to the old damage
+- STC-S2 and it's brace dropped 2 kinetic damage
+- STC-S2 Brace has it's time between rounds increased to 40ms
+- STC-S3 had it's outer damage made to match the inner damage and lost .5kg weight
+- Handcannon went back to it's old weight, damage, and lifetime; recieved velocity boost and kept it's improved ROF
+
+
+~b~4Sunday, November 11th 2007~2~b
+~bn0bkilza~b
+- Updated DZ's map. 
+- Outdoor base should be a bit easier to kill.
+- New warp points inside of base.
+- Extended right side of map.
+- New indoor base is not finished. Just need to add furnature and stuff.
+
+
+~b~4Saturday, November 3rd 2007~2~b
+~bLooseCannon~b
+- The x, y, and z warps don't weigh anything now.  Dunno why they did.
+
+~b~4Friday, November 2nd 2007~2~b
+~bn0bkilza~b
+- Slight beef on MGs.
+- Nerfed Adrenaline Active Implant. Takes longer to to use, shorter lifetime, no rotation bonus, less speed/accel bonus.
+- Beefed Stealth Generator.
+
+~b~4Wednesday, October 31th 2007~2~b
+~bLooseCannon~b
+- Adjusted motions sensors
+- Made regenerator sell for 0 instead of being unsellable
+- Nuclear refinery is immune to nukes now
+
+~b~4Tuesday, October 30th 2007~2~b
+~bn0bkilza~b
+- Took all SMGs away from snipers. 
+- Lowered lifetime of SMG's.
+- Beefed CCP-8 Handcannon damage, nerfed lifetime and gave it double the wieght.
+- Beefed G-Labs Plasma MG and attachment.
+- Slowed rof and reload on SI-7 MG and MMG277.
+- Increased SI-3 GL emp just a bit.
+- Helicopters are now 2 hit kills.
+- Added 2 new SL Active Implants. This is just the testing phase.
+
+Kitaria 10/28
+- Money Is now usable in DS, no need to trade money in secret spots like the cartel
+- Increased base cash per kill to 175
+- Due to lower pop, team size adjusted to 10/8. Hopefully will result in smoother gameplay
+- Due to feedback, Bikes cheaper (Mortar bikes, assault bikes, Dart bike )
+- Strider price: $2000
+- Fim-169 Orca: 8 kg
+- Cyberdeck+ and Cyberdeck++ revamp: After some thought, weapons that disable player control for extended time is not enjoyable gameplay. 
+Cyberdeck+ is now a 2/4/4 movement/rotate/fire stunner with a new animation, Aka a maser emp gun. Reload, effect, and animation: 4 seconds
+Does 1 damage to PDBs to be extra annoying.
+- Experimental graphics: Heavy weapons uses bug hunt marine graphics
+- Updated Machinegunner and Demolition with corresponding advanced class graphics
+- Conscript carry weight decreased because of their already speed and armor advantage of leather armor
+- Fence Kit: Prefire time increased
+- Demo weapons GL blast radius changed to be same as demo expert GL
+- Basic classes can now sell their equipment for 0 as well as dropping it
+- X corp SRX weight increased, was making PA obsolete
+- Grenade launcher Fire delayed increased
+
+~b~4Tuesday, October 23th 2007~2~b
+~bn0bkilza~b
+- Beefed A3 base a little. It still can be wall lamed but it should hold up better now.
+- Beefed D1 base. Added a hackable door.
+- Redid the E3/D3 base. Added 2 hackable doors.
+- Nerfed C1 just a tad with a wider opening.
+- Started playing with the race track.....its still a ways before being completed.
+
+~b~4Monday, October 22nd 2007~2~b
+~bn0bkilza~b
+- Updated dz's old map. Hopefully there won't be many bugs.
+- Added a mortar-proof, thor-proof, faf-proof outdoor base. The red one-way physics are set high to stop most weapons.
+- Added a race-track to the map. It still needs better gfx, but physics are done. Have fun racing!
+- Added a warp to the race track and moved the dueling arena warp to a better spot.
+- Added some energy cube and frag nade spawns.
+- Beefed some bases. C1 shouldnt be the only strong base now.
+
+
+~b~4Sunday, October 21th 2007~2~b
+~bLooseCannon~b
+- Changed the graphic for demotroopers to one that kwekly made to see how it worked out
+- Adjusted various stuff in the script for vehicle timeouts, etc
+- Converted the "Transformer" stuff over to use lua instead of classes
+- Adjusted the event vehicles and vehicle makers a bit
+- I've started breeding the horses of the apploclypse
+- Took the shortbow out of the store
+Kitaria
+- 10 minute expiration timers for bikes and choppers left in middle of methane
+- Lowered HP greatly on giant walls
+- Goddog blueprint slightly more expensive to reflect rocket shrapnel buff
+- Decreased knockback on fafnir
+
+
+~b~4Tuesday, October 16th 2007~2~b
+~bSTAS~b
+Note1: There will be a lot more items ala FenceKit in the near future, but mostly for weapons (think different ranges on mortars etc)
+Note2: As per Note1, LSR4 now uses same system (it's mentioned in the list below someplace)
+Note3: All the GLs and Rockets will be fixed at one point so that they only trigger on fat objects up close and not ppl, but hit ppl at range.
+- Cara series had its energy regen reworked to scale with weight.
+- AR247 API -> AP, works differently now, it actually does more damage to better armor now (read: cara, drop) and less to crappier armor.
+- Changed team STC's color.
+- Raised some resale rates on armor
+- Silenced weapons are now all Commando-only
+- Tenmou drain is now 8 instead of 7
+- AR4 and AR247 both do 18/15 damage
+- S2CAW now does 14 instead of 12 damage
+- TS AG-80 Scope now converts the gun into a sniper rifle and is no longer availible to HT or DT.
+- Fixed Cyberdeck+ and ++
+- X Corp SR-X got 'Fenrir' back in its name and now has 3s reload instead of 2s, qq
+- SMG7 HV DU velocity increased
+- TS AG-21 drain increased to 12 from 11
+- Added Zlite G5 Sniper Rifle
+- PAR4/Plasma Rifle reload is now 1sec instead of 0.75s
+- Increased Sniper Cannon outer damage to 45
+- PA blast radius slightly increased (lag offset)
+- Ammo - Manual section is gone.  If a weapon has to be manually reloaded, the magazine will be in the weapon's section.
+- Increased stun effect on leg shot of the LSR to 2s vs 1.5s
+- X53 FT Fuel is now loses traction when it bounces off the floor and has 2 bounces vs 1 (Kit changed it apparently from 5 to 1...)
+- Shockwave outer damage lowered to 8 from 12.
+- SF and PF gen got beef, 3 and 2 explo and elec protections respectively (old values: 2, 1)
+- Sawed-Off no longer fires both barrels at once, but rather in a row in rapid succession ala Assault Shotgun.
+- Drain increased by 10 on both, LAW and AVM (initial rocket only, not anti tank penetrator).  Use them to take out fat people ala Fear Alice, $$
+- Switched several rockets to use the debris rocket trigger instead of debris end... they were firing off stuff before even when hitting people.
+- Removed explosive damage from Drache's chaingun.
+- RPG Rocket LR got a bigger arc of fire and higher gravity.  Let's hope this does not make it SR, since I have no time to test, my guinea pigs ;p
+- RPG AA is now lower angle and acts more like Gripe in a way..
+- Attempted to beef AFP HMGx AAA, it now has higher muzzle velocity + some prox/dmg mods
+- Airbox back to its old position.  There is a reason why it was there to begin with.
+- PAR4 PGa and Plasma Grenade launcher had their proximity lowered and made them retain less velocity on the floor bounce.
+- Knives back to old weapon switch values.
+- Penetrators got fixed in some ways
+- All multi missile reloads back to their previous values.
+- Vector fields back to their old values, so that descriptions are now true.  Let's see what happens.
+- Took away Sloped Armor from medics, nerfed it down to 15% instead of 20%
+- First Aid kit now heals the same way as Medikit
+- Medikit no longer heals self, use Deluxe for that, sry.
+- WAHm now heals over 4 instead of 8 seconds -> huge radius deluxe medikit now
+- All STC weapons got nicknames now
+- UV-9 got ammo use cut.
+- Plasma Projector fires in bursts of 2, rather than 3, weighs 6kg instead of 8kg and has increased ammo use.
+- PSMG ammo use increased.
+- Laser Shotgun no longer availible to Infantry, sry, qq <3 forevar~
+- PMG now does 20 kinetic instead of 15
+- Can no longer build aircraft on light vehicle pads.  That leaves only 1 place to build them at this time, the helipad.
+- Fence Kits put in.  Obtain in store.  This is a basic version, it will have more options later.
+- Bunker Removal Tool renamed to Bunker Self Destruct, $$ .. oh it costs 100 vs 1 now and can only be used by engis and commies, kthx.
+- Health Rate = 1 on methane now too, like the rest of the zone.
+- STAFFBIEK could not enter a couple terrain types.  Fixed.
+- Bunkers no longer float across Methane :(
+- Tanks now behave the same on methane as they do on land.
+- Event AA Turret fires AFP HMGx AAA now lolololol
+- Renamed the ?x, ?y, ?z warps to X warp etc
+- Event turrets' veh builder items are only usable by sysops now, no longer use ammo and have shorter prefire
+- Anti Veh event turret fires beam cannons 1/sec
+- Added recoil effects to shotguns.
+- CZ-F4 GL has 3.5 sec reload instead of 4.5
+- Tenmou burst is now 25 rounds instead of 30
+- Razorwire now included in FenceKit, but won't work until LC wakes up and puts the lua in for it
+- Several RPG-type missiles now do uniform damage within their blast radius, meaning if you hit a group hug, everyone dies.
+- Switched LSR4 SUp to work like the FenceKit
+- LSR4 now has preload of 500ms instead of 750ms
+- Resign skill can now be acquired by any class.  This way everyone can always go back to conscript at any time without ?wipecharacter.
+Kitaria
+- Ceramax V spec ops (5.5kg) no longer comes with 6 kg of free imaging equipment
+
+~b~4Saturday, October 13th 2007~2~b
+~bLooseCannon~b
+- Added some event objective vehicles
+- Altered the nuclear refinery a bit.  The new options don't do anything yet.
+- Added some autoturrets just for events
+- Added new ?x, ?y, and ?z items
+- Added some event walls and gates which basically can't die
+~bKitaria~b
+- FIxed a9 elevator
+- Moved air ammo box outside where gunships can reach
+- Adjusted HQ rewards to match new calculation (higher reward for destroying hq with large team)
+- Complain to stas if you have weapons ideas/whine he does the items
+- Added 15K resell to implants. Ok no more crying about no money pls
+- Sloped armor 20% energy protection
+- Shock armor 1 kg reduction
+- fim-169 price decrease, also sold in explosive box
+- Team size back to 12, keep population up please!
+- GL blast radius is 84, its still lighter and bigger blast than rpg. Still very spammy
+- Multimissile reload adjusted, 2x reloads faster and 12x slightly slower
+
+
+~b~4Saturday, October 13th 2007~2~b
+~bSTAS~b
+- Overhauled STAFFBIEK
+That's all :P
+~bLooseCannon~b
+- Overhauled the HQ kill system
+That's all :P
+~bKitaria~b
+-Fixed a2 elevator
+-Made Laser MG PDB 1 bounce only. Refer overpowered comments to stas or forums dont bother me :)
+
+~b~4Tuesday, October 9th 2007~2~b
+~bSTAS~b
+- Snipers got TS SG-19 Machine Pistol
+- Air Ammo Boxes now only show you the options you can use.
+- Conscripts can now use most grenades, made a mistake while remaking skill logic last time, ops
+- PAR4 ROF increase
+- PAR4 PGa switched to synch reload, so you can keep firing while it relaods in background.
+- First batch of Enlisted classes is in.  Let's hope it works -_-;
+- AA missiles no longer go over red.
+- Lowered all exp req's on classes
+- Gunships can now only ascend/descend at Air Vehicle Pads
+- Gunship blueprints are now in the store.
+- Putin a Resign/Reenlist skill bit, consists of two kill items that you must go through in order to access basic classes after your current ones.  This is to prevent accidental equipment wipes, since the basic classes do wipe the inventory.
+
+~b~4Monday, October 8th 2007~2~b
+~bSTAS~b
+- Made a second orbital cannon with a higher start point and -1 wall bounces.  Let's hope it works and doesn't just blow up at the point it starts.
+- Upped Skimmer explosive and electronic armor and added Occupant Protection
+- Helis now have a different shadow gfx that is bright and blinking
+- AA missiles now have a bright blinking shadow gfx too
+- Disabled warp disruptoer in ds
+- Raised Snub Cannon outer damage
+- Redid ammo converters a bit and added ammo cannon and ammo gauss maker
+- Disallowed Mobile Infantry on methane
+- DT/HT, FP/HB now all have a height of 45 instead of 60 so they can try to go in/out of windows
+- Fixed cfg file
+- Set Motion Sensors price
+- Active implants all have resale price
+- Added Partial Carapace - Refitted
+- oMAF LCa no longer accessible to snipers
+- Added Shell Casing to Bozar
+- Silenced Sniper Rifle velocity increased, max range specified.
+- Strider, Ena, Parzival now can be shot through while they are unoccupied
+- Modified aimed Light Sniper Rifle shots, hopefully they'll work better now.
+- Increased PA minimum range
+- Fenrir Sniper Rifle is back
+- Increase Sniper Cannon blast radius, should now be more prone to do close to inner hits
+- Light Sniper Rifle better velocity, less minimum range
+- Added PA $$, GG, EZ in and all have an actual weapon name now, not just "PA"
+- Changed name/desc of SSR and Sniper Cannon
+- GL blast radii / outer dmges modified
+- Light Sniper Rifle got a name
+- Sniper Cannon now dead accurate.
+- AR247 additional rounds weight increase, price decrease, nrg drain increase on EX
+- Added SI-9 'Tenmou' MG caliber Minigun
+- Lowered the old minigun's weight
+- ... okay did way too much crap, check out Rifle, MG, Sniper sections kk?
+- A lot of stuff now has proper names
+- SAW has lower reload
+- Added SilenTech SymAC, new cloak for commies
+- PFist weapon switch time increased... PFist+Shredder was better than monoblade, f#%@ that
+- Messed with RPG HV
+- Laser MG dead accurate now and weighs less.
+- Wespe and MG PDB switched to laser weapons
+- Regenerator fires every 5 secs and heals 5 hp
+- Tenmou does 7 drain now instead of 10
+- Keibou got its shadows removed
+- Wespe renamed where appropriate to have Laser not MG turrets
+- Same with PDB MG
+- Redid sniper rifles... all have huge minimum range, but faster velocities
+- Added new ammo for SR-X
+- Added Giant Gates to Factory
+- Beam Shield is now in the refinery
+- Made grenade explode on contact with tanks/concrete walls etc. Imma make them bounce off of them later.  This is so nades aren't lobbed through giant walls
+- Removed vertical repulse from Cunt Punter (Helis won't be able to go up/down indoors, this would've fucked them up bad)
+- Dual Laser MG reload slower now
+- Hedgehog APS outer same as inner
+- Fixed SR-X to fire every 2 secs
+- EM-4 has 3 bounces now
+- Lowered Frag Grenade weight to 0.45 from 0.65
+- Vortex Nade blows up on walls instead of bouncing now
+- Added a couple ARs to demo that have boom boom capabilities, $
+- Mobile Infantry lost ALL indirect fire (unless I missed some) weapons, but gained a couple new ones
+- Zlite Carbine and SI-1 got beef
+- CCP-8 Hand Cannon ROF increased (200ms->150ms)
+- Gave LSR4 SUp to infs and mobile infantries now too
+- Removed MI Reverse Thrusters
+- Added Sprint Shoes
+- Kick ROF increased
+- Remote Explosive number count in inventory has a soft limit of 5 now. . .
+- Took Variable Armor away from HT/DT
+- Changed Overload Gfx and increased blast radius
+- Lowered the Twin Laser MG drain to 10 from 15
+- SR-X weight up to 12kg from 10kg, gonna put a 10kg rifle in later
+- Trying out something in CFG, hope it doesn't break game >_>
+
+~b~4Saturday, October 6th 2007~2~b
+~bryanbe~b
+- Added a deluxe village event arena.
+- Added a deluxe village dirt race track.
+- A lot of base changes.  You should be able to get a tank into the Ry-Tek base, more A10 nerfs (ha-ha).  A complete redesign of the green base underground.
+- Entire map setup for Heli's.  :O
+- Removed all green from liquid surfaces.
+~bSTAS~b
+- Uhh, reverted all the Ceramax armor weights back to what they were on 5th of October.......
+- Shield Armor is exclusive to Infantry now.  The rest will have to go with impact armor, sry
+- Sloped Armor removed from HT/DT (it's same as assault armor technically.. which neither class has access to, so..)
+- AFP HMG AAA now works against choppers
+- AutoGun Cannon no longer TKs..
+- Autogun Minigun fires in bursts of 30 vs 20 now.
+- Gunships can't ascend or descend indoors anymore
+- "Accident" does some damage now.
+- PDB SAM can fire goddog for real this time.
+- Added the zone's bong list to the end of the news file courtesy of n0b kilza
+- Changed the web link menu
+- Fixed west elevator spawn
+- Was going to fix STAFFBIEK to have stationary empty animation, but decided its twitching is more appropriate for it.
+- Added Silver Jetbike
+- Pilots in gunships now can be hurt.
+- TS-F80 UBS is now 3 shots instead of 2
+- Raised gunship elec ignore so they don't get autowtfpwnt by lasers.
+
+~b~4Thursday, October 4th 2007~2~b
+~bSTAS~b
+- Jetbike afterburner sound should work properly now.
+- Flashlight no longer uses ammo, yes you read it right.
+- Conscripts now have a 5kg weight limit and have Market Recall instead of the Light Recharger
+- Flashlight Capacitor now is dead accurate
+- All Flashlight addons weigh altogether 1kg
+- Rations gone, zmg waht?!!!1
+- Regenerator is now in place of Rations.  It's an energy using self healer that only works outside of battle realistically.  Its prefire graphic is a green cross instead of a red one, so you should be able to tell when a fgt is about to autolame you with invincible armor.. wait there's a solution! laws,avms,nades,faegs,emp,zap+spam..yar
+- Added the first drug in, Buffout.  Watch out kiddies, you are gonna get more addicted to it than you are to CA as is ~
+- Mobile Infantry lost access to Sloped Armor, sry
+- Laser Shotgun no longer requires Laser Rifle to fire, ops >_>
+- Laser Shotgun now availible to more classes
+- Beefed Tractor Turret, let's see if it does anything now..
+- Strider cost down to 1500 from 3000, I expect mass production! gogogogogogo
+. . . m o r e . . .
+- Computer turrets can now hurt computer turrets, which means remote explosives are a go when it comes to blowing up.... everything :D
+- Juno Chaingun on Selene is now back to 5 shots.
+- All custom Power Armors have been removed.  You will find that they are no longer in your inventory, but you will be reimbursed the full price that you payed to obtain them.  We should do a head count on how many qqs we get on this one.  Go get a carapace ;p
+- Shockwaves do 12/10 damage/drain now.
+- Jetbike handling significantly improved.
+- Added a ton of new Jetbike colors.
+- Power Armor remains in store and has an updated description.
+- Flying vehicles no longer automatically ascend when they hit green physics.  You have to hit the ascend button.  Big fat shit flying off so easily because they hit a .. chair? um..no
+- Particle Accelerator back to 8kg.. combine with 10kg Fusion recharger = 18kg gun ala Sniper Cannon.
+- Bozar drain goes up to 7 from 5
+- S4ND11 reload is longer now, since it's way better than other ARs as is.
+- Hopefully fixed PDB SAM to now shoot the ground to air missiles.
+- Beam Cannon Beam no longer lifts people up when it hits something.
+- Chain Fist and Sword now drain 30 instead of 20 on inner hits.
+- Couple armor weights got shifted around
+- Added "Drug Pusher" under Drugs.. it's actually the old rations maker.
+- Fixed buffout to work better.
+- AutoGun Rocket now fires at soldiers too.
+- Regenerator works differently now
+Kitaria
+- Nerfed the rediculously armor sloping 15% shield drain...wtf its like having 15% more shield and regen
+- Artillery shield density 244
+- New icon for droppable autorepair kit
+
+Was gonna add Giant Gates and some other stuff, but I'm too tired now, so gonna add Strider Factory etc later.
+
+~b~4Wednesday, October 3rd 2007~2~b
+~bLooseCannon~b
+- I think it was accidentally set so that pdbs can't be built inside.  I changed it so they can.
+- Autogun Rocket can be built inside
+- Autogun Cannon will fire at anything but commies and staff now
+- Motion Sensors are in the store
+- Set the UFO abduction bay back to class 100
+- Added some of kwekly's graphics for testing
+~bSTAS~b
+Happy Birthday Stas!!!111 yaaaaaay~~
+- APC got same explosive protection as tanks now (60)
+- HV RPG outer damage increased and went back to values from May for the initial rocket (has 1 bounce) where it goes up a bit first then fires
+- Added Giant Wall to factory.  Let's hope the graphics match the physics~
+- PDB SAM price raised to 2000 from 1200
+- Added death anims to gates/concrete walls/giant wall... might be overkill, probably is and probably doesn't look right.. well deal with it for nao ;p
+- Added afterburners to the Jetbike >_>  how2race? L_L
+- Mortar outer blast damage reduced to 1/10th of inner vs 1/2
+- Medium HE weighs 1kg now
+- SRM2 Lite weighs 5kg now
+- SRM3 Heavy weighs 12kg now
+- Removed bounce, sry
+- Heimdall mortar shoots every 3.5 instead of 4 seconds
+- Monoblade price is 100 now instead of 200 .. as if somebody still plays BO :P
+- Changed sound of Motion Sensors and moved them under Implants - Active
+- SRM3 sounds changed, prefire slightly longer
+- Flashlight Overload is in
+
+~b~4Tuesday, October 2nd 2007~2~b
+~bryanbe~b
+- All spawns are on the surface of the map, if you need to go underground, look for some stairs.  This is to create a chaos area on the surface.
+- Changed the cfg, default terrain (0) is no longer "Wilderness".  You can also again build PDB's on this terrain, no idea why this was changed.  There is now a very, very slow natural regen (breathing? ;p) and there is also a very, very slow degen (is that a word?) on methane/sludge terrain.
+- Added a bridge and other tiny changes and fixes no one will really see, hope this didn't cause an .lvb update, if it did i'll be more wary next time.  
+
+~bSTAS~b
+- Fixed the cfg for dz's map.
+- Was going to halve the weight of the Hedgehog ammo (not grenade), but... you get to repulse big missiles that cost lots of money each hedgehog you shoot.  Missiles weigh 1kg a piece at the very least, so you have a 10/1 weight effeciency advantage.  Spam less and how2aim? ;P
+- Bozar does 5 drain now instead of 8.. was meant to originally, I just decided to try minigun drain on it fist ;P
+- Medium HE weighs 1.2kg now instead of 1.5
+- More work on Rifle section
+- SMG7 HV and DU rounds no longer do bypass damage.  The point was to give the tiny gun CAW-like power and longer range, not uberwtfzmg factor that they had previously.  Yeah you can qq now, go ahead.
+- TS AG-21 more accurate now and has 11/11 dmg/drain + lower price.
+- Zap glove stops recharge for 1.5 secs now instead of 1.
+- Combat Knife weight down to 0.25kg
+- Fixed Chainfist drain blast radius being way bigger than the damage blast radius, an oversight from before.
+- Monoblade does not require STC Ultrablack anymore
+- All SMG weapon switch times now equal their reload times.
+- Certain plasma weapons damaged tanks before.. they don't anymore.
+- CAW weapon switch time lowered.
+- Made Grenade Machine Gun a tad more accurate and increased muzzle velocity.
+- Beefed Zanbato Auto Cannon's Explosive rounds.
+- GL blast radius got standardized
+- DZGL-69 weight decreased to 2.75 from 4
+- Rocket PDB had a missile upgrade... there is fragmentation when the missiles explode.  It still has its tandem too.
+- RPG Frag Sleeve weight is now 2 instead of 1.5
+- RPG HV weight is now 2kg instead of 1.75
+- Pzf 9 Armor Breaker now has 1 second prefire instead of 700ms
+- FAEG is now redone... again.  It no longer sucks but rather repulses, does shitloads more drain/damage and can hurt tanks now.
+- EMP grenade now drains 120.  Combo with a teammate = ez tank occupant kill.
+- Nerfed several implants, fixed up the active versions of cyber/cat eyes, shifted some weights on addons.
+- Phase Shift unnerfed, though it still sucks.  Cost to fire cut in half or in third and all lifetimes are now 30 seconds.  These honestly take too much micromanagement.. damn annoying.
+- Grenade blast radii reworked again
+- Gauss weapons got a reload decrease.
+- SciOps lost Shield Armor
+- Shitload of Armor Addons work... they are overall lighter, but I think everyone will just end up using the heaviest ones :/
+- Armor Addons now cost 3 different amounts, 7500, 10000, or 15000, but all sell for 7500.
+- Pill Box Crew and Shuttle Passenger positions got the APC adapters that the APC Passengers have.
+- All turrets got Occupant Protection.  Heimdall had to lose its last firing range for it, but that range was a bit overpowered as is.
+~bLooseCannon~b
+- Removed the team minmum for HQs.  It was lame that people couldn't build HQs late at night and in the morning
+- Increased the cash reward for killing an HQ
+
+... moar!
+
+- Mortars now have a real bounce instead of the drop down effect.. same with the GLs that did that before.  Should still be overpowert as the stuff will probably drop right in the middle of the hallway, which means all the shockwaves will propagate, but hey! it doesn't go through walls anymore, mirite? ;P
+- Plasma weapons switched back to kinetic.  I was testing something for .. other plans..
+- So yah, that includes brum's plasma cannon, which got semi shafted.. I mean it still works great and pwns ppl, it's just that it somehwo blows everybody up now, not just nme.. man, ayb is gonna qq till armaggedon strikes cuz of this, ugh
+- Passive implants reworked a bit more.
+- Couple more changes to addons, lighter are lighter.
+- Limited rations to 10 and stimpacks to 4, sry
+- Cunt Punter kicks away even farther now, wehee
+- Kick possibly beefed too
+
+~b~4Monday, October 1st 2007~2~b
+~bSTAS~b
+k dont get excited, these are just tweaks, I've been too busy to do major update work
+this update does not solve minimum range issues, because, again, I've been busy
+- Bunch of armor changes, reverted  cloaks back to old values more or less
+- Snipers get access to all cloaks now
+- Shockwave damage adjusted up on the outer bit.  Let's see how bad it is now.  It's still less than before.
+- SRM mortars set to drop down when they hit a wall... oh man I can see the qqing already
+- SRM mortars a tad more accurate
+- RR sellback rates increased dramatically
+- Bozar made more accurate, meaning it no longer fires 3 lines of bullets, but just 1 line, so it's like a laser...
+- Remote explosive price decreased
+- Disruptor price decreased
+- Disruptor now has less protection.
+- Monoblades are now single use items.. yes omg you can qq to your mommy now
+- JetBike lost side MG
+- Fixed light sniper scope skill logic and description, lowered weight to 0.5kg
+- CAW reload decreased to 500ms from 600ms
+- SMG section touched up
+- Swapped a couple weights in laser section
+- Chain Fist 1kg weight instead of 2kg.. why does nobody use it? It's more reliable damage than knives
+- RR outer damage increased to 20/20 from 0/0
+- Lowered gauss ammo price back to 15
+- Dermal Armor Plating improved
+I probably forgot some stuff, so just go qq on the forums
+
+
+
+
+~4~BBong List:~B~2
+ie: %18
+
+Bong #  says:
+
+1	Electronic Noise
+2	Electronic Noise
+3	Electronic Noise
+4	Electronic Noise
+6	Electronic Noise
+7	Listen To Me Listen To Me
+9	Just Like A Christain
+10	Let The Carnage Begin
+11	This Place Blows
+12	You're GOnna Have To Figure It Out
+13	Electronic Noise
+14	And Like That, He's Gone
+15	Marvolous
+16	O, Thats Very Good
+17	That'll Be Quite Enough
+18	It's No Good Throwing Money At The Problem
+19	----
+20	Attention: All Objectives Have Been Captured
+21	Objective Captured
+22	Acknowledged
+23	Affirmative
+24	Attacking Enemy
+25	Defending Position
+26	Enemy Sighted
+27	Request Summon
+28  	We Are Under Attack
+29	Congratulations, You've Been Promoted
+30	Attention, All Objectives Have Been Captured
+
+
+
+~BRules:~B
+If you are caught abusing any of the following rules, a moderator will take action against you.
+
+1) No Hacking. (instant ban, may be permanent)
+2) No map or engine bug abuse.
+~B ~B 2a) Map bug abuse includes staying in safe zones not located within the dropship, reaching areas not intended for player action (no-one allowed on top of purple physics), or any sort of anomaly deemed detrimental to player enjoyment.
+~B ~B 2b) Engine bug abuse includes warping across impassible physics, shooting through walls with weapons not intended to do so, or any sort of anomaly deemed detrimental to player enjoyment.
+3) No stat padding (taping a key down in the dmz, first time is a warning, second time you will be wiped, third is wipe and ban)5) No excessive lagging. CA is a fast zone, and lag is more noticeable here than elsewhere. If you recieve complaints from other players about your seeming invincibility, check your latency with ?lag and take steps to resolve it before a mod resolves it for you.
+ 
+
+~BZone Sysops:~B
+LooseCannon
+Kitaria
+ryanbe
+STAS
+
+~BMods:~B
+n0b kilza
+Basic
+
+STAS and ryanbe are the creators and inactive sysops of the Combined Arms zone -> lies! we are active as hell now!!1 >:D

@@ -1,0 +1,170 @@
+4,v12,9,"Collective Start",10304,9824,  0,300,1, 2,1,500,
+4,v12,11,"Titan Start",10288,7360,  0,300,1, 2,0,500,
+3,v12,202,"Roamer3",3232,3233,     -1,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,250,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,13,"Hill201",880,529,     1,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,250,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,14,"Hill86",5040,5377,     1,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,250,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,15,"Roamer2",11168,3489,     -1,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,250,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,16,"Roamer1",3232,3233,     -1,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,250,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+5,v12,54,"Tsolvy1",2224,448,     4,1000,1000,1, 0,300,0,99999, 20,100,2005,100, 2,0
+6,v12,30,"HeavyLift2",1888,5040,    60,-1,2928,7504,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,31,"HeavyLift2a",1888,5024,    60,-1,2896,7456,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,32,"HeavyLiftDown2",2672,7504,    60,-1,1680,5088,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,33,"HeavyLiftDown2a",2672,7504,    60,-1,1680,4992,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+5,v12,34,"Tsolvy2",9712,4752,     4,1000,1000,1, 0,300,0,99999, 20,100,2005,100, 2,0
+5,v12,35,"Tsolvy3",5632,6160,     4,1000,1000,1, 0,300,0,99999, 20,100,2005,100, 2,0
+5,v12,36,"Tsolvy4",4352,1232,     4,1000,1000,1, 0,300,0,99999, 10,100,2005,100, 2,0
+5,v12,51,"Titanium1",2192,976,     2,500,500,1, 0,300,0,99999, 5,100,2009,100, 3,0
+5,v12,52,"Titanium2",9760,4960,     2,500,500,1, 0,300,0,99999, 5,100,2009,100, 3,0
+5,v12,53,"Titanium3",4528,4000,     2,500,500,1, 0,300,0,99999, 25,100,2009,100, 3,0
+5,v12,56,"Titanium4",4640,1232,     2,500,500,1, 0,300,0,99999, 25,100,2009,100, 3,0
+6,v12,57,"HeavyLift1",1360,2560,    60,-1,8672,2704,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,58,"HeavyLift1a",1440,2576,    60,-1,8672,2576,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,61,"HeavyLiftDown1",8768,2640,    60,-1,1552,2560,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,62,"HeavyLiftDown1a",8832,2640,    60,-1,1328,2464,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+5,v12,63,"Pandora1",2048,1312,     4,1000,5000,1, 0,300,0,99999, 5,20,2007,100, 1,0
+5,v12,64,"Pandora2",10032,5072,     4,1000,5000,1, 0,300,0,99999, 5,20,2007,100, 1,0
+5,v12,65,"Pandora3",4352,3824,     4,1000,5000,1, 0,300,0,99999, 5,20,2007,100, 1,0
+5,v12,66,"Pandora4",4464,1072,     4,1000,5000,1, 0,300,0,99999, 5,20,2007,100, 1,0
+5,v12,67,"Titanium5",8000,2544,     2,500,500,1, 0,300,0,99999, 25,100,2009,150, 3,0
+5,v12,68,"Unilenium1",2032,864,     4,1000,5000,1, 0,300,0,99999, 5,20,2010,100, 1,0
+5,v12,69,"Unilenium2",9872,4608,     4,1000,5000,1, 0,300,0,99999, 5,20,2010,100, 1,0
+5,v12,70,"Unilenium3",4896,3872,     4,1000,5000,1, 0,300,0,99999, 5,20,2010,100, 1,0
+5,v12,71,"Titanium6",1632,1664,     2,500,500,1, 0,300,0,99999, 25,100,2009,150, 3,0
+6,v12,72,"LightLift1",256,3152,    60,-1,336,8112,80, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,73,"LightLiftDown1",284,7932,    60,-1,288,3344,80, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,74,"LightLift2",4828,2620,    80,-1,4320,7504,80, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,75,"LightLiftDown2",4348,7740,    60,-1,4896,2432,60, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,76,"LightLift3",5104,2768,    80,-1,11376,2720,80, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,77,"LightLiftDown3",11372,2876,    60,-1,4928,2768,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+5,v12,81,"Titanium7",8400,3328,     2,500,500,1, 0,300,0,99999, 25,100,2009,150, 4,0
+5,v12,82,"Titanium8",10288,3264,     2,500,500,1, 0,300,0,99999, 25,100,2009,150, 4,0
+5,v12,83,"Tsolvy5",8768,3568,     4,1000,1000,1, 0,300,0,99999, 10,100,2005,100, 2,0
+6,v12,7,"LightLift4",6156,2940,    60,-1,6192,7664,80, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,8,"LightLift5",6188,7324,    60,-1,6208,9312,80, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,84,"LightLiftDown4",6188,7884,    60,-1,6448,2896,80, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,85,"LightLiftDown5",6172,8540,    60,-1,6192,7504,80, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,86,"LightLift6",6156,1740,    60,-1,7776,8208,80, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,87,"LightLift7",6156,1212,    60,-1,12144,1280,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,88,"LightLiftDown6",7772,8060,    60,-1,6160,1632,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,89,"LightLiftDown7",12140,1404,    60,-1,6144,1312,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,3,"Titan Portal1",10864,7168,    50,-1,3248,3216,2000, 200,0,uiart,warp,48,0,0,0,0,uiwav,warpin,0,0
+6,v12,5,"Collective Portal1",10864,9632,    50,-1,3248,3216,2000, 200,0,uiart,warp,24,0,0,0,0,uiwav,warpin,0,0
+6,v12,10,"LightLift8",6540,1740,    60,-1,8160,8160,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,12,"LightLiftDown8",8156,8060,    60,-1,6544,1632,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,4,"Collective Portal2",10960,9632,    50,-1,3248,3200,2000, 200,0,uiart,warp,24,0,0,0,0,uiwav,warpin,0,0
+6,v12,6,"Collective Portal3",10864,10032,    50,-1,3232,3216,2000, 200,0,uiart,warp,24,0,0,0,0,uiwav,warpin,0,0
+6,v12,26,"Collective Portal4",10960,10032,    50,-1,3232,3216,2000, 200,0,uiart,warp,24,0,0,0,0,uiwav,warpin,0,0
+6,v12,27,"Titan Portal2",10960,7168,    50,-1,3216,3248,2000, 200,0,uiart,warp,48,0,0,0,0,uiwav,warpin,0,0
+6,v12,28,"Titan Portal3",10864,7552,    50,-1,3232,3216,2000, 200,0,uiart,warp,48,0,0,0,0,uiwav,warpin,0,0
+6,v12,29,"Titan Portal4",10960,7552,    50,-1,3232,3184,2000, 200,0,uiart,warp,48,0,0,0,0,uiwav,warpin,0,0
+7,v12,37,"DropShipSargeant",10496,7360,    -1,500,250,2000, 0,CTFSounds,StepItUp,0,0
+7,v12,38,"DropShipSargeant2",10464,9824,    -1,500,250,2000, 1,CTFSounds,StepItUp,0,0
+7,v12,39,"DropArea1",10912,7376,    -1,1000,100,4000, 1,CTFSounds,WarningKlaxon,0,0
+7,v12,40,"DropArea2",10928,9840,    -1,1000,100,4000, 1,CTFSounds,WarningKlaxon,0,0
+2,v12,1,"LiftControl1",372,3268,    0, 2,17,18,19,24,25,41,42,43,44,45,46,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,30,-40,0,subsounds,Multion,0,0
+1,v12,2,"LowerDoorsA",240,3248,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,17,"LowerDoorsA1",272,3248,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,18,"LowerDoorsA2",304,3248,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,19,"LowerDoorsA3",336,3248,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,20,"UpperDoorsA",256,8016,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,21,"UpperDoorsA1",288,8016,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,22,"UpperDoorsA2",320,8016,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,23,"UpperDoorsA3",352,8016,    -2,-1,4,2, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,24,"LowerDoorsAA",192,3120,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,25,"LowerDoorsAA1",192,3152,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,41,"LowerDoorsAA2",192,3184,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,42,"LowerDoorsAA3",192,3216,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,43,"LowerDoorsAA4",384,3120,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,44,"LowerDoorsAA5",384,3152,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,45,"LowerDoorsAA6",384,3184,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,46,"LowerDoorsAA7",384,3216,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+2,v12,47,"LiftControl2",388,8036,    0, 20,21,22,23,48,49,50,55,59,60,78,79,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,30,-40,0,subsounds,Multion,0,0
+1,v12,48,"UpperDoorsAA",208,7888,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,49,"UpperDoorsAA1",400,7888,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,50,"UpperDoorsAA2",208,7920,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,55,"UpperDoorsAA3",400,7920,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,59,"UpperDoorsAA4",208,7952,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,60,"UpperDoorsAA5",400,7952,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,78,"UpperDoorsAA6",208,7984,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,79,"UpperDoorsAA7",400,7984,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,80,"LowerDoorsB",4816,2528,    -2,-2,4,3, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,90,"LowerDoorsB1",4848,2528,    -2,-2,4,3, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,91,"LowerDoorsB2",4880,2528,    -2,-2,4,3, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,92,"LowerDoorsB3",4912,2528,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,93,"LowerDoorsC",6288,2848,    -2,-2,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,94,"LowerDoorsC1",6288,2880,    -2,-2,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,95,"LowerDoorsC2",6288,2912,    -2,-2,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,96,"LowerDoorsC3",6288,2944,    -2,-2,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,97,"UpperDoorsC",6144,7408,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,98,"UpperDoorsC1",6176,7408,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,99,"UpperDoorsC2",6208,7408,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,100,"UpperDoorsC3",6240,7408,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,101,"UpperDoorsD",6144,7792,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,102,"UpperDoorsD1",6176,7792,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,103,"UpperDoorsD2",6208,7792,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,104,"UpperDoorsD3",6240,7792,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,105,"UpperDoorsE",6160,9216,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,106,"UpperDoorsE1",6192,9216,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,107,"UpperDoorsE2",6224,9216,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,108,"UpperDoorsE3",6256,9216,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,109,"LowerDoorsBB",4960,2560,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,110,"LowerDoorsBB1",4960,2592,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,111,"LowerDoorsBB2",4960,2624,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,112,"LowerDoorsBB3",4960,2656,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,113,"LowerDoorsBB4",4960,2688,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,114,"LowerDoorsCC",4976,2736,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,115,"LowerDoorsCC1",4976,2768,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,116,"LowerDoorsCC2",4976,2800,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,117,"LowerDoorsCC3",4976,2832,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+2,v12,118,"LiftControl3",4996,2532,    0, 80,90,91,92,109,110,111,112,113,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckG,0,0,30,-40,0,subsounds,Multion,0,0
+2,v12,119,"LiftControl4",4948,2724,    0, 114,115,116,117,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,30,-40,0,subsounds,Multion,0,0
+6,v12,120,"LightLift1a",316,3164,    60,-1,512,7952,80, 100,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,121,"LightLiftDown1a",332,7932,    60,-1,496,3184,80, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,122,"LightLift2a",4876,2620,    80,-1,4528,7712,80, 200,0,None,None,0,0,0,0,0,None,None,0,0
+6,v12,123,"LightLiftDown2a",4300,7724,    60,-1,5072,2608,80, 200,0,None,None,0,0,0,0,0,None,None,0,0
+2,v12,124,"LiftControl5",4452,7652,    0, 132,133,134,135,128,129,130,131,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckG,0,0,30,-40,0,subsounds,Multion,0,0
+2,v12,125,"LiftControl6",6100,7444,    0, 97,98,99,100,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckG,0,0,30,-40,0,subsounds,Multion,0,0
+2,v12,126,"LiftControl7",6100,7732,    0, 101,102,103,104,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckG,0,0,30,-40,0,subsounds,Multion,0,0
+2,v12,127,"LiftControl8",6116,9236,    0, 105,106,107,108,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckG,0,0,30,-40,0,subsounds,Multion,0,0
+1,v12,128,"UpperDoorsBB",4416,7680,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,129,"UpperDoorsBB1",4416,7712,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,130,"UpperDoorsBB2",4416,7744,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,131,"UpperDoorsBB3",4416,7776,    -2,-1,4,2, 0,0, DOORS,Metala,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,132,"UpperDoorsB",4272,7648,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,133,"UpperDoorsB1",4304,7648,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,134,"UpperDoorsB2",4336,7648,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,135,"UpperDoorsB3",4368,7648,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+2,v12,136,"LiftControl9",6388,2820,    0, 93,94,95,96,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,450, ,-1, 0,0,0,0,0,0, lock,DoorLckG,0,0,30,-40,0,subsounds,Multion,0,0
+1,v12,137,"DoorsD7-1",4688,7472,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,138,"DoorsD7-2",4720,7472,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,139,"DoorsD7-3",4752,7472,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,140,"DoorsD7-4",4784,7472,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,141,"DoorsD7-5",4816,7472,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,142,"DoorsD7-6",4848,7472,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,143,"DoorsD7-7",4880,7472,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,144,"DoorsD7-8",4912,7472,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+2,v12,145,"LiftControl10",4916,7508,    0, 137,138,139,140,141,142,143,144,0,0,0,0,0,0,0,0, 150,0,0,0,0, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,30,-40,0,subsounds,Multion,0,0
+1,v12,146,"DoorsE8-1",6144,7600,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,147,"DoorsE8-2",6176,7600,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,148,"DoorsE8-3",6208,7600,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+1,v12,149,"DoorsE8-4",6240,7600,    -2,-2,4,4, 0,0, DOORS,Metac,0,0,43,-58,0,ambient,Smallfan,0,0,ambient,Smallfan,0,0
+2,v12,150,"LiftControl11",6164,2340,    0, 146,147,148,149,0,0,0,0,0,0,0,0,0,0,0,0, 150,0,0,0,0, ,-1, 0,0,0,0,0,0, lock,DoorLckA,0,0,30,-40,0,subsounds,Multion,0,0
+5,v12,151,"Titanium9",11504,2000,     2,500,500,1, 0,300,0,99999, 25,100,2009,100, 3,0
+6,v12,152,"LightLiftDown9",6208,9136,    60,-1,6192,7472,30, 100,0,None,None,0,0,0,0,0,None,None,0,0
+3,v12,200,"Top Bridge",3248,1921,     1,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,250,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+3,v12,201,"Bottom Bridge",3232,4593,     1,1000,0,300,1, 0,1,1,1,6000, 6000,0,0,0, 0,0,250,0,0, 0,0,0,1, ,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, ctf,CTF_Flags,0,0,0,0,0,bongs,Captured,0,0,sounds,Wav00405,0,0
+7,v12,708,"Drama1",10512,7328,    -1,0,500,1, -1,CTFmusic,theme2,0,0
+7,v12,710,"Drama2",10512,9792,    -1,0,500,1, -1,CTFmusic,theme2,0,0
+4,v12,810,"RHT Start",10912,7376,  0,300,1, 2,6,100,
+4,v12,811,"Invictus Start",10928,9840,  0,300,1, 2,5,100,
+4,v12,812,"Victory Rose Start",10912,7376,  0,300,1, 2,9,100,
+4,v12,814,"Outright start",10912,7376,  0,300,1, 2,4,100,
+4,v12,813,"EzPz start",10528,9568,  0,300,1, 2,7,100,
+4,v12,815,"Faj Start",10912,9840,  0,300,1, 2,10,100,
+4,v12,530,"NightStalk Start",10912,9840,  0,300,1, 2,12,100,
+4,v12,531,"DEFF start",10432,7344,  0,300,1, 2,13,100,
+4,v12,532,"Phallic Start",10912,7360,  0,300,1, 2,14,100,
+4,v12,816,"Europ",10336,7360,  0,300,1, 2,2,100,
+4,v12,817,"Morgan start",10336,9824,  0,300,1, 2,3,100,
+4,v12,153,"Offense Start",10304,9824,  0,300,1, 2,15,500,
+4,v12,154,"Defense Start",10288,7360,  0,300,1, 2,16,500,

@@ -1,0 +1,68 @@
+~BSoccer Brawl~B
+
+~bZone Dev:~B 
+Darter
+HellSpawn
+Rien
+
+
+~BModerator(s):~b
+Blitzkrieg
+Darter
+Jacque
+Rien
+Staley
+
+~BUpdates~B
+
+~BJanuary 06~B
+So, we have no life.
+Changed the goals
+Changed ball color
+Changed team names
+Changed team color
+Changed the post width
+changed entire map color
+changed check graphic
+changes check details
+removed push (check now does this, or tackle if you will)
+Nearly everything is done now. Look for updates to slow down.
+
+
+~BJanuary 05~B
+Ajusted the vehicle size (?showvehicle)
+AFK timer is now set to 60 seconds
+Auto force even teams is set
+The gap between game's is only 20 seconds
+Super kick is removed for now
+Added and Seperated the checking. You now have Tackle and Push. Tackle does more damage, but no bounce. Push does more bounce, but half as much damage - The idea is to eventually modify these weapons for classes.
+Crossbar lowered
+Speed's slightly changed
+More updates to come soon.
+
+~BJanuary 04~B
+Few more changes.
+Map size
+Map Color
+Spawn locations
+Got settings as close to SOE as possible.
+
+~BJanuary 03~B
+Bunch of changes;
+Changed speeds of players both sprinting and not sprinting
+Changed the attirbutes of Lob, Low kick and High Kick, and added in Super Kick for good measure
+Changed the prox of players inside the crease and outside (inside the crease is bigger)
+Changed the strafing thrust among other things
+Changed the TEAM NAMES
+Changed the Team colors
+Changed the tick range
+Changed the energy level, will now show up next to your name all the time.
+
+
+~BJanuary 01~B
+Boosted vehicle size (?showvehicle)
+Fixed Team Colors
+Dribble is fixed
+Disabled Bounty
+Added Explosion graphic to Check (so you can tell when you hit someone)
+Boosted Blast Radius on the check a bit

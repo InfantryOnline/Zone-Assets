@@ -1,6 +1,0 @@
-v5,1,0,100,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Marine","Classes","","Marines are tough, resourceful, and fearless."
-v5,3,0,101,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sergeant","Classes","","Sergeants are experienced Marines who control the flow of battle. With Summon, they fulfill command and control functions."
-v5,5,0,103,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Medic","Classes","","Medics are Marines trained to heal their comrades. "
-v5,6,0,104,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Ripper Gunner","Classes","","Ripper Gunners provide heavy fire support and anti armour capability."
-v5,7,0,105,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Grenadier","Classes","","Grenadiers provide direct HE fire support."
-v5,2,0,111,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sniper","Classes","","Marine Snipers typically are used to interdict movement areas and eliminating enemy command units."

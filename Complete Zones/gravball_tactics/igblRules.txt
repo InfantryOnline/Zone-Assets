@@ -1,0 +1,114 @@
+~B~4The League~2~B
+
+~B1.~B The Infantry Gravball League (IGBL) is a league in which Gravball squads participate and compete against each other for recognition in their accomplishments.
+~B2.~B The league consists of two similar divisions.
+~B3.~B Each season will consist of a pre-season, regular season and post-season.
+~B4.~B Matches will be assigned to a specific round week. Generally, each round week begins on Wednesday and ends on the following Tuesday.
+~B5a.~B The 4 teams in each division with the highest regular season record, based in order of importance by wins, head-to-head record, avg. winning margin and finally goals scored, will be entered into the IGBL championships.
+~B5b.~B Remaining teams who do not qualify for the playoffs will enter the Best of the Rest Tournament.
+
+~B~4Games~2~B
+
+~B1.~B Each game will have a set time of 20 minutes.
+~B2.~B The team that is first to have 3 points more than their opponent or the team with the highest value of points at the end of the 20 minutes will be declared the winner of that game. 
+~B3a.~B In the result that both teams have an equal point value at the end of 20 minutes, play shall continue unabated for an additional 10 minute over-time period. 
+~B3b.~B In the result that both teams have an equal point value at the end of any over-time period, play shall continue unabated into another successive over-time period. 
+~B3c.~B During any over-time period, the first team to score a point will win the game. 
+~B3d.~B Except for rule c, over-time periods remain consistent with regular game time rules. 
+~B4.~B Each team will consist of 6 players, each of whom must be eligible (see Players: eligibility). 
+~B5.~B At the beginning of each game, every player's inventory will be reset and then the game will commence. 
+~B6.~B Once a team has been declared victorious, the game will immediately stop and all players will be placed into spectator mode.
+~B7a.~B In the case a game is disturbed during its play, upon the referee's decisions, the game will commence as immediate as possible with the same time remaining in the game and the same score. Players will have their inventory reset and the game will recommence. 
+~B7b.~B In the case that a disturbed game may not recommence, the referee will notify each captain and declare the game and match postponed. 
+
+~B~4Matches~2~B
+
+~B1.~B A match will consist of a series of games. The winner of the match will be the first team to win 2 games. 
+~B2.~B At the beginning of a match, 10 minutes will be assigned until the first game begins. 
+~B3.~B After a game that does not conclude the match, 5 minutes will be assigned until the commencing of the next game. 
+~B4a.~B After a team wins a match, a MVP will be selected from each team. 
+~B4b.~B The MVPs will be voted upon by each captain and referee involved with the game. 
+~B4c.~B In the case a vote is tied upon, the captain of the team that is receiving the MVP will make the final decision. 
+~B5.~B If the conditions of the game play have been deemed unsatisfactory by the referee, then the game will be postponed. If possible, the captains will be immediately asked to reschedule the match within the same round week. If not, the match will be rescheduled with normal deadlines or a minimum 3-day period from the postponement day, which ever comes later, and the match will be moved into the next round week. 
+
+~B~4Substitutions~2~B
+
+~B1.~B Eligible players may be freely substituted into and out of the game with no restrictions. 
+~B2.~B The playing player will always be removed first and then the substituting player will enter the game. 
+~B3.~B Only the captain of a team may request a substitution be made. 
+~B4.~B Referees are not responsible for players who are in the game but are not playing. This includes afk players. Captains must request an appropriate substitution if they deem one needed. 
+
+~B~4Lag~2~B
+
+~B1.~B Players who exceed an avg. ping of 400ms or any packet-loss of 4% will be removed from the game. 
+~B2a.~B Either captain may request that a playing player be watched in order to observe his lag. Only captains may request this and it may only be done 4 times during a match. 
+~B2b.~B If a visual lag check is requested, a referee will spectate the player in question and observe his reactions to the game in progress. If the player demonstrates unacceptable responses to the occurrences of the game, as deemed by the referee, the player will be specced for the rest of the game. 
+~B2c.~B If that player wishes to play in a successive game, prior to the start of that game the player must demonstrate sufficient responses to the occurrences of the game as deemed by the referee. 
+~B3.~B Lagouts are defined as anytime a player is removed from a game that is in play because of the condition of their connection. This includes disconnections, ping spikes, exiting gravball, power failures, spectating due to a poor connection, and other unspecified conditions as deemed by the referee. 
+~B4a.~B If a team suffers a lagout, a substitute will immediately fill in. If the referee has not been informed of a preferred substitute, one will be chosen at the referee's discretion. 
+~B4b.~B If a team suffers a lagout and does not have an available substitute, after a 30 second penalty, the opposing team will reciprocate the loss and spectate one of their players. If the referee has not been informed of a preferred reciprocator, one will be chosen at the referee's discretion. 
+~B4c.~B In the event that the team that suffered the lagout is able to place another player in the game, the opposing team may also do so at the same time. 
+~B4d.~B Any team will only be responsible for reciprocating two lagouts at any one time. If a team has 3 or more lagouts occurring at the same time, the opposing team will only be responsible for reciprocating 2 of those lagouts. 
+~B5a.~B If a player suffers a lagout, he must display 2 minutes of sufficient lag or such to the referee's satisfaction, before rejoining the game.
+~B5b.~B After a player suffers a third lagout in a single game, that player may not continue play in that game. In successive games in the same match, the player will not be allowed to continue playing in a game after his first lagout. 
+~B6.~B If half or more of a team lags out within a short period of time while their team is on the defensive, the referee may pause the game and restart it with the defending team at their goal and the offending team at the position of the ball.
+
+~B~4Scheduling~2~B
+
+~B1.~B Matches for a specific round week must be scheduled before the beginning of that round week. 
+~B2.~B Matches that are not scheduled on time will be assigned to Sunday night of their round week at an appropriate time as deemed by the IGBL staff. 
+~B3.~B Both captains of the teams that are scheduled to play against each other must agree upon a time in order for it to be scheduled. 
+
+~B~4Attendance~2~B
+
+~B1a.~B Each team is required to bring at least 5 eligible (see Teams: eligibility) players to every GAME of a match. 
+~B1b.~B For this condition to be met, at any time before a game, but preceding any game that may have occurred earlier in the match, the team must show at one instance 5 eligible players.
+~B1c.~B This condition is met when a team shows 5 eligible players and then drops to 3 players for the start of a game. 
+~B1d.~B This condition is not met when a team shows 4 eligible players whom all leave followed by another 4 eligible players who attend. Although 8 eligible players have attended, only 4 were ever available at any given time. 
+~B2.~B In the case that a team does not have 5 eligible players for the beginning of any game of a match, the match is then forfeited by that team. 
+~B3a.~B In the case that a team has only 5 eligible players at a game, they may play short one player and play with 5 players against their opponents. 
+~B3b.~B If another eligible player attends during a game, he may be immediately placed into the game. 
+
+~B~4Teams~2~B
+
+~B1.~B Teams may consist of an infinite number of players. 
+~B2a.~B Teams may only have 15 active players at one time; all other players must be inactive. 
+~B2b.~B Inactive players are ineligible but may be switched to active if a team has space. 
+~B2c.~B Inactive players who are switched to active status will be ineligible for 10 days following the switch. 
+~B3.~B Teams may consist of one captain and up to 4 co-captains. 
+
+~B~4Captains~2~B
+
+~B1.~B Captains have recruiting and dismissing power over their team. 
+~B2a.~B To assist with managerial duties, a captain may appoint up to 4 co-captains. 
+~B2b.~B Each co-captain may act as captain during a game in the absence of the team captain. 
+~B3.~B During a match but not during a game, each captain may request a non-conservative 10-minute delay once only. 
+~B4a.~B Captains are responsible for scheduling games, choosing game rosters, and selecting substitutes. 
+~B4b.~B Captains are also repsonsible for recording (via export) each game's statistics. Failure to do so will remove the right that team has to record and accumulate those statistics.
+~B5a.~B If both captains agree upon an adjustment to the game situation, with permission and concurrence of the referee, it may be enacted. Such requests are: to play with fewer but not more than 6 players per team; to postpone the game to another time during the current round week; to request that spectators not speak publicly; to delay the game for a specific reason. This list is not exclusive but other requests will be looked upon critically by referees. 
+~B5b.~B The following is a list that, with permission and concurrence of the referee, a single captain may request and have enacted: postponement of game due to poor server conditions; request that spectators not speak publicly; request that a specific player be visually checked for lag; request that a game goal be revoked because it was the direct result of lag. This list is not exclusive but other requests will be looked upon critically by referees. 
+
+~B~4Players~2~B
+
+~B1a.~B Players have a right to free speech. 
+~B1b.~B This does not include derogatory comments directed towards other players or other inappropriate comments as deemed by the referee. 
+~B2.~B An eligible player is a player who is on their squad both in the game arena and on the IGBL roster and who is not suspended or ineligible.
+~B3.~B Each player may only be on one squad in the IGBL. Use of different aliases to have multiple players in the same league is prohibited and any player caught doing so will be removed from league permanently. This rule is in concordance with other leagues of Infantry and the banishment will apply to all Infantry leagues.
+~B4a.~B If a team is forced to forfeit three games during the regular season then they will be removed from the league.
+~B4b.~B If a team is forced to forfeit their first game of the season then they will only require one more forced forfeit to be removed from the league.
+
+~B~4Spectators~2~B
+
+~B1.~B Spectators must stay on the spectator frequency. The spectator may request to be placed on a team to that team's captain but may not switch frequencies themselves. If they do, they will first be given a warning and then removed from the arena.
+~B2.~B Spectators are allowed to message players in the game. 
+~B3.~B Profanity and derogatory comments will be minimally tolerated and any that are seen to be unwelcome as deemed by the referee will result in the accused being at first warned and then removed from the arena.
+
+~B~4Playoffs~2~B
+
+~B1.~B Playoffs consist of both the IGBL championships and the Best of the Rest Tournament. 
+~B2.~B Playoffs will follow the same rules as stated above except for the rules stated under this heading. 
+~B3.~B Matches will be won by the team that is first to achieve 3 game wins. 
+~B4.~B The first overtime period of a game will not be sudden death. 
+~B5.~B After either team has won 2 games of a match, either captain may request that the match be postponed as long as any valid reason is given. Valid reasons are: low player attendance, players the captain believes would help did not attend, poor server conditions, and other unspecified reasons as deemed by the referee. 
+~B6.~B In the case that a team is forced to forfeit due to attendance, upon request from the captain and permission of the referee, that team may accept a two game loss and postpone the match to a later date. 
+~B7.~B If captains cannot agree upon a scheduling time, each will submit a ranked list of all the times of the week and the IGBL staff will discern the time for the match. 

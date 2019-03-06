@@ -1,6 +1,0 @@
-"Infantry Website","http://www.freeinfantry.org"
-"Infantry Forums","http://freeinfantry.org/forum/"
-"Infantry History","http://www.fishfoodblender.com/infantry/"
-"Infantry Facebook Group","http://www.facebook.com/groups/2501748789/"
-"Infantry Facebook Page","http://www.facebook.com/InfantryOnline"
-"Infantry Myspace Page","http://www.myspace.com/Infantry_Online"

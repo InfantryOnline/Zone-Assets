@@ -1,0 +1,71 @@
+~B~4Ship Controls~2~B
+	~5Rotate Left/Right =~2 ~~0key / ~~1key
+	~5Thrust Forward/Backwards =~2 ~~2key / ~~3key
+	~5Hyper Thrust Forward/Backwards =~2 ~~8key / ~~9key
+	~5Strafe Left/Right =~2 ~~6key / ~~7key
+
+~B~4Weapon Controls~2~B
+	~5Light Weapon =~2 ~~11key
+	~5Heavy Weapon =~2 ~~12key
+	~5Mine =~2 ~~13key
+	~5Repulsor =~2 ~~14key
+	~5Team-Warp =~2 ~~15key
+	~5ECM Device =~2 ~~16key
+	~5Utility Device =~2 ~~17key
+
+	~5Special Weapon #1 =~2 ~~18key
+	~5Special Weapon #2 =~2 ~~19key
+	~5Special Weapon #3 =~2 ~~20key
+
+	~5Extra Weapon #1 =~2 ~~21key
+	~5Extra Weapon #2 =~2 ~~22key
+	~5Extra Weapon #3 =~2 ~~23key
+	~5Extra Weapon #4 =~2 ~~24key
+	~5Extra Weapon #5 =~2 ~~25key
+	~5Extra Weapon #6 =~2 ~~26key
+
+~B~4User Interface Controls~2~B
+	~5Help =~2 ~~66key
+	~5Toggle Main Menu =~2 ~~65key
+	~5Toggle Ship Selection =~2 ~~50key
+	~5Toggle Spectator Mode =~2 ~~49key
+	~5Toggle Map =~2 ~~27key
+	~5Toggle Store =~2 ~~51key  ~1(not used in all zones)~2
+
+	~5Enter/Exit Alt. Ship =~2 ~~32key / ~~33key ~1(not used in all zones)~2
+	~5Extend View In/Out =~2 ~~5key / ~~4key
+
+	~5Message Scroll Up/Down =~2 ~~30key / ~~31key
+	~5Message Toggle =~2 ~~48key
+
+	~5Player List Up/Down =~2 ~~28key / ~~29key
+	~5Player List Select =~2 ~~52key
+	~5Player List Toggle =~2 ~~34key
+
+~B~4Message Macros~2~B
+	~5Macro #1 =~2 ~~35key
+	~5Macro #2 =~2 ~~36key
+	~5Macro #3 =~2 ~~37key
+	~5Macro #4 =~2 ~~38key
+	~5Macro #5 =~2 ~~39key
+	~5Macro #6 =~2 ~~40key
+	~5Macro #7 =~2 ~~41key
+	~5Macro #8 =~2 ~~42key
+	~5Macro #9 =~2 ~~43key
+	~5Macro #10 =~2 ~~44key
+	~5Macro #11 =~2 ~~45key
+	~5Macro #12 =~2 ~~46key
+
+~B~4Extended Message Macros~B (must have shift distinguishing turned on)~2
+	~5Macro #13 =~2 ~~53key
+	~5Macro #14 =~2 ~~54key
+	~5Macro #15 =~2 ~~55key
+	~5Macro #16 =~2 ~~56key
+	~5Macro #17 =~2 ~~57key
+	~5Macro #18 =~2 ~~58key
+	~5Macro #19 =~2 ~~59key
+	~5Macro #20 =~2 ~~60key
+	~5Macro #21 =~2 ~~61key
+	~5Macro #22 =~2 ~~62key
+	~5Macro #23 =~2 ~~63key
+	~5Macro #24 =~2 ~~64key

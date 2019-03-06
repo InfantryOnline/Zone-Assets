@@ -1,0 +1,116 @@
+~B~1Infantry Capture the Flag FAQ~B~2
+
+Contents:
+
+1. Introduction
+2. What is...?
+3. How to get started.
+4. Objective and Game Mechanics
+5. Class Descriptions
+6. Weapon/item descriptions
+7. Tactics
+8. Errata and addendum's
+9. Credits
+
+
+
+~B~1INTRODUCTION~2~B
+
+Greetings!
+
+The purpose of this document is to give the new player an idea of how to play ~B~1Infantry Capture the Flag~2~B (hereafter know as ~B~1Infantry CTF~2~B).  This will make it easier for the new player to get into a game and be able to help achieve objectives and have fun, as opposed to muddling around and getting shot full of holes. The prospective new player has a few things to learn, as this is a different style of game than he/she may be accustomed to.  Very few games require the teamwork that this game style does.  Reading this document thoroughly will make the transition from a newbie to a veteran player much easier.
+
+This document will be updated as necessary as ~1~BInfantry CTF~2~B, like all other Infantry game zones, will be constantly evolving.  We do listen to user input and strive to make the game zones fun for the players.  New features or functions may be added, so as to keep the game zones fresh and exciting for both Veterans and Newbies alike.
+
+Here we go...
+
+~B~1What is...?~2~B
+
+What is ~B~1Infantry CTF~2~B?  It is a team game style that concentrates on meeting objectives.  These objectives could be capturing static (unmoving) flags/objects, or capturing and returning flags/objects to a base of some sort.  Meeting the objectives results in a win, and that usually results in lots of points, credits, experience, fame, and women..  Well, maybe not the latter two.
+
+This is a different type of game than maybe an RPG or chaos style game, which usually stress cooperation between small groups or promotes rogue tactics. You absolutely have to play with your team, and help your team in order to succeed in ~B~1Infantry CTF~2~B.
+
+
+~B~1How To get started~2~B.
+
+When you first enter the game zone, you will start in spectator mode.  This will give you the opportunity to select your class, and purchase weapons.
+
+To Select a class, hit ~4<esc>~2 then go and click on ~4GAME FUNCTIONS~2, then Click on ~4SKILLS~2 ( Or simply press ~4F11~2 ) .  Highlight the class you want with your pointer, then select the ~4BUY~2 button.
+
+Each class has certain abilities and attributes that differentiate them from the other classes.  Depending on what role you will want to play on your team, you should pick a class that performs that role.  
+
+After class selection you should purchase some Weapons, Ammunition and Armor.
+
+Hit ~4<esc>~2, got to ~4GAME FUNCTIONS~2, then select ~4STORE~2 with your pointer ( Or Simply press ~4F10~2 ).  You will then see a list of item types.  Peruse them until you find the equipment you want.  Some items will be unusable by your Class.  These items will show as ~4UNAVAILABLE~2 if you attempt to purchase them.
+
+Once you have selected your Class, and Weapons, you are ready to enter the game.  Press ~4F12~2 to take yourself out of spectator mode.  The server will place you on a team.
+
+Let the carnage begin.!!
+
+~1~BObjective and Game Mechanics~2~B
+
+As stated above, ~1~BInfantry CTF~2~B is all about capturing objectives.  It is designed around the idea of working with your teammates toward achieving this goal.  The classes are designed to allow players to perform specific jobs in support of this goal.
+
+There are essentially 2 types of game. One is to capture static (unmoving) objectives.  The other is to capture the objective and carry it back to base.  Other type of games may be implemented in the future, and the game will be constantly evolving.  
+
+Typically, in the static objective game, you will want to attempt to defend objectives as well as assist capturing other objectives held by the enemy team.  This will require a certain level of coordination within your team, as well as communication.
+
+The other type, the capture and return style, requires even more coordination as you will be required to move the objective all the way back to a base or other defensible area and actually defend it.
+
+Obviously this zone is not intended for the individual rogue who just wants to shoot ppl.  If you do not play with your team it will be a frustrating experience for you and the others in the zone.
+
+~1~BClass Descriptions~2~B
+
+~4~BCombat Engineer~2~B
+
+The Engineer is the builder of the team.  He is the backbone of Defense because of his ability to make defensive weapons such as Auto Turrets, and Mines.  The Engineer is reasonably fast, can use a broad range of weapons, and can build a variety of equipment.  The Engineer is not a class that is to go head to head with other classes in gun battle; he is there to support his team on defense, and build items that are necessary.
+
+~4~BField Medic~2~B
+
+The Medic is there to keep his fellow soldiers alive. He can use several different types of medical kits to heal members of his army. He can also produce stim and steron pack which heal the player and increase their energy recharge rate/speed respectively. The Medic should be used in a support role. They are also useful in the rear of an assault, healing their comrades as they charge into the fray.
+
+~4~BInfiltrator~2~B
+
+The Infiltrator is the sneaky git of either army. Infiltrator's are limited in weapons available to them, but they are the fastest class and are the only class able to use Cloaking Units, making them invisible.  Infiltrator's are not terribly tough, as they are designed to sneak around and steal objectives, not fight toe to toe.  They also make good spotters and reconnaisance troops, able to report what the enemy is doing without being seen.
+
+~4~BJump Trooper~2~B
+
+The Jump Trooper is a combination airborne/spaceborne light infantry and marine.  They are often dropped into an assault from orbit.  They are also used as Rapid Reaction Forces by the Collective.  Jump Troopers are trained to fight while wearing or riding various types of small, fast vehicles.  Some of the these vehicles are assault versions that provide their own armaments.  Because of their speed they make good scouts and they also make good attack troops. They are flexible, with a wide range of weaponry, but are not as tough as Infantry or Heavy Weapons, and thus not as strong on defence.
+
+~4~BInfantryman~2~B
+
+The Infantryman is the backbone of both Titan and The Collective's planetside forces.  They are able to use most types of armour and most weapons.  They can be strong both on the defense and in an attack.  Groups of Infantry attacking in concert can be devastating.  With proper support there is no groundside target too tough for them to take.
+
+~4~BHeavy Weapons~2~B
+
+Ever want to load yourself down with large amounts of devastating heavy weaponry, or move slowly across the battlefield spewing destruction?  If so, this is your character.  They are able to use that most powerful weapons of any available.  They take a little longer to build up, but, when properly equipped, can be DEVASTATING on the defence.  They can be used in support of Offensive operations, but can easily be killed if left unsupported or rushed by faster enemies.
+
+~BYankee Quick note~B...
+
+Before we go on to weapons, there needs to be a quick word.
+
+  The weapons in this Zone are LETHAL. Not so lethal they take the skill out of the game, but it wont take many hits with most weapons to kill you.  If you charge a stream of bullets headlong, you will die.  Most of the wepons here fire pretty fast and the projectiles all move faster than you, so the farther you are from the firer, the greater amount of time you will have to dodge.  Speaking of dodging, learning to strafe is of paramount importance.  If you get in a gun fight at range and your opponent can not match your strafing ability, he will lose.  Take advantage of the range of your weapon, if you can.
+
+  Aim is also very important as well. Don't get caught up in your "firepower".  Some weapons look real impressive, BUT firepower is usless if it does not hit the target.
+
+Do not charge up on your opponent unless you have to.  I cannot stress enuf how dangerous it is to charge an automatic weapon.
+
+Another good point to mention is that you are usually limited to certain map locations to purchase weapons and ammunition. Help your teammates out by carrying extra ammo for them.  It is very, VERY helpful to have an extra 200 rounds of MG ammo when you are on an attack and you just ran out.
+
+
+
+~4~BWeapon/Item Descriptions~3~B
+
+Weapons come in several classes.  Each class is broken up into light/medium/heavy types.  Each class has a characteristic to them that is somewhat consistent eg. all plasma weapon projectiles bounce.
+
+~BEnergy Weapons:~B
+
+All energy weapons use suit energy for ammunition, so you will never need to purchase ammunition for them to function.  All energy weapon projectiles bounce (except for Particle Accelerator).
+
+~BProjectile Weapons:~B These are of 2 types, slug throwers and gauss weapons.
+
+A) Slug Throwers: These all use some sort of chemical reaction to propel a projectile of some sort.  Then tend to fire fast, so they can go through ammunition quickly.
+
+B) Gauss: These weapons use suit energy to power the electromagnetic firing mechanisms that are used to propel their projectiles.  These weapons us the same ammunition types as Slug Throwers.  They fire slower, but have much faster projectiles and tend to be more accurate.
+
+

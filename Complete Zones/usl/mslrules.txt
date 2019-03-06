@@ -1,0 +1,159 @@
+
+~B~1Unified Skirmish League Rules:~B~2 (last updated: April 26th, 2010)
+
+
+
+
+~BPart 1. Match Attendance~B
+
+1.1 To participate in a match, a squad must show a minimum of 6 players at the beginning of a match. 8 slots are given but the minimum is 6 slots to fill. That means some games can be 6 versus 8. Should the number of players drop below 6 at any time during the match, no punishment will be given. However, if a squad no longer has players in the game to compete they forfeit the match.
+
+1.2 Captains may negotiate on any number of players that will play on the match, but both must agree. If they cannot come to an agreed number of players, then the match played will be 8v8. (10v10 being the maximum).
+
+1.3 A squad that fails to show the minimum number of players (6) for a USL match will be given a forfeit and their opponents given a win.
+
+1.4 Substitutions are unlimited and may be made at any time during a match, with one exception: substitutions will not be made if the teams are engaged in combat. (Note: When substitution requests are being made, it is advised to use a minimum of 2 back-to-back messages and all in CAPITAL letters.)
+
+
+
+
+~BPart 2. Class Restrictions~B
+
+2.1 Players must abide by the designated class restrictions. (Note: If violated once, player will be removed until class selected is in accordance with restrictions. If repeated, player will be removed from the remainder of match.)
+
+2.2 Matches that have under 10 players per team, can only have up to 2 medics. Matches that have 10  players per team may use up to 3 medics.
+
+2.3 Only 1 sapper allowed per team.
+
+2.4 Only 2 LMG's OR 2 Rippers OR 1 of each allowed per team. 
+
+2.5 Only 1 Grenadier allowed per team.
+
+2.6 Players may change class at anytime during a match, provided that two conditions are followed. One, the changed class cannot violate class restrictions. Two, a player cannot change class then change back to the original class without dying first. This means a player can only play every allowed class once without dying. (Note: Players violating this rule will be removed from the match for a duration of 5 minutes. No loss of slot.) 
+
+
+
+
+~BPart 3. Non-Team Players ~B
+
+3.1 NT Players cannot be an eligible player on any USL roster. If a player from a eligible roster NT's they will be subject to the Double Squadding rule. Note: This means you can not decide to not play for your squad and instead NT for another, you will be subject to the Double Squadding rule.
+
+3.2 A player can only NT once per week.
+
+3.3 NT players are only allowed if both captains agree to having them in play.
+
+3.4 NT players can count towards the minimum 6 players that a given squad must show to a match, however the squad needs to have 4 players from it's own roster. (Note: A player on the roster includes those that are ineligible) 
+
+
+
+
+~BPart 4. Squad Rosters~B
+
+4.1 Squad rosters may not go below 12 players, and may not exceed 30 players. (Note: If a roster drops below 12 players, the squad will be given one week to raise the roster back up to the minimum. If no standby squads are available, the squad will be forced to forfeit any matches thereafter until it has 12 players again. If standby squads are available, the squad will be removed if it does not have 12 players after a week. If a roster exceeds 30 players, the most recently added players will be removed until the roster size is within the specified limit.)
+
+4.2 To participate in a match, the player must be on the squad's roster. The player must also be in the squad in the USL zone. (Note: A player found playing in a match while not squadjoined or on the squad's roster, in a situation where Non-Team Players are not allowed, will be removed from the game. Should the player be on any other roster, that player will be subject to the double squadding rules.)
+
+4.3 If a player is found playing on 2 squads in the same week or the following week, that player will be banned from the USL zone for the remainder of the season due to double squadding. (Note: A player is defined as a single person, regardless of alias. Should a player have more than one alias on any squad roster, they will be subject to the above ban. Having a second alias on an unregistered roster is irrelevant to this rule.)
+
+4.4 Players joining/leaving squads must wait 8 days before being allowed to play in a match.
+
+4.5 On the first Saturday following the completion of three-fourths of the season, a roster lock will take effect until the completion of the USL Championship.
+
+
+
+
+~BPart 5. Lag Restrictions~B
+
+5.1 Any player found in violation of the Ping and Packet loss restrictions will be considered ineligible for minimum players and will be removed from play if they are currently playing. No slot will be lost.
+
+5.2 The maximum ping a player may have is 400ms Average Ping.
+
+5.3 Lag limits are 4% packet loss (S2C or C2S) max or a total of 5% combined
+
+5.4 Any player who appears to be visually lagging as determined by on-duty referees (i.e. observation and latency check) will receive the same treatment as players who are above the average Ping limit.
+
+5.5 Any player who is found to be speccing on purpose for a personal or squad gain (Note: This includes speccing to avoid death, get more ammo) will have their player slot removed for 5 minutes. This is to be determined by on-duty referees. The referee must have beyond a reasonable doubt that said player has specced on purpose. If a player is found to be continually speccing, appropriate punishment will be chosen by the League Administration, in most cases ineligibility for the next weeks match.
+
+
+
+
+~BPart 6. Matches~B
+
+6.1 Matches begin at the time scheduled based on www.time.gov clock. Captains need to be in the arena at least five minutes prior to the game's commencement. For every minute the Captain is late 5 minutes will be added onto the loss of a player slot. This coincides with rule 6.3.
+
+6.2 The Home team’s captain picks the side that his/her squad wishes to play on.
+
+6.3 Captains must, at the latest, private message the referee with their line-ups before 5 minutes after the scheduled start time of the match. (Note: If it passes the allotted 5 minutes, the team that delays will be forced to forfeit, unless the opposing team grants a limited extension. This rule is not applicable when delay is due to referee error.)
+
+6.4 Players may not cross the indicated rape lines for any reason during a match. (Note: If a player crosses the rape lines he will be warned once. If he/she does not turn back he/she will be specced on a 3-minute penalty. If the player is engaging in combat and/or attempting to kill past the rape lines he/she will be removed without warning. If the player crosses the rape lines twice, then he/she will be removed for the remainder of the game and that team will lose their slot.)
+
+6.5 A squad may not spend more than 1 minute at a time behind the base rape lines. (Note: Any squad in violation of this rule may risk the base rape rule (6.4) being declared void. This rule may be declared void at the referee’s discretion.)
+
+6.6 A squad may not be inactive in game for more than 2 minutes during the first 25 minutes of a game and for 1 minute during the last 5 minutes of a game. (Note: Inactivity is considered as the majority of the team not moving out of their sector. Moving only 1 unit block in any direction and then immediately back to previous location may be considered a continuation on previous camping timer. Teams that disobey this rule will have their location revealed to the opposing team and will lose a player slot for 10 minutes, if ignored. Additional players will be removed every 2 minutes if camping persists. Players that are removed are selected from the top of the list, skipping leaders and medics.)
+
+6.7 The winning team is the team with the most kills at the end of the 30-minute game timer.
+
+6.8 The winning team captain is given the opportunity to name an MVP. While the MVP need not be on their team, the MVP must have played in the match. NT players cannot be named as MVPs.
+
+6.9 Spectator information, defined as, any information given by a spectator to either team which gives an indication of the opposing team's location or heading is not allowed. (Note: Substantial evidence is required to prove a squad is using spec info. Once proven, the squad will be removed from the season. The captain will be given a season ban and will not be allowed to captain a squad ever again in the league. In a situation where a player is giving spec info without the desire from the actual squad and captain, the captain must immediately notify the league and provide proof so that the punishment falls on the player rather than the squad.)
+
+6.10 Should a match result in a tie, there will be a tiebreaker game. The tie breaker game will consist of a seven on seven (7v7). No medics are allowed. After the tie breaker game has begun there will be no substituting in of any new players or putting in a player who has for some reason been specced out. Players will be removed from play after 1 death. The game ends when one of the teams has no more players. (Note: If there is no victory by the 15 minute mark, location coordinates for both teams will be given out every minute after.)
+
+6.11 If at any point in the game a player specs or frames out at a time where certain death is avoided the kill will be added to the opposing squads kills. This is based on the referees and administrations sole discretion. If the spec/frame out is not witnessed by a staff member no kill will be given (EX. The ref is looking at another battle).
+
+
+
+
+~BPart 7. Playoffs~B
+
+7.1 Playoffs will consist of the top 8 squads after the final week of the season.
+
+7.2 There will be a (1) Week break between the final week of the season and round (1) of the playoffs.
+
+7.3 If there is a tie for the 8th playoff spot, the tiebreaker will be head-to-head. (Whichever team won during regular season. Ex: Team A and Team B are tied for 8th playoff seed. Team A beat Team B in Week 4 of the regular season. Team A will get the 8th seed.)
+
+7.4 In the case of a tie consisting of 3 or more teams for the 8th playoff seed and a clear winner cannot be found through head-to-head (Ex: Teams A,B, and C are tied for the 8th Seed. Team A beat team B, Team B beat Team C, and Team C beat Team A in the regular season), the team with the highest rating will get the 8th seed.
+
+
+
+
+~BPart 8. Code of Conduct~B
+
+8.1 There will be no spamming in public chat by players and spectators during a match or any other league event. Spamming is defined as 4+ lines of repetition or 7+ lines of regular back-to-back messages. (Note: Offenders will be warned then silenced if necessary for an amount of time based on referee discretion.)
+
+8.2 There will be no excessive harassment by players during a match. Excessive harassment is defined as continuously putting down player(s) or the opposing squad during a match. (Note: Offenders will be warned then silenced if necessary for an amount of time based on referee discretion. If the harassment is directed to on-duty referees then it need not be excessive to receive punishment.)
+
+8.3 There will be no racist or sexist remarks in any USL arena. (Note: Consequences vary based on arena ownership. If official USL arena, offender will be blocked. If private arena, depends on squad captain's discretion.)
+
+8.4 During a match referees are only required to listen and respond to squad captains and assistant captains. All other social interaction on the part of referees is optional.
+
+8.5 The Code of Conduct also applies to the #USL chat, however punishments differ. (Note: Any offence committed in the chat can cause the given player to be ineligible for his/her upcoming match. If the player is not a player in the league, but later joins the league, he/she will be ineligible for up to one month.)
+
+8.6 Any player that the zone administrator finds to be repeatedly harassing on-duty referees and attempting to degrade the league with derogatory/offensive/damaging remarks made to it (no sign of constructive criticism) during their stay in the USL zone will have their permission to the zone revoked. (Note: Non-USL players will be punished with one or more offences. USL players will be punished after consistency in aforementioned behaviour. Zone blocks will usually last no more than two weeks, and can be decreased by apology [first time only].) 
+
+
+
+
+~BPart 9. Scheduling~B
+
+9.1 Squads may schedule their matches on any day of the week except Friday. Monday to Thursday have time slots 7:00pm EST - 9:00pm EST. Saturday has time slots 3:00pm EST - 7:00pm EST. Sunday has time slots 3:00pm EST - 10:00pm EST.
+
+9.2 Only 1 match may be scheduled on each time slot. The first squads to schedule their match for the desired time and notify the league scheduler will receive the slot. To confirm a time slot, both captains must agree to it where the scheduler is witness. The same applies for changing a confirmed time for any reason.
+
+9.3 Captains must schedule matches for the week that they are in by Wednesday at 11 pm EST. If this deadline is passed, the time of the match falls in the hands of the league scheduler (unless special extension has been given). If Captains plan to have a weekday match for the following week, then they must schedule it one week in advance; hence, Week 2 matches would be scheduled for in the Week 1 scheduling period.
+
+
+
+
+~BPart 10. Miscellaneous~B
+
+10.1 To participate in a season, squads must participate in the Entrance Tournament. Squads that register after the Entrance Tournament are listed as standby squads. To register, such squads must fill out a squad application as well as create their 12 player minimum roster on the site.
+
+10.2 Squads that forfeit two matches during the regular season will be removed from the USL and will not be allowed to participate again during the season. The captain of a squad that is removed from the USL will not be allowed to captain a squad again during the season. (Note: This rule may be declared void if there are no replacement squads waiting at the time of the second forfeit from a squad.)
+
+10.3 All-Star players are picked by squad captains from within their own squads (Note: All-Stars must have played three or more matches during regular season with their current squad). Each regular season captain picks 1 member and 1 stand-by member to fill in for members that don't show. Each playoff captain picks 3 members and 3 stand-by members. All-Star captains are playoff captains that are voted on by the public. Top 2 captains are elected as all-star captains and may appoint 2 assistant captains each.
+
+10.4 Standby squads that are entered into the league must have played in at least half of the regular season matches in order to be eligible for playoffs.
+
+
+

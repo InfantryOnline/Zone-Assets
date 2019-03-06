@@ -1,0 +1,79 @@
+~B~1~PRules/Guidelines
+~2-----------------------------------------------
+
+~2The following is a list of common offenses that moderators watch for. This is not a perfectly concise list, moderators will use their best judgment from case to case. Remember: Being in this game means you have agreed to the License Agreement presented to you before entering the zone list screen. In accepting those terms, you are subject to its regulations along with any and all in-game rules/regulations (Listed below). It is recommended that you learn these rules, for moderators, super moderators, and sysops expect you to abide by these rules/regulations while playing the game. Thank You.   
+
+~41. Item dropping
+~2Entering the game with a new charagter/whiping a character, in order to buy items and drop them, in order to save the money on another account.
+It is still legal to buy and drop items for the cash you have earned ingame.
+
+~42. Inappropriate names, squad names, or team names.
+~2This includes, but is not limited to: Racist names, obscene names, and any material a game moderator, super moderator, or sysop deems inappropriate.
+
+~43. Flooding/spamming.
+~2Flooding is defined as (but not limited to) multiple lines of text a person types in order to cover something said up, (moving it out of view of the default sized chatbox,) forcing disconnection to avoid death, or a "joke" to log off. This shall be determined by the moderator, super moderator or sysop at the time of incident. Spam is defined as (but not limited to) 2 or more lines of text directly after the first line of text of the same message, or group of messages (pertaining to macros.)
+
+~44. Coordinate information in the public chat.
+~2This includes, but is not limited to: Base coordinates, flag coordinates, and Personal coordinates.
+
+~45. Intentional charges to obtain flags with excessively high lag/latency (a.k.a. lag-flagging).
+~2This includes, but is not limited to: flagging in zones where capturing the flag/position is the objective while your lag info is above the legal limit. (This limit is 400ms ping, and 5% Packet Loss (4% Ploss for flagging, 5% Ploss for staying in game.) NOTE: This is not restricted to CTF type zones.
+
+~46. Statistics Padding (a.k.a Stat-Padding).
+~2This Includes, but is not limited to: feeding (or receiving) kills to someone in order to increase their bounty, better their kills to death ratio, experience, giving away a 30k bounty (or any value bounty) to another player before leaving the game, and repeated deaths to collect helmets (your own or not).
+
+~47. Excessive derogatory behavior.
+~2This is ultimately up to the present moderator, super moderator, or sysop to decide what is/ is not derogatory, but examples include, and are not limited to: ANY Racism, Anti-Religious remarks denouncing a player based on their race/religion, excessive vulgarity, drawing pornography in the chatbox, and spelling vulgar words/ pictures on the map with walls.
+
+~48. Intentionally abusing the ?help command.
+~2This includes, but is not limited to: False/prank reports (such as "?help I've fallen and I cant get up" or "?help Testing..." or "?help I need money. ez $$."), and/or any message a game moderator, super moderator, or sysop deems inappropriate.
+
+~49. Intentionally abusing the !911 chat.
+~2This includes, but is not limited to: Spamming the !911 chat, and refusing to leave the chat without a valid reason for staying. Remember, chat !911 is there to help you, so don't cause problems in it.
+
+~410. Using a non-flag terrain to force an unowned flag drop, such as switching to spectator mode to drop a flag being carried.
+
+~411. Impersonating a game moderator, super moderator, or sysop for ANY reason.
+
+~412. Impersonating a player in order to cause a bad reputation for that player. (This is Different than Rule 11)
+
+~413. Intentionally leaving an arena/game with the intent to avoid a lock/silence/ban.
+
+~414. Intentionally damaging friendly turrets/structures or teammates on your team (this is considered team-sabotage/ Team Killing ["TKing"]).
+
+~415. Repeatedly summoning people without permission (a.k.a. random-summoning).
+
+~416. Intentionally misleading players in/out of spectator mode or out of the arena/game for ANY reason.
+~2This includes, but is not limited to: telling someone that typing "?go faster" actually makes your player faster, or telling people that pressing F12 will give you something or make something cool happen.
+
+~417. Promoting ANY URL not pertaining to Infantry: ATS.
+
+~418. Using a hack, trainer, exploit, cheating and/or abusing bugs.
+~2This includes, but is not limited to, using the "Speed Hack," "Pfilter," using "dummy" player accounts or other players to intentionally augment scores and bounty (A.k.a Statistic Padding), using a RR CANISTER or map bugs to fire THROUGH* a wall, using map bugs (such as misplaced vision blocks) to conceal flags, and placing flags in the elevator areas.
+*Through meaning the canister physically goes through the wall and then detonates on the other side, this does NOT mean splash damage.
+
+~419. Using a secondary account to spectate players ingame to assist in finding them on the map. An example would be to use a "dummy" account to watch someone with a bounty so you could hunt them easier.
+ 
+~420. ANY activity a game moderator, super moderator, or sysop determines is inappropriate.
+
+~4Punishments
+-------------------
+
+~2Punishments for violations may include, but is not limited to, any combination of the following:
+
+	Wiping of character
+	Deduction of money
+	De~2duction of experience
+	Deduction of equipment
+	Being silenced
+	A temporary zone ban
+	A temporary game ban
+	A permanent zone ban
+	A permanent account ban
+	Banner privileges being removed
+	Being locked in spectator mode
+	Being warned
+	Any other action a moderator/super moderator/sysop deems appropriate
+
+**Note that moderators need not give you a warni~2ng before issuing a ban if they deem it unnecessary.
+**Note that moderators are here to help make the game a better place. Harassing mods for any reason is not tolerated

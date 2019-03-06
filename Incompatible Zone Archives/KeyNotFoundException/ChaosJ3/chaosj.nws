@@ -1,0 +1,157 @@
+~4
+Chamberts Moon is up!
+
+I'm not sure of the state of CT or of NiTe, so this will stay up unchanged for now.
+
+- Server admins (Syc, Sofa and Toriad)
+
+
+Old news:
+
+
+~2
+~BDeveloper:~B Nite
+
+-December 2,2006-
+
+-Fusion Grenade Launcher MK2 can no longer be fired out of vehicles
+-Battle Wagon can no longer anti-warp you, fire nades/eryx, and every weapon under the sun. They can only use their specific vehicle guns.
+-Added 5 new bong sounds which were made for the new CM, but I figured I'd throw them up here so people can get used to them. Thanks to Elmo for creating them!
+-%5 = Crowner Spotted
+-%6 = Crown In Danger
+-%7 = Summon Me Now
+-%8 = You've Been Antiwarped
+-%9 = Low Crown Timer
+-I've been receiving a lot of questions about the new version of CM, we're shooting to get everything done by mid december, so everyone coming home from school and play it and get addicted to infantry again. The new map is almost done, it will provide a lot more balance to the game. Some of you may have also seen the new crown objective appear in SUT, that will also be used in CM. Syco has done a lot of work to help me finish this zone up, so look for it mid december! 
+
+
+-August 31, 2006-
+-Fixed the alien.blo problem, sorry about that :\
+-V1 sniper rifle no longer team kills
+-The flag was removed for a variety of reasons, mostly because it was taking away the crowning aspect. It was a good expirement, but I don't believe it had a very positive affect on the zone. If you feel differently, argue it out on the forums at www.infinity-hq.com's forum section. If many people truly liked the flag, it may be reconsidered after more adjustments
+-Special equipment now sells for full price as well
+-Very small update, mainly just to fix the .blo issue, we will be working with CM quite a bit the next 2 weeks to fix many class system issues and many other problems, good stuff in store.. you'll see :)
+
+
+-August 26, 2006-
+-Decreased PDU affect on vehicles very slightly, the PDU affect on weapons is still the same
+-PDU will now repel on all terrain, including inside buildings
+-Crossbow PH/VH both have 0 reload time again, but they still take ammo to fire
+-Freedom Fighter can't carry V1 sniper rifle anymore, instead they can carry the V2 sniper rifle, which does a little less damage
+-Set psi trap back to normal, but gave it a very short inactive time instead
+-Heroes can't walk on the methane gas anymore.
+-Crown Rewards recuded by half
+-Aura bug fixed
+-Reduced standalone handigate's accuracy radius
+-Increased hunter pistol damage slightly
+-Increased slug cannon damage slightly, and added a description
+-Sniper bullets (MK5, MK6, etc)have a shorter lifetime now to help prevent road sniping. This shouldn't be an issue, because the person who you are initially aiming for should be within the lifetime distance to hit them. Therefore it shouldn't keep traveling and hit some random person. The bullet should end at the limit length of your scope (zoom in)
+-Driver armor/other utilities stay on in vehicle again, sorry for that bug
+-The flag is now a moving flag and won't always be positioned in the hospital. Once over 40 players are unspecced, it will begin moving around after each victory depending on the amount of players in the arena. It is no longer a periodic reward flag. The victory time/reward will probably have to be tweaked.
+-Heavy mech speed adjusted slightly, and it's incinerator now hits vehicles. The RG also no longer takes ammo to use, meaning you don't have to spend your tox.
+-Adjusted Alien Legend a little more, but its still missing one thing which will be put in after testing is complete
+-Each vehicle repair will now cost 2 titox
+-From now on, when you switch class.. you will NOT keep your inventory. Your inventory will be wiped, 100k weapons included, so drop them for someone to hold before you switch class. Making an alias for each class is an ideal solution if you disagree with this. You've been warned, and will not be given money back if you lose your equipment.
+-Firebreath's damage now relies on the distance you are from your enemy. You will notice the different colors and explosions, it begins strong and ends weaker. The closer you are the more damage you will do.
+-100k sell prices are now 100k instead of 50k, hopefully this can solve some problems and stop the whining about trading. Thanks to DarkRevenant for the suggestion
+-Added a second type of jetpack spawn in the garage, which is a little slower than the original jetpack, but includes jump
+-Alien baby spit damage tweaked
+-Psi lightning now weighs 3kg instead of 1kg
+
+-August 18, 2006-
+-The Maklov Carbine and Slug Carbine are now set properly
+-Added the Hunter Pistol
+-Added a new class: Freedom Fighter (An all slug/explosive Skirmisher on foot)
+-Added MAS shotgun for Freedom Fighter
+-Added MAS Fusion SMG for Conscript
+-Added Psi Lightning
+-Added a spawn for Darts at G5 (The building above the eyrx spawn)
+-Energizer is now auto pick-up
+-Fixed the glitching SMG turrets on tanks
+-Removed the smoke count of hyperbug, hopefully this should help a little with the frame lag it causes
+-Lowered the V1 reload time from 15 seconds to 6 seconds to prevent jamming
+-Added a little more items/armor given to a player when a class is first selected to make the zone more newbie friendly.
+-Added sound when Fresh Blood is used
+-Added Alien Blood, you can only carry one at a time, and it heals 25 hp (acts like an alien medkit)
+-Lowered Fire Delay of Energy Pistol FMK23 from 40 to 30 
+-Raised Hoverbike weight limit to 35, overweight limit 40
+-Mind Storm now has inactive time of 18, meaning it cannot be point blanked. It was never meant to be a melee weapon, and has been extremely unfair killing in just 2 blasts. To justify the inactive time, the angle of the mind storm was reduced from 45 to 20 so that it has a higher probability of making contact. Therefore, it is now very useful in confined areas as it was always meant to be, but no longer point blank.
+-Driver max. weight raised from 35 to 50kg.
+-If you are directly on top of an enemy when you lay a psi trap, it will now affect you as well as the enemy. Too many people are using it incorrectly, its not meant to work as a melee weapon.
+-Certain mines don't bounce off walls anymore when repelled
+-Added the Slug Cannon, this will only harm vehicles, and the damage is very minimal. It is light weight, and takes slug bullets.. it was made so that an a player on foot can still defend themselves against a vehicle in case they don't have any grenades or explosives to harm the vehicle.
+-Rocket Tank will no longer display HP publicly, and its HP was raised from 100 to 150. The passenger seats were also given incinerator. Lets face it, the rocket tank was absolutely useless.
+-All vehicle turrets and other passenger positions will now display the current HP to thier teammates.
+-Lowered price of Life Seeker from $500 to $100 and changed the damage rates to make them desireable to use
+-Alien baby spit can now hit vehicles, but does very small damage
+-Set all items except 100k items to an absolute limit. This means if you already have 3 PDU's, you won't be able to buy more, or if your about to pick up too much ammo, it will only pick up the maximum you can hold. You will also no longer see the --Over-- limit because you can't hold more than a certain alotted amount. The 100k's were purposely left out so that you could still have someone pick up your 100k to hold for you while you transfer. While there might be complaints since you can no longer stock up on a certain item to bring to a teammate, more than often someone buys too much of an item on accident (example:200 PDU's), or a new player can't figure out why their gun won't shoot.
+-You can now switch between Alien Queen, Hero, or Legend once you've reached enough exp. This means that if you are an Alien Hero, you can alternate between Queen or Hero if you'd like, and the same thing goes with legend. To accomplish this, Alien was removed from the "Class" category and renamed Baby Alien under the "Lower Alien" system. The EXP requirements for all the alien classes are the same, but to play as a Hero you'll need 1,500,000 exp since your experience isn't wiped when you select Queen. Alien Legend was lowered to 3,500,000 exp as well.
+-Reduced Jakob and Twin Jakob damage slightly
+-Added a second type of jetpack spawn in the garage with jump equipped, but it's speed is slower than the C1 Jetpack.
+
+-August 13, 2006-
+- Fixed all remaining map glitches, the map should be 100% at its best now. The F1/F2 area had to be changed very slighty to avoid glitches. The garage is now set properly with physics (you can't walk through the walls anymore) and the lag in the sewers (psi crystal spawn) is now fixed. More to come
+- Added an ammo spawn for darts at G5
+- Added a flag to the F6 building which will give a reward periodically every 5 minutes. The reward is set: Points = 20,000 * arena population / 1000, Cash = 10,000 * arena population / 1000, Experience = 10,000 * arena popluation / 1000
+
+
+-July 9, 2006-
+- Added sound for when energize kit is used.
+- Silver and Gold scale will now start on instead of off.
+- The cliff surrounding the titox spawn at E8 can no longer be shot over, and cannot be jumped over as well. This was changed to stop HT, spy, and hero portal abuse.
+- When over the methane gas, your crown expire timer will go down twice as fast (just like dropship).
+- Added the Heavy Mech. Capabilities: Fusion assault gun, Flamethrower, Rifle grenade, Rifle grenade kit, repulsor, heads up display. 150hp, costs $100,000, takes 50 titox to create.
+- Changed Anti-warp max slot category code(so you can use sensors and anti-warp at the same time). Keep in mind your energy regeneration is extremely slow with both on.
+- Slug carbine ammo capacity changed from 8 to 3.
+- Maklov carbine ammo capacity changed from 20 to 3.
+- Added a fresh blood spawn for aliens, find it :)
+- A ton of map and physics glitches fixed, including the notorious bridge glitch at c3. It will take a little more time to get the map perfect.
+- Alien hive has been fixed, there is no way to re-enter once you've left. The portals bring you to the same destinations as the dropship portals.
+- You will now receive full reward for a team victory even if your in the Dropship or Hive.
+- Spectator mode energy fixed.
+- Adjusted the destination of non-DS/Hive related portals slightly so they can't be abused, also decreased the damage ignore time.
+- Decreased Eyrx spawn so there's only 20 which spawn at a time, rather than 50.
+- Tanks will now move faster on the road terrains, but will move their normal speed on all other terrains. 
+- All holo-taunt grenades now have a fire delay of 20 seconds each so they cannot be spammed continuously.. it gets annoying.
+- All SMG tank turrets (RL,RR,FL,FR) now pass very slight energy damage, so the occupant can't just get out and DS immediately. All pass damage on energy drain changed from 50 to 300.
+- Chin turret energy drain pass damage % changed from 50 to 300.
+- Added electrical explosion to Mech and Heavy Mech when they die.
+- Tweaked the graphics slightly on the $$ and Smiley nades so they dont look like MK2/Radioactive balls.
+- Hunter rifle decreased to 4kg due to the extreme lack of use and the increase of aliens. 
+- VH/PH shadows removed.
+- Crossbow PH/VH now takes ammo, they are VERY light, so it shouldn't be a big deal. They are in the shop under the Ammo category as dart.
+
+
+-June 28, 2006-
+- Changed paralyzer fire delay from 200 to 300.
+- Changed psi bolt bounces from 3 to 2 and lifetime from 8 seconds to 6 seconds.
+- AP Mine MK1 point blank damage disallowed.
+- Changed inactive time of slug mg from 0 to 30 so you cannot point blank it anymore, increased the speed very slightly.
+- You can now see your teammate's energy.
+- Stunner and Paralyzer will now load after 2 shots.
+- Contaminators can no longer carry heater.
+- Suiciding is no longer possible.
+- EZ, $$, and GG grenades no longer cost money (They were bugged anyways).
+- Added Smiley Nades. Yeeee!!
+- Added Alien Legend, 5 million exp required.
+- You must now have full energy to go into spectator mode.
+- You will now unspec with the same HP you specced with.
+- You can no longer change from alien to human
+- Added a trail to the Sniper Rifle V1 projectile, and tweaked the graphic slightly to be more dinstinguishable as a V1 bullet (it used to look just like a pistol bullet).
+- Added brakes for skirmisher. If used properly, it can be very effective. The brake does not work if you are going backwards, only forwards. You may notice that if you change from forward motion to reverse motion while applying the brake, it thrusts you backwards immediately. 
+- Added storyline for Alien Legend.
+- Mech speed increased, as well as rotate speed. They can now strafe. Hopefully this will make it a little more desireable to play. Possibly more adjustments/weapons.
+- Changed it so that everyone in a vehicle will be awarded points and experience for turret kills. TurretExperienceSharePercent=50, TurretPointsSharePercent=80, both were at 0.
+- Tanks no longer cost money to make.
+- 100k's and other special equipment now sellable for half price.
+- Avenger Tank now weighs 5 kg,
+- Fixed the bottom drop ship door, and removed the flag in the hospital.
+- Improved jetpacks: New settings = weight is 35 / 40max with speed and rotate increases. They can now strafe. Jump was removed to accomodate the changes.
+- Jetpack despawn rate lowered from 500 seconds to 60 seconds.
+- You are no longer given Aura, Summon, and Alien Egg once you upgrade Alien class, it must be purchased. All buyable alien items set to 3kg weight (special egg is 5) Sell prices are 20k.
+- Aliens spawn in the hive now, there are 3 portals there which work exactly the same as the dropship portals. The portal in the bottom hive will bring you near the top of the map. The bottom portal in the top hive will bring you near the bottom of the map, and the top portal will bring you near the park. I suggest that until we get a higher population, aliens only use the top 2 portals.
+- Bounty bumped up a bit.
+- Gave PH/VH crossbow a shadow to make it slightly more visible.
+- All vehicles can no longer be summoned.
+- A few other misc sound changes and small adjustments.
+

@@ -1,3 +1,0 @@
-"The Sony Station","http://www.station.sony.com"
-"Infantry on the Station","http://www.station.sony.com/infantry"
-

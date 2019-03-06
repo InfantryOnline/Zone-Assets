@@ -1,0 +1,58 @@
+COMMUNICATION
+
+
+
+
+Communication between players
+
+As in any online game the communications system is key.
+
+Note if you find the messages or any text in the game hard to read you can change the fonts under OPTIONS which is located in the main game menu accessed by hitting the ESC key. Then use mouse to navigate or the Arrows keys with SPACE to select an item.
+
+
+
+Simple Message
+
+Players can send messages to everyone simply by typing his message
+
+
+"Hello everyone in my game arena" <-- You dont type the "" marks.
+
+
+Teammate Message
+
+A Player can send a message only to his teammates by prefixing his message with a ‘
+
+
+‘Hello teammates in my game arena
+
+
+Private Message
+
+Private messages are sent to a player by either clicking on the player’s name and typing, or by longhanding the player’s name between two :
+
+
+:jeffp: This is a private message sent to Jeffp that only he will see.
+
+
+QuickBack Message
+
+A player can send a quick message straight back to whoever sent him a private message by typing :: with no name.
+
+
+:: This is a message back to Rodvik who paged me.
+
+Private messages are sent across ALL the game arenas, thus if you want to know if your friend is online anywhere in Infantry then you can send him a message.
+
+
+Chat channels
+
+Players can set up their own chat channels and password protect them if desired. Chat channels go across all game servers and can be about any topic. Players enter or create a chat channel by typing ?chat [name][password]
+
+?chat Psionics rod
+
+sets up a chat channel called Psionics that has the password "rod"
+
+All these commands will also be accessible through the mouse and will bring up dialogue boxes prompting the user for information.
+
+ 

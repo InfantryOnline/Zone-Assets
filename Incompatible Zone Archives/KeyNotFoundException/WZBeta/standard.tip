@@ -1,0 +1,26 @@
+The mouse can be used to control most aspects of the user interface.  Try right-clicking on things.
+Pressing ESCAPE brings up the main game menu.
+You should read the zone-news for zone specific information.  Zone news is found by going to ESC / INFORMATION / ZONE-NEWS.
+You control your man/vehicle by using the arrow keys.
+Names in yellow are on your team and cannot be hurt by you.
+On radar you appear as a green dot, enemies appear as red dots, team mates appear yellow.
+F3 key toggles full map screen.
+Right clicking on radar or the map changes its range.
+F10 takes you to the store.
+F11 takes you to the skill/class screen
+F12 toggles spectator mode.
+When in spectator mode (F12) you can right click on a players name to watch them.
+SPACE picks up some items and enters vehicles.
+SHIFT + SPACE exits a vehicle.
+F2 toggles between name & inventory lists, PgDn & PgUp changes your inventory/name list selection.
+DELETE uses a selected inventory item.
+Right clicking on an inventory item allows you to assign it a key or drop it.
+To send a public message simply type your message then hit ENTER
+To send a message to your team type ' first then your message. EG: 'hello team.
+To send a private message to a person right click on his name and select "message"
+You can define which key fires an item by right clicking on that item.
+You can get information on any item by right clicking on it's name in your inventory box.
+You can change the font sizes in the game via the ESC / OPTIONS / FONT-OPTIONS
+If the game is running too slow there are various options in the boot up screen under VIEW / ADVANCED-OPTIONS
+
+

@@ -1,0 +1,37 @@
+~BHockey Zone Rules~B
+
+There is only one rule that governs your behaviour in the zone.
+
+~BDo not act like an idiot.~B
+
+Idiotic behaviour includes but is not limited to:
+	- ~BRACISM~B
+	- harrassing players to an extreme
+	- shooting the puck into your own net deliberately
+	- killing the opposing goalie deliberately
+	- sabotaging your team (ie. passing it away deliberately, repeatedly)
+	- going goalie when there is already a goalie on your team
+	- force lagging
+	- hacking
+	- abusing bugs
+	- cherry picking
+
+ETC...
+
+Punishments include but are not limited to:
+	- being locked in spec
+	- being silenced
+	- being banned
+
+If you are concerned with the way a moderator treated you, please bring it to a sysop's attention.  Logs always help your case, as I trust my mods.
+
+~B?go Scrim~B
+
+In Hockey Zone private owner privelages are not being enabled.  They WILL not be enabled.  There are two main reasons for this.  The first is that rox is adding commands that may or may not be affected by the enabling of private owner privelages.  The second is that I don't want to see scrims running 24/7.
+
+The strength of a zone invariably comes down to it's public arenas.  The goal in HZ will be to maintain a healthy public arena.
+
+With that in mind, mods will run scrims only at times when the public arena is not doing well, or can withstand a scrim running at the same time (ie. when we have 30+ people, or when there are only about 20 but pub is just not going well).  Mods are not required to run scrims all the time, though that is mainly what they are hired for.
+
+
+If you have a problem with how a scrim was run, well to be honest I don't really care, but if the problems are ongoing with one particular mod, bring it to my attention.

@@ -1,0 +1,3 @@
+v6,1,0,101,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "HoverBike","Vehicles","","HoverBike - Quick, fast turning.  No Strafing.",  ,,0,0,0,0,0,0
+v6,2,0,108,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "HoverBoard","Vehicles","","HoverBoard - Highest TopSpeed. Slow turn. No strafing.",  ,,0,0,0,0,0,0
+v6,3,0,100,1,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "JetPack","Vehicles","","JetPack - Lowest TopSpeed. Fast turn. Strafes.",  ,,0,0,0,0,0,0

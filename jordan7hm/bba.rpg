@@ -1,5 +1,0 @@
-v4,-1,100,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Speed","-- Attributes --","","Governs the speed of the BoomBall players thrusters."
-v4,-2,100,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Agility","-- Attributes --","","How agile a character is. This includes reflexes and mind to body coordination."
-v4,-6,100,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Health","-- Attributes --","","This Attribute includes endurance and how much physical damage the character can take before he dies."
-v4,-3,100,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Energy","-- Attributes --","","Governs the energy of the BoomBall player."
-v4,-4,100,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Weight","-- Attributes --","","Governs the energy of the BoomBall player."

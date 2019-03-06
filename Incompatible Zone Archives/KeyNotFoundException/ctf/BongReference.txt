@@ -1,0 +1,15 @@
+~6
+~B Voice Macro Sounds~B
+Bong #  says:
+18	Flank Needed!
+19	Flanking!
+20	Cloakers!
+21	Rally on Coordinates
+22	Acknowledged
+23	Affirmative
+24	Attacking
+25	Defending
+26	Enemy Sighted
+27	Request Summon
+28      Under Attack
+29      Base Critical

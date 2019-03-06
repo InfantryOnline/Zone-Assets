@@ -1,0 +1,90 @@
+
+~B~0~PList of Head Moderators, Super Moderators, Moderators, and Trainee Moderators 
+as of June 21, 2010~B~2
+
+
+~4~BOverview:~0~B
+
+~2-Moderators are volunteers that are present in the game to help players
+and enforce the SOE rules (i.e. Moderator Rules Guidelines found in Help/F1
+menu).
+
+-Contacting moderators can be done by using the ?help command (?help player
+is TKing me), adding the !911 chat (?chatadd !911) or by searching for them
+individually (?find Un0me) and private messaging them.
+
+?help Command: When using this command always remember to put a reason after
+it. It helps moderators to react more quickly to your request. These
+requests are seen immediately by local moderators and by global ones upon
+checking the list. Abuse of this command is punishable.
+
+!911 Chat: Only enter this chat for rule violation reports. This is not a
+tech support or guidance chat, it is for emergency use only. Upon entry to
+the chat you must immediately state your purpose in the chat and ?chatdrop
+!911 as soon as you are done or when a moderator asks you to drop the chat.
+
+Private Messaging: There are no rules for this method of contact. It is best
+suited for receiving lengthy help from available moderators.
+
+-Moderators do not operate in private areas of the game. This includes
+private messages, private chats, private arenas, league zones, etc. While
+there are some exceptions to this principle, this is still the general concept.
+A common misconception is that moderators can provide permits to league zones. 
+This is incorrect, only a league's staff can assist you with everything league
+related.
+
+-Moderators are not in any way game developers or station administrators.
+More specifically, players should not contact moderators for concerns
+related to gameplay features, game updates, account problems, etc. For
+gameplay matters such as bug reports and development ideas, players should
+post about them on the Station Pass forums (http://forums.station.sony.com/station/forums/list.m?category_id=27). 
+For tech support or any other direct SOE customer service, players should 
+visit the Help section on the Station Pass website (http://www.station.sony.com/en/services/help/help.jsp).
+
+-Trainee Moderators (Tmods) are present to assist moderators in catching rule 
+violations and helping players with technical questions. Tmods are not powered, 
+but in many aspects carry the same authority as moderators. When requests are made
+by Tmods, attention and respect should be given to them, same as moderators.
+
+-Complaints relating to moderators should be submitted to the 
+Head Moderator via Email (~4~Bheadmod@gmail.com~0~7). 
+
+
+
+~0~BHead Moderator~0~B
+~2Military Police~0
+
+
+~0~BSuper Moderators~0~B
+~2Allustrious
+Amy
+BloodySmile
+Bowen
+JDawg
+Stealthy
+Warfire~0
+
+
+~0~BModerators~0~B
+~2Amtax
+Bubble
+Eskimo
+Joe T
+Kaze
+Kinetic Pain
+Laboratory Monkey
+noire
+Oni
+Realm
+Templar
+unethical~0
+
+
+~0~BTrainee Moderators~0~B
+~2Geek
+MalAdroit
+
+
+
+
+

@@ -1,3 +1,0 @@
-Now that you have downloaded the bulk of the files, put them all in your infantry folder. To do this, you must extract them first. Right click and hit one of the "Extract" options (Extract All, Extract here, Extract to..) There will most likely still be something to download, but this should cut down the time severely.
-
-This should be obvious to most of you, but if you do not put the files in the infantry folder, the game client will not register its presence (so you will have downloaded these for nothing.)

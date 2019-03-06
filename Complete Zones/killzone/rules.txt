@@ -1,0 +1,121 @@
+~B~1~PModerator Rules Guidline version 2.21, updated 12 November 2003.
+
+~B~0The following is a list of common offenses that moderators watch for. This is not a perfectly concise list; moderators will use their best judgment from case to case. Remember: Being in this game means you have agreed to the License Agreement presented to you before entering the zone list screen. In accepting those terms, you are subject to its regulations along with any and all in-game rules/regulations (Listed below). It is recommended that you learn these rules, for moderators, super moderators, and SOE Employees expect you to abide by these rules/regulations while playing the game. Thank You.
+
+This list of rules has been divided into two parts: Chat based and Game based. Chat based rules are rules which govern the public chat channels of Infantry/Cosmic Rift. Game based rules are rules which govern the actual play of the Zones of Infantry/Cosmic Rift. Violation of rules listed below may result in punishment determined by moderator present at the time of violation. The consequences for violating the ~B~1Moderator Rules Guidline~B~0 are listed below this list of rules. It is advised that you are aware of these rules, as moderators are not required to issue warnings if deemed unnecessary.
+
+~B~3Game Based Rules:
+
+~11. ~2Intentional charges to obtain flags with excessively high lag/latency (also known as "Lag-Flagging")
+~BExamples include, but are not limited to: Flagging in zones where capturing the flag/position is the objective while your lag info is above the legal limit.
+The lag limits are 400ms ping, and/or 5% packet loss (4% packet loss for flagging, 5% packet loss for staying in game.) These restrictions are not restricted to CTF type zones.
+~B~3
+~12. ~2Statistics Padding (also known as "Stat-Padding")
+~BExamples include, but are not limited to: Feeding (or receiving) kills to (from) someone in order to increase their (your) bounty, better their (your) kills to deaths ratio, experience, repeated deaths to collect helmets (your own or not,) or any other activity with the intent of artifically inflating a players score.
+
+The only exception to this rules is that it is legal for a player who is leaving the game to give their bounty away to a player of their choosing. This is allowed provided the player in question leaves the arena and ends their session.
+~B~1
+3. ~2Using a non-flag terrain to force an unowned flag drop
+~BExamples include, but are not limited to: Being summoned/recalling to the DropShip to force drop the flag you are holding, or switching to Spectator Mode to force drop the flag you are holding.
+
+~B~14. ~2Intentionally leaving an arena/game with the intent to avoid a lock, silence, ban, or jail time
+~BExamples include, but are not limited to: Typing ?go or ?quit to avoid a lock or silence, typing ?go or ?quit to avoid an incoming ban, or escaping from the jail. 
+~B~1
+5. ~2Intentionally damaging friendly turrets and/or structures and/or teammates on your team (This is considered team-sabotage, also known as "Team Killing" ("TKing"))
+~BExamples include, but are not limited to: using a Demolition Pack or Demolition Charge to destroy a teams' base structures, or intentionally firing weapons which hurt friendly players at friendly players to degrade their health points.
+
+~B~16. ~2Repeatedly summoning people without permission (also known as "Random-Summoning")
+~BExamples include, but are not limited to: Summoning a whole team without consent to help your chances of survival, or summoning people into enemy mines and/or weapons fire (This can be seen as Statistics Padding).
+
+~B~17. Using a hack, trainer, exploit, and/or abusing bugs with the intent to cheat in any way
+~B~2Examples include, but are not limited to: Using the "Speed Hack," "Packet Filters" of any kind, any other outside program that is not part of the Infantry/Cosmic Rift package, Shooting ~B~3THROUGH~B ~2walls (example: RR Canister being shot against a wall, deploying on the other side, this does not include the splash damage effect), or using any "Memory Hacks."  
+~B~1
+8. ~2Using a secondary "Dummy" account
+~BExamples include, but are not limited to: Spectating players ingame to assist in finding that player on the map, or using a "Dummy" account to give your main account's characters free kills (which is Statistics Padding).
+~B~1
+~3Chat Based Rules:
+
+~11. ~2Inappropriate Banners
+~BExamples include, but are not limited to: Obscene words which are filtered by the game's Derogatory Filter option, images resembling in game graphics (such as mines, grenades of all types, and other projectile graphics,) [x]'s (where x is a number,) letters that match the in game font and when combined with the alias using that banner spells out an obscene word or phrase, all racist and/or hate symbols (all forms of the Swastika included,) content in violation of the licence agreement, nudity, offensive material (thongs and g-strings are considered offensive,) and any material a guide, game moderator, super modertor, head moderator, or SOE Employee deems inappropriate. 
+
+  Abuse of the banner privelage in this manner will result in the LOSS of banner privelages, even for a first offense.
+
+~B~1
+2. ~2Inappropriate aliases, squad names, or team names
+~BExamples include, but are not limited to: Racist names, obscene names, and any material a guide, game moderator, super moderator, head moderator, or SOE Employee deems inappropriate.~B~1 
+
+3. ~2Flooding and Spamming
+~BExamples include, but are not limited to: Multiple lines of text a person types in order to cover something said up, forcing disconnection to avoid death, a "joke" to log off, 3 or more lines of text directly after the first line of text of the same message, or a group of messages (pertaining to macros).
+~B~1
+4. ~2Coordinate Information in the public chats
+~BExamples include, but are not limited to: Base coordinates, flag coordinates, and personal coordinates.
+
+~B~15. ~2Excessive derogatory behavior
+~BExamples include, but are not limited to: Any racism, anti-religious remarks denouncing a player on their race and/or religion, excessive vulgarity, drawing pornography in the chatbox, and spelling vulgar words and/or pictures on the map with in game structures and/or items.
+~B~1
+6. ~2Intentionally abusing the ?Help command
+~BExamples include, but are not limited to: False and/or prank reports (such as "?Help I've fallen and I can't get up!" or "?Help I need money. ez $$").
+~B~1
+7. ~2Intentionally abusing the !911 chat
+~BExamples include, but are not limited to: Spamming the !911 chat, any derogatory language (!911 is considered a public chat,) or refusing to leave the chat without valid reasons for staying. Remember, chat !911 is there to help you, so don't cause problems in it.
+~B~1
+8. ~2Impersonating a guide, game moderator, super moderator, head modearator, or SOE Employee for any reason
+~BExamples include, but are not limited to: Saying you are a mod, or creating aliases close to mod aliases with the intent to fool other players.
+~B~1
+9. ~2Impersonating a player in order to cause a bad reputation for that player
+~BExamples include, but are not limited to: Making aliases close to other players' aliases and claiming to be them, followed by derogatory behavior. This is not the same as ~B~3Chat Based Rule~2 ~Bnumber ~B~18~B~2.
+~B~1
+10. ~2Intentionally misleading players in or out of Spectator Mode, or out of the arena and/or game for any reason
+~BExamples include, but are not limited to: Telling someone that typing "?go faster" actually makes your character faster, or telling people that pressing the F12 button will result in them having something cool happen to them.
+~B~1
+11. ~2Promoting any URL not pertaining to Infantry/Cosmic Rift/Sony Online Entertainment for any reason
+~BExamples include, but are not limited to: Posting links that look like they relate to Infantry but infact are infected with a virus of some kind, any derogatory sites, or personal sites (due to personal computer security risks such as viruses).
+
+~B~112. ~2Any activity a game moderator, super moderator, head moderator, or SOE Employee deems inappropriate
+
+~3Punishments:
+
+~1Punishments for violations of the above rules may include, but are not limited to, any combination of the following:
+
+	Wiping of character(s)
+	Deduction of money
+	Deduction of experience
+	Deduction of equipment
+	Being silenced
+	Being locked into Spectator Mode
+	Being sent to the Jail (I:RPG)
+	A temporary zone ban
+	A temporary game ban
+	A permanent account ban
+	Banner privileges being removed
+	Being warned
+	Any other action a game moderator, super moderator, head moderator, or SOE Employee deems appropriate
+
+        Typical escalation of punishments is as follows:
+
+        1st offense=warning
+        2nd offense=Spec lock and silence for 30 minutes.
+        3rd offense=Minor (120 minute) removal from the game.
+        4th offense=Major (1440 minute) removal from the game.
+        5th offense=Banning and suspension of account.
+
+It should be noted that these rules for the benefit of our subscribed players.  Guests or cheaters/hackers are NOT players, and thus can be removed for ANY reason, without warning.
+
+
+~3
+~B~0
+***Note that moderators and guides are here to help make the game a better place. Harassing moderators and/or guides for any reason will not be tolerated.
+
+
+~B~2-Station Pass Volunteer Moderators
+Moderator Rules Guidline version 2.22
+Last updated 14 May 2004
+~1
+~2
+
+
+
+~1
+
+ 
+~B

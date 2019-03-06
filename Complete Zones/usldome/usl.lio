@@ -1,0 +1,157 @@
+4,v25,106,"TeamAStart",11072,480,500,50,0,-3,  0,999,0,10,1, 2,0,""
+4,v25,108,"TeamBStart",800,7824,50,500,0,-3,  0,999,0,10,1, 2,1,""
+8,v25,29,"TitanSpawnMessage",10528,784,1000,512,0,-3,    2,0,"Titan Concentration Area.  Upon death, or at game start you will Spawn here.  Proceed to one of the three important tactical locations: Kliest's Ridge, Hill 102 or Hill 86.  Remember to use ?breakdown to keep track of the game score.  Good Luck!"
+8,v25,30,"CollSpawnMessage",656,8048,512,512,0,-3,    1,1,"Collective Drop Zone.  Upon death, or at game start you will Spawn here.  Proceed to one of the three important tactical locations: Kliest's Ridge, Hill 102 or Hill 86.  Remember to use ?breakdown to keep track of the game score.  Good Luck!"
+8,v25,31,"KRText",2528,3280,512,512,0,-3,    0,-1,"Map location: Kliest's Ridge.  Officially Ridge 206b, this ridge has seen a LOT of hard fighting over the last year and is a very important tactical location."
+8,v25,32,"Hill102",7392,2704,512,512,0,-3,    0,-1,"Map location: Hill 102. Important because it is the weak link to defense of the Town. Titan should always have units guarding this map location."
+8,v25,33,"Hill86",8624,8176,512,512,0,-3,    0,-1,"Map location: Hill 86.  This hill is important as it's defense commands the defense of the entire hill complex.  This area is also the key to entering the Collective Drop Zone.  Collective should have units here at all times."
+4,v25,10,"DrainA",11072,480,500,50,0,-4,  0,999,0,300,10, 2,0,""
+4,v25,23,"TeamB Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,1,""
+4,v25,109,"TeamCStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,5,""
+4,v25,110,"DrainC",11072,480,500,50,0,-4,  0,999,0,300,10, 2,5,""
+4,v25,111,"TeamDStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,6,""
+4,v25,112,"DrainD",11072,480,500,50,0,-4,  0,999,0,300,10, 2,6,""
+4,v25,113,"TeamEStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,7,""
+4,v25,114,"DrainE",11072,480,500,50,0,-4,  0,999,0,300,10, 2,7,""
+4,v25,115,"TeamFStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,8,""
+4,v25,116,"DrainF",11072,480,500,50,0,-4,  0,999,0,300,10, 2,8,""
+4,v25,117,"TeamGStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,9,""
+4,v25,118,"DrainG",11072,480,500,50,0,-4,  0,999,0,300,10, 2,9,""
+4,v25,119,"TeamHStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,10,""
+4,v25,120,"DrainH",11072,480,500,50,0,-4,  0,999,0,300,10, 2,10,""
+4,v25,121,"TeamIStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,11,""
+4,v25,122,"DrainI",11072,480,500,50,0,-4,  0,999,0,300,10, 2,11,""
+4,v25,123,"TeamJStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,12,""
+4,v25,124,"DrainJ",11072,480,500,50,0,-4,  0,999,0,300,10, 2,12,""
+4,v25,125,"TeamKStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,13,""
+4,v25,126,"DrainK",11072,480,500,50,0,-4,  0,999,0,300,10, 2,13,""
+4,v25,127,"TeamLStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,14,""
+4,v25,128,"DrainL",11072,480,500,50,0,-4,  0,999,0,300,10, 2,14,""
+4,v25,129,"TeamMStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,15,""
+4,v25,130,"DrainM",11072,480,500,50,0,-4,  0,999,0,300,10, 2,15,""
+4,v25,131,"TeamNStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,16,""
+4,v25,132,"DrainN",11072,480,500,50,0,-4,  0,999,0,300,10, 2,16,""
+4,v25,133,"TeamOStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,17,""
+4,v25,134,"DrainO",11072,480,500,50,0,-4,  0,999,0,300,10, 2,17,""
+4,v25,135,"TeamPStart",11072,480,500,50,0,-3,  0,999,0,100,1, 2,18,""
+4,v25,136,"DrainP",11072,480,500,50,0,-4,  0,999,0,300,10, 2,18,""
+4,v25,137,"TeamC2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,19,""
+4,v25,138,"TeamC2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,19,""
+4,v25,139,"TeamD2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,20,""
+4,v25,140,"TeamD2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,20,""
+4,v25,141,"TeamE2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,21,""
+4,v25,142,"TeamE2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,21,""
+4,v25,143,"TeamF2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,22,""
+4,v25,144,"TeamF2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,22,""
+4,v25,145,"TeamG2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,23,""
+4,v25,146,"TeamG2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,23,""
+4,v25,147,"TeamH2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,24,""
+4,v25,148,"TeamH2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,24,""
+4,v25,149,"TeamI2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,25,""
+4,v25,150,"TeamI2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,25,""
+4,v25,151,"TeamJ2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,26,""
+4,v25,152,"TeamJ2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,26,""
+4,v25,153,"TeamK2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,27,""
+4,v25,154,"TeamK2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,27,""
+4,v25,155,"TeamL2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,28,""
+4,v25,156,"TeamL2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,28,""
+4,v25,157,"TeamM2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,29,""
+4,v25,158,"TeamM2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,29,""
+4,v25,159,"TeamN2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,30,""
+4,v25,160,"TeamN2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,30,""
+4,v25,161,"TeamO2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,31,""
+4,v25,162,"TeamO2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,31,""
+4,v25,163,"TeamP2Start",800,7824,50,500,0,-3,  0,999,0,100,1, 2,32,""
+4,v25,164,"TeamP2 Drain",800,7824,50,500,0,-4,  0,999,0,300,10, 2,32,""
+4,v25,462,"Team45WarpGS",2688,7936,0,0,0,-3,  0,999,0,10,1, 2,45,""
+4,v25,463,"Team46WarpGS",2688,8544,0,0,0,-3,  0,999,0,10,1, 2,46,""
+4,v25,464,"Team45WarpDS",2688,7936,0,0,0,-4,  0,999,0,300,10, 2,45,""
+4,v25,465,"Team46WarpDS",2688,8544,0,0,0,-4,  0,999,0,300,10, 2,46,""
+4,v25,501,"Team41WarpGS",800,7824,50,500,0,-3,  0,999,0,10,1, 2,41,""
+4,v25,503,"Team41WarpDS",944,7824,50,500,0,-4,  0,999,0,300,10, 2,41,""
+4,v25,504,"Team47WarpGS",8400,1392,175,175,0,-3,  0,999,0,300,1, 2,47,""
+4,v25,505,"Team48WarpGS",2160,6224,200,150,0,-3,  0,999,0,300,1, 2,48,""
+4,v25,506,"Team47WarpDS",8400,1392,175,175,0,-4,  0,999,0,300,10, 2,47,""
+4,v25,507,"Team48WarpDS",2160,6224,200,150,0,-4,  0,999,0,300,10, 2,48,""
+4,v25,11,"TeamZombie2WarpGS",640,1760,200,200,0,-4,  0,999,0,300,1, 2,49,""
+4,v25,12,"TeamZombie2WarpDS",640,1760,200,200,0,-4,  0,999,0,300,10, 2,49,""
+4,v25,13,"TeamSurvWarpDS",9888,7200,200,200,0,-4,  0,999,0,300,10, 2,38,""
+4,v25,14,"TeamSurvWarpGS",9888,7200,200,200,0,-4,  0,999,0,300,1, 2,38,""
+8,v25,15,"RIP1",928,1872,40,40,0,-3,    0,-1,"Here lies Splittah."
+1,v25,16,"MethDoorAA",3312,1056,0,0,0,-3,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,17,"MethDoorAB",3344,1056,0,0,0,-3,    -1,-1,2,2, 0,16,0,0, doors,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,18,"MethDoorAC",3376,1056,0,0,0,-3,    -1,-1,2,2, 0,16,0,0, doors,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,19,"MethDoorAD",3408,1056,0,0,0,-3,    -1,-1,2,2, 0,16,0,0, doors,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,20,"MethDoorAE",3440,1056,0,0,0,-3,    -1,-1,2,2, 0,16,0,0, doors,Metac,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+6,v25,21,"Underground",1728,4096,50,50,0,-3,    -1,17,, 100,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+4,v25,22,"UndegroundEnd",2032,4336,50,50,0,-3,  0,999,0,300,17, 2,0,""
+1,v25,24,"MountainBlockade",2352,2048,0,0,0,-3,    5,4,0,0, 0,16,0,0, mountainblockade,obj030212,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v25,25,"Open Map",11220,9060,0,0,0,0,    0, 16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,2015,1,0,0, "",-1,  0,0,0,0,0,0, lock,DoorLckA,0,0,72,0,0,0,uiwav,pickmenu,0,0
+4,v25,26,"Team34WarpDS",16928,2032,50,100,0,-4,  0,999,0,300,10, 2,34,""
+4,v25,27,"Team34WarpGS",16928,2032,50,100,0,-3,  0,999,0,10,1, 2,34,""
+4,v25,28,"Team35WarpDS",14480,2880,50,100,0,-4,  0,999,0,300,10, 2,35,""
+4,v25,34,"Team35WarpGS",14480,2880,50,100,0,-4,  0,999,0,300,1, 2,35,""
+1,v25,37,"BlueAB",16816,1936,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,38,"BlueAA",16816,1904,0,0,0,-3,    -1,-1,2,2, 0,0,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,39,"BlueAC",16816,1968,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,40,"BlueAD",16816,2000,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,41,"BlueAE",16816,2032,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,42,"BlueAF",16816,2064,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,43,"BlueAG",16816,2096,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,44,"BlueAH",16816,2128,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,45,"BlueAI",16816,2160,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,46,"BlueAJ",16816,2192,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,47,"BlueAK",16816,2224,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,48,"RedAA",14608,2752,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,49,"RedAB",14608,2784,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,50,"RedAD",14608,2848,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,51,"RedAE",14608,2880,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,52,"RedAF",14608,2912,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,53,"RedAG",14608,2944,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,54,"RedAH",14608,2976,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,55,"RedAI",14608,3008,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,56,"RedAJ",14608,3040,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,57,"RedAK",14608,3072,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,58,"RedAC",14608,2816,0,0,0,-3,    -1,-1,2,2, 0,38,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v25,59,"Umpire Switch North",15764,2516,0,0,0,0,    0, 38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,0, "",-1,  0,0,0,0,0,0, lock,DoorLckA,0,0,0,-100,0,0,uiwav,pickmenu,0,0
+4,v25,60,"Team36WarpDS",15760,2560,25,25,0,-4,  0,999,0,300,10, 2,36,""
+4,v25,61,"Team36WarpGS",15760,2560,25,25,0,-4,  0,999,0,300,1, 2,36,""
+5,v25,62,"Goggles North",15760,2544,0,0,0,-3,     1,0,0,0, 0,300,0,99999, -1,-1,7, 2,0,,0,0, 0,0,0,0, 0
+8,v25,63,"BlueMessage",16976,2032,150,150,0,-3,    3,-1,"The Doubles Marine has a modified item set. Misfires have been removed, incinerator has been added and hybrid USL-SL laws and grenades have been created."
+8,v25,64,"RedMessage",14448,2880,150,150,0,-3,    1,-1,"The Doubles Marine has a modified item set. Misfires have been removed, incinerator has been added and hybrid USL-SL laws and grenades have been created."
+8,v25,65,"RIP2",928,1776,40,40,0,-3,    0,-1,"Here lies Tippy. 1994-2009."
+8,v25,66,"RIP3",1072,1776,40,40,0,-3,    0,-1,"Here lies Overdose."
+8,v25,67,"RIP4",1072,1872,40,40,0,-3,    0,-1,"Here lies the rest of Overdose as the first grave was not large enough."
+8,v25,68,"RIP5",928,1680,40,40,0,-3,    0,-1,"This grave is dedicated to the squads Fetialis has started. Rare to be interred soon...."
+1,v25,35,"OrangeAA",16816,6864,0,0,0,-3,    -1,-1,2,2, 0,0,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,36,"OrangeAB",16816,6896,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,69,"OrangeAC",16816,6928,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,70,"OrangeAH",16816,7088,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,71,"OrangeAG",16816,7056,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,72,"OrangeAF",16816,7024,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,73,"OrangeAE",16816,6992,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,74,"OrangeAD",16816,6960,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,75,"OrangeAI",16816,7120,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,76,"OrangeAJ",16816,7152,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,77,"OrangeAK",16816,7184,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,78,"GreenAA",14608,7712,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,79,"GreenAB",14608,7744,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,80,"GreenAD",14608,7808,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,81,"GreenAC",14608,7776,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,82,"GreenAF",14608,7872,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,83,"GreenAG",14608,7904,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,84,"GreenAH",14608,7936,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,85,"GreenAI",14608,7968,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,86,"GreenAE",14608,7840,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,87,"GreenAJ",14608,8000,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+1,v25,88,"GreenAK",14608,8032,0,0,0,-3,    -1,-1,2,2, 0,35,1,0, doors,Metala,0,0,0,0,0,0,sounds,Magicbow,0,0,None,None,0,0
+2,v25,89,"Umpire Switch South",15764,7476,0,0,0,0,    0, 35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 100,0,0,0,0, "",-1,  0,0,0,0,0,0, lock,DoorLckA,0,0,0,-100,0,0,uiwav,pickmenu,0,0
+5,v25,90,"Goggles South",15760,7520,0,0,0,-3,     1,0,0,0, 0,300,0,99999, -1,-1,7, 2,0,,0,0, 0,0,0,0, 0
+4,v25,91,"Team40WarpGS",15760,7504,25,25,0,-4,  0,999,0,300,1, 2,40,""
+4,v25,92,"Team40WarpDS",15760,7504,25,25,0,-4,  0,999,0,300,10, 2,40,""
+4,v25,93,"Team37WarpGS",14480,7856,50,100,0,-4,  0,999,0,300,1, 2,37,""
+4,v25,94,"Team37WarpDS",14480,7856,50,100,0,-4,  0,999,0,300,10, 2,37,""
+4,v25,95,"Team39WarpDS",16944,6992,50,100,0,-4,  0,999,0,300,10, 2,39,""
+4,v25,96,"Team39WarpGS",16944,6992,50,100,0,-4,  0,999,0,300,1, 2,39,""
+8,v25,97,"RIP6",1072,1680,40,40,0,-3,    4,-1,"RIP Skirmish League"
+8,v25,615,"Lethal",352,1840,40,20,0,-3,    1,-1,"Lethal (1983-2010) You will be missed."

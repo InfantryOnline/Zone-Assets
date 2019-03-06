@@ -1,0 +1,45 @@
+You should read the zone-news for zone specific information. Zone news is found by pressing F1 and clicking ZONE NEWS.
+You control your man/vehicle by using the arrow keys.
+You can reconfigure your controls in-game by pressing ESC / OPTIONS / KEY CONFIGURATIONS
+Names in yellow are on your team and cannot be hurt by you. You must cooperate with your team to take the ball to your enemy's goal.
+To find the ball follow the small arrow on your radar, eventually you will come to a flashing white dot which is the ball.
+When you have the ball, pressing your bomb key (TAB) will do a short pass along the ground, pressing your gun key (CTRL) will lob the ball ahead through the air.
+When you have a ball you must take it to the goal that isn't the same color as your bike, you defend the goal with the same color as your bike.
+On the radar you appear as a green dot, enemies appear as red dots, team mates appear yellow.
+To jump over walls use your hopper (HOME), if you jump twice in a row and time it properly you can jump over the medium sized walls.
+If you can't make a 2 point shot then don't try, either walk it in for a 1 point shot or pass it on to a team mate if you can.
+Don't waste your repels (SHIFT-CTRL) and panic-disruptors (F5) until you really need them.
+Bombs are sensitive to height and can be jumped over.  Bombs can also be shot while up in the air to hit enemies who are also up in the air.
+Never take the ball through a large group of enemies, instead backtrack and find an alternate route, hopefully regrouping with team mates at the same time.
+F3 key toggles full map screen.
+F4 toggles full screen chat.
+Placing your mouse over your inventory indicates which key each of your weapons and items are assigned to.
+Right clicking on the radar or the map changes its range.
+F12 toggles spectator mode.
+When in spectator mode (F12) you can right click on a players name to watch them.
+Pressing TAB while in spectator mode will spectate a ball. If there are multiple balls in the game, pressing TAB again will switch between the different balls.
+Pressing F2 will toggle the Playerlist/Inventory giving you a greater area of view.
+Right clicking on an inventory item allows you to assign it a key, drop it or view item information.
+To send a public message simply type your message then hit ENTER
+To send a message to your team either type // or ' first then your message. EG: 'hello team.
+To send a private message to a person right click on his name and select "message" or type :Player's name:Message
+To make a macro, type a message and press shift+F1-F12 instead of pressing enter to store it. Press shift+F1-F12 again to recall the message.
+You can define which key fires an item by right clicking on that item.
+You can change the font sizes in the game via the ESC / OPTIONS / FONT-OPTIONS
+A lot of the menu commands have typed in shortcuts. These are quicker and are more useful for the experienced player. For a full list press F1 and view Gambit's Command Listing.
+Communication with your team is key to winning. Tell your team where you intend to take the ball with macros so there is little confusion. You can use voice commands in your macros by typing %1-%6.
+If someone is annoying you, simply type ?ignore player's name or send ?ignore to the player in a private message.
+You can type ?mark player's name or send ?mark to the player by a private message to make them appear larger than others on the radar. This is useful for marking squad mates or enemies that are causing you trouble.
+Jammers stop enemies from shooting any weapons and hopping, while Stunners keep them from picking up the ball or make them drop it if they have it.
+If you time a third jump correctly, you can go even higher than a double-jump, but it is impossible to clear the highest walls, they are infinitely high.
+Don't be greedy with the ball, pass early and always when it's safe. Remember you only have 12 seconds to pass the ball.
+You can drag your radar screen by clicking on the edge effectively making it bigger without adjusting it's range.
+Ball trails can help out tremendously, type ?showballtrail length (i.e. ?showballtrail 400) to turn them on.
+Warping (F7) is useful for getting back on defense.  If you are far behind a ball being moved by the enemy, it is generally wise to warp back to defense.
+Type ?arena to get a list of arena's to go to, you might even want to use the "Beginner Only" arena if you are new.
+Don't be afraid to ask questions, most of the Gravball community would be more than willing to help as long as you're mature and polite when you ask questions.
+If you notice someone doing something they shouldn't be, such as taking the ball the wrong way on purpose, stealing peoples goals, or in anyway hurting their team on purpose, you can type ?help to get a moderator.
+If you need to practice taking some shots, you can make a private arena by typing ?go name. Once you enter the arena you will have ownership powers, these allow you to use moderator commands. To start, join the game, type *addball then type *setscore -1000,0 , then whenever you want the ball just type *getball. Practicing in a private arena is a great way to improve your skills. For more moderator command press F1 and view Gambit's command listing. 
+Always pass to your team mates while it is safe, if you see an enemy approaching on the radar pass before he has a chance to disrupt the play.
+Try not to expend energy when you don't need too. Jumping over walls when you don't need to and firing bombs that will never hit can waste valuable energy that might have got you a goal.
+When you have confidence in you skills, try to join a squad. Squads can compete in the Gravball League which is a squad vs squad competition that runs over a few months. For more information on the Gravball League go to gravball.nmebase.com/igbl.

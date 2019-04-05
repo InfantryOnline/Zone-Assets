@@ -5,7 +5,7 @@
 
 > This repository will be used to keep active assets that may be rotated into active play, or to be used by developers in new projects. All new zone assets added by pull request should contain all files needed to simply dump into the server as-is and run without error.
 
-**Need Help? Join our discord chat or review our open-source [game server repository](InfantryOnline/Infantry-Online-Server) for more information.**
+**Need Help? Join our discord chat or review our open-source [game server repository](https://github.com/InfantryOnline/Infantry-Online-Server) for more information.**
 
 
 ![Discord](https://img.shields.io/discord/286700121217957888.svg?label=Discord&logo=Free%20Infantry&style=for-the-badge)
@@ -132,7 +132,7 @@ map_image=![map](./map.png)
 
 The incompatible zones were provided from old backups of previously downloaded game assets. Unfortunately due to game client and server changes over the years, as well as poor naming schemes and game storage choices, things don't seem to work. The named folders for all zones in this category describe the various errors that may happen upon attempting to run the zone on the server. Fixing the particular error described may very well cause a different error that the server just couldn't reach previously. The goal here is to get all zones working (and if duplications were missed, to remove duplicate zones, taking care to note differences in vehicles, configurations, items, etc.).
 
-There isn't much to say in tracking down errors here other than [running the game server yourself](InfantryOnline/Infantry-Online-Server), attempting to load the zone, and doing whatever you can with the CFG file, [the editors](https://freeinfantry.com/Editors.zip), and maybe even the server code (last resort) to allow a player to download, enter, and unspectate within a zone and not have it crash or throw errors.
+There isn't much to say in tracking down errors here other than [running the game server yourself](https://github.com/InfantryOnline/Infantry-Online-Server), attempting to load the zone, and doing whatever you can with the CFG file, [the editors](https://freeinfantry.com/Editors.zip), and maybe even the server code (last resort) to allow a player to download, enter, and unspectate within a zone and not have it crash or throw errors.
 
 Some zones may require their own custom GameType Script to function properly. If that is the case, please note it in the comments section of the `README.md`.
 
@@ -160,8 +160,8 @@ For a zone to be accepted into the archive, it must:
 
 > *It is highly recommended to name your own zone files' filenames uniquely so that there is no chance of your files being overwritten on users' computers by the game client.*  
 >  
-> __Example__ *(developer\_gametype\_name.ext)*:  
-> `Kaze_TDM_StarCraft.cfg`
+> __Example__ *(gametype\_primary-developer\_zone-name.ext)*:  
+> `TDM_Kaze_StarCraft.cfg`
 
 ---
 

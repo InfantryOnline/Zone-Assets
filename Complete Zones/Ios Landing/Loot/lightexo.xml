@@ -1,0 +1,44 @@
+<lootTable botID="149" name="Light Exo">
+	<normal>
+		<loot name="LAW" itemID="1004" chance="100" quantity="3"></loot>
+		<loot name="Scrap Metal" itemID="2026" chance="100" quantity="4"></loot>
+		<loot name="Hand Grenade" itemID="1007" chance="100" quantity="9"></loot>
+	</normal>
+	<common chance="1" count="1">
+		<loot name="Weapon Powerup" itemID="128" chance="34" quantity="1"></loot>
+		<loot name="Protection Powerup" itemID="138" chance="33" quantity="1"></loot>
+		<loot name="Speed Powerup" itemID="137" chance="33" quantity="1"></loot>
+	</common>
+	<uncommon chance="44" count="1">
+		<loot name="Weapon Powerup" itemID="128" chance="34" quantity="1"></loot>
+		<loot name="Protection Powerup" itemID="138" chance="33" quantity="1"></loot>
+		<loot name="Speed Powerup" itemID="137" chance="33" quantity="1"></loot>
+	</uncommon>
+	<set chance="35" count="1">
+		<loot name="Abbaths Amethyst" itemID="111" chance="8" quantity="1"></loot>
+		<loot name="Abbaths Emerald" itemID="108" chance="8" quantity="1"></loot>
+		<loot name="Abbaths Ruby" itemID="109" chance="8" quantity="1"></loot>
+		<loot name="Abbaths Sapphire" itemID="113" chance="8" quantity="1"></loot>
+		<loot name="Abbaths Silver Wire" itemID="112" chance="8" quantity="1"></loot>
+		<loot name="Abbaths Topaz" itemID="110" chance="8" quantity="1"></loot>
+		<loot name="Weapon Powerup" itemID="128" chance="18" quantity="1"></loot>
+		<loot name="Protection Powerup" itemID="138" chance="17" quantity="1"></loot>
+		<loot name="Speed Powerup" itemID="137" chance="17" quantity="1"></loot>
+
+	</set>
+	<rare chance="20" count="1">
+		<loot name="Lucky Dice" itemID="114" chance="1900" quantity="1"></loot>
+		<loot name="Battle Boots" itemID="146" chance="15" quantity="1"></loot>
+		<loot name="Battle Gloves" itemID="147" chance="20" quantity="1"></loot>
+		<loot name="Battle Gauntlets" itemID="151" chance="15" quantity="1"></loot>
+		<loot name="Battle Greaves" itemID="150" chance="10" quantity="1"></loot>
+		<loot name="War Boots" itemID="148" chance="5" quantity="1"></loot>
+		<loot name="War Gloves" itemID="149" chance="10" quantity="1"></loot>
+		<loot name="War Gauntlets" itemID="152" chance="7" quantity="1"></loot>
+		<loot name="War Greaves" itemID="153" chance="2" quantity="1"></loot>
+		<loot name="Basic Actuators" itemID="139" chance="10" quantity="1"></loot>
+		<loot name="Advanced Actuators" itemID="140" chance="5" quantity="1"></loot>
+		<loot name="Superior Actuators" itemID="141" chance="1" quantity="1"></loot>
+		
+	</rare>
+</lootTable>

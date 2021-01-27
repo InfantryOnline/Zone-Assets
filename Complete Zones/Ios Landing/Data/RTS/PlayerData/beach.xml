@@ -1,0 +1,19 @@
+<playerTable name="beach" owner="beach" squad="" allowSquad="0">
+  <structures lastID="5">
+  </structures>
+  <items lastID="9">
+    <item id="1" itemID="147" positionX="8557" positionY="4208" quantity="5" />
+    <item id="2" itemID="151" positionX="8649" positionY="4216" quantity="3" />
+    <item id="3" itemID="139" positionX="8644" positionY="4216" quantity="1" />
+    <item id="4" itemID="2024" positionX="8668" positionY="4286" quantity="15" />
+    <item id="5" itemID="2020" positionX="8565" positionY="4277" quantity="10" />
+    <item id="6" itemID="2021" positionX="8564" positionY="4277" quantity="15" />
+    <item id="7" itemID="2022" positionX="8564" positionY="4277" quantity="16" />
+    <item id="8" itemID="2025" positionX="8564" positionY="4277" quantity="16" />
+    <item id="9" itemID="2023" positionX="8563" positionY="4277" quantity="6" />
+  </items>
+  <bots lastID="0">
+  </bots>
+  <attackers lastID="0">
+  </attackers>
+</playerTable>

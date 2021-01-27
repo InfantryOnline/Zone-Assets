@@ -1,0 +1,19 @@
+<playerTable name="kek" owner="Hegemon" squad="" allowSquad="0">
+  <structures lastID="9">
+    <structure id="1" vehicleID="414" positionX="10099" positionY="5027" health="1000" productionID="0" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="500" />
+    <structure id="2" vehicleID="423" positionX="9712" positionY="5053" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="3" vehicleID="421" positionX="9713" positionY="4799" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="4" vehicleID="427" positionX="9431" positionY="5046" health="300" productionID="2027" productionAmount="10" productionTime="4/20/2019 3:30:25 AM" productionLevel="2" upgradeCost="78" />
+    <structure id="5" vehicleID="427" positionX="9345" positionY="4749" health="300" productionID="2027" productionAmount="5" productionTime="4/20/2019 5:13:48 AM" productionLevel="1" upgradeCost="50" />
+    <structure id="6" vehicleID="428" positionX="10001" positionY="5316" health="250" productionID="2026" productionAmount="24" productionTime="4/20/2019 5:14:06 AM" productionLevel="2" upgradeCost="39" />
+    <structure id="7" vehicleID="428" positionX="9690" positionY="5339" health="250" productionID="2026" productionAmount="12" productionTime="4/20/2019 6:20:19 AM" productionLevel="1" upgradeCost="25" />
+    <structure id="8" vehicleID="428" positionX="9420" positionY="5366" health="250" productionID="2026" productionAmount="12" productionTime="4/20/2019 6:20:22 AM" productionLevel="1" upgradeCost="25" />
+    <structure id="9" vehicleID="423" positionX="8536" positionY="5103" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+  </structures>
+  <items lastID="1">
+  </items>
+  <bots lastID="0">
+  </bots>
+  <attackers lastID="0">
+  </attackers>
+</playerTable>

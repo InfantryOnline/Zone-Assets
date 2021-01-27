@@ -1,0 +1,30 @@
+<playerTable name="whosville" owner="gamefreek321" squad="" allowSquad="0">
+  <structures lastID="44">
+    <structure id="2" vehicleID="414" positionX="8897" positionY="4053" health="1000" productionID="0" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="500" />
+    <structure id="3" vehicleID="423" positionX="9206" positionY="4446" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="4" vehicleID="421" positionX="9165" positionY="4081" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="5" vehicleID="427" positionX="9450" positionY="4151" health="294" productionID="2027" productionAmount="10" productionTime="2/9/2019 8:53:36 PM" productionLevel="2" upgradeCost="78" />
+    <structure id="6" vehicleID="428" positionX="9606" positionY="4395" health="177" productionID="2026" productionAmount="24" productionTime="2/9/2019 8:53:43 PM" productionLevel="2" upgradeCost="39" />
+    <structure id="7" vehicleID="426" positionX="8852" positionY="4317" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="8" vehicleID="416" positionX="8968" positionY="4546" health="210" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="10" vehicleID="423" positionX="9259" positionY="5021" health="10" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="11" vehicleID="419" positionX="9361" positionY="4725" health="73" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="21" vehicleID="423" positionX="10011" positionY="4099" health="130" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="35" vehicleID="425" positionX="9013" positionY="4793" health="153" productionID="0" productionAmount="16250" productionTime="2/9/2019 10:58:25 PM" productionLevel="5" upgradeCost="201" />
+  </structures>
+  <items lastID="0">
+  </items>
+  <bots lastID="28">
+    <bot id="1" vehicleID="148" positionX="10013" positionY="4545" />
+    <bot id="8" vehicleID="146" positionX="9195" positionY="4831" />
+    <bot id="10" vehicleID="146" positionX="9271" positionY="4592" />
+    <bot id="14" vehicleID="146" positionX="9363" positionY="4387" />
+    <bot id="15" vehicleID="146" positionX="9033" positionY="5032" />
+    <bot id="22" vehicleID="146" positionX="9197" positionY="4742" />
+    <bot id="25" vehicleID="146" positionX="9504" positionY="4662" />
+    <bot id="26" vehicleID="146" positionX="9516" positionY="5156" />
+    <bot id="28" vehicleID="146" positionX="9569" positionY="4701" />
+  </bots>
+  <attackers lastID="0">
+  </attackers>
+</playerTable>

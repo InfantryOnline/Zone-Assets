@@ -1,0 +1,10 @@
+<playerTable name="senatus" owner="Senatus" squad="Ad Infinitum" allowSquad="0">
+  <structures lastID="10">
+  </structures>
+  <items lastID="0">
+  </items>
+  <bots lastID="0">
+  </bots>
+  <attackers lastID="0">
+  </attackers>
+</playerTable>

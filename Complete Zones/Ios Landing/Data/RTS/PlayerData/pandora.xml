@@ -1,0 +1,28 @@
+<playerTable name="pandora" owner="tpblah" squad="1337" allowSquad="0">
+  <structures lastID="412">
+  </structures>
+  <items lastID="13">
+  </items>
+  <bots lastID="230">
+    <bot id="130" vehicleID="146" positionX="12439" positionY="7014" />
+    <bot id="177" vehicleID="146" positionX="11839" positionY="7103" />
+    <bot id="185" vehicleID="146" positionX="12107" positionY="6859" />
+    <bot id="200" vehicleID="146" positionX="12049" positionY="6793" />
+    <bot id="207" vehicleID="146" positionX="11866" positionY="7121" />
+    <bot id="211" vehicleID="146" positionX="11823" positionY="7058" />
+    <bot id="213" vehicleID="146" positionX="12106" positionY="6926" />
+    <bot id="215" vehicleID="148" positionX="12207" positionY="7059" />
+    <bot id="216" vehicleID="148" positionX="11814" positionY="7342" />
+    <bot id="217" vehicleID="148" positionX="11869" positionY="7119" />
+    <bot id="218" vehicleID="146" positionX="11804" positionY="7046" />
+    <bot id="222" vehicleID="148" positionX="12424" positionY="6994" />
+    <bot id="223" vehicleID="148" positionX="12081" positionY="7045" />
+    <bot id="224" vehicleID="148" positionX="12927" positionY="7179" />
+    <bot id="227" vehicleID="151" positionX="12149" positionY="6778" />
+    <bot id="228" vehicleID="146" positionX="11791" positionY="7719" />
+    <bot id="229" vehicleID="146" positionX="12200" positionY="6653" />
+    <bot id="230" vehicleID="151" positionX="11512" positionY="7217" />
+  </bots>
+  <attackers lastID="0">
+  </attackers>
+</playerTable>

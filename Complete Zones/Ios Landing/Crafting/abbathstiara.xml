@@ -1,0 +1,8 @@
+<craftItem itemID="148" name="Abbath's Tiara">
+	<requiredItem itemID="2020" count="5"/>
+	<requiredItem itemID="2021" count="5"/>
+	<requiredItem itemID="2022" count="5"/>
+	<requiredItem itemID="2023" count="5"/>
+	<requiredItem itemID="2024" count="5"/>
+	<requiredItem itemID="2025" count="5"/>
+</craftItem>

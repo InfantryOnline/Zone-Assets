@@ -1,0 +1,10 @@
+<playerTable name="emperor" owner="Emperor" squad="Baddies" allowSquad="0">
+  <structures lastID="13">
+  </structures>
+  <items lastID="0">
+  </items>
+  <bots lastID="20">
+  </bots>
+  <attackers lastID="0">
+  </attackers>
+</playerTable>

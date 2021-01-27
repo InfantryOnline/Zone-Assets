@@ -1,0 +1,11 @@
+<playerTable name="fhs" owner="metal" squad="Cazzo Kings" allowSquad="0">
+  <structures lastID="13">
+  </structures>
+  <items lastID="0">
+  </items>
+  <bots lastID="0">
+  </bots>
+  <attackers lastID="0">
+    <attacker alias="twatwaffle" date="2/12/2019 3:23:53 PM" />
+  </attackers>
+</playerTable>

@@ -1,0 +1,28 @@
+<playerTable name="sunnyvale" owner="HellSpawn" squad="" allowSquad="0">
+  <structures lastID="53">
+    <structure id="1" vehicleID="414" positionX="8933" positionY="4146" health="1000" productionID="0" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="2" upgradeCost="815" />
+    <structure id="2" vehicleID="423" positionX="9384" positionY="4393" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="3" vehicleID="423" positionX="10225" positionY="4377" health="233" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="5" vehicleID="422" positionX="9047" positionY="4370" health="100" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="16" vehicleID="428" positionX="10241" positionY="4099" health="250" productionID="2026" productionAmount="60" productionTime="9/17/2020 2:33:44 PM" productionLevel="5" upgradeCost="145" />
+    <structure id="21" vehicleID="419" positionX="10253" positionY="4776" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="38" vehicleID="428" positionX="10968" positionY="4694" health="250" productionID="2026" productionAmount="12" productionTime="9/17/2020 2:33:59 PM" productionLevel="1" upgradeCost="25" />
+    <structure id="39" vehicleID="428" positionX="9878" positionY="4553" health="250" productionID="2026" productionAmount="12" productionTime="9/17/2020 2:33:30 PM" productionLevel="1" upgradeCost="25" />
+  </structures>
+  <items lastID="38">
+  </items>
+  <bots lastID="22">
+    <bot id="1" vehicleID="151" positionX="9824" positionY="4659" />
+    <bot id="6" vehicleID="146" positionX="10088" positionY="5051" />
+    <bot id="7" vehicleID="146" positionX="10217" positionY="4594" />
+    <bot id="8" vehicleID="146" positionX="10042" positionY="4773" />
+    <bot id="10" vehicleID="151" positionX="10055" positionY="4316" />
+    <bot id="11" vehicleID="146" positionX="10677" positionY="4573" />
+    <bot id="17" vehicleID="148" positionX="11373" positionY="5358" />
+    <bot id="18" vehicleID="148" positionX="11383" positionY="5322" />
+    <bot id="22" vehicleID="152" positionX="11446" positionY="5831" />
+  </bots>
+  <attackers lastID="0">
+    <attacker alias="tpblah" date="10/2/2020 5:50:17 PM" />
+  </attackers>
+</playerTable>

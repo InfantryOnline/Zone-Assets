@@ -1,0 +1,17 @@
+<playerTable name="bos" owner="bos" squad="" allowSquad="0">
+  <structures lastID="10">
+    <structure id="1" vehicleID="414" positionX="9125" positionY="4246" health="1000" productionID="0" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="2" upgradeCost="815" />
+    <structure id="2" vehicleID="423" positionX="8969" positionY="4435" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="3" vehicleID="423" positionX="9526" positionY="4251" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="4" vehicleID="421" positionX="9787" positionY="4068" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="5" vehicleID="427" positionX="9313" positionY="4510" health="300" productionID="2027" productionAmount="20" productionTime="3/9/2019 3:32:35 AM" productionLevel="4" upgradeCost="188" />
+    <structure id="6" vehicleID="423" positionX="12559" positionY="6695" health="230" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="10" vehicleID="428" positionX="9877" positionY="4507" health="250" productionID="2026" productionAmount="60" productionTime="3/9/2019 3:32:40 AM" productionLevel="5" upgradeCost="145" />
+  </structures>
+  <items lastID="0">
+  </items>
+  <bots lastID="20">
+  </bots>
+  <attackers lastID="0">
+  </attackers>
+</playerTable>

@@ -1,0 +1,28 @@
+<playerTable name="twenty-fo" owner="Twenty-Four" squad="Cazzo Kings" allowSquad="0">
+  <structures lastID="25">
+    <structure id="10" vehicleID="414" positionX="8917" positionY="4164" health="1000" productionID="0" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="500" />
+    <structure id="11" vehicleID="423" positionX="9215" positionY="4419" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="12" vehicleID="421" positionX="9435" positionY="4167" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="13" vehicleID="427" positionX="8941" positionY="4539" health="300" productionID="2027" productionAmount="25" productionTime="2/26/2019 5:47:25 PM" productionLevel="5" upgradeCost="293" />
+    <structure id="14" vehicleID="427" positionX="9285" positionY="4699" health="300" productionID="2027" productionAmount="20" productionTime="2/26/2019 5:47:22 PM" productionLevel="4" upgradeCost="188" />
+    <structure id="15" vehicleID="428" positionX="9477" positionY="4445" health="250" productionID="2026" productionAmount="36" productionTime="2/26/2019 5:47:19 PM" productionLevel="3" upgradeCost="60" />
+    <structure id="16" vehicleID="423" positionX="10064" positionY="4205" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="17" vehicleID="426" positionX="9771" positionY="4167" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="18" vehicleID="417" positionX="10248" positionY="4382" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="19" vehicleID="417" positionX="9984" positionY="4527" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="20" vehicleID="417" positionX="9637" positionY="4656" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="21" vehicleID="417" positionX="9223" positionY="4907" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="22" vehicleID="417" positionX="10038" positionY="4475" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="23" vehicleID="417" positionX="10144" positionY="4459" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="24" vehicleID="417" positionX="10220" positionY="4425" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="25" vehicleID="427" positionX="10351" positionY="4193" health="300" productionID="2027" productionAmount="5" productionTime="2/26/2019 5:47:35 PM" productionLevel="1" upgradeCost="50" />
+  </structures>
+  <items lastID="4">
+    <item id="3" itemID="205" positionX="8615" positionY="4327" quantity="1" />
+    <item id="4" itemID="149" positionX="8695" positionY="4329" quantity="4" />
+  </items>
+  <bots lastID="0">
+  </bots>
+  <attackers lastID="0">
+  </attackers>
+</playerTable>

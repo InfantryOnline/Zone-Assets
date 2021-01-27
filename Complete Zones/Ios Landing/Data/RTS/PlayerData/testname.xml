@@ -1,0 +1,60 @@
+<playerTable name="testname" owner="Enginuity" squad="" allowSquad="0">
+  <structures lastID="30">
+    <structure id="1" vehicleID="414" positionX="11922" positionY="6728" health="1000" productionID="0" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="2" upgradeCost="815" />
+    <structure id="2" vehicleID="423" positionX="12265" positionY="6191" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="3" vehicleID="421" positionX="12297" positionY="5827" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="4" vehicleID="427" positionX="12652" positionY="6006" health="300" productionID="2027" productionAmount="30" productionTime="1/26/2021 8:29:45 PM" productionLevel="6" upgradeCost="457" />
+    <structure id="5" vehicleID="426" positionX="12444" positionY="6448" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="6" vehicleID="416" positionX="11940" positionY="6224" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="7" vehicleID="415" positionX="12673" positionY="6292" health="150" productionID="0" productionAmount="12750" productionTime="1/26/2021 8:29:42 PM" productionLevel="15" upgradeCost="200" />
+    <structure id="8" vehicleID="423" positionX="12656" positionY="5424" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="9" vehicleID="415" positionX="12913" positionY="5451" health="150" productionID="0" productionAmount="12750" productionTime="1/26/2021 8:29:53 PM" productionLevel="15" upgradeCost="200" />
+    <structure id="10" vehicleID="417" positionX="12058" positionY="5787" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="11" vehicleID="417" positionX="12171" positionY="6399" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="12" vehicleID="423" positionX="11441" positionY="6801" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="13" vehicleID="418" positionX="11443" positionY="7035" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="14" vehicleID="418" positionX="11414" positionY="6538" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="15" vehicleID="419" positionX="11166" positionY="6758" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="16" vehicleID="425" positionX="12834" positionY="5697" health="250" productionID="0" productionAmount="19500" productionTime="1/27/2021 1:13:55 AM" productionLevel="6" upgradeCost="285" />
+    <structure id="17" vehicleID="428" positionX="12544" positionY="5676" health="250" productionID="2026" productionAmount="84" productionTime="1/26/2021 8:29:49 PM" productionLevel="7" upgradeCost="352" />
+    <structure id="18" vehicleID="422" positionX="12679" positionY="5175" health="100" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="19" vehicleID="423" positionX="11069" positionY="6245" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="20" vehicleID="423" positionX="11574" positionY="5861" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="21" vehicleID="418" positionX="11858" positionY="5967" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="22" vehicleID="418" positionX="11203" positionY="6426" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="23" vehicleID="420" positionX="11370" positionY="6246" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="24" vehicleID="417" positionX="11636" positionY="6142" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="25" vehicleID="417" positionX="11679" positionY="6374" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="26" vehicleID="428" positionX="11822" positionY="5759" health="250" productionID="2026" productionAmount="84" productionTime="1/26/2021 8:30:01 PM" productionLevel="7" upgradeCost="352" />
+    <structure id="27" vehicleID="428" positionX="11294" positionY="5933" health="250" productionID="2026" productionAmount="84" productionTime="1/26/2021 8:30:05 PM" productionLevel="7" upgradeCost="352" />
+    <structure id="28" vehicleID="417" positionX="11951" positionY="6470" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="29" vehicleID="428" positionX="11314" positionY="5656" health="250" productionID="2026" productionAmount="84" productionTime="1/26/2021 8:30:09 PM" productionLevel="7" upgradeCost="352" />
+    <structure id="30" vehicleID="417" positionX="11592" positionY="5608" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+  </structures>
+  <items lastID="1">
+  </items>
+  <bots lastID="20">
+    <bot id="1" vehicleID="131" positionX="11311" positionY="6450" />
+    <bot id="2" vehicleID="131" positionX="10987" positionY="6904" />
+    <bot id="3" vehicleID="146" positionX="10968" positionY="6714" />
+    <bot id="4" vehicleID="146" positionX="10808" positionY="6388" />
+    <bot id="5" vehicleID="131" positionX="11424" positionY="6878" />
+    <bot id="6" vehicleID="131" positionX="11224" positionY="6579" />
+    <bot id="7" vehicleID="151" positionX="11293" positionY="7092" />
+    <bot id="8" vehicleID="151" positionX="11638" positionY="6473" />
+    <bot id="9" vehicleID="131" positionX="11398" positionY="6632" />
+    <bot id="10" vehicleID="131" positionX="11157" positionY="6499" />
+    <bot id="11" vehicleID="131" positionX="10880" positionY="6474" />
+    <bot id="12" vehicleID="131" positionX="11042" positionY="6417" />
+    <bot id="13" vehicleID="145" positionX="11817" positionY="5880" />
+    <bot id="14" vehicleID="145" positionX="11783" positionY="5731" />
+    <bot id="15" vehicleID="145" positionX="11624" positionY="6288" />
+    <bot id="16" vehicleID="145" positionX="11570" positionY="6461" />
+    <bot id="17" vehicleID="145" positionX="11682" positionY="6312" />
+    <bot id="18" vehicleID="152" positionX="11125" positionY="6238" />
+    <bot id="19" vehicleID="152" positionX="11225" positionY="6205" />
+    <bot id="20" vehicleID="152" positionX="11387" positionY="6140" />
+  </bots>
+  <attackers lastID="0">
+  </attackers>
+</playerTable>

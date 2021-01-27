@@ -1,0 +1,16 @@
+<playerTable name="zyth" owner="zythax" squad="" allowSquad="0">
+  <structures lastID="6">
+    <structure id="1" vehicleID="414" positionX="11911" positionY="6843" health="1000" productionID="0" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="500" />
+    <structure id="2" vehicleID="423" positionX="12066" positionY="6650" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="3" vehicleID="426" positionX="12026" positionY="6387" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="4" vehicleID="415" positionX="11685" positionY="6547" health="150" productionID="0" productionAmount="1700" productionTime="2/23/2019 1:57:40 AM" productionLevel="2" upgradeCost="29" />
+    <structure id="5" vehicleID="421" positionX="12359" positionY="6782" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="6" vehicleID="427" positionX="12499" positionY="6454" health="300" productionID="2027" productionAmount="5" productionTime="2/23/2019 3:27:18 AM" productionLevel="1" upgradeCost="50" />
+  </structures>
+  <items lastID="0">
+  </items>
+  <bots lastID="0">
+  </bots>
+  <attackers lastID="0">
+  </attackers>
+</playerTable>

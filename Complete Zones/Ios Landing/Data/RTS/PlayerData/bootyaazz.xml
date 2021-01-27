@@ -1,0 +1,11 @@
+<playerTable name="bootyaazz" owner="NY-mikejones" squad="Cazzo Kings" allowSquad="0">
+  <structures lastID="19">
+    <structure id="2" vehicleID="423" positionX="8842" positionY="4912" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+  </structures>
+  <items lastID="33">
+  </items>
+  <bots lastID="20">
+  </bots>
+  <attackers lastID="0">
+  </attackers>
+</playerTable>

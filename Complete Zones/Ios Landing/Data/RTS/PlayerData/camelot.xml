@@ -1,0 +1,12 @@
+<playerTable name="camelot" owner="KingArthur129" squad="" allowSquad="0">
+  <structures lastID="2">
+    <structure id="1" vehicleID="414" positionX="8766" positionY="4520" health="1000" productionID="0" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="500" />
+    <structure id="2" vehicleID="423" positionX="8613" positionY="4727" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+  </structures>
+  <items lastID="0">
+  </items>
+  <bots lastID="0">
+  </bots>
+  <attackers lastID="0">
+  </attackers>
+</playerTable>

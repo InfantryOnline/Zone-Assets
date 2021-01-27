@@ -1,0 +1,45 @@
+<playerTable name="belaze" owner="Belaze" squad="" allowSquad="0">
+  <structures lastID="33">
+    <structure id="1" vehicleID="414" positionX="11068" positionY="5721" health="967" productionID="0" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="500" />
+    <structure id="2" vehicleID="423" positionX="11035" positionY="6010" health="233" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="3" vehicleID="421" positionX="11408" positionY="5953" health="205" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="4" vehicleID="416" positionX="10767" positionY="5646" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="5" vehicleID="419" positionX="11340" positionY="5691" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="6" vehicleID="420" positionX="10770" positionY="5952" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="7" vehicleID="423" positionX="10493" positionY="5759" health="250" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="8" vehicleID="417" positionX="10246" positionY="5639" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="9" vehicleID="417" positionX="10478" positionY="5481" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="10" vehicleID="417" positionX="10838" positionY="5398" health="189" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="11" vehicleID="418" positionX="10651" positionY="5426" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="12" vehicleID="418" positionX="10341" positionY="5582" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="14" vehicleID="418" positionX="10583" positionY="6094" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="15" vehicleID="418" positionX="10719" positionY="6396" health="181" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="16" vehicleID="417" positionX="10692" positionY="6237" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="17" vehicleID="417" positionX="10459" positionY="5993" health="200" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="19" vehicleID="423" positionX="11510" positionY="5534" health="174" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+    <structure id="25" vehicleID="422" positionX="11120" positionY="5474" health="100" productionID="323" productionAmount="0" productionTime="1/1/0001 12:00:00 AM" productionLevel="1" upgradeCost="0" />
+  </structures>
+  <items lastID="1">
+    <item id="1" itemID="147" positionX="8606" positionY="4274" quantity="1" />
+  </items>
+  <bots lastID="25">
+    <bot id="3" vehicleID="148" positionX="10554" positionY="5910" />
+    <bot id="4" vehicleID="146" positionX="11159" positionY="5384" />
+    <bot id="5" vehicleID="146" positionX="11376" positionY="5765" />
+    <bot id="8" vehicleID="148" positionX="10245" positionY="5792" />
+    <bot id="12" vehicleID="152" positionX="10348" positionY="5835" />
+    <bot id="14" vehicleID="146" positionX="11281" positionY="5553" />
+    <bot id="15" vehicleID="146" positionX="11506" positionY="5748" />
+    <bot id="16" vehicleID="146" positionX="11414" positionY="5676" />
+    <bot id="17" vehicleID="146" positionX="11453" positionY="5619" />
+    <bot id="18" vehicleID="151" positionX="11109" positionY="5307" />
+    <bot id="19" vehicleID="148" positionX="10824" positionY="6090" />
+    <bot id="21" vehicleID="148" positionX="10517" positionY="5933" />
+    <bot id="22" vehicleID="148" positionX="10779" positionY="5883" />
+    <bot id="23" vehicleID="148" positionX="10641" positionY="5780" />
+    <bot id="24" vehicleID="148" positionX="10884" positionY="6030" />
+    <bot id="25" vehicleID="148" positionX="10732" positionY="5856" />
+  </bots>
+  <attackers lastID="0">
+  </attackers>
+</playerTable>

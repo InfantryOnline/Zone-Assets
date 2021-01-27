@@ -1,0 +1,13 @@
+~4 ~B Classic Classes 
+
+~B
+~2 Although most the upgrades in Cazzo Forge are small enough to not make a big difference in battle outcomes, we feel that a player should have option to be on a completely level playing field if they choose to.
+~B
+This where Classic Classes come into play.  
+~B
+Classic Classes are the same as regular classes except that they will take no additional damage from upgraded weapons and they can also not use upgraded weapons themselves.
+
+Essentially every Assault Rifle shot from them will do 14 damage and they will also take 14 damage from any Assault Rifle that hits them. It does not matter if they are shot with an Assault Rifle +20.
+
+Right now there are currently no disadvantages for playing Classic Classes and the only possible future diadvantage is that they may not be allowed in a future tournament mode. 
+This tournament mode will only be an event and not the normal game mode, however.

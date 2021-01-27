@@ -1,0 +1,139 @@
+~6 ~0
+~4~B  ~0~B
+~B~1USL Bulletin ~B~2
+
+~6Welcome to Unified Skirmish League (USL).
+
+To those looking to join in on the fast-paced action of USL, head on over to our website (http://www.uslzone.com). Sign-up and find a squad.
+
+~BPlease read the zone rules in esc->help.~B
+
+
+~B~2Zone Updates~B
+
+~510/31/2018
+
+~4Here are the changes for the upcoming season of USL:
+
+Format
+
+- Rotation: Apollo, EC, KR
+- Single round season
+- Home will choose side
+
+We combined the votes of Double season - home chooses side with Single season - home choose side for choosing side.
+
+Class Changes
+
+Assault Trooper:
+- Increased range on dual Auto Pistol.
+
+LMG:
+- Replaced LMG with "Machinegun" from CC.
+- Changes to "Machinegun":
+- Decreased damage significantly. (17 inner, 10 outer now)
+- Reduced Reload by 25 ticks
+- Reduced bullet spread by 1 degree.
+- Added Incendiary Grenades
+- Reverted back to Incinerator instead of Inferno Projector
+
+Ripper:
+- Removed "Runner" Gun
+- Increased firerate on Ripper Gun.
+- Reduced bullet spread by 1 degree.
+- Increased damage by 0.5dmg
+
+Grenadier:
+- Added Bouncy GL
+- Reduced bounces to 3 max
+- Damage 40 inner, 20 outer
+- Removed Explosive Shotgun.
+
+Sniper:
+- Increase base health to 80hp.
+- Added Throwing Knife
+- Reduced Throwing Knife damage. (35 inner, 25 outer now)
+
+If you have any questions or concerns please address them here.
+
+The season is set to begin on Sunday, November 11th.
+
+
+~58/31/2018
+~4Engineer class added. Equipped with a revised 3 round burst Battle Rifle, a repair torch, and a shotgun.
+
+~58/17/2018
+~4Completed a new mini-map. (RebelsTDM). At 12 & 16 active players surprises spawn in each spawn area!
+Brought back Rocketeer specifically for this minimap!
+
+~58/11/2018
+~4Added a snipers only gametype to the pool. This is essentially 15 minute TDM games that only allow the Sniper class to be played.
+Added a traditional koth style gametype.
+The way this works... There are 3 hill zones on the map, To control the hill you must have more players within it than the enemy team. 10 points are awarded to the team that has ownership of the hill every 5 seconds. Kills that take place within the hill while the killer's team owns the hill also results in +5 points.
+The hill randomly rotates to a different one on the map every 2 and a half minutes. The first team to reach 1000 points before the 30 minute timer up wins. (Or the team with the most points at the end of the timer.)
+
+~58/7/2018
+~4Green/Yellow trench physics changed to yellow.
+Fixed the last few bugs relating to Search and Destroy. Gametype should NOT break anymore.
+AT Dual AP range reduced & given SLIGHT bullet stray.
+
+~58/7/2018
+~4Search and Destroy is now two death elimination. This should potentially get a few more people interested in it!
+
+~57/27/2018
+~4Reverted ripper buff
+Instead made it slightly more accurate (less bullet stray)
+
+*Kaiser Pass Updates*
+Added a new gametype (Search and Destroy) Plant the bomb, defend the bomb, or eliminate the enemy team to win!
+Some of the mini-maps are not currently setup to run this new gametype so they are excluded from the map voting until further notice.
+You can still play TDM by voting for it. The command now is ?map KaiserPassTDM (KaiserPassSnD would get you search and destroy.
+Enjoy!
+
+~57/25/2018
+~4Ripper damage increased by 2 points
+Ripper magazine increased by 5 rounds
+Sniper aiming tick distance increased significantly
+
+*Kaiser Pass Updates*
+Few map physic/vision fixes.
+
+~57/22/2018
+*Kaiser Pass Updates*
+~4Added a slightly different variant of the g/y minimap from the other zones. (PinkPurple)
+Gave minilaw a slight velocity & damage buff. Changed icon graphics on the RPG & minilaw. Also removed the key preference from mini law as to not override law preferences.
+Enjoy!
+
+~57/21/2018
+*Kaiser Pass Updates*
+~4Few main map layout changes. Added GoldSilver to the list of minimaps. It's a slightly smaller and slightly different variant of the redblue found on the other USL maps.
+Enjoy..
+
+~57/19/2018
+*Kaiser Pass Updates*
+~4Plethora of map updates! Too many to list. Most obvious would be center.
+Also made green/yellow trenches orange physics. (can be grenaded over by not fired over with normal weapons)
+
+~57/17/2018
+~4Grenadier updates:
+Replaced deagle with a new item. Explosive shotgun shells. These have slightly more velocity & range than the normal shotgun. pellets are tighter packed.
+GL damage increased by roughly 15 percent.
+GL range slight increase.
+
+Added a new class "Rocketeer". Comes equipped with a LAW, 2 minilaws, 20 rpgs, and a shotgun.
+MiniLAWs do less damage but have a higher velocity and range.
+
+Green/Yellow now operational. Have fun!
+
+
+
+~57/14/2018
+~4Bunch of map physics/vision fixes. Added corridor through big rock (north central area).
+Sniper's auto pistol replaced with PDW (Color changed to blue)
+Imported Grenade Launcher from SL
+Sniper Hand grenades no longer are an innate item. (This is to fix the infinite grenade bug)
+
+~57/11/2018
+~4AT clip increased by 2. 9 shots now instead of 7
+Increased AT backpedal thrust by 10. Now same as marine.
+Imported some UAV items for testing with league stuff.

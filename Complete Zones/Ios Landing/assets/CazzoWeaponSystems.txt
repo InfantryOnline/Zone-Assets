@@ -1,0 +1,17 @@
+Weapon / Armor Upgrades
+
+Progression System - Part 1 - Weapon Upgrades 
+
+I'd like to preface this with that weapon / armor upgrade system is an optional feature for main public play - you have the ability to opt out and have no upgraded damage done to you so casual players are never at a large disadvantage because of not being able to commit much play time. To do this you may play Classic Classes.
+
+All classes main and secondary weapons have the ability to be upgraded. These upgrades will be solely damage upgrades and will not affect any other aspect of the weapon's behavior. Upgrades affect the amount of damage you do vs other players much less than vs bots. For example, each upgrade an assault rifle gets +0.5 damage vs players but +1.5 damage vs bots. Damage upgrades for PvP combat are very minor to try to keep a fairly level playing field while the damage upgrades affect Anti-Bot damage much larger and make a huge difference in Co-Op mode.
+
+
+To purchase an upgrade, simply press F10 to go to the shop and purchase "Upgrade: [Gear Name]." This is used for every level of upgrade. There are currently 20 levels of upgrades - with the first levels being very easy to obtain and getting harder and harder as you go up.
+
+________________________________________
+|     Current Level     |       Next Level      |   PvP Bonus |  Anti-Bot Bonus |  Success Rate |
+|                       |                       |             |                 |               |
+|    Assault Rifle      |    Assault Rifle +1   | +0.00 Damage |  +0.00 Damage  |       90%     |
+|    Assault Rifle +1   |    Assault Rifle +2   | +0.25 Damage |  +0.75 Damage  |       80%     |
+|    Assault Rifle +2   |    Assault Rifle +3   | +0.50 Damage |  +1.50 Damage  |       70%     |

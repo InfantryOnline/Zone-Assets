@@ -1,0 +1,23 @@
+<lootTable botID="131" name="Marine">
+	<common chance="100" count="3">
+		<loot name="Marine Helmet" itemID="103" chance="100" quantity="1"></loot>
+		<loot name="Rifle Ammo" itemID="2000" chance="15" quantity="25"></loot>
+		<loot name="Shotgun Ammo" itemID="2003" chance="15" quantity="15"></loot>
+	</common>
+	<uncommon chance="96" count="1">
+		<loot name="None" itemID="0" chance="100" quantity="1"></loot>
+	</uncommon>
+	<set chance="2" count="1">
+		<loot name="Abbaths Amethyst" itemID="111" chance="4" quantity="1"></loot>
+		<loot name="Abbaths Emerald" itemID="108" chance="4" quantity="1"></loot>
+		<loot name="Abbaths Ruby" itemID="109" chance="4" quantity="1"></loot>
+		<loot name="Abbaths Sapphire" itemID="113" chance="4" quantity="1"></loot>
+		<loot name="Abbaths Silver Wire" itemID="112" chance="4" quantity="1"></loot>
+		<loot name="Abbaths Topaz" itemID="110" chance="4" quantity="1"></loot>
+		<loot name="None" itemID="0" chance="76" quantity="1"></loot>
+	</set>
+	<rare chance="2" count="1">
+		<loot name="Lucky Dice" itemID="114" chance="99" quantity="1"></loot>
+		<loot name="None" itemID="0" chance="1" quantity="1"></loot>
+	</rare>
+</lootTable>

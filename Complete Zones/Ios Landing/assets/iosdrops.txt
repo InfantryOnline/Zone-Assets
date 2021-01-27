@@ -1,0 +1,37 @@
+
+~4~B Item Drops & Rare Items ~B
+
+Co-Op Mode will feature item drops from bots. These drops range from very common to extremely rare and will contain all sorts of items - everything from tempory experience boosts, to rare armor, to items that permanently help you.
+
+
+
+Currently we are testing 3 drop types:
+~2 ~B
+
+1) Helmets - These have 100% drop rates from common bots unless a more rare drop is chosen. When you pick them up, they give you 20 cash and 10 experience. As you collect these, they will be able to be traded in for better items.
+~4
+
+2) Lucky Dice - These have a 1% drop rate from common bots and 10% drop rate from enhanced bots. Lucky Dice increase your chance of upgrading weapons/armors. These can also be dropped or traded to other players.
+~6
+
+3) Event Build-A-Rares - These drops will only be featured for a certain amount of time. These drops typically only drop from Enhanced Soldiers with around a 20% chance.  Each Build-A-Rare has a certain # of seperate items that must be collected and put together to build a rare item. It is very possible to get multiple of each individual item of the set so trading and selling is almost neccesary to complete the event. These rare items will have great benefits. 
+~2 ~B
+
+
+
+
+Current Featured Build-A-Rare for Month of December:
+
+~B ~4 Abbath's Tiara ~B
+
+Requires 6 items to make Abbath's Tiara:
+~2 ~B
+Abbath's Silver Wire
+Abbath's Emerald
+Abbath's Ruby
+Abbath's Topaz
+Abbath's Sapphire
+Abbath's Amethyst
+~B ~4
+
+Abbath's Tiara grants the user a permanent 10% cash boost on all kill rewards and jackpot rewards. The pieces for Abbath's Tiara can be found by killing Enhanced Soldiers.

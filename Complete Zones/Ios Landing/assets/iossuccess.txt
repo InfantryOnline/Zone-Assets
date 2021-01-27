@@ -1,0 +1,52 @@
+~4~B Upgrade Success Rates ~B
+
+Each weapon and armor upgrade in Cazzo Forge has a chance succeeding as well as a chance of failing. All upgrade attempts cost the same amount, $10k. Everytime you spend $10k you are essentially rolling the dice to try to get your upgrade.
+
+If you are not a gambling man, there are ways to get a higher % chance of your upgrade succeeding. You may buy "Lucky Dice" off other players or find them while playing Co-Op. Each Lucky Dice you have in your inventory raises your % chance of succeeding by +1. So if you have 10 lucky dice in your inventory, all 10 will be used on your next upgrade and you will have a 10% higher chance of succeeding. If you do not wish to use the Dice, simply drop them before you upgrade.
+
+There also plans for future rare items will permanently help increase success rates.
+
+Here is the current success rate chart.
+
+~B
+From Level            To Level           Success Rate
+---------------------------------------------------------------
+     +0                      +1                    90% 
+---------------------------------------------------------------
+     +1                      +2                    80% 
+---------------------------------------------------------------	 
+     +2                      +3                    70% 
+---------------------------------------------------------------	 
+     +3                      +4                    60% 
+---------------------------------------------------------------	 
+     +4                      +5                    50% 
+---------------------------------------------------------------	 
+     +5                      +6                    40% 
+---------------------------------------------------------------
+     +6                      +7                    30% 
+---------------------------------------------------------------
+     +7                      +8                    20% 
+---------------------------------------------------------------
+     +8                      +9                    20% 	 
+---------------------------------------------------------------
+     +9                      +10                   20% 
+---------------------------------------------------------------
+     +10                     +11                   19% 
+---------------------------------------------------------------
+     +11                     +12                   18% 
+---------------------------------------------------------------
+     +12                     +13                   17% 
+---------------------------------------------------------------
+     +13                     +14                   16% 
+---------------------------------------------------------------
+     +14                     +15                   15% 
+---------------------------------------------------------------
+     +15                     +16                   14% 	 
+---------------------------------------------------------------
+     +16                     +17                   13% 	
+---------------------------------------------------------------
+     +17                     +18                   12% 	
+---------------------------------------------------------------
+     +18                     +19                   11% 	
+---------------------------------------------------------------
+     +19                     +20                   10% ~B 	

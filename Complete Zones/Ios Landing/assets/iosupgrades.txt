@@ -1,0 +1,81 @@
+~4~BWeapon / Armor Upgrades
+
+Progression System - Part 1 - Weapon Upgrades 
+
+~2I'd like to preface this with that weapon / armor upgrade system is an optional feature for main public play - you have the ability to opt out and have no upgraded damage done to you so casual players are never at a large disadvantage because of not being able to commit much play time. To do this you may play Classic Classes.
+
+All classes main and secondary weapons have the ability to be upgraded. These upgrades will be solely damage upgrades and will not affect any other aspect of the weapon's behavior. Upgrades affect the amount of damage you do vs other players much less than vs bots. For example, each upgrade an assault rifle gets +0.5 damage vs players but +1.5 damage vs bots. Damage upgrades for PvP combat are very minor to try to keep a fairly level playing field while the damage upgrades affect Anti-Bot damage much larger and make a huge difference in Co-Op mode.
+
+
+To purchase an upgrade, simply press F10 to go to the shop and purchase "Upgrade: [Gear Name]." This is used for every level of upgrade. There are currently 20 levels of upgrades - with the first levels being very easy to obtain and getting harder and harder as you go up.
+
+To better explain the system, here is the full chart of an assault rifle. 
+~B
+_~4___________________________________________________________________________
+|     Current Level     |       Next Level      |   PvP Bonus  |  Anti-Bot Bonus |  Success Rate |
+|                           |                          |                  |                     |                   |
+|    Assault Rifle        |    Assault Rifle +1    | +0.00 Damage |  +0.00 Damage  |       90%       |
+|    Assault Rifle +1     |    Assault Rifle +2    | +0.25 Damage |  +0.75 Damage  |       80%       |
+|    Assault Rifle +2     |    Assault Rifle +3    | +0.50 Damage |  +1.50 Damage  |       70%       |
+|    Assault Rifle +3     |    Assault Rifle +4    | +0.75 Damage |  +2.25 Damage  |       60%       |
+|    Assault Rifle +4     |    Assault Rifle +5    | +1.00 Damage |  +3.00 Damage  |       50%       |
+|    Assault Rifle +5     |    Assault Rifle +6    | +1.25 Damage |  +3.75 Damage  |       40%       |
+|    Assault Rifle +6     |    Assault Rifle +7    | +1.50 Damage |  +4.50 Damage  |       30%       |
+|    Assault Rifle +7     |    Assault Rifle +8    | +1.75 Damage |  +5.25 Damage  |       20%       |
+|    Assault Rifle +8     |    Assault Rifle +9    | +2.00 Damage |  +6.00 Damage  |       20%       |
+|    Assault Rifle +9     |    Assault Rifle +10   | +2.25 Damage |  +6.75 Damage  |       20%       |
+|    Assault Rifle +10    |    Assault Rifle +11   | +2.50 Damage |  +7.50 Damage  |       19%       |
+|    Assault Rifle +11    |    Assault Rifle +12   | +2.75 Damage |  +8.25 Damage  |       18%       |
+|    Assault Rifle +12    |    Assault Rifle +13   | +3.00 Damage |  +9.00 Damage  |       17%       |
+|    Assault Rifle +13    |    Assault Rifle +14   | +3.25 Damage |  +9.75 Damage  |       16%       |
+|    Assault Rifle +14    |    Assault Rifle +15   | +3.50 Damage | +10.50 Damage  |       15%       |
+|    Assault Rifle +15    |    Assault Rifle +16   | +3.75 Damage | +11.25 Damage  |       14%       |
+|    Assault Rifle +16    |    Assault Rifle +17   | +4.00 Damage | +12.00 Damage  |       13%       |
+|    Assault Rifle +17    |    Assault Rifle +18   | +4.25 Damage | +12.75 Damage  |       12%       |
+|    Assault Rifle +18    |    Assault Rifle +19   | +4.50 Damage | +13.50 Damage  |       11%       |
+|    Assault Rifle +19    |    Assault Rifle +20   | +4.75 Damage | +14.25 Damage  |       10%       |
+|    Assault Rifle +20    |                          | +5.00 Damage |  +15.00 Damage  |                  |
+|___________________________________________________________________________|
+~B
+Each weapon has a different modifier for PvP Bonus and Anti-Bot Bonus. As you can see above AR gets +0.25 PvP damage per level and +0.75 Anti-Bot damage per level. Here are the modifiers for all weapons.
+~B ~6
+        Weapon              PvP Bonus Damage per Upgrade            Anti-Bot Bonus Damage per Upgrade
+   
+    Assault Rifle                              +0.25                                              +0.75 
+     Ripper Gun                              +0.25                                              +0.75 
+       Shotgun                                +1.00                                              +3.00 
+         PDW                                  +0.25                                              +0.75 
+       Dual AP                                +0.25                                              +0.75 
+    Sniper Rifle                               +1.25                                              +3.75 
+         LMG                                  +0.25                                              +0.75 
+  Grenade Launcher                        +1.00                                              +3.00 
+
+
+~4 ~B
+Progression System - Part 2 - Armor Upgrade 
+
+~2 There is a very simple armor system introduced with the main idea of counteracting weapon upgrades as well as reducing bot damage. ~B
+ ~6
+      Type                   Protects Vs PvP Bonus              Protects Vs Bot Damage
+	
+Combat Armor                      Nothing                                Nothing
+Combat Armor +1        Fully Against +1  Weapons            1.5%  Damage from Bots
+Combat Armor +2        Fully Against +2  Weapons            3.0%  Damage from Bots
+Combat Armor +3        Fully Against +3  Weapons            4.5%  Damage from Bots
+Combat Armor +4        Fully Against +4  Weapons            6.0%  Damage from Bots
+Combat Armor +5        Fully Against +5  Weapons            7.5%  Damage from Bots
+Combat Armor +6        Fully Against +6  Weapons            9.0%  Damage from Bots
+Combat Armor +7        Fully Against +7  Weapons            10.5% Damage from Bots
+Combat Armor +8        Fully Against +8  Weapons            12.0% Damage from Bots
+Combat Armor +9        Fully Against +9  Weapons            13.5% Damage from Bots
+Combat Armor +10       Fully Against +10 Weapons            15.0% Damage from Bots
+Combat Armor +11       Fully Against +11 Weapons            16.5% Damage from Bots
+Combat Armor +12       Fully Against +12 Weapons            18.0% Damage from Bots
+Combat Armor +13       Fully Against +13 Weapons            19.5% Damage from Bots
+Combat Armor +14       Fully Against +14 Weapons            21.0% Damage from Bots
+Combat Armor +15       Fully Against +15 Weapons            22.5% Damage from Bots
+Combat Armor +16       Fully Against +16 Weapons            24.0% Damage from Bots
+Combat Armor +17       Fully Against +17 Weapons            25.5% Damage from Bots
+Combat Armor +18       Fully Against +18 Weapons            27.0% Damage from Bots
+Combat Armor +19       Fully Against +19 Weapons            28.5% Damage from Bots
+Combat Armor +20       Fully Against +20 Weapons            30.0% Damage from Bots

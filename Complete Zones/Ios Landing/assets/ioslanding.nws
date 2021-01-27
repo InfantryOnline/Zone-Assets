@@ -1,0 +1,734 @@
+~6 ~0
+~4~B  ~0~B
+~B~1 [I:SKX] Cazzo Forge ~B~2
+
+~6Welcome to Skirmish Extreme: Cazzo Forge
+
+~B----If the zone appears empty please type "?arena" to view all sections of the zone---- ~B
+
+
+
+Skirmish Extreme combines the classic Skirmish feel with some great new features that really expand the gameplay:
+~B
+1) A Dynamic Warp System that enables the use of large maps but still gives players the instant gratification of quick combat action.
+
+2) A Secondary Co-Op Mode hosted in a seperate arena that allows you to play vs AI Bots during low population hours while you wait for the main crowd to get off of work! You must work your way through a large map fighting hoards of soldiers as well as even the occasional Enhanced Soldier mini-boss.
+
+3) An Upgrade System to enhance your weapon damage or armor protection by earning cash to gamble for the next highest level. This is extremely beneficial in Co-Op!
+
+4) An Unlock System which allows for more customization within the itemset as well as access to new classes and ways to play! You can use a Shotgun as Medic with this system or even carry and fire 2 LAWs!
+
+5) A Loot System that includes semi-rare, rare, and ultra-rare drops that have a wide range of uses! You can find everything from temporary Power Weapons to Lucky Dice that increase upgrade chances to pieces of Set Items that permanently boost your cash bonuses once put together.
+~B
+
+
+
+
+~B ~4
+***********************************************************************
+***                                                                                                            ***
+***                                                                                                            ***
+***               There are now Zone Guides available by pressing by Esc-> Help.               ***
+***                                                                                                            ***
+***                                                                                                            ***
+***********************************************************************~B
+
+
+
+
+~B ~6
+***********************************************************************
+***                                                                                                            ***
+***                                                                                                            ***
+***        Many players play Co-Op mode. Type "?arena" to gain access to Co-Op.           ***
+***                                                                                                            ***
+***                                                                                                            ***
+***********************************************************************~B
+
+
+
+
+~B~2Zone Updates~B
+
+[=~b~510/17/2020~2~B=]
+~b~4-HS~2~B
+~4
+1. Reduced "basic" AI Marine strafe thrust by 50%
+2. Reduced "Adept" AI Marine strafe thrust by 33%
+3. Reduced "Veteran" AI Marine strafe thrust by 5%
+
+[=~b~510/04/2020~2~B=]
+~b~4-HS~2~B
+~4
+1. Introduced some major AI behaviour improvements.
+2. Added a Juggernaut killstreak
+3. Reduce AI Ripper alive time (reduced its range)
+4. Added rewards to each flag capture
+5. Reduced AI count for all modes.
+6. Increased end-game win rewards for co-op.
+
+[=~b~509/20/2020~2~B=]
+~b~4-HS~2~B
+~4
+1. AI now has a limit of 1 law per unit.
+2. Pavelows now ignore fortifications
+
+[=~b~509/17/2020~2~B=]
+~b~4-HS~2~B
+~4
+1. Co-Op Arenas are BACK! If you join the zone and see no players in the default arena, type ?arena to see where they are!
+2. Default public arena now defaults to royale mode. Hopefully we can see some PvP once again!
+3. Added kill reward sharing to co-op bots. You'll now receive rewards for being in the radius of a bot killed by teammates!
+4. Medic vehicle no longer blocks projectiles from other bots or friendlies.
+
+~52/12/2019
+~4
+Apologies for the delay in updates. We ran into an item file issue that put a bit of a kink in plans so we're still working on fixing or coming up wih a work around.
+
+Regardless we do have some good updates for you all:
+
+New Player Test Pass introduced, any players under 200k Points will be given this pass and allowed to try out 90% of all the classes. Cash will have an important use for all classes soon so I wouldn't recommend ?wipecharacter to constantly stay with the test pass forever. Instead I recommend using this to find out what classes you like best so you know what attributes to buy.
+
+Weekly Test Pass introdued, 2-3 classes each week will be free to play for all players. This will give you a chance to try out a different class and see if you like it. Classes will rotate every week.
+
+Command Classes introduced. Right now they all require only Charisma but I will be putting other attribute requirements on them soon.
+
+Test Classes have made into official SKX Classes, we are still waiting to sort out a few bugs before able to 100% finish their implementation but I am happy enough with balance to restrict them for now.
+
+SKX Classes aka old Test Classes now require Attributes to be used no matter if you are in Royale or Co-Op. Attributes are purchased through F11 with experience. 
+The fastest way to gain experience is to play Royale mode or Public 1.
+
+
+~52/2/2019
+~4
+Balance Updates:
+Assault Shotgun loses 1 damage.
+Packs & Boards gain 10 hp.
+Peacemakers gain ECM Device.
+All SK classes gain ECM Device.
+BlackOps loses 5 hp and a little top speed.
+BlackOps gain MiniLAWs but lose LAW.
+LaserTech & SciOps lose cloak but gain 10 HP.
+IRL Rifle gains 5 damage.
+Nova Trooper loses Napalm Projector but gains Incinerator.
+AR and LMG lose 1 damage.
+Infantry slowed down slightly.
+IDF changed from 3 ignore to 1 ignore and 20% protection.
+All Toxin Weapons buffed but damage effects slowed down.
+Tranq & Viral & Needler reload system all changed.
+Particle Accelerator min range shortened & bot damage increased.
+Napalm Bombs explosions will no longer "stop" on players or destroyable structures but rather pass through.
+NeuroTac HP raised.
+RR velocity increased.
+Inferno Trooper PDW fixed. (maybe?)
+Rocket Gun gets graphic change.
+Drop Trooper loses Rifle Grenades.
+Commando gains Disruptor.
+
+
+
+~51/25/2019
+~4
+
+Co-Op Bounty Saving is now in.
+**If you leave a Co-Op Arena, you can take your bounty with you to any other Co-Op arena. 
+You may also leave Co-Op with a Bounty, play Public1, then come back to Co-Op and regain the same bounty.
+Best of all, if you desync, your bounty will be saved when you relog!
+***Anyone attempting to abuse this system in anyway, especially by intentionally speccing/quitting to avoid death will be severely punished. Cash/Experience removed, character wiped, etc. Don't ruin a good thing.**
+
+Added more fire delay for other weapons after using throwing knife and monoblade.
+
+
+
+~51/24/2019
+~4
+
+Attribute / Profiency System is in. This will undergo some tweaking and testing over the next week.
+You must purchase attributes to use any test classes in Co-Op. For now they will be allowed in Royale until PvP testing is finished.
+
+Balance Updates:
+BlackOps Class splits into BlackOps/Bladerunner.
+Tranq reload slightly increased, the stun reduced by 1.5 seconds.
+Disruptor no longer hits players.
+DP & DB get 10 more HP.
+SciOps & Laser Tech gain ECM Device which will function as stealth, teleport disruptor, and longer sensors all combined.
+BlackOps gains Blackout Field which is a better cloak with better anti-cloak sensors built in.
+BlackOps loses MonoBlade (Bladerunner gains it) but it gains Combat Knife & Incinerator.
+Deathboard slash reduced to 50 damage.
+Inferno Trooper added, has PDW & Napalm Projector.
+Nova Trooper's napalm projector will soon be replaced with WZA style Nova Pulse.
+
+RTS Update:
+Cost of Command Center lowered to 150 Iron.
+Command Center Kit now added to store.
+
+Command classes have begun to be introduced. Expect them to be tested soon.
+
+
+~51/23/2019
+~4
+Royale gametype has passed all the initial gameplay tests so:
+
+Public 1 will now default to Red vs Blue when there are under 7 players.
+After 7 players, Public 1 will use Royale gametype.
+
+PvP Happy Hour enabled for Royale Arena. You will now get double cash rewards from 9-11 PM Est.
+
+RTS gametype is now in initial live testing. Please contact Abbath or Metal for more information about how to get your Infantry Farmville setup to get cash rewards each day without even playing!
+
+~51/22/2019
+~4
+
+~2IMPORTANT NOTICES:
+
+Royale gametype is almost complete. We will be conducting mandatory tests after 9:00 PM Est in order to finish testing. 
+This gametype is a Fortnite/Pubg inspired PvP tournament with great reward.
+Regular PvP games happening every night will the main near-future goal for the zone so we can broaden the player base. If I have to disable Co-Op arenas during certain times I will but I would much prefer everyone to give the new PvP gametypes a shot as they are introduced.
+
+Test Classes will soon be disabled for Co-Op but gradually introduced for Co-Op once they are done testing in PvP.
+All test classes are equiped with +20 equivalent weapons now but they will be +0 when class is officially released so if you want them to be just as powerful you will need cash to upgrade them when they are released.
+All the new classes will require experience via an attribute system to unlock. Start saving experience now if you would like to use the same classes.
+Experience gains will be much greater in PvP arenas to give a real purpose to breaking up the bot smash.
+
+~4
+
+Powerups Update:
+Manual use of powerups is no longer allowed. You may sell these by type ?sell "item name" to get rid of them.
+Powerups will now always auto-use on pickup.
+
+Balance Updates:
+Steron carry limit raised to 2.
+Drop Pack & Deathboard lose innate protection vs PvP damage.
+Drop Pack & Deathboard HP lowered to 50.
+Tranq no longer stand and fire.
+Minigunner HP lowered to 90.
+STC Generator energy cost raised to 150 from 100.
+Proton Sphere prox raised from 0 to 8.
+Rocket Gun gained slightly more velocity.
+RR velocity increased.
+Plasma Cannon velocity increased.
+RR Canister shoots a bit further.
+Napalm Bomb gains anti-vehicle damage.
+Stubb Cannon outer damage raised.
+Blink Generator allowed in Royale, energy usage increased and warp time decreased.
+
+
+
+
+
+
+~51/15/2019
+~4
+
+Battle Royale Updates.
+
+Napalm Bomb changes.
+BlackOps gains monobldae and STC Generator.
+Infantry gains IDF Generator.
+BioChem and Doctor gain steron.
+Drop Trooper loses Assault Shotgun.
+Various other class balanes/improvements.
+
+~51/14/2019
+~4
+
+New Battle Royale gametype is currently being tested.
+
+Test Pass has been removed and all Test Classes are now available for public testing.
+All of these classes have had signifcant balance updates since yesterday.
+
+Demo Charge has had it's reload increased.
+
+~51/13/2019
+~4
+
+Vehicle damage is now it's own category. All weapons have been adjusted.
+
+Fortifications have had several fixes which should make them easier to kill.
+
+Test classes have been added in. These feature some of the most popular classes throughout Infantry modified to fit the SK itemset.
+Do not freak out. These will be tested thoroughly before being officially introduced into Co-Op and PvP. This is simply a test. 
+Octavian or Hellspawn can give out a test pass to try these classes. All test classes have +20 equivalent gear.
+
+~51/10/2019
+~4
+
+Private loot is now able to be picked up by any player after 30 seconds.
+If a private loot drop is yours, it will now have a green indictator appear around it. Remember to pick it up in 30 seconds or someone may steal it.
+Most loot is now auto-pickup.
+
+Sapper is trying out a change. Demo Charge will now have infinite uses. This will also us to prepare it for being upgraded in the future.
+It was also given a universal reload of 10 seconds which will help with the "reload" bug demo used to have.
+
+Minilaws are now deleted from inventory on respawn.
+
+Radar for bots has been temporarily disabled. This is neccesary while we are working to debug "Desync" errors.
+Medic bot has a had graphic change to help players tell the difference for now.
+We are also looking into some measures to help restore bountys lost from desyncs.
+
+Cazzo Forge Squaddies Challenge added.
+Up to a 400k Cash Bonus for each squadmate for forming a squad or getting your current USL squad to play a game together. See USL Forums for more details.
+
+Speed and Protection Powerups will no longer work in Powerup Disabled arenas.
+Protection Powerup lowered from 50% to 30% protection.
+
+ExoSuit spawns now increase as the population goes up. This heavily takes into account the starting difficulty of the arena as well.
+More ExoSuit spawns have been added for when arena reaches over a 20 difficulty level - which is equivalent to 11 unspecced in Insane.
+
+Difficulty Player Levels have been adjusted. This will benefit everyone's rewards.
+
+~51/09/2019
+~4
+
+PvP Happy Hour is now from 9-11 P.M. Eastern instead of 9-10 P.M.
+
+The ExoSuit you can build now is equipped with dual miniguns in place of LMG.
+
+Neutralizer has had various tweaks to balance it.
+
+All Powerups but AC have had tweaks to make them less effective against Exos/Vehicles. Most notably, neutralizer will do much much less.
+Powerups will soon be phased out with the introduction of new classes.
+
+The enemy Light ExoSuit has had a tweak that should the stomping from far away. This will likely have to be adjusted again soon.
+A short range behavior for Heavy ExoSuit will soon be in.
+
+The difficulty reward bonus has been changed to only be given if the Co-Op team wins the game.
+A couple tweaks to the reward amount has been made as well. It will be very lucrative for new players to play in higher difficulty arenas if they can pull off wins.
+
+~51/08/2019
+~4
+Jackpot rewards in CoOp now scale with bot/arena difficulty. This system looks at a players overall points to determine their reward.
+A player with higher points in a lower difficulty arena will get less of a reward.
+Added a few new resources. Scrap Metal/Refined Iron. Scrap Metal can be refined into iron via the refinery in the DS.
+Added a few new NPCs in the top of the DS. 
+Helmet Trader (Allows a player to trade helmets for various other items)
+Engineer (Allows a player to build different vehicle deployment kits at the cost of Refined Iron and cash)
+Iron Refinery (Allows a player to refine Scrap Metal into Refined Iron at various amounts/prices)
+
+Scrap metal is currently only dropped by Mechs, there will be more bot vehicles that will drop this resource in the future.
+
+~51/4/2019
+~4
+
+Co-Op and PvP Happy Hours are now in.
+Co-Op Happy Hour is every day from 8-9 P.M Eastern Time Zone and will give double cash for all rewards during this period.
+PvP (Public1) Happy Hour is every day from 9-10 P.M Eastern Time Zone and will give double cash for all rewards during this period.
+
+Added two more difficulty levels and adjusted the previous difficulty settings for existing levels.
+Easy difficulty now has all exo spawns removed.
+Normal difficulty is unchanged.
+Hard difficulty has one more exo spawn.
+Each increasing difficulty will add an additional exo spawn from a new flag location.
+
+Veteran marines renamed to Adept Marines.
+New marine added which is now named Veteran Marine. This has an additional 60 hp on top of the old Veteran Marine and an even better reward from killing them.
+These new Veteran Marines spawn when difficulty level goes over 10 which can happen from either the arena setting or the amount of players playing.
+Elite and Insane difficulties are set over 10 so they will have a chance at spawning the powerful Veteran marines by default and will spawn Adept Marines instead of normal marines.
+
+I will be doing some work to spawn rates to try to get the difficulty of solo play aligned closely to how it scales with additional players.
+Please be patient as things may get a little too hard/easy but will be corrected.
+
+~51/4/2018
+~4
+
+Took away Public1-4 arenas and added a Normal and an Easy arena.
+Normal arena replaces Public1-4 with a difficulty level of 1.
+Easy arena now has a difficulty level of 0 which will mean no Veteran bots. We may reduce exos/elites on this as well.
+
+Adjusted the wave and elite boss spawns.
+Added a variety of single/duo Exo spawns at certain points. These are do not have the normal waves with them. Save your laws and they should be easy!
+
+Put a fix in for a bug that was causing players to randomly lose their classes and have to repick.
+
+Started foundation for a new damage category - Anti-Vehicle.
+I intend for vehicles/exos/turrets to become a very regular and common appearance in Co-Op. There will be more classes aimed at dealing heavy anti-vehicle damage added.
+
+Temporarily took away "bot disappearing" protection measures. This may affect stability. A new measure will be put in soon.
+This will primarily make more many more bot flanks and change the dynamics of certain areas where bots were disappearing previously.
+
+A bot limit has been put in once arena size reaches roughly 6 players. After 6 players the bot difficulty level will rise (more Veteran bot spawns.)
+We may add overall HP increases for bots after a certain difficulty level as well as increasing the boss type spawns.
+
+
+~51/3/2018
+~4
+
+Bounty rewards are now scripted for killing bots.
+
+Light and Heavy Exos now drop loot. Their HP and speed has been reduced but it will now scale according to amount of players playing. 
+
+All elites and exos now give much better rewards when killed.
+
+HP increases for bots as game length goes on has been removed (Armor increase messages)
+
+Veteran Marines & Rippers added. These will spawn 10% of the time in place of normal marines/rippers on normal arena difficulty.
+These new bots give more bounty and reward as well as higher loot drop chances. They are the exact same as normal marines/rippers but different graphics and they have double the HP.
+
+Three testing arenas have been added for Difficulty mode testing. These are temporary until we have as better difficulty setting system.
+Difficulty modes will affect the spawn rates of Veteran Marines & Veteran Rippers.
+
+~512/26/2018
+~4
+
+PvP Jackpot has had a nice increase.
+
+Lucky Dice have been added to the store. Never fail an upgrade again!
+
+The Item Drop system messages have been fixed. Self-drops now are chat messages.
+
+
+Made F11 Weapon Unlocks spawn ammo for those who purchased them.
+
+A couple new AI bots are being tried out, including Mechs!
+
+
+~512/19/2018
+~4
+
+SpecOps and Rocketeer Classes have been added. 
+These will require experience to unlock; however, they are currently available for everyone while I do some balance testing to them.
+Upgrades may come for their weapon as well if they are popular enough!
+
+Powerups reverted back to lasting 1 minute.
+
+Trying a change to throwing knives. They will be powerful but much greater reloads. This is to give them the purpose as more of a finisher/starter rather than a spammable rate that over powers normal weapons.
+
+Gauss Rifle buffed.
+Gauss Rifle is now also the SpecOps Power Weapon.
+Rocket Gun is the Rocketeer Power Weapon.
+
+Co-Op Gear has been added. These will be rare drops from bots. These do have extremely high price tags but that is primarily just to show what they do to players. We do not intend anyone to buy them from the store.
+Co-Op Gear includes everything from boots and gloves that offer protection to actuators that give speed bonuses. More gear is planned including items that affect cash/exp/point rates and success rate increases.
+These drop rates are currently being tested. There is a small chance that any gear will be taken away if bugs occur with the rates.
+
+
+~512/17/2018
+~4
+
+There are now three types of Powerups.
+
+1) Weapon Powerup - Grants receiver a Power Weapon for 30 seconds. Each class has a unique Power Weapon.
+
+2) Protection Powerup - Grants receiver 30% Damage Protection for 30 seconds. 
+
+3) Speed Powerup - Grants receiver a 25% Speed Boost for 30 seconds.
+
+
+
+Drop Rate and Structure has been changed for Powerups:
+
+Powerups are now "Public Loot" from normal bots meaning that anyone can see them as soon as they are on the ground. In the past, each bot could drop 1 item per player - bots can now only drop 1 "Public Drop" per arena which will help with drop scaling.
+
+Elite's now have guaranteed drops. Powerups are now the default "Private Loot" for Elites. This means that if a Elite dies, it will drop either a rare item or a Powerup for every player near it's death. In a 10 player game, one elite can spawn 10 items.
+
+Powerups are now purchasable in the store but they are set to Co-Op only.
+ 
+If you would like to use your Powerups at a later time instead of as soon as you pick them up or if you want to save them to sell for cash - that option is now available in "UserOptions" under F11.
+
+~512/17/2018
+~4
+Added Grenade Launcher upgrades in.
+Added Machinegun upgrades in.
+
+
+Several unlocks are now functional:
+
+PDW Master
+Shotgun Master
+Incinerator Master
+Throwing Knives Master
+
+
+
+Various "newbie friendly" things have been put in including not being able to fire weapons when first unspeccing.
+
+Airstrikes are currently being worked on. If you see Hellspawn flying around in a helicopter, cover your ears.
+
+
+~512/15/2018
+~4
+!!!!!!!!!
+Put a patch in that greatly reduces bots going through physics. Hopefully it is stable enough to stay!
+!!!!!!!!!!
+
+Weapon Powerups now stack.
+
+Plasma Rifle has been changed to Neutralizer. It has been given a bounce and will now do damage to enemies but also heal friendlies.
+
+Flamethrower has been removed as the Powerup Weapon for Ripper.
+AutoCannon has been added as Ripper's Powerup Weapon.
+
+Rocket Gun/ Gauss Rifle / Minigun have had improvements.
+Napalm Projector has been slowed down for less range and clip size lowered.
+
+Assault Trooper armor now protects against bots.
+
+
+~512/14/2018
+~4
+
+A bunch of help guides have been added to help explain some systems.
+
+Item Drops are now in. Helmet drops give cash/exp when picked up. Rare Drops include Lucky Dice and parts for Abbath's Tiara. Read the help guide for more info!
+
+Weapon Powerups have been added. These give powerful temporary weapons. These are random drops off of enemies for now but may be implemented in a different way later.
+
+Lucky Dice are now working.
+
+There are 6 Power Weapons currently:
+
+Minigun - For Marine / LMG - Has a great rate of fire, good distance, high damage, but has a lot of recoil, a hard pull to the left when firing, and  an overheat mechanism. If you fire this weapon too fast without taking a break you will cause it go into a 5 second overheat reload.
+
+Rocket Gun - For Grenadier -  Has a 6 round drum, these rockets 2 hit kill, are slow moving and have great splash damage for groups.
+
+Gauss Rifle - For Sniper - Fires very powerful bullets that 1 hit kill 90% of the time. This is a difficult weapon to aim but very powerful in hands of a skilled user.
+
+Plasma Rifle - For Medic - Fires powerful rapid bursts of plasma. Great overall weapon and really gives Medic some destruction power.
+
+Flamethrower - For Ripper - This is the ultimate close range weapon. It is stand and fire so it is very situational. The damage output on this weapon is huge so it can destroy even the biggest groups if you defend a choke with it.
+
+Napalm Projector - For Sapper / Assault Trooper - This weapon fires deadly Napalm that is very good close range and sticks to ground for a few seconds to allow it to be used defensively. The drawbacks are the range and speed.
+
+
+~512/11/2018
+
+~4
+Missed a few days of updating the news so apologize if I missed anything.
+Cazzo Forge is now in Beta phase.
+
+Co-Op has some big chances done regarding it's spawn structure in the last 24 hours. The feel and difficult is really to starting to come together.
+Co-Op enhanced classes have had buffs and logic fixes.
+
+Med bot has had some drastic improvements.
+Ripper Bots have been added.
+A couple of "mini-bosses" have began being tested, the Enhanced Marine and Enhanced Heavy.
+"Call a Pavelow" item has been implemented for kill streaks of 50 or more. This summons a Pavelow that follows you and destroys enemies for 2 minutes.
+
+Public 1 PvP Jackpot has been almost doubled.
+
+We have also started work on the F11 Experience usage. These will be purchasable as they are fully implemented and tested.
+
+
+We have started work on item drops. An Eol style helmet system will make an appearance as well as rare and super rare drops.
+Lucky Dice has been added. They will be functional very shortly but for now we are testing the drop structure. Here is the description - 
+" **Drop Lucky Dice before you upgrade if you do not wish to use them** . These items are used to increase your success rate by 1% on all upgrades. Each pair of Lucky Dice can only be used once. When you upgrade an item, these will automatically be taken out of your inventory and the chance will be added to your upgrade attempt. These items do stack so if you try to upgrade you will automatically have every Lucky Dice in your inventory used. Example: If you have 10 Lucky Dice you will receive 10% extra success rate on an item when you upgrade."
+
+
+
+
+~512/7/2018
+~4
+Upgrade System is currently functional. - It will be tweaked. Upgrades get progressively harder success rates as level goes up.
+Supply Drops are being tested.
+
+~512/6/2018
+
+~4
+Sniper Rifle reload has been changed from Dependent to Universal. This allows the sniper rifle to be reloaded while shooting PDW or throwing knives. This change is mainly for Co-Op mode ,but it will have a side effect of improving Sniper's close range combat.
+The new grenade launcher is now being tested. This is a crossover from the old style GL to the bouncing GL. To shortly explain it, it is very similar to how GL used to function but after the first bounce the grenades have less damage. I'm expecting to this to be a little on the overpowered side but it will be adjusted as testing continues.
+Co-Op mode bots no longer "flee" unless they are under 50 hp.
+Marine Bots aim has been worsened.
+A good amount of backend work has been done to prepare for upgrade system.
+The upgrade F10 items have been added but they will not be enabled until the scripting is done.
+Classic Classes have been added. These are not affected by any Bonus damage from upgrades weapons but they also cannot use any upgraded weapons.
+Jackpot System has been implemented. This will reward players at end of the game with a reward based upon their contribution to the game.
+
+~512/5/2018
+
+~4 Co-Op mode has started to take shape. Type ?arena to see it. This will feature a 1-8 player vs Bot gametype.
+Bot weapons no longer are blocked by other bots. 
+Sniper Rifle has had 25 additional bot damage added to it.
+Throwing knives now do double damage to bots.
+Supply Drops have began testing.
+
+Bounty system is now in. This is a uniquely setup system compared to any other zone before it. Try it out!
+
+Kill rewards are in and currently being tested.
+
+~512/3/2018
+
+~4 Marine bots respawn has been greatly reduced for public play. Medic bots will remain for now. Marine bots will make an appearance in the Co-Op arena in the next few days.
+Weapon progression system has started to be added behind the scenes. Public testing will be done sporadically.
+
+~512/1/2018
+
+~4Map Updates:
+
+More rock cover has been added in various places as well as rock cliffs changed/extended to help with gameplay.
+Small rock pebbles have been added in the grass and around cliffs for detail.
+Dying grass patches, small hills, and small plants added for detailing.
+A few chokes have been narrowed.
+The inside structures in the two big buildings are now orange physics instead of red.
+Map should be approaching 95% completion.
+
+Other Updates:
+
+Medic Bot has various logic improvements.
+2 more flags have been added. These new flags are closer to each base.
+Marine Bots have began first stage of testing.  This version just runs to an enemy spraying shotgun.
+
+~511/29/2018
+
+~4Few new things:
+
+-More detailing has been added to the map. Map should be roughly 85% complete now.
+
+-Map has had a couple changes that affect gameplay.
+	-A very tight choke has been added to the east middle building. This should help improve player flow, especially in lower pop games.
+	-Two very small bridges have been added over the main methane river. These are mainly designed as "stalemate" bridges that are easily defendable, but provide access to the other side of river when needed without having to travel too far.
+	
+-We have adjusted the radar "pinging" on flag captures.
+-Flag auto-capture radius is now larger.
+-Having to capture the next flag in progression seemed to not be 100% common sense, so we added a feature to help direct people to the correct flag. A new "arrow" radar ping will now point and travel to the flag the needs to be captured next.
+
+-We have started work on a Medic bot. These bots may be used to even teams up when there are no medics available on a team as well as prove very important in a the upcoming Coop Vs AI mode. We will be testing these bots in public - they are a work in progress so don't freak out.
+ 
+
+
+
+~510/31/2018
+
+~4Here are the changes for the upcoming season of USL:
+
+Format
+
+- Rotation: Apollo, EC, KR
+- Single round season
+- Home will choose side
+
+We combined the votes of Double season - home chooses side with Single season - home choose side for choosing side.
+
+Class Changes
+
+Assault Trooper:
+- Increased range on dual Auto Pistol.
+
+LMG:
+- Replaced LMG with "Machinegun" from CC.
+- Changes to "Machinegun":
+- Decreased damage significantly. (17 inner, 10 outer now)
+- Reduced Reload by 25 ticks
+- Reduced bullet spread by 1 degree.
+- Added Incendiary Grenades
+- Reverted back to Incinerator instead of Inferno Projector
+
+Ripper:
+- Removed "Runner" Gun
+- Increased firerate on Ripper Gun.
+- Reduced bullet spread by 1 degree.
+- Increased damage by 0.5dmg
+
+Grenadier:
+- Added Bouncy GL
+- Reduced bounces to 3 max
+- Damage 40 inner, 20 outer
+- Removed Explosive Shotgun.
+
+Sniper:
+- Increase base health to 80hp.
+- Added Throwing Knife
+- Reduced Throwing Knife damage. (35 inner, 25 outer now)
+
+If you have any questions or concerns please address them here.
+
+The season is set to begin on Sunday, November 11th.
+
+
+~58/31/2018
+~4Engineer class added. Equipped with a revised 3 round burst Battle Rifle, a repair torch, and a shotgun.
+
+~58/17/2018
+~4Completed a new mini-map. (RebelsTDM). At 12 & 16 active players surprises spawn in each spawn area!
+Brought back Rocketeer specifically for this minimap!
+
+~58/11/2018
+~4Added a snipers only gametype to the pool. This is essentially 15 minute TDM games that only allow the Sniper class to be played.
+Added a traditional koth style gametype.
+The way this works... There are 3 hill zones on the map, To control the hill you must have more players within it than the enemy team. 10 points are awarded to the team that has ownership of the hill every 5 seconds. Kills that take place within the hill while the killer's team owns the hill also results in +5 points.
+The hill randomly rotates to a different one on the map every 2 and a half minutes. The first team to reach 1000 points before the 30 minute timer up wins. (Or the team with the most points at the end of the timer.)
+
+~58/7/2018
+~4Green/Yellow trench physics changed to yellow.
+Fixed the last few bugs relating to Search and Destroy. Gametype should NOT break anymore.
+AT Dual AP range reduced & given SLIGHT bullet stray.
+
+~58/7/2018
+~4Search and Destroy is now two death elimination. This should potentially get a few more people interested in it!
+
+~57/27/2018
+~4Reverted ripper buff
+Instead made it slightly more accurate (less bullet stray)
+
+*Kaiser Pass Updates*
+Added a new gametype (Search and Destroy) Plant the bomb, defend the bomb, or eliminate the enemy team to win!
+Some of the mini-maps are not currently setup to run this new gametype so they are excluded from the map voting until further notice.
+You can still play TDM by voting for it. The command now is ?map KaiserPassTDM (KaiserPassSnD would get you search and destroy.
+Enjoy!
+
+~57/25/2018
+~4Ripper damage increased by 2 points
+Ripper magazine increased by 5 rounds
+Sniper aiming tick distance increased significantly
+
+*Kaiser Pass Updates*
+Few map physic/vision fixes.
+
+~57/22/2018
+*Kaiser Pass Updates*
+~4Added a slightly different variant of the g/y minimap from the other zones. (PinkPurple)
+Gave minilaw a slight velocity & damage buff. Changed icon graphics on the RPG & minilaw. Also removed the key preference from mini law as to not override law preferences.
+Enjoy!
+
+~57/21/2018
+*Kaiser Pass Updates*
+~4Few main map layout changes. Added GoldSilver to the list of minimaps. It's a slightly smaller and slightly different variant of the redblue found on the other USL maps.
+Enjoy..
+
+~57/19/2018
+*Kaiser Pass Updates*
+~4Plethora of map updates! Too many to list. Most obvious would be center.
+Also made green/yellow trenches orange physics. (can be grenaded over by not fired over with normal weapons)
+
+~57/17/2018
+~4Grenadier updates:
+Replaced deagle with a new item. Explosive shotgun shells. These have slightly more velocity & range than the normal shotgun. pellets are tighter packed.
+GL damage increased by roughly 15 percent.
+GL range slight increase.
+
+Added a new class "Rocketeer". Comes equipped with a LAW, 2 minilaws, 20 rpgs, and a shotgun.
+MiniLAWs do less damage but have a higher velocity and range.
+
+Green/Yellow now operational. Have fun!
+
+
+
+~57/14/2018
+~4Bunch of map physics/vision fixes. Added corridor through big rock (north central area).
+Sniper's auto pistol replaced with PDW (Color changed to blue)
+Imported Grenade Launcher from SL
+Sniper Hand grenades no longer are an innate item. (This is to fix the infinite grenade bug)
+
+~57/11/2018
+~4AT clip increased by 2. 9 shots now instead of 7
+Increased AT backpedal thrust by 10. Now same as marine.
+Imported some UAV items for testing with league stuff.
+
+~B ~4
+***********************************************************************
+***                                                                                                            ***
+***                                                                                                            ***
+***               There are now Zone Guides available by pressing by Esc-> Help.               ***
+***                                                                                                            ***
+***                                                                                                            ***
+***********************************************************************~B
+
+
+~B ~6
+***********************************************************************
+***                                                                                                            ***
+***                                                                                                            ***
+***        Many players play Co-Op mode. Type "?arena" to gain access to Co-Op.           ***
+***                                                                                                            ***
+***                                                                                                            ***
+***********************************************************************~B
+

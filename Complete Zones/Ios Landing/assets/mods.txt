@@ -1,0 +1,74 @@
+~B~1Free Infantry Staff list as of March, 2015~B~1
+
+
+~B~2Overview:~B~2
+
+~2-Moderators are volunteers that are present in the game to help players
+and enforce the rules.
+
+-Contacting Moderators can be done by using the ?help command (?help player
+is TKing me), adding the !911 chat (?chatadd !911) or by searching for them
+individually (?find Ace) and private messaging them.
+
+?help Command: When using this command always remember to put a reason after
+it. It helps Moderators react faster to your request. These requests are seen
+immediately by local Moderators and by global ones upon checking the list.
+
+!911 Chat: Only enter this chat for rule violation reports. Upon entering
+the chat, state your purpose and ?chatdrop !911 as soon as you are done or
+when a Moderator asks you to.
+
+Private Messaging: There are no rules for this method of contact. It is best
+suited for receiving lengthy help from available Moderators.
+
+-Moderators do not operate in private areas of the game. This includes
+private messages, private chats, private arenas, league zones, etc.
+
+-Administrators have the ability to code, rotate zones, fix bugs, and handle
+account related issues. They also oversee all Moderators.
+
+-The Head Moderator is an Administrator who has the responsibility of managing
+the addition and removal of Moderators.
+
+~B~5**Anyone can be a developer; start making your zone and we will upload it.~B~5
+
+
+~B~0Server Administrators~B~0
+~6Ace (Combat Ace)
+Jovan
+Kon
+Mizzouse
+Palm
+Super-Man
+X15~6
+
+~B~0Head Moderator~B~0
+~6thebobp3~6
+
+~B~0Moderators~B~0
+~6abbath
+Dexter
+Horizon
+mad?
+Pogo
+Vomit~6
+
+~B~0Developers~B~0
+~6aredpillow
+angar
+Axidus
+BurntDevil
+HellSpawn
+Mizzouse
+Palm
+Skear
+thebobp3~6
+
+
+
+
+
+
+
+
+

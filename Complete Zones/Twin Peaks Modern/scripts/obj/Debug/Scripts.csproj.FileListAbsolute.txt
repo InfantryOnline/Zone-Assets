@@ -1,0 +1,16 @@
+C:\Infantry\infserver\trunk\bin\scripts\bin\Debug\scripts.dll.config
+C:\Infantry\infserver\trunk\bin\scripts\bin\Debug\scripts.dll
+C:\Infantry\infserver\trunk\bin\scripts\bin\Debug\scripts.pdb
+C:\Infantry\infserver\trunk\bin\scripts\bin\Debug\Assets.dll
+C:\Infantry\infserver\trunk\bin\scripts\bin\Debug\InfServer.DBComm.dll
+C:\Infantry\infserver\trunk\bin\scripts\bin\Debug\InfServer.exe
+C:\Infantry\infserver\trunk\bin\scripts\bin\Debug\InfServer.Network.dll
+C:\Infantry\infserver\trunk\bin\scripts\bin\Debug\Ionic.Zlib.dll
+C:\Infantry\infserver\trunk\bin\scripts\bin\Debug\CSScriptLibrary.dll
+C:\Infantry\infserver\trunk\bin\scripts\bin\Debug\Assets.pdb
+C:\Infantry\infserver\trunk\bin\scripts\bin\Debug\InfServer.Network.pdb
+C:\Infantry\infserver\trunk\bin\scripts\bin\Debug\InfServer.pdb
+C:\Infantry\infserver\trunk\bin\scripts\bin\Debug\InfServer.DBComm.pdb
+C:\Infantry\infserver\trunk\bin\scripts\obj\Debug\ResolveAssemblyReference.cache
+C:\Infantry\infserver\trunk\bin\scripts\obj\Debug\scripts.dll
+C:\Infantry\infserver\trunk\bin\scripts\obj\Debug\scripts.pdb

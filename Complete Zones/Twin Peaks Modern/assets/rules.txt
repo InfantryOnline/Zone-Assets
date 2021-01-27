@@ -1,0 +1,267 @@
+~B~1Infantry Online Rules (last updated: June 5th, 2012)
+
+~B~0Before playing Infantry or Cosmic Rift, you are presented with a License 
+Agreement to which you've agreed to, making you responsible to abide by the 
+further elaborated game-specific rules listed in this document. While these 
+rules may not cover absolutely everything, they do provide a good grounding 
+to the reader as to what is expected of them while enjoying the games.
+
+The rules in the game are enforced by volunteer Moderators, for more 
+information on Moderators, see the "Staff List" in your F1/Help menu.
+Please note that the aliases in the Moderator section of the list are
+not the moderator's only aliases, and may not even be their main alias.
+You'd be ahead to just not violate any of these simple and easy to follow
+rules, ever. :)
+
+The following are activities that you are not permitted to do and will be 
+moderated:
+
+
+
+
+
+
+
+~B~1Any player found to be engaging in the following gameplay offences will be 
+subject to typical or custom punishments as directed:~B
+
+
+
+~B~1 ~0Intentionally leaving an arena/game with the intent to avoid 
+punishment from a Moderator (e.g., lock, silence, ban, or jail time).~B
+
+~1Example(s):
+~0-Typing "?go" or "?quit" after a Moderator silences or locks you.
+-Leaving the arena or game because you think a Moderator is about to ban 
+you.
+
+
+
+~B~1 ~0Using a hack, trainer, exploit, or abuse bugs with the intent to 
+cheat in any way.~B
+
+~1Example(s):
+~0-Any programs that run while Infantry/Cosmic Rift are running and have 
+some effect on your gameplay (e.g., health, rate of fire, speed, weapons, 
+etc).
+-Map related bugs such as shooting through walls and placing your character 
+on physics in order to make your summons randomly warp players to different 
+locations on the map (summon bug).
+-Using a hack of any kind will result in no warnings or temporary bans, you
+will be immediately and permanently banned from the game.
+
+
+
+~B~1 ~0Forcing your character to be spectated or disconnected in order to 
+avoid death.~B
+
+~1Example(s):
+~0-Spamming in chat.
+-Pulling connection to create lag or disconnection.
+
+
+
+~B~1 ~0Using a secondary "dummy" account. Meaning, having two accounts on 
+at the same time and in the same arena.~B
+
+~1Example(s):
+~0-Using the second account to find players on the map while your main 
+character is in game.
+-Using the second account to feed your main character free kills 
+(statistics padding).
+
+
+
+~B~1 ~0Repeatedly summoning players without permission (also known as 
+"Random Summoning").~B
+
+~1Example(s):
+~0-Summoning a whole team without consent to help your chances of survival.
+-Summoning people into enemy mines and/or weapons fire (this can be seen as 
+Statistics Padding or Team Sabotage as well).
+-Summoning the same player repeatedly without request.
+
+
+
+~B~1 ~0Intentionally sabotaging team efforts, friendly turrets, structures, assets, 
+or players on your team (also known as "Team Sabotage", "Team Killing" and "TKing").~B
+
+~1Example(s):
+~0-Using a Demolition Pack or Demolition Charge to destroy a team's base 
+structures.
+-Intentionally firing weapons (ones that deal damage to teammates) at your 
+teammates to lower their health points.
+-Purposely getting vehicles stuck or moving them out of sight so your team 
+does not utilize them.
+-Playing goalie for the opposing team, handing the ball to the opposing team, 
+taking the ball in the wrong direction (ball zones). 
+
+
+
+~B~1 ~0Statistics Padding your characters (also known as 
+"Stat Padding").~B
+
+~1Example(s):
+~0-Feeding (or receiving) kills to (or from) someone in order to increase 
+their (or your) bounty, better their (or your) kills to deaths ratio, 
+experience, repeated deaths to collect helmets (your own or not), logging 
+off your alias to log on another alias to buy supplies for your main alias 
+(cash padding), or any other activity with the intent of artificially 
+inflating a players score.
+-Forcing an unowned flag drop. Being summoned/recalling to the dropship to 
+force drop the flag you are holding, switching to Spectator Mode to force 
+drop the flag you are holding, or running across terrain known to cause flag 
+drops.
+-In static flag zones, taking turns capturing a flag repeatedly in 
+cooperation with a friend on the opposing team.
+
+~1Exception(s):
+~0-It is legal for a player who is leaving the game to give their bounty 
+away to a player of their choosing. This is allowed provided the player in 
+question leaves the arena and ends their session for the minimum amount of 
+time of 30 minutes.
+
+~1Note(s):
+~0-Statistics Padding is usually dealt with first by a warning and then a wiping of the character.
+
+
+
+~B~1 ~0Playing the game with excessively high lag/latency (intentional or unintentional).~B
+
+~1Example(s):
+~0-Flagging in zones where capturing the flag/position is the objective 
+while your lag info is above the allowed limit (400ms ping, 4% packet loss 
+non-combined, 250 c2s latency) or otherwise visually seen as disruptive by 
+a moderator.
+-Using file sharing or other such programs to inflate your lag.
+
+~1Note(s):
+~0-The abovementioned lag limits do not only apply to flagging. In any zone, 
+a moderator that sees your lag as being disruptive to the game may use those 
+limits or may base it on a solely visual basis.
+-Having higher latency than average ping in any zone may get you removed from playing.
+
+
+
+
+
+
+
+
+~B~1Any player found to be engaging in the following chat/communication offences will be 
+subject to typical or custom punishments as directed:~B
+
+
+
+~B~1 ~0Flooding and Spamming.~B
+
+~1Example(s):
+~0-Any amount of message flooding that a moderator deems to be disruptive to the chat interface.
+
+~1Note(s):
+~0-Spamming offences are typically dealt with first by a warning then a silence. 
+Banning will occur if the player avoids the silence or is spamming to force disconnect.
+
+
+
+~B~1 ~0Giving coordinate information to the public chat.~B
+
+~1Example(s):
+~0-Base coordinates, flag coordinates, team coordinates, and personal
+coordinates. 
+
+~1Note(s):
+~0-Team chat is allowed. Just not public (cyan) or enemy (dark cyan) chats.
+-Other methods of providing spectator information may be considered for moderation
+as long as it's easily verifiable and equally damaging to fair gameplay.
+
+
+
+~B~1 ~0Intentionally abusing the ?help command.~B
+
+~1Example(s):
+~0-False or prank reports.
+-Spamming the command.
+-Derogatory remarks in ?help requests.
+
+~1Note(s):
+~0-When using the ?help command, add a reason to it (e.g., "?help How do I 
+play sergeant?").
+
+
+
+~B~1 ~0Intentionally abusing the !911 chat.~B
+
+~1Example(s):
+~0-Spamming the !911 chat.
+-Derogatory language.
+-Refusing to leave the chat without valid reasons for staying.
+-Entering and leaving the chat repeatedly.
+-Remaining in the chat and impersonating Moderator status to visitors.
+
+~1Note(s):
+~0-Proper usage of !911 includes: stating your purpose in the chat as soon 
+as you enter, dropping the chat as soon as you are finished (or told to), 
+and using the chat for rule violation reports only. For other matters use 
+the ?help command.
+
+
+
+~B~1 ~0Impersonating a Staff Member for any reason.~B
+
+~1Example(s):
+~0-Saying you are a Coder, Developer or Moderator when yu are not.
+-Creating aliases that resemble any Tmod or Moderator's alias.
+-Serious claims that you have mod capabilities in public zones.
+
+
+
+~B~1 ~0Intentionally misleading players in a manner that is significantly self-destructive.~B
+
+~1Examples:
+~0-Telling players that typing "?wipecharacter" will result in some kind of benefit.
+
+
+
+
+
+~B~1Any player found to be engaging in any activity that a staff member deems significantly inappropriate
+but is not listed prior may be subject to typical or custom punishments at their discretion.~B
+
+
+
+
+
+
+~B~1Punishments:~B
+
+~1Punishments for violations of the above rules may include, but are not 
+limited to, any combination of the following:
+
+Wiping of character(s)
+Being silenced
+Being locked into Spectator Mode
+A temporary zone ban
+A temporary game ban
+A permanent account ban
+Being warned
+Being jailed
+Any other action the mod staff deems appropriate
+
+
+~B~1Typical escalation of punishments is as follows:~B
+
+
+Every player will have a warning before being jailed, wiped, etc (except hackers) for every offense, the
+first three (3) times they break the rule in question. Failure to heed the warning will result in 30 minutes 
+in jail. After you've violated the same rule more than three times, you will be sent directly to jail. Jail
+terrain does not allow switching to spec and has a 30 minute ?quit timer, anyone using Ctrl+Alt+Del and ending
+the Infantry process to "escape" jail will have their sentence doubled every time they do it. 30 mins to 60, 60
+to 120, 120 to 240 and so on. It quickly becomes not worth it, and you are advised to serve your 30 minutes in
+peace, and to use the time to reflect on why you should not ignore the rules and the warnings you were issued
+before you were sent there.
+
+
+Most offenses will follow a typical escalation punishment model, but others may fall under 
+specific custom escalations. Moderators may act on occurrences that are not listed here 
+and those occurrences will be assessed later to see if it warrants being added to this document.

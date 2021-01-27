@@ -1,0 +1,38 @@
+~1Infantry Concepts~2
+
+There are several concepts that are basic to understanding infantry.
+
+~B1.) SLOTS~B
+To use a weapon it must be assigned to a weapon key.
+To bind a key to a particular weapon the quickest way is to right click on it's name it in the inventory area and select the appropriate weapon number.
+Additionally you can use the PGUP and PGDN keys to highlight an item then use the DELETE key to use it.
+
+Once an item is in a slot then you use that slots item to fire or use it. The default keys for these slots are as follows.
+
+	Weapon 1 - CONTROL
+	Weapon 2 - TAB
+	Weapon 3 - SHIFT + TAB
+	Weapon 4 - SHIFT + CONTROL
+	Weapon 5 - F3
+
+~B2.) ENERGY~B
+
+Your Energy can be found in the lower right hand side of the interface just above the radar. It is the sphere on the left side labelled ENERGY with a number EG: 500. This indicates the amount of energy in units.
+
+Energy is used to fire some weapons and activate some items. It is also used as a sheild in the game. The lower your energy goes then the less protection it affords you. So if you have 100% energy then the shield will take all the damage and your energy will be reduced accordingly. If you have 50% energy then 50% of the damage will go through to your health and armor. It can be seen that using an energy weapon is a trade off between offensive power and defensive protection. Some players only use ammo based weapons (such as slug pistols) so they can use all thier energy for defense.
+
+~B3.) HEALTH~B
+
+Your Health can be found in the lower right of the screen. It is the middle sphere labelled Health. It should read something like "40" indicating how many hit points you have.
+
+Health does not normally recharge on its own. When health reaches zero your character dies. To regain helath you must ask a freindly healer to help you, use stim packs or (if the zone allows it) heal in the appropriate areas.
+
+
+~B4.) INFORMATION~B
+
+Infantry has a large amount of data stored in it. To help you access this you can right click on any object in the game, be it a vehicle weapon or item and slect the INFO button. Here you will be given a breif description of the item and numerous stats relating to it. To remove this screen hit the ENTER key or click on the tiny "Chat" bos located ontop of the message bar area. At anytime you can look back at your last INFO by clicking on the INFO box on top of the message area.
+
+~B5.) LINE OF SIGHT~B
+
+You cannot see through walls in infantry. Neither can you see behind you (unless you have a rear cam or a teamate spotting for you). To get a feel for how Line of Sight (LOS) works then click in Options and change LOS to always on. When you return to the game you will see an area behind you shaded. This indicates areas you cannot see where enemies maybe hiding. LOS is defaulted to only being on when you stand still in the game however most players turn it off as they find it annoying after a while and it slows the game down slightly. Our best advice is to play with it on until you get used to the concept then turn it off.
+

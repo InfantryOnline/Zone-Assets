@@ -1,0 +1,86 @@
+~B~1COMMUNICATION~0~B
+
+
+~BCommunication between players, as in any online game, is key to enjoying yourself. This guide will help you to better understand the communication system.~B
+
+~8~BNote: If you find the messages or any text in the game hard to read you can change the fonts under OPTIONS which is located in the main game menu accessed by hitting the ESC key. Then use mouse to navigate or the arrows keys with SPACE to select an item.~0~B
+
+
+
+~1Public Messages~0
+
+Players can send messages to everyone simply by typing his message. This message will appear blue in the game.
+
+~1EXAMPLE:~0
+~6Hello everyone in my game arena~0 
+
+
+
+~1Teammate Messages~0
+
+A player can send a message only to his teammates by prefixing his message with  // or with a comma before the message. These messages should appear yellow in the game.
+
+~1EXAMPLE:~0
+~4//Hello teammates in my game arena.
+'Hello teammates in my game arena.~0
+
+
+
+~1Team Only Messages~0
+
+You can also send a message to another team in the arena by typing “ before the message. You must have a person on the team you wish to send the message to highlighted in the player list for this to work. If you have a person on your own team highlighted, you will send a message to your own team. This message will appear in a darker blue than the public chat messages in the game.
+
+~1EXAMPLE:~0
+~B~6“Congratulations on winning the last game, But we will get you in the next one.~0~B
+
+
+
+~1Private Messages~0
+
+Private messages are sent to a player by either clicking on the player’s name and typing, or by longhanding the player’s name between two :   Private messages are sent across ALL the game arenas, thus if you want to know if your friend is online anywhere in Infantry then you can send him a message.  This message should appear green in the game. You can also send a private message by highlighting a players name in the players list and typing / before the message.
+
+~1EXAMPLE:~0
+
+~7~B:JeffP: This is a private message sent to JeffP that only he will see. 
+/I have JeffP highlighted in the players list and he will only see this message.~0
+
+A player can send a quick message straight back to whoever sent him a private message by typing :: with no name. The name of the person who sent you the private message should appear automatically in the text bar.  If you continue to hit : it will continue to scroll through people who have sent you a private message.
+
+~1EXAMPLE:~0
+~7~B:: This is a message back to Rodvik who sent me a private message.~0
+
+
+
+~1Chat Channels~0
+
+Players can set up their own chat channels. Players enter or create a chat channel by typing: ?chatadd chatname
+
+Chatname will be replaced with whatever the actual chat you want to create or join name is.  You are limited to 9 chats. ?chat will show you all your current chats, and show the people currently in those chats. You can also change the color of the chats by placing any of the following characters before the chatname without a space 
+
+~1LIST OF CHARACTERS~0
+~~ - Dark Green
+! - Light Red 
+@ - Dark Red
+# - Light Purple
+$ - Dark Purple
+% - Light Blue
+^ - Dark Blue
+& - White
+
+~1EXAMPLES:~0
+?chatadd Psionics  - This sets up a chat channel called Psionics, or makes you join the chat psionics
+?chatadd &Psionics – This sets up a chat channel called Psionics and the text will be white, or makes you join a chat named &Psionics, 
+
+~1NOTE: You can overload a chat name by using the color changing characters. This means you can have a chat called Psionics, a chat called $Psionics, and a chat called ^Psionics and each one will be separate from the others.~0
+
+You can remove a chat using the ?chatdrop command. This will remove a chat from your chatlist, and chats above it will all move down a slot.
+
+~1EXAMPLE:~0
+?chatdrop chat3 – This will remove the chat called chat3 from your chatlist.
+
+To talk to someone in a chat, you must type ;  If you have more than one that, you must put the chat number in between two ;  Chats work game wide, meaning if you are in one zone, you can talk to someone in a different zone, just like with Private messages. 
+
+~1EXAMPLES:~0
+;Hey all, Where is everyone at?
+;2;Sup everyone in my second chat
+;8;Hello everyone in my eighth chat

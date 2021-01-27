@@ -1,0 +1,286 @@
+~B~1INFANTRY FAQ-GUIDE FOR NEWBIES~2~B
+v0.6 BETA
+Created: 8/15/99
+Modified: 10/11/99
+
+~B~1TABLE O' CONTENTS~2~B
+
+~B01) Introduction:~B What IS Infantry?
+~B02) Harmless Bear:~B So how do I play...?
+~B03) Keyboard Config:~B Bah, who needs a new config?
+~B04) Getting into the Game:~B It's harder than it looks... well, maybe not.
+~B05) In-Game Options:~B How do I change THIS?
+~B06) Chat Functions:~B So is there anyone else in here?
+~B07) Playing the Game:~B Tips for Survival
+~B08) Game Interface:~B Why don't those yellow guys DIE?
+~B09) Suggestion Box:~B Who do I tell about this lame unfair gun?
+~B10) In-Game Commands:~B Okay, so ?godmode doesn't work...
+~B11) Glossary:~B EZ? What the fudge does that mean?
+~B~412) Quick FAQ: Have a problem?  Don't like to read?  Skim this.~2~B
+~B13) Other Information:~B More reading?  Snore...
+~B14) Credits:~B Not like I CARE... but who are you?
+
+
+Written for the sake of newbies everywhere; REJOICE and prepare to kick those 31337 foolios out of the zone! :)
+
+~B~4NOTE TO ALL YOU BETA TESTERS:  This guide, just like the game is in the BETA stage, meaning it's not yet completed.  I urge you to let me know of any questions you may have, so that I can improve the content of my guide.  If I don't know what you need help with, I can't help everyone else :)~2~B
+
+
+~101) INTRODUCTION~2
+
+	For other sources of in-game assistance, take a look at the other files in the Help menu.  Explore them, you'll probably find the answer to your questions.
+
+	The purpose of this guide is to get your feet wet BEFORE you play the game.  If you're not sure of something, you can refer back here, or to any of the other help files, for more information.  I can't stress enough the necessity of actually READING through this; I know how much some people dislike reading, but you won't learn anything from this if you don't read it.  The obligatory plea for nice behavior: please try and act civilized, pretty please, for the best of everyone. ;)
+
+	As of now, the game development goes like this: Rod Humble (rodvik) is CEO; he does all the biz stuff.  Jeff Petersen (JeffP) is the supreme programmer of the game.  Harry Larry Jerry Carry (LJC) writes editors and such for the game.  Yankee does graphics and level design, etc.  Juan and friends do most of the graphics.  Everyone but Juan is working on his own level(s) right now, as far as I know.
+
+	The game of Infantry, oh what a wonderful game.  Anyone who has seen it action enough knows how insanely customizable the engine is.  If someone wanted to, they could simulate any zone in Subspace down to the ugly block walls, though with (of course) in the isometric 3/4 view of infantry.  In fact, Rod has already done just that. :)  Or they could simulate "Quake3".  Or "Team Fortress".  Or almost any other game type in a similar genre.  Almost every variable POSSIBLE can be changed.  Don't forget, the server software isn't public (yet, at least), so the only people who can make maps (zones) are the game developers.  If a particular zone is up that you don't really enjoy, don't sweat it, another zone will eventually come along that should please you.
+
+	This is something you should remember: when you complain about something, try and address it to the right person.  If you're playing on a level Yankee made, don't go off and email Jeff yelling at him that someone's Machine Gun is too strong and unfair and you'll quit if it's not changed.  It's not his concern, he didn't design the level.  And as long as your suggestions are reasonable, the person who made the level should evaluate it. ;)
+
+
+~102) HARMLESS BEAR: Ph34r the TNT! (TriNitroTeddy)~2
+
+	The Official Infantry page is at www.infantryzone.com, a member of the GameFan network. There you can find news, message boards, all that jazz.
+
+	When you first run the game you'll be presented with the main UI (User Interface).  To avoid possible conflicts we recommend running your desktop at a 16-bit color depth.  Click "Sign Up" to register your alias (nickname), and when you want to start, press the "Start" button.  Now for some basic configuration things, before you play.  Under "View", there are a few options.  "View > Options" changes how many graphic rotations are made when you turn.  I'd suggest turning it to 64 unless your computer has less than 64mb of RAM and doesn't handle the game well.  Under "Advanced Options" there are various graphical things you can play around with to see how performance is affected.  Some day we'll convince Jeff to explain exactly what they do. :P  I personally have Show Frame rate, Render in the Background, and Skip Splash/Music on.  I'd suggest running the Splash off, unless you can't get enough of that damn bipidy-bop music and explosive bear. :P  The final option is Key Configuration.  I'll get to that later, it has its own section.  As far as the Resolution is concerned, just play around and see how much of a trade off you want to make for fps versus screen real estate.  I usually play Windowed, maximized, with my desktop at its usual 1024x768 resolution.
+
+
+~103) KEYBOARD CONFIG: Alt+F4 is Godmode... I swear!~2
+
+	As far as I am concerned, having a superior keyboard configuration compared to your enemy can make the difference between life and death.  If you have access to all the necessary buttons easier and faster, all the better, right?  That means you've gotta perfect the old-skool Subspace-hybrid controls to fit your tastes.  Now, I realize many people are fine with the default, and so be it.  But this is for those who like screwing with defaults :P  ~BThere are a few fundamentals I aim for.  A) You have to be able to strafe left or right and use any of your normal directional controls at the same time and with ease.  This allows you to circle-strafe. B) The majority of your weapon usage keys must be accessible WHILE using condition A. C) Due to the nature of current keyboards, certain areas of keys cannot be pressed at the same time as certain other areas of keys... not unless you want both keys to function at the same time, at least.~B  You've gotta perfect your controls to be comfortable and at the same time make sure that when you go forward and press fire at the same time, you don't stop moving and nothing fires.  To get the most from your keyboard, consider laying it out giving each hand as much space as possible, then going from there.  Perhaps, right hand over the Keypad, and left hand over the left side of the keyboard.  
+
+	Now that you've read all that nonsense, I'm going to turn over Luminairs Secret Control Scheme of Ultimate Owning Doom.  Numpad 4 is left, num8 is up, num9 is right. Num* is zoom in, num- is zoom out.  W and E are left and right strafe. R, F, arrow left, arrow down, num+, 2, 3, 4 are my weapon keys 1 through 8, respectively. T is my Use Inventory key.  It evolves over time to perfection. :) The only down side to this is that you must use the "Enter to send messages" option... press enter to open the message window, enter to send the message.
+
+
+~104) GETTING INTO THE GAME: Please press any key...~2
+
+	Click on the big old "Start" button.  Assuming you're new, enter your nickname and password that you made when you signed up.  ~BDon't put anything in the Sysop Password box.~B  It's a good idea to click "Refresh" your server list every once in a while, so you don't miss any new zones.  Click "Connect".  If you're creating a new name under your main account, use the "Create New Alias" option.  If at any time you're playing in the zone, and the server goes down, DON'T FREAK!  They take the zones down all the time to do various things, more often than not the downtime is on purpose, and won't last very long.
+
+
+~105) IN-GAME OPTIONS: ...Where's the "Any Key"?~2
+
+Lets take a quick peek at the options, we'll play soon :P
+
+~5Game Functions~2
+	~BSkills:~B This is where you choose your Skill(s) if the current zone supports this option.  Used for RPG-type zones where you choose your character type, character skills, etc.  Your chosen skill can determine your characters strength, agility, etc.
+	~BStore:~B Here is where you buy things, duh!  Depending on how the zone is configured, you may need to be in a store-area, usually in the back of your base, to buy things.  Depending on your SKILL(S), you may or may not be able to use some purchased items.
+	~BScores:~B Open this baby up to see how well everyone in the zone is doing, statistic-wise.  People can be ranked by everything from their kills to what their average bounty at the time of death was, to how many times they killed a vehicle.
+	~BTeam:~B Erm, this doesn't do anything right now, but I think we can guess what it might be for :P
+	~BSquad:~B This is where you deal with squads.  From here you can create, join, and manage your squad.
+	~BView Map:~B Does the same thing as F3 (default key), or clicking on the mini-map at the bottom right; it brings up your full screen radar.
+	~BJoin Game/Spectate:~B Toggles you between Spectator and non-spectator modes.  Same as F12.
+
+~5Information~2  (These can change from zone to zone)
+	~BZone News:~B News from the zones creator.
+	~BUniversal News:~B News for the Universe. Vega star system or bust! Erm... no, it's news for game in general :P
+	~BRelease Notes:~B The log of what's been added/changed in the latest version of Infantry.
+	~BWeb Links:~B Same as the Web Links spot outside the game, your basic links to the Infantry page, Manual, etc.
+
+~5Options~2
+	~BFont Options:~B Font sizes of every different area in the game.  I have all of them at Small, 1024x768 res.
+	~BMessage Options:~B Toggles for various things such as filtering team, public, or kill messages, as well as the "Lum has entered/left" messages.
+	~BResolution:~B Here's where you change your resolution inside the game.
+	~BFake Alpha Blending:~B Turning this on changes things like the pretty smoke effects from "pretty and blended" to "ugly and uglier".  It'll improve game speed in most cases.
+	~BView Adjust Speed:~B This option allows you to change the speed of the screen movement to where you're looking when you turn your character. 
+	~BView Adjust Percent:~B Changing this decides on how far back your character will stay in your screen.  Change it to 0% if you want to sit in the middle like subspace, or to 100% if you hate seeing stuff behind you.
+	~BRotation Ramp-Up:~B If you want your characters turning (rotation) to accelerate to the maximum slower, increase this option.
+	~BView Line of Sight (LOS):~B Changes your LOS to Stopped (Only on when you're not moving), Always (Always on), and Never (Never on).  I prefer Always because it lets me see where I'm open (because there could be someone hiding where I cant see), but because its too slow on always, I use Stopped.  Generally, I'd suggest using stopped.
+	~BView LOS Blended:~B Turned on it enables Alpha Blending of the LOS fog.  It's SUPER slow on, and essentially no visual difference, so, for the love of god, leave this option off! :P
+	~BObscuring Wall Display:~B This changes how walls react when you go up to one and face it.  I suggest Fake-Blended cause it's fast and lets you see things covered by walls, without making the entire wall disappear (like the other options).
+	~BShow Clock:~B Shows the clock. :P
+	~BShow Frame Rate:~B Shows the fps in the top right corner.
+
+~5Help~2   (These can also change from zone to zone)
+	~BBasic Concepts:~B Basic Guide for newbies.  Read it.
+	~BMessaging System:~B Explains how the various ways of communications work.  I'll elaborate on them later.
+	~BInfantry CTF FAQ:~B FAQ for those needing help concerning the Capture the Flag aspect of Infantry.
+	
+
+~106) CHAT FUNCTIONS: Erm, how do I talk to people?~2
+
+	To talk to other people in the public chat, simply type your message and press enter.  If you have the "Enter to send messages" option checked, you have to press enter first, then enter again.
+
+	Remember those yellow guys that you can't kill?  They're on your team.  To send a message to them, just type ' or // before your message.  For example, I could say
+
+~B~4'Sup people... ready to smash some faces?~2~B
+
+	And that would become yellow, and only go to the people on my team.  If you want to find out what team you're on, just type in the ?team command, and to change teams, just type ?team TEAM_NAME_HERE:TEAM_PASSWORD_HERE
+
+	To send a private message to only one person in the arena, you can do it a few ways.  You could right-click on their name and select "Private Message", or you could select their name in the Player Box and type / before your message, OR, my favorite, you just put a : before and after their name, then the message.  Private messages are effective though ALL Infantry zones, so you can message your friend in Titan to come get some CTF in Twin Peaks.  Sound confusing?  It's not ;)
+
+~B:Luminair:Hey man, you're me and I'm you... and I'm talking to myself, and... never mind.~B
+
+	That'll send the message to that person only.  When you're in a private conversation with someone, the quick and easy way to reply is to press ::, which will bring up the name of the person who last sent a private message to you.
+
+	And easy way to remain in contact with your friends is to join a common "Chat Channel"  This can be done by simply typing ?chat CHAT_NAME CHAT_PASSWORD, thought you don't need to have a password set.  To talk on the chats, you type ;MESSAGE.  Typing ?chat will list all the people on your chat.  Chats, like private messages, function throughout all the Infantry zones.  To have multiple chats, type ?chat CHAT1 PASSWORD1,CHAT2 PASSWORD2, etc.
+
+~B?chat loomy,dungpile doggies, FreshPrince 0wn3d,coo~B
+
+	This would join chat "loomy", "dungpile" with the password "doggies", FreshPrince with the password "0wn3d", and the fourth and final chat, "coo".  To talk on your other secondary chats, simply put the chat number between the semi-colons, for example: ;3;Whuzzup, Fresh Princes?
+
+	Chatting with Squad Mates is just as easy.  Type # then your message, then just press enter.  All your fellow squaddies (type ?squad to see them all) will get it.
+
+
+~107) PLAYING THE GAME: About damn time!~2
+
+	When you get in, play around; get a feel for the game.  And keep your opinions open; don't forget, almost everything can be changed to suit different preferences in zones later on.  Most people who come from Subspace feel like their guy is too slow... don't worry; the feeling shouldn't last too long.  And even if it does, there are jetpacks and other vehicles you can use to float around in :)
+
+~BBefore you run out there and get smashed, here are a few quick tips for you to consider.~B
+
+	Move around when you fight; taking 10 hits successively may kill you, while 10 hits stretched over a long period of time gives your energy time to recharge.  This can prevent any permanent damage to your health.
+
+	Use your Zoom feature.  It allows you to see things within your LOS very far ahead of you.  Shift+Home and Shift+End are the default keys.
+
+	Be conscious of the delay of switching between weapons; it takes time to go from a Machine Gun to a Pistol then back; that delay could cost you your life.
+
+	Watch your ammo supply; there's nothing worse than carving a hole through an enemy base, only to be stuck there with no ammo and no support.
+
+	If you're playing on a team-play map, i.e. CTF, try and play as a team.  Figure out a plan.  An organized team can defeat an unorganized team, even if the organized team is short on players.
+
+	The team is bigger than any one man; if it takes your suicide to break through a patch of mines to their flag, DO IT!
+
+	Watch out for cloakers; just like in Subspace, you don't want to be caught off guard by one silly cloaker mine or grenade.
+
+	Check out the Store to see what's there; there might be a repel grenade to destroy all those annoying mines, or an anti-cloak pack to see those pesky cloakers.
+
+	The top-half line of your targeting reticule is where your weapons actually travel, not the bottom line.  The part of a characters body that you can hit is a square in the middle of their body, no matter which way they're turned, or which way you fire at them.  It's like in Subspace; the graphics are trivial, the actual part you can HIT is just this square that moves around... so aim for the imaginary square :)
+
+	WATCH YOUR BACK; with Line of Sight, you can be snuck up on from behind without ever seeing it.  Either check your flanks, or travel with a friend who can spot your 6.
+
+
+~108) GAME INTERFACE: Self destruct enabled?  WTF IS THAT?!?!~2
+
+	The in-game interface is divided into 3 chunks: the game window (where you play), the chat/info window on the bottom (where the game chat is), and the whole inventory area on the right.  
+
+	When you're in the Store or Skills section, information about the selected item/skill is displayed in the "Info" section, which replaces your chat window.  You can toggle between the two by clicking on the "Chat" or "Info" button at the top-left of the window.
+
+	At the top-right section of your screen is the Player window.  The number of players and their names are shown here.  Yellow names are on your team, white are not.  Right clicking on a name gives you several options; you can Private Message them, look at their info (this doesn't currently work, though if it did it would display their info in the Info/Chat section), Ignore, or spectate them if you're in spec mode.
+
+	Below the Player section is the Inventory area.  Here is where your weapons and other items are stored.  You can right click on things in your inventory to access their options.  This allows you to assign it to a particular key, read its info, or drop a certain number of them on the ground.  Items are classified in order of their type by color and placement; Yellow signifies things like armor.  Green means traditional weapons, and white is ammo.  If something's color (except ammo) is darkened, that means you don't possess the skills to use it.
+
+	An easier way to navigate the Inventory and Player areas is to use the keyboard.  ~BPressing F2 switches between the player list and the inventory.~B  Now you can use your PageUp and PageDown keys to scroll through the contents of the active window.  Pressing the Space key (default) will do the same thing to the selected item as right clicking on it would.  But for this to work you have to make sure you're not facing any ammo, flags, etc, in the game, or pressing Space will bring up the options for what you're facing instead of what's in your inventory.  When the right-click/space window comes up, you can press the shortcut key for each option.  For example, selecting ammo the pressing "space+a" will drop all the ammo.
+
+	Below the inventory area is your weight.  Next to that is your... lets call it "Max Load Percentage".  As long as this stays below 0%, you're not bogged down with stuff to the point of walking slower.  As soon as you pass the 0% mark though, you'll continue to get slower.  The best way to travel is to stock up on as much stuff as you can without breaching the 0% mark by more than 5%.
+
+	Next is the Energy, Health, and Unit bars.  They show how much of each type you have left.  In most cases, your energy partially acts like armor as well as the fuel for energy-based weapons.  It usually recharges fairly quickly, unlike the Health or Unit bars.  When you run out of health you DIE.  If you're in a vehicle such as a Tank or a Jetpack, the Unit bar shows how much life it has left.
+
+	At the very bottom-right corner of the screen is your mini-map.  The little blinking dot in the center is you.  Other yellow dots are friendly people, and red dots are enemy units.  Clicking on it or pressing Insert brings up the full map.  This shows you the full map construction, but not the locations of anything past your characters LOS.  However, depending on the settings, you may be able to see what your teammates are seeing on their radar.  Pressing the little "G" at the bottom right corner of the full map turns on the mapping grid.  It's useful, I'd suggest having it on.
+
+	And finally, you can resize the chat window by clicking on the top border and dragging up or down.  To make the chat window up most of the screen (great when you're chatting in spec), press ~BF4~B.  Pressing ~BShift+PageUp/PageDown~B scrolls through the chat history.  A little tip for people using the "Press enter to send messages" option:  If you're stuck in the "Info" section of the Chat window, pressing ~Benter+enter~B gets you back to the chat area without clicking on its button.
+
+
+~109) SUGGESTING/COMPLAINING/BITCHING: ASIDOAIFHWOEAGWGELWK!~2
+
+	Most suggestions are made about the map, settings, or the game itself.  Most of the time all you have to do it go to the message boards and post your suggestion; chances are whomever it concerns will read it and take it into consideration.  Try and suggest things that will be productive for the game as a whole.  Giving a reason for your suggestion other than "its way more fun" can also help. :)  You can post messages at ~Bwww.infantryzone.com~B, or you can email Rod directly at ~Brodvik@harmlessgames.com~B.
+
+
+~110) IN-GAME ?COMMANDS:  ?GODMODE~2
+
+Here's a list of most of the ~B?commands.~B  Just type the command into the chat area.
+
+~B~1?alarm~2~B	- Sets a message alarm.
+~B~1?away~2~B	- Cancels your away message.
+~B~1?away  MESSAGE~2~B	- Sets your away message to message.
+~B~1?briefing~2~B	- Plays the zones briefing file if there is one.
+~B~1?chat~2~B	- Lists your chat channels.
+~B~1?chat name1,name2, ..., name10~2~B	- Adds the named chat channels to your chat channel list.
+~B~1?fakealpha~2~B	- Toggles fake alpha blending.
+~B~1?ignore~2~B	- List all the people you have ignored.
+~B~1?ignore name~2~B	- If name is not in your ignore list add them, if they are in your ignore list it removes them.
+~B~1?loadmacro filename~2~B	- Loads in FKey macros from the named file.
+~B~1?log filename~2~B	- Logs all message to the named file. If you don't specify a file name "session.log" is used. If a log file is already open it is closed and the new one is opened.
+~B~1?packetloss~2~B	- What your current packetloss is. (this is an estimate really)
+~B~1?password newpassword~2~B	- Changes you user password to the new password.
+~B~1?ping~2~B	- Displays your current ping times.
+~B~1?lag~2~B  -  This command combines the ?ping and ?packetloss command.
+~B~1?quit~2~B	- Exits the game.
+~B~1?savemacro filename~2~B	- Saves your current FKey macros to the named file.
+~B~1?showfog on/off/auto~2~B	- Toggles LOS viewing on, off or sets it to auto.
+~B~1?spec~2~B	- Who is spectating you right now.
+~B~1?squad~2~B	- Lists all players currently online in the same squad as you in all zones.
+~B~1?squad name~2~B	- Lists all players currently online in the named squad in all zones.
+~B~1?squadleave~2~B	- Removes you from your current squad.
+~B~1?squadpassword newpassword~2~B	- Sets your squad's password to new password. You must be the owner of the squad to do this.
+~B~1?squadtransfer playername~2~B	- Transfers ownership of a squad to the named player. You must be the current owner of the squad and the named player must exist.
+~B~1?squadkick playername~2~B	- Kicks the named player off your squad. You must be the owner of the squad to do this.
+~B~1?squadcreate squadName:password~2~B	- Creates a new squad with given name and protected by the given password. The named squad must not exist already.
+~B~1?squadjoin squadName:password~2~B	- Allows you to join an already existing squad. You have to specify the squad name and password.
+~B~1?team~2~B	- Tells you what team you are on.
+~B~1?team name~2~B	- Switches you to the named team.
+~B~1?team name:password~2~B	- Switches you to the named team with the given password.
+~B~1?wipecharacter~2~B	- Erases your current characters information. (you have to be in spec mode to use this)
+~B~1?zone~2~B	- What zone you are in.
+~B~1?sounddelay~2~B  - 5 by default, the lower you set it, in theory, the better the effects (generators, other machines, etc) will sound as you walk around.
+~B~1?showphysics~2~B  -  Shows the various levels of physics, great for debugging.  Green is half-height and red is full-height.
+
+
+~111) GLOSSARY~2
+
+~BLOS:~B Line of Sight.  This is the concept of only being able to SEE what is actually visible to you, as if the game was happening in real life.  For example, if you face a wall in your house, you shouldn't be able to see your friends 50 feet away playing basketball.  The same is true with Infantry's LOS.  Anything you cant see will be blacked out like "Fog of War" from the Warcraft series, and anyone standing in that area should be invisible to you.  It allows for things like ambushes and other cool stuff like that. :)
+
+~BStrafe:~B AKA Sidestepping.  A slow lateral movement from side to side.
+
+~B"6":~B If something is on your 6, it's right behind you.  Think of a clock.  Now think of yourself in the center facing 12.  Each point, from 1 to 12, represents a place around your body.
+
+~BRecycle:~B When someone working at Harmless shuts down the zone server to replace something.  Usually happens very quickly; by the time you notice you've been disconnected, the server is already back up with the new map, map settings, etc.
+
+~BHarmless Games:~B the producers of Infantry.  Created by Rod Humble and Jeff Petersen.
+
+~BLag:~B This the general term people use to refer to packet loss and latency (high pings).  If you have high packetloss and ping, that's bad... average is around 200-250ms ping with around a 1-5%s2u/1-5%u2s packetloss.
+
+~BLlama:~B Hard to define... excluding the definition of the animal, lets say it's a good lamer :P
+
+~Bl33t:~B  To put it simply, l33t speak is a dialect where certain letters are replaced with numbers.  Those of us who realize how stupid l33t is often speak in it, just cause its damn funny :)  1 0WN J00, F00Z3R!  (I own you, fool)
+
+~BEZ $$, GG SON:~B Hmm, another long story... discarding its origins, lets call it the epitome of lameness, just a way to proclaim your superiority in the dumbest way possible :)
+
+~BCTF:~B  Capture the Flag.  This is where you capture either moving or non-moving flags to win, usually played as a team.
+
+~BTurrent:~B This is a common mispelling of the word "turret", as in the turret or main gun of a tank, or the turret when you attach in Subspace.
+
+~BVultcher:~B Also a common mispelling of the word "vulture".  Much like real Vultures scavenge for food, a Vulture in a game hovers outside a fight (or might just rush into it) and attempts to pick off fighting or weak players.
+
+~BSubspace:~B A game produced by the same core team as Infantry.  A simple "Asteroids" look-a-like, it has 100x more depth than initially appears.  See www.subspacezone.com for more information.
+
+~112) QUICK FAQ: FAQ YOU!~2
+
+~B~1How do I PLAY?~2~B  Different zones have different goals.  Read the zone information in the Information menu.  One zone may require you to capture flags for a certain amount of time (CTF), or another zone might be pure deathmatch.
+~B~1How do I get into or out of Spec?~2~B  Press F12 to toggle into or out of Spectator mode.  Right click on a player name and choose "Spectate" if you want to spec them.
+~B~1How do I choose my character?~2~B  Go in to the Game Functions menu, go to Skills, and choose a skill.
+~B~1How do I change my character?~2~B  Go to Spec (F12) and type ?wipecharacter.  This will erase all your characters information, allowing you to go back to the Skills menu and redefine your skills.
+~B~1How do I attach to a teammate?~2~B  If you're in a zone that gives you an attachment device (often called Teleport), you simply assign it to a key just like a weapon, select a player in your Player list, and then "fire" the Teleport.
+~B~1How do I buy stuff?~2~B  Go into the Menu, go to Game Functions, then go to Store.  You may need to be in a store zone, or in spectator mode, in order to buy things.
+~B~1How do I drive vehicles?~2~B  Go up to a vehicle and make sure it's selected (when it turns purple), then press your space key (default), and then choose which position you want to take. 
+~B~1How do I get out of this vehicle?~2~B  Press space+shift (default).
+~B~1How do I pick up or drop flags?~2~B  Select them the same way as a vehicle or an item on the ground, and press space+space.  They usually drop after a time limit, shown at the bottom-right part of your screen.
+~B~1How do I shoot my weapons?~2~B  Right-click on the weapon, and select the key which you want it to fire from.  Press that key to fire it.
+~B~1How do I turn on armor/use this item?~2~B  Same as with a weapon, assign it a key then "fire" it.
+~B~1How do I see my score?~2~B  Go into the main menu, then go to Game Functions, then Scores.  You can sort the scores by the various options by clicking on the headers (i.e. Kill points, Flag points, etc).
+~B~1How do I make macros?~2~B  Type in the message which you wish to macro, then press shift+Fn, where Fn is the key you want it to be assigned to.  For example, typing in "Hi" then pressing shift+f5 will send "Hi" into the main chat every time you press shift+f5.
+~B~1How do I take screenshots?~2~B  The easiest way to take screenshots is to download a screenshot program such as Hypersnap DX.  It can be downloaded from www.hyperionics.com, see it's help files for more information.
+
+Please send in stuff you want to know, so I can add it for future generations of players to see.  Plus you'll get free tech support :P
+
+
+~113) OTHER INFORMATION: Competition!~2
+
+	If you have the thirst for more information, you can always check the other options in the Help menu, as well as in the Information menu.  As far as web pages go, there's always...
+
+~Bwww.infantryzone.com~B - This IS the official page with the official forums, so go there if you want to complain :)
+
+~Bhttp://infantry.nmebase.com~B - Crazy momma Captain Harloch and his Infantry page... nice place, it's coming along great.
+
+~Bhttp://mostlyharmless.gamekeep.com/mostlyharmless/~B - Yeah, we all love THAT URL... This is the place to be for Cybrid no-update goodness. ;)
+
+~Bhttp://www.bezt.com/pv~B - This is pet virus' excellent HTML guide... It's kinda like my guide, but organized and pretty :P
+
+~Bhttp://www.gamehacker.com/subspace/~B - Yazour and friends run this big page that's famous for its lack of Subspace news and abundance of Infantry news. :)
+
+~114) CREDITS: Who the are you, anyway?~2
+
+	This guide was made in such a way as to prevent the loss of innocent life. ;)  If you have things you'd like to see in the guide, or questions that you have, feel free to ask me... no, wait.  DO ask me, because if you don't, the guide'll never be improved. :)
+
+	Thanks to Rod and Jeff for making Infantry, and thanks to Yankee, LJC, and Juan for what you've done as well :)  Oh, and thanks to everyone else who has ever been born, you make our world worth living in! :P
+
+Authored by ~BLuminair~B, lum@canada.com, ICQ UIN: 444113

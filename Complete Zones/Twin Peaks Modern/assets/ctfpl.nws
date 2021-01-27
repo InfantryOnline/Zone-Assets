@@ -1,0 +1,463 @@
+~6July 26th, 2020
+
+~4Removed a mechanic where squad leaders teleported other targets around them when using Suit Teleport.
+
+
+~6July 16th, 2020
+
+~4Turret settings reverted to consistent build settings due to initial hides not working in the server logic.
+CTF:X Blue is now accessible
+CTF:X Dropship layout adjusted to make portal selection easier
+
+
+
+
+~6June 3rd, 2020
+
+~4Private team limit set to 7. Still experimenting with what the community feels works best.
+Bio/Sci weapons can no longer be fired in the CTF:X dropship.
+Lava at J2
+
+~6May 29th, 2020
+
+~4Mini-TP Changes
+------
+Home warp points back to invincible for Mini-TP only.
+Added color-coded map indicators for where warp points can spawn.
+
+
+Bug fixes
+------
+Dueler/PC Dodgeball class can no longer be summoned
+Vision for brown base turret rooms added. Vision still needs more work, but this should make it more playable in the short term.
+
+
+~6May 25th, 2020
+
+~4Mini-TP Changes
+------
+Home portals are now destroyable (1000 hp) and have to be spawned by walking to base first.
+Adjusted position of enemy warp points (both WP's at M9, second WP at O8)
+Nerfed sandbag areas by making them a bit more open, and reduced turret count from 2 to 1.
+
+
+Additions
+------
+Began importing CTF:X and SUT maps, physics still need work before playable.
+CTF:X Dropship can be set as default spawn by powered aliases by typing the command *vehicle 417 on top of the "CTFX BROWN BASE" Portal located at I7/I8.
+CTF:X Brown base playable with up to 6 capturable warp points. Just use the switch located next to the yellow warp points, and your team will spawn to them when using "Home Portal" so long as your team has ownership
+
+
+
+~6August 4th, 2018
+Changes
+---------
+~4Mines disabled on terrain near switches/elevators
+Adjusted starting flag locations
+Adjusted position of second enemy portal at N8 (mini-map D7)
+Removed recurring message regarding equipment setups
+
+Bug fixes
+----------
+Minor map fixes (missing objects, fixed smart translucency on some walls)
+Added unassigned portals if they don't exist
+Fixed dueler items
+Other
+-------------------------------------------------------------------------------------------------------
+
+
+~5June 4th, 2018 )~4
+Added Engineer Repair to the Standard Eng Equipment Setup category in F11
+Items last longer in DropShip (from: 10 minutes >>>>> 2 hours)
+Items last longer in Building (from: 10 minutes >>>>> 15 minutes)
+Set ClearProjectiles and ClearHides to yes on the [StartGame] event
+
+-------------------------------------------------------------------------------------------------------
+~5March 29, 2016 ~4
+
+-Slightly increased the delay when trying to recreate a green portal after it has been destroyed.
+-Removed Sandbag and RPJoe from store (they can be accessed from the new item menu still)
+-Added additional functionality to Equipment Setups and corrected some weight issues.
+	*Can now step on Refill Ammo portals to reprize ammo with equipment setups only.
+-Fixed O8 (new D7) to have a switch delay
+
+-Adjusted some starter items for various classes (EMP Generator/EB on support classes)
+	
+-------------------------------------------------------------------------------------------------------
+~5March 23, 2016 ~5
+	
+	Fixed an issue where Equipment Setups were only functioning on Titan side
+	Removed spawn relocation for 0-9 players until it can be worked on more thoroughly
+-Warp Point Green (port to enemy) is lower health as you get closer to the flag room
+-Outdoor sandbag areas: Lowered arrow physics height, outdoor flag more accessible
+-Private team switching disabled in Gladiator (Thanks Infinite! ...)	
+-Increased Ammo Box health and made them purchaseable (drops only on Terrain9 - Event area)
+-Sandbag health increased (from 20 to 100 HP)
+	
+
+--------------------------------------------
+~5March 19, 2016~5	
+
+-Equipment Setups in F11 should be fully functional, complete with armor swapping so you never have more than 1 of the same armor type
+-A new warp start for 0-9 players has been implemented per anjro's suggestion.
+-The two outdoor flags control ownership of turrets guarding sandbags (first attempt at incentivizing flagging no matter your team size)
+
+	
+
+---------------------------------------------------------------------------------------
+~5March 18, 2016~5
+
+-New items are now in store, and only allowed on Terrain9 (event map only)
+-Automatic buy macros are available in F11, and now restock you upon death or DropShip Recall.
+-Changed some terrains on event map to enable new items (also newer looking terrains to avoid using league map terrains)
+-Disabled reprogramming kit ONLY on Terrain9 (event area) to avoid messing with warp point structures and stronger turrets
+
+New Items:
+	Added Steron Gun (shoot teammates)
+	Added Plasma Grenade (Plasma Bomb + Pulsar)
+	Added Dual Flechette
+	Added Remote Mine/Detonater
+	Added SandBag (dies to 1 of any type of explosive, immune to kinetic weapons, limit 2 per person)	
+---------------------------------------------------------------------------------------
+
+~5March 1, 2016 ()~5
+-Left of the dropship explains what all the warp point colors do.
+-Various doors in the dropship can be opened/closed with a staff suit.
+
+Features in new map:
+	-1 type of Warp Point is always available and indestructable(yellow) and it ports you home.
+
+	-2 types of Warp Points ARE destructable, and can be placed by players. They spawn in the DropShip (purple and green)
+	-Green Warp points are 100 hp, can only be placed by Squad Leaders Indoors/Outdoors
+	-Purple Warp Points are 1000 hp, can only be placed Outdoors by anyone.
+	
+	-Initial turret spawns are 400 hp each and now destructable (regeneration is buggy)
+	-Powered aliases have the option of opening the 'NEW ITEMS' room to allow players to use items that are still in the process of being balanced or are too new to be introduced to standard play
+
+	
+
+
+~September 3rd 2015 ( and albert)
+
+FIXES
+   -Suit Teleport no longer casts twice when held down.
+   -All items that had 1 Max Allowed set to -1 (this helps shortened macro system)
+   -Some improper map objects replaced with their original files (Reduces .lvl filesize and might improve your framerate!)
+   
+NEW CONTENT
+   -Quick method to setup turrets for OvD's! *PRIZE QUICK to the Engineer
+   -Menus added
+			Turret Menu         [*vehicle 410]
+			Test Item Menu      [*vehicle 411]
+			Ammo Box			[*vehicle 404]
+			Create Warp Point   [*vehicle 418]
+   -7 Bases
+   -New Gladiator area and Item menu
+   -New Dynamic warp system (for events and bases)
+   -New Referee tools on Staff suit
+   -Added some more Equipment Setups (Automatic ?buy setups)
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+CTFPL Revision 007
+
+Posted by albert
+
+Issues- marked with $ fixed in this version
+
+August 18 2015
+$-Heavy Weapons starting items were copying PC Dodge Ball Heavy Weapons.
+
+-------------------------------------------------------------------------------------------------------------------
+
+CTFPL Revision 006
+
+Posted by albert
+
+August 17th 2015
+You can now unspec and play PC Dodge Ball while OvD's are being played! Just select the "PC Dodge Ball Heavy Weapons" class in the F11 menu and press F12 to play! 
+
+-Updated map to add PC Dodge Ball base
+-Created "PC Dodge Ball Heavy Weapons" class
+-Created spawn point @ L5
+
+-------------------------------------------------------------------------------------------------------------------
+
+CTFPL Revision 005
+
+Posted by albert
+
+Issues- marked with $ fixed in this version
+
+August 16 2015
+$-Changed store flooring so that you can't get repelled out
+$-Changed Gladiator flooring so people cannot abuse by changing class when they die
+$-Dueler spawn corrected to only spawn in dueling arena
+
+-------------------------------------------------------------------------------------------------------------------
+
+CTFPL Revision 004
+
+Posted by albert
+
+August 15th 2015
+You can now unspec and play CTFPL Gladiator while OvD's are being played. No more waiting! You can now just join the game and have some fun thanks to these updates:
+
+-Changed public to Free For All Gladiator
+-Added dropship/store inside the Gladiator Arena
+
+There is also a new way to host events. Please visit www.uslzone.com/usl/ctfpl for information on how to properly host events! 
+
+-------------------------------------------------------------------------------------------------------------------
+
+CTFPL Revision 003
+
+Posted by albert
+
+August 13th 2015
+-Updated map to add CTFx Brown Base
+-Added doors & switches for CTFx Brown Base
+-Added mineral spawns on CTFx Brown Base
+-Updated map to add two bases from Alioth map
+-Added door and switch for G9 Alioth base
+
+-------------------------------------------------------------------------------------------------------------------
+
+CTFPL Revision 002
+
+Posted by albert
+
+Issues- marked with $ fixed in this version.
+
+August 6th 2015
+$-Reprogram kit has been removed until we can get it 100% fixed
+$-Reprogram kit has been removed from engineer starting class
+$-?buy wipe has been disabled
+
+-------------------------------------------------------------------------------------------------------------------
+
+CTFPL Revision 001
+
+Posted by Missile Command
+
+Issues- marked with $ fixed in this version.
+
+
+
+$-?drop in DS doesnt work. found missing PrizeExipre on DS terrain.
+Fixed by adding PrizeExpire=600 items will stay on floor for 10 min fixed
+
+$-Haywires dont effect turrets. 
+Found difference in new vs old ctfpl .veh file for armor on turrets.
+SOE version has self reduction in Psionic catagory at 0%
+New CTFPL has 1000%. this may effect the "anti" damage inflicted by haywire.
+Was never broken- fixed
+
+-Flags dont eat drops. Both old and new .cfg have Prizedistance=128
+This SHOULD cause drops to get eaten but doesnt. 
+still checking for reasons for this. Other flag bug found. Reasons for these most likely in server coding. 
+
+$-Minerals need to respawn faster- Fixed
+
+$-Floor tiles at new collie elevator outside caves. needs switch area tile.-$ Fixed
+Switch door association needs fixed-$ fixed
+
+
+-add captures stat
+
+-add MVP bubble
+
+-Fix or add game total time to breakdown
+
+
+
+
+
+
+
+
+
+
+SEASON STARTS THE WEEKEND OF MAY 4th, 5th, and 6th
+
+Wins/losses will not determine the best squad out there. Squads will have no reason to drop out of the league unless dissolving. Stay tuned for one heck of a system of organized games.
+
+The specialty of this league: 
+
+Wins and losses will not determine the championship. 
+Squads cannot be dropped from the league unless the squad dissolves. 
+No fixed structure in scheduling, captains schedule at best times for their squad. 
+Less time consuming "per-match" for referees and players alike. 
+
+
+
+Seasonal Rules:
+
+
+Teams/Squads may enter the league anytime during the season.
+
+A squad is required to have 10 active names on its roster.
+
+As each squad enters the league, the squad will begin with 50 bounty.
+
+Squads may leave the league, but upon re-entry the squad's bounty will be fifty.
+
+Should people leave a squad, or a squad dissolve, the people changing membership are required 2 weeks of inactivity in organized events in the league. Meaning they cannot participate in the league at all for 2 weeks.
+
+Should a squad go inactive (meaning not competing) for 3 consecutive weeks, the squad's bounty will drop to fifty.
+
+Bounties cannot go below 50.
+
+Squad captains will have the responsibility of scheduling scrimmages on their own.
+
+Excessive "squad-hoppers" (excessive will be determined by the referees) will be permanently removed from the league
+
+Ranking will be based on a simple bounty formula. See Appendix A.
+
+Awards other than championship will also be available. See Appendix B.
+
+Players found guilty of impersonating CTFPL referees or any infantry-related staff at all will be permanently removed from the league.
+
+League Administrator reserves the right to remove any person(s) permanently from the league for whatever reason he/she deems fit.
+
+
+
+
+Scrimmage Rules:
+
+
+Squad captains have 15 minutes to prepare their squads for the referee's instructions. Should only one captain be ready by then, that squad gets the win by default.
+
+Host referees are required to start a scrimmage within 15 minutes of initial game time. If both captains are not prepared, the referee is free (encouraged) to leave the arena and allow the captains to re-schedule.
+
+Squads must have the required number of starters (9-14) to compete. A no-show results if one squad does not have enough starters meeting the lag limits. Should neither squad have enough starters, thus not be prepared, rescheduling the scrimmage is highly suggested. See Appendix C.
+
+NT (non-team) subs are not allowed. A player must be on the squad's roster in order to participate.
+
+Players will be required to drop all minerals when the referee asks them to.
+
+The referee will grant 100 of each mineral (unilennium, pandora's element, tsolvy crystals, titanium oxide) in each team's dropship.
+
+Players who do not drop minerals within a given time limit by the referee, will not be allowed to particpate in the scrimmage.
+
+All flags must be captured and held for duration of victory timer for an instant win.
+
+There will be no ties.
+
+Only one game will be played.
+
+The scrimmage will consist of up to 15 minutes pre-game and up to 45 minutes for the game itself.
+
+Upon game-start, either team with extra minerals or illegal premades will forfeit the scrimmage. Meaning teams with minerals in excess of 100 of each mineral or pre-made turrets will lose instantly.
+
+Any disruptive spectators will be removed from the gaming arena. See Appendix D.
+
+Intentionally forcing explosive damage in any way against a walled structure to inflict damage through the wall of any building is considered cheating. Those suspected of this will be removed from game-play.
+
+Should the game last longer than 30 minutes of the game timer, points will be awarded to each team that initiates a "Victory in 60 seconds!" arena message. The points will only be counted during the last 15 minutes of the scrimmage (up until the full 45 minutes of game-time).
+
+The team with the most points at the end of a game where the flags are distributed amongst both teams, wins.
+
+In the rare case of both teams having the same number of points, the host referee will make final judgment on which squad won the scrimmage. See Footnote.
+
+MVP (most valuable player) will be decided upon by the winning team's captain. 
+
+
+
+Appendix A:
+
+
+Bounty system is simple: You play more, the higher your bounty goes. It's a race to see who wins more often, and against whom, to get the highest bounty though.
+
+Winning squad bounty = Winner's old bounty + Loser's bounty 
+
+Losing squad bounty = 10% of loser's bounty 
+
+Example: EasyMoney with 100 bounty defeats BigGuns at 50 bounty. EasyMoney now has 150, and BigGuns now has 55. 
+
+
+
+Appendix B:
+
+
+Cups and Titles may be added during the season (Platinum version of cups to the first squads to reach this level in a season). For starters the following are available: 
+
+Triton Cup: 1k bounty 
+
+Io Cup: 4k bounty 
+
+Neptune Cup: 10k bounty 
+
+Pluto Title: Best winning ratio 
+
+Saturn Title: Least amount of losses over 500 bounty 
+
+Mars Title: Most amount of wins over 500 bounty and under 1500 bounty 
+
+Earth Title: Most amount of wins 
+
+Venus Title: Most amount of total team kills during the season 
+
+Grand Champion Title: Highest bounty at end of season 
+
+Titles may be upgraded to Elite status for longest owned time. For example: After surpassing 250 bounty, a team may have the most wins and have Earth Title for a month, all squads after that only held the Earth Title for 2-3 weeks at longest. At the end of the season the squad that held the title longest gets the Elite Earth Title, while the squad with most wins at the end of the season will be Grand Earth Title. 
+
+
+Appendix C:
+
+
+Lag Limits will apply to define what starting players are. Players are required to meet the following standards: 
+
+Under 400ms ping 
+
+Under 250ms latency (only moderators and the host referees can see this) 
+
+Under 4% packet loss from server 
+
+Under 4% packet loss to server 
+
+Should a player disconnect during a game 3 times, or be locked in spec 3 times due to their connection with the server, they may not re-enter the game. (Players re-entering the arena must drop minerals in a public arena upon reconnect in order to return to play in the privately-made arena for the scrimmage) 
+
+
+Appendix D:
+
+
+Players and spectators both have to restrain themselves within a gaming arena and take responsibility for their actions and conduct. Players in the game will have more rights than spectators.
+
+Spectators are spectators only: 
+
+They may not join a team on/off spectator mode. 
+
+They may not talk in blue public chat. 
+
+They may not spam, or spitefully annoy team spec, or any individual in the arena. 
+
+They may be booted from the arena without warning. 
+
+Their actions may have devastating results on the course of actions of a scrimmage and removing them from the gaming arena as fast as possible is the best course of action for the referee to take. 
+
+
+Players will also have conduct standards: 
+
+Players may not use kill macros. 
+
+Players spamming the public blue chat will be warned, then silenced, then locked in spec, and then blocked from the arena. Repititive problem causers will be removed from the league. 
+
+Players will receive warnings before harsh action, unlike spectators. 
+
+
+Footnote:
+
+
+Upon creating this league, I understand the argument about referees having the power to decide the entire scrimmage with their judgment alone. Only the most trusted individuals will be given the power to make this decision. If it is a highly controversial decision, the league administrator will look over the referee's decision and notes of the happenings of the scrimmage. A referee is allowed to have one decision overturned during the season and should a second need to be overturned, the referee will be removed from the season staff.
+
+I also take into judgment the idea of having one game decides all. This seasonal league is not based on wins/losses. So if a squad has a "bad day" and loses, they can regain it and surpass their previous victor by being more active. Many complaints about past organized events were that scrimmages took too long. For both squads and referees, too much time was needed to have a fair game.
+
+Spectators and squad captains are welcomed to email me with any regards towards conduct and judgment of referees. I will not be able to attend all scrimmages, thus, you are have the liberty of being my eyes for me. 
+
+League Founder, 
+Deek
+deek_ctfpl@hotmail.com.

@@ -89,7 +89,7 @@ There are a few ways available to contribute:
 
 All zones should have a `README.md` file in their containing folder. The purpose of this file is to provide Github with a way to describe the zone as you look at its contents, more importantly it provides both historic information (which we may have lost/forgotten over time) and information that can be used to configure the server for the zone.
 
-The `README.md` has a strict and expected format to follow. It is using standard INI formatting rules, with one small exception - the value for the map image uses Markdown so that it will be displayed in Github when the zone folder's content is viewed. Many zones do not have ***any*** information within its `README.md` file - we can use your help to provide accurate (as possible) data to fill in the missing bits, as well as opening the files in the Map Editor and saving an image (as `map.jpg`) to add to the folder!
+The `README.md` has a strict and expected format to follow. It is using standard INI formatting rules, with one small exception - the value for the map image uses Markdown so that it will be displayed in Github when the zone folder's content is viewed. Many zones do not have ***any*** information within its `README.md` file - we can use your help to provide accurate (as possible) data to fill in the missing bits, as well as opening the files in the Map Editor and saving an image (as `map.png`) to add to the folder!
 
 **README.md Format:**
 
@@ -155,7 +155,7 @@ For a zone to be accepted into the archive, it must:
 - Have all required files to run on the server
 - Not throw any errors on the server when first added to the repository
 - Provide a complete - and correctly formatted - `README.md` file in the root zone file folder
-- Provide a `map.jpg` radar-view file of the map in the root zone file folder
+- Provide a `map.png` radar-view file of the map in the root zone file folder
 - The zone file folder has the exact same name as the CFG file (preferably without spaces)
 
 > *It is highly recommended to name your own zone files' filenames uniquely so that there is no chance of your files being overwritten on users' computers by the game client.*  

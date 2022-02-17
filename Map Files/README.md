@@ -14,7 +14,7 @@ Setup
 Before you open the editor, you’ll need to change your editor's
 compatibility settings:  
 - Compatibility Mode: Windows XP SP3  
-- Reduced color mode: “16 (65536) color”. *If you do not, your map work
+- Reduced color mode: “16-bit (65536) color”. *If you do not, your map work
 area will be filled with green and purple textures.*  
 - Disable fullscreen optimizations
 

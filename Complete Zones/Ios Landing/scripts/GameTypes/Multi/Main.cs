@@ -1245,13 +1245,16 @@ namespace InfServer.Script.GameType_Multi
             {
                 string upgradeItem = item.name.Split(':')[1].TrimStart();
 
-                if (patron._inventory.Values.Count(itm => itm.item.name.Contains(upgradeItem)) == 0)
+                // matching with .Contains() is buggy because of "Shotgun Explosive Shells" and "Shotgun Shells"
+                // so we switch to using a strict match (for +0) and modify slightly for +1 and above
+                // if (patron._inventory.Values.Count(itm => itm.item.name.Contains(upgradeItem)) == 0)
+                if (patron._inventory.Values.Count(itm => itm.item.name==upgradeItem || itm.item.name.StartsWith(upgradeItem+" +")) == 0)
                 {
                     patron.sendMessage(-1, "You're not allowed to upgrade items you don't own");
                     return false;
                 }
 
-                ItemInfo currentItem = patron._inventory.Values.First(itm => itm.item.name.Contains(upgradeItem)).item;
+                ItemInfo currentItem = patron._inventory.Values.First(itm => itm.item.name==upgradeItem || itm.item.name.StartsWith(upgradeItem+" +")).item;
                 ItemInfo newItem = _upgrader.tryItemUpgrade(patron, currentItem.name);
 
                 //Success?

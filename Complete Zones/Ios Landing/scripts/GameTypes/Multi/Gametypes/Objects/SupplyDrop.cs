@@ -52,6 +52,7 @@ namespace InfServer.Script.GameType_Multi
             _computer.destroy(true);
             bOpened = true;
 
+            /*
             int medics = 0;
             int marines = 0;
             int rippers = 0;
@@ -109,6 +110,90 @@ namespace InfServer.Script.GameType_Multi
                 _arena.spawnItemInArea(AssetManager.Manager.getItemByName("Incendiary Grenade"), (ushort)_rand.Next(2, 4), posX, posY, Settings.c_supply_openRadius);
                 _arena.spawnItemInArea(AssetManager.Manager.getItemByName("Incinerator"), (ushort)_rand.Next(35, 55), posX, posY, Settings.c_supply_openRadius);
             }
+            */
+
+            // Ammo Rebalancing by Cadenza
+
+            // SK classes
+            int med = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Medic")).Count();
+            int mar = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Marine")).Count();
+            int rip = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Ripper")).Count();
+            int gre = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Grenadier")).Count();
+            int sni = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Sniper")).Count();
+            int lmg = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Machinegunner")).Count();
+            int atr = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Assault")).Count();
+            int sap = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Sapper")).Count();
+
+            // SK+ (eventual SKX) classes
+            int roc = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Rocketeer")).Count();
+            int spe = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("SpecOps")).Count();
+
+            // SKX classes
+            int ops = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("BlackOps")).Count();
+            int bla = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Bladerun")).Count();
+            int dem = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Demo Troop")).Count();
+            int dro = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Drop Troop")).Count();
+            int elc = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Elite Capt")).Count();
+            int nov = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Nova Troop")).Count();
+            int rtc = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Rocket Tech")).Count();
+            int ser = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Sergeant")).Count();
+            int sql = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Squad Lead")).Count();
+            int stc = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Storm Comm")).Count();
+            int stl = _team.ActivePlayers.Where(p => p._baseVehicle._type.Name.Contains("Storm Lord")).Count();
+
+            // [4.55mm Rifle FMJ] for Light Machinegunner, Marine, SpecOps, Storm Commander
+            // ** bonus for Light Machinegunner due to increased ammo burn
+            for (int k = 0; k < lmg*2 + mar + spe + stc; ++k)
+                _arena.spawnItemInArea(AssetManager.Manager.getItemByName("4.55mm Rifle FMJ"), (ushort)_rand.Next(75, 180), posX, posY, Settings.c_supply_openRadius);
+
+            // [10mm Pistol Cartridge] for Assault Trooper, Elite Captain, Medic, Sergeant, Squad Leader, Sniper
+            // ** bonus for Assault Trooper due to dual pistol using double ammo
+            for (int k = 0; k < atr*2 + elc + med + ser + sql + sni; ++k)
+                _arena.spawnItemInArea(AssetManager.Manager.getItemByName("10mm Pistol Cartridge"), (ushort)_rand.Next(75, 180), posX, posY, Settings.c_supply_openRadius);
+
+            // [12.7mm Rifle FMJ] for Sniper
+            for (int k = 0; k < sni; ++k)
+                _arena.spawnItemInArea(AssetManager.Manager.getItemByName("12.7mm Rifle FMJ"), (ushort)_rand.Next(75, 180), posX, posY, Settings.c_supply_openRadius);
+
+            // [20mm HEAT Cartridge] for Ripper Gunner, Storm Lord
+            for (int k = 0; k < rip + stl; ++k)
+                _arena.spawnItemInArea(AssetManager.Manager.getItemByName("20mm HEAT Cartridge"), (ushort)_rand.Next(150, 250), posX, posY, Settings.c_supply_openRadius);
+
+            // [40mm HE Cartridge] for Demo Trooper, Grenadier, Rocketeer
+            for (int k = 0; k < dem + gre + roc; ++k)
+                _arena.spawnItemInArea(AssetManager.Manager.getItemByName("40mm HE Cartridge"), (ushort)_rand.Next(25, 40), posX, posY, Settings.c_supply_openRadius);
+
+            // [Incinerator] for BlackOps, Light Machinegunner, Nova Trooper, Sapper, Squad Leader
+            // ** moved out of common items to reduce clutter
+            for (int k = 0; k < ops + lmg + nov + sap + sql; ++k)
+                _arena.spawnItemInArea(AssetManager.Manager.getItemByName("Incinerator"), (ushort)_rand.Next(35, 55), posX, posY, Settings.c_supply_openRadius);
+
+            // [MiniLAW] for BlackOps, Rocketeer
+            for (int k = 0; k < ops + roc; ++k)
+                _arena.spawnItemInArea(AssetManager.Manager.getItemByName("MiniLAW"), (ushort)_rand.Next(2, 5), posX, posY, Settings.c_supply_openRadius);
+
+            // [Shotgun Explosive Shells] for Sapper
+            for (int k = 0; k < sap; ++k)
+                _arena.spawnItemInArea(AssetManager.Manager.getItemByName("Shotgun Explosive Shells"), (ushort)_rand.Next(20, 40), posX, posY, Settings.c_supply_openRadius);
+
+            // [Shotgun Shells] for Drop Trooper, Grenadier, Marine, Ripper Gunner, Rocket Tech, Sapper
+            // ** moved out of common items to reduce clutter
+            for (int k = 0; k < dro + gre + mar + rip + rtc + sap; ++k)
+                _arena.spawnItemInArea(AssetManager.Manager.getItemByName("Shotgun Shells"), (ushort)_rand.Next(20, 40), posX, posY, Settings.c_supply_openRadius);
+
+            // [Throwing Knife] for Bladerunner, Sniper, SpecOps
+            for (int k = 0; k < bla + sni + spe; ++k)
+                _arena.spawnItemInArea(AssetManager.Manager.getItemByName("Throwing Knife"), (ushort)_rand.Next(25, 40), posX, posY, Settings.c_supply_openRadius);
+
+            // Common items (only hand grenade is actual class-agnostic)
+            for (int k = 0; k < _team.ActivePlayerCount; ++k)
+            {
+                _arena.spawnItemInArea(AssetManager.Manager.getItemByName("Hand Grenade"), (ushort)_rand.Next(2, 4), posX, posY, Settings.c_supply_openRadius);
+                _arena.spawnItemInArea(AssetManager.Manager.getItemByName("Incendiary Grenade"), (ushort)_rand.Next(2, 4), posX, posY, Settings.c_supply_openRadius);
+                _arena.spawnItemInArea(AssetManager.Manager.getItemByName("LAW"), (ushort)_rand.Next(0, 3), posX, posY, Settings.c_supply_openRadius);
+            }
+
+            // end rebalancing
 
             //Alert our lucky players
             _team.sendArenaMessage(String.Format("&The supply crate at {0} has been opened", _name), 4);

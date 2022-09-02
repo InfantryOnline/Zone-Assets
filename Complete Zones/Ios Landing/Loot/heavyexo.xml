@@ -3,7 +3,7 @@
 		<loot name="LAW" itemID="1004" chance="100" quantity="3"></loot>
 		<loot name="Scrap Metal" itemID="2026" chance="100" quantity="8"></loot>
 		<loot name="Hand Grenade" itemID="1007" chance="100" quantity="9"></loot>
-		<loot name="Incendiary Grenade" itemID="1176" chance="100" quantity="4"></loot>
+		<loot name="Incendiary Grenade" itemID="1176" chance="100" quantity="6"></loot>
 	</normal>
 	<common chance="1" count="1">
 		<loot name="Weapon Powerup" itemID="128" chance="34" quantity="1"></loot>

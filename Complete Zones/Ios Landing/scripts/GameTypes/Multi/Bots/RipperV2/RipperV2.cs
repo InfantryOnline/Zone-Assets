@@ -26,7 +26,7 @@ namespace InfServer.Script.GameType_Multi.Bots
 		public float runDist;               //The distance from the player where we run away!
 		public float fireDist;
 		public static ushort basevehicleID = 145;
-		public static ushort vetvehicleID = 152;
+		public static ushort vetvehicleID = 153;
 		public static ushort adeptvehicleID = 152;
 
 		///////////////////////////////////////////////////

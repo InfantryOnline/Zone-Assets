@@ -278,7 +278,8 @@ namespace InfServer.Script.GameType_Multi
             if (target._team != _team)
                 return false;
 
-            if (target._state.health == target._baseVehicle._type.Hitpoints)
+            //if (target._state.health == target._baseVehicle._type.Hitpoints)
+            if (target._state.health > Math.Floor(0.9* target._baseVehicle._type.Hitpoints))
                 return false;
 
             if (_arena.getTerrain(target._state.positionX, target._state.positionY).safety)

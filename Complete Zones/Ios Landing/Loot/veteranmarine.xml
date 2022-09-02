@@ -1,9 +1,6 @@
 <lootTable botID="154" name="Veteran Marine">
 	<normal>
 		<loot name="Marine Helmet" itemID="103" chance="95" quantity="1"></loot>
-		<loot name="Weapon Powerup" itemID="128" chance="2" quantity="1"></loot>
-		<loot name="Protection Powerup" itemID="138" chance="2" quantity="1"></loot>
-		<loot name="Speed Powerup" itemID="137" chance="2" quantity="1"></loot>
 	</normal>
 	<common chance="1" count="1">
 		<loot name="None" itemID="0" chance="95" quantity="1"></loot>

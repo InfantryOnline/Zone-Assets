@@ -386,16 +386,30 @@ namespace InfServer.Script.GameType_Multi
                 case 10:
                     _arena.sendArenaMessage(string.Format("{0} is on fire!", killer._alias), 17);
                     break;
+                case 28:
+                    {
+                        if(killer.getInventoryAmount(1325) > 0)
+                            killer.sendMessage(0, "Remember to use your existing Pavelow summon before you get another!");
+                    }
+                    break;
                 case 30:
                     {
                         _arena.sendArenaMessage(string.Format("Someone kill {0}!", killer._alias), 18);
-                        killer.sendMessage(0, "You've been awarded a Pavelow for your efforts, Check your inventory and call it in!");
+                        if(killer.getInventoryAmount(1325) == 0)
+                            killer.sendMessage(0, "You've been awarded a Pavelow for your efforts - check your inventory and call it in!");
                         killer.inventoryModify(1325, 1);
+                    }
+                    break;
+                case 38:
+                    {
+                        if(killer.getInventoryAmount(1476) > 0)
+                            killer.sendMessage(0, "Remember to use your existing Juggernaut summon before you get another!");
                     }
                     break;
                 case 40:
                     {
-                        killer.sendMessage(0, "You've been awarded a Juggernaut for your efforts, Check your inventory and call it in!");
+                    	if(killer.getInventoryAmount(1476) == 0)
+                            killer.sendMessage(0, "You've been awarded a Juggernaut for your efforts - check your inventory and call it in!");
                         killer.inventoryModify(1476, 1);
                     }
                     break;

@@ -22,6 +22,7 @@ namespace InfServer.Script.GameType_Multi
         public Dictionary<ushort, Player> _medBotFollowTargets;
         public Dictionary<ushort, Player> _medBotHealTargets;
         public double hpMultiplier = 0.25;
+        public int bonusBots = 0;
         public int _lastHPChange;
 
         public Dictionary<string, Type> _botTypes;
@@ -31,13 +32,16 @@ namespace InfServer.Script.GameType_Multi
             if (_bots == null)
                 _bots = new List<Bot>();
 
+            // Bonus difficulty modifier by Cadenza
+            // new arena name syntax: "[Co-Op]<#> <DIFFICULTY>"
+            // examples: [Co-Op]3 Normal, [Co-Op]1 Hell
+            int d = 0, d_max = 9;
+            if(int.TryParse(_arena._name.Split(']')[1].Split(' ')[0], out d))
+                bonusBots = Math.Min(d_max,Math.Max(0,d));
+
             int extraBots = 0;
-
             if (_arena._name.EndsWith("Hell"))
-                extraBots = (int)(_arena.PlayerCount * 0.50);
-                
-
-            
+                extraBots = (int)((_arena.PlayerCount+bonusBots) * 0.50);
 
             if (spawnBots && _arena._bGameRunning)
             {
@@ -77,7 +81,7 @@ namespace InfServer.Script.GameType_Multi
                 {
                     int botcount = _bots.Where(b => ((b._type.Id == 131) || (b._type.Id == 151) || (b._type.Id == 154)) && b._team == _botTeam).Count();
                     int playercount = _team.ActivePlayerCount;
-                    int max = Convert.ToInt32((playercount * 1.25) + extraBots);
+                    int max = Convert.ToInt32((playercount+bonusBots)*1.25 + extraBots);
 
                     if (botcount < max) 
                     {
@@ -92,15 +96,12 @@ namespace InfServer.Script.GameType_Multi
                 {
                     int botcount = _bots.Where(b => ((b._type.Id == 145) || (b._type.Id == 152) || (b._type.Id == 153)) && b._team == _botTeam).Count();
                     int playercount = _team.ActivePlayerCount;
-                    int max = (int)((playercount * 0.25) + extraBots);
-
-                    if (max < 1)
-                        max = 1;
+                    int max = (int)((playercount+bonusBots+(extraBots>0?1:2))/(extraBots>0?2:3));
 
                     if (botcount < max)
                     {
                         int add = (max - botcount);
-                        _lastMarineWave = now;
+                        _lastRipperWave = now;
                         spawnRipperWave(_botTeam, _baseScript._coop._team, add);
                     }
                 }
@@ -300,13 +301,13 @@ namespace InfServer.Script.GameType_Multi
 
                         if (hpMultiplier != 0.0)
                         {
-                            if (_team.ActivePlayerCount <= 1)
+                            if (_team.ActivePlayerCount <= 1 && bonusBots == 0)
                             {
                                 heavy._state.health = Convert.ToInt16(heavy._type.Hitpoints);
                             }
                             else
                             {
-                                heavy._state.health = Convert.ToInt16(heavy._type.Hitpoints + (heavy._type.Hitpoints * (_team.ActivePlayerCount * hpMultiplier)));
+                                heavy._state.health = Convert.ToInt16(heavy._type.Hitpoints + (heavy._type.Hitpoints * (_team.ActivePlayerCount+bonusBots) * hpMultiplier));
                             }
                            
                         }
@@ -341,13 +342,13 @@ namespace InfServer.Script.GameType_Multi
 
                         if (hpMultiplier != 0.0)
                         {
-                            if (_team.ActivePlayerCount <= 1)
+                            if (_team.ActivePlayerCount <= 1 && bonusBots == 0)
                             {
                                 elitemarine._state.health = Convert.ToInt16(elitemarine._type.Hitpoints);
                             }
                             else
                             {
-                                elitemarine._state.health = Convert.ToInt16(elitemarine._type.Hitpoints + (elitemarine._type.Hitpoints * (_team.ActivePlayerCount * hpMultiplier)));
+                                elitemarine._state.health = Convert.ToInt16(elitemarine._type.Hitpoints + (elitemarine._type.Hitpoints * (_team.ActivePlayerCount+bonusBots) * hpMultiplier));
                             }
 
                         }
@@ -384,13 +385,13 @@ namespace InfServer.Script.GameType_Multi
                         
                         if (hpMultiplier != 0.0)
                         {
-                            if (_team.ActivePlayerCount <= 1)
+                            if (_team.ActivePlayerCount <= 1 && bonusBots == 0)
                             {
                                 exo._state.health = Convert.ToInt16(exo._type.Hitpoints);
                             }
                             else
                             {
-                                exo._state.health = Convert.ToInt16(exo._type.Hitpoints + (exo._type.Hitpoints * (_team.ActivePlayerCount * hpMultiplier)));
+                                exo._state.health = Convert.ToInt16(exo._type.Hitpoints + (exo._type.Hitpoints * (_team.ActivePlayerCount+bonusBots) * hpMultiplier));
                             }
 
                         }
@@ -426,13 +427,13 @@ namespace InfServer.Script.GameType_Multi
 
                         if (hpMultiplier != 0.0)
                         {
-                            if (_team.ActivePlayerCount <= 1)
+                            if (_team.ActivePlayerCount <= 1 && bonusBots == 0)
                             {
                                 exo._state.health = Convert.ToInt16(exo._type.Hitpoints);
                             }
                             else
                             {
-                                exo._state.health = Convert.ToInt16(exo._type.Hitpoints + (exo._type.Hitpoints * (_team.ActivePlayerCount * hpMultiplier)));
+                                exo._state.health = Convert.ToInt16(exo._type.Hitpoints + (exo._type.Hitpoints * (_team.ActivePlayerCount+bonusBots) * hpMultiplier));
                             }
 
                         }

@@ -102,7 +102,7 @@ namespace InfServer.Script.GameType_Multi
 
             _isEarlyAccess = false;
 
-            if (_arena._name.StartsWith("[Co-Op]"))
+            if (_arena._name.ToLower().StartsWith("[co-op]"))
                 _gameType = Settings.GameTypes.Coop;
             else if (_arena._name.Equals("[PvP] Royale"))
                 _gameType = Settings.GameTypes.Royale;

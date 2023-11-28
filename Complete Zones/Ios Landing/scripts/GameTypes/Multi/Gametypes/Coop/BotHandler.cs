@@ -40,7 +40,7 @@ namespace InfServer.Script.GameType_Multi
                 bonusBots = Math.Min(d_max,Math.Max(0,d));
 
             int extraBots = 0;
-            if (_arena._name.EndsWith("Hell"))
+            if (_arena._name.ToLower().EndsWith("hell"))
                 extraBots = (int)((_arena.PlayerCount+bonusBots) * 0.50);
 
             if (spawnBots && _arena._bGameRunning)

@@ -29,6 +29,24 @@ namespace InfServer.Script.GameType_Multi.Bots
 		public static ushort vetvehicleID = 153;
 		public static ushort adeptvehicleID = 152;
 
+		WeaponController.WeaponSettings settings;
+
+		// LAW fire rate adjustment
+		public bool law_target;
+		public bool weapon_misfired;
+		public string vname;
+		public string mechs = "Slick || Light Attack ExoSuit";
+		public string jumpt = "Deathboard || Drop Pack";
+		public double law_misfire_rate1 = 0.2; // failure rate against mechs
+		public double law_misfire_rate2 = 0.8; // failure rate against non-mechs
+
+		// workaround for "infinite clip size"
+		//public int clip_size = 45;
+		//public int shots_fired = 0; // tracks # of shots fired
+		//public int reload_iteration = 15; // skip shots to simulate reload
+		//public int reload_counter;
+
+
 		///////////////////////////////////////////////////
 		// Member Functions
 		///////////////////////////////////////////////////
@@ -105,8 +123,15 @@ namespace InfServer.Script.GameType_Multi.Bots
 							return Vector3.Zero;
 						};
 
+					vname = "";
+					law_target = false;
 
-					if (target._occupiedVehicle != null && target._occupiedVehicle._type.ClassId > 0 && _lawQuantity >= 1)
+					if(target._occupiedVehicle != null){
+						vname = target._occupiedVehicle._type.Name;
+						law_target = (mechs.Contains(vname) || jumpt.Contains(vname));
+					}
+
+					if (law_target && _lawQuantity >= 1)
 						_weapon.equip(_arena._server._assets.getItemByID(1004));
 					else
 						_weapon.equip(AssetManager.Manager.getItemByID(_type.InventoryItems[0]));
@@ -122,15 +147,28 @@ namespace InfServer.Script.GameType_Multi.Bots
 						int aimResult = _weapon.getAimAngle(target._state);
 
 						if (_weapon.isAimed(aimResult))
-						{   //Spot on! Fire?
-							if (target._occupiedVehicle != null && target._occupiedVehicle._type.ClassId > 0 && _lawQuantity >= 1)
+						{
+
+							weapon_misfired = false;
+
+							if (law_target && _lawQuantity >= 1)
 							{
 								_lawQuantity--;
 								_movement.freezeMovement(3000);
+
+								// roll the dice
+								Random unlucky = new Random();
+								double roll = unlucky.NextDouble();
+								double rate = mechs.Contains(vname) ? law_misfire_rate1 : law_misfire_rate2;
+								weapon_misfired = roll < rate;
+								//Log.write(TLog.Warning, String.Format("[RipperV2] LAW target {0} / roll {1} / rate {2}", vname, roll, rate));
+
 							}
 
-							_itemUseID = _weapon.ItemID;
-							_weapon.shotFired();
+							if(!weapon_misfired){
+								_itemUseID = _weapon.ItemID;
+								_weapon.shotFired();
+							}
 						}
 
 						steering.bSkipAim = true;

@@ -32,13 +32,10 @@ namespace InfServer.Script.GameType_Multi.Bots
 		WeaponController.WeaponSettings settings;
 
 		// LAW fire rate adjustment
-		public bool law_target;
-		public bool weapon_misfired;
-		public string vname;
-		public string mechs = "Slick || Light Attack ExoSuit";
-		public string jumpt = "Deathboard || Drop Pack";
-		public double law_misfire_rate1 = 0.2; // failure rate against mechs
-		public double law_misfire_rate2 = 0.8; // failure rate against non-mechs
+		public string LAW_target_group1 = "Slick || Light Attack ExoSuit";
+		public string LAW_target_group2 = "Deathboard || Drop Pack";
+		public double LAW_misfire_rate1 = 0.2; // failure rate against mechs
+		public double LAW_misfire_rate2 = 0.8; // failure rate against non-mechs
 
 		// workaround for "infinite clip size"
 		//public int clip_size = 45;
@@ -57,10 +54,10 @@ namespace InfServer.Script.GameType_Multi.Bots
 			: base(type, state, arena)
 		{
 			//bOverriddenPoll = true;
-			fireDist = 6.9f;
 			farDist = 3.4f; 
 			shortDist = 1.2f; 
 			runDist = 0.2f;
+			fireDist = 6.9f;
 
 			if (type.InventoryItems[0] != 0)
 				_weapon.equip(AssetManager.Manager.getItemByID(type.InventoryItems[0]));
@@ -123,15 +120,19 @@ namespace InfServer.Script.GameType_Multi.Bots
 							return Vector3.Zero;
 						};
 
-					vname = "";
-					law_target = false;
+					string LAW_vName = "";
+					bool is_LAW_group1 = false;
+					bool is_LAW_group2 = false;
+					bool is_LAW_target = false;
 
 					if(target._occupiedVehicle != null){
-						vname = target._occupiedVehicle._type.Name;
-						law_target = (mechs.Contains(vname) || jumpt.Contains(vname));
+						LAW_vName = target._occupiedVehicle._type.Name;
+						is_LAW_group1 = LAW_target_group1.Contains(LAW_vName);
+						is_LAW_group2 = LAW_target_group2.Contains(LAW_vName);
+						is_LAW_target = (is_LAW_group1 || is_LAW_group2);
 					}
 
-					if (law_target && _lawQuantity >= 1)
+					if (is_LAW_target && _lawQuantity >= 1)
 						_weapon.equip(_arena._server._assets.getItemByID(1004));
 					else
 						_weapon.equip(AssetManager.Manager.getItemByID(_type.InventoryItems[0]));
@@ -149,9 +150,9 @@ namespace InfServer.Script.GameType_Multi.Bots
 						if (_weapon.isAimed(aimResult))
 						{
 
-							weapon_misfired = false;
+							bool LAW_misfired = false;
 
-							if (law_target && _lawQuantity >= 1)
+							if (is_LAW_target && _lawQuantity >= 1)
 							{
 								_lawQuantity--;
 								_movement.freezeMovement(3000);
@@ -159,13 +160,13 @@ namespace InfServer.Script.GameType_Multi.Bots
 								// roll the dice
 								Random unlucky = new Random();
 								double roll = unlucky.NextDouble();
-								double rate = mechs.Contains(vname) ? law_misfire_rate1 : law_misfire_rate2;
-								weapon_misfired = roll < rate;
-								//Log.write(TLog.Warning, String.Format("[RipperV2] LAW target {0} / roll {1} / rate {2}", vname, roll, rate));
+								double rate = is_LAW_group1 ? LAW_misfire_rate1 : LAW_misfire_rate2;
+								LAW_misfired = roll < rate;
+								//Log.write(TLog.Warning, String.Format("[RipperV2] LAW target {0} / roll {1} / rate {2}", LAW_vName, roll, rate));
 
 							}
 
-							if(!weapon_misfired){
+							if(!LAW_misfired){
 								_itemUseID = _weapon.ItemID;
 								_weapon.shotFired();
 							}

@@ -1,8 +1,8 @@
 ~6 ~0
 ~4~B  ~0~B
-~B~1 [I:SKX] Cazzo Forge ~B~2
+~B~1 [I:SKX] Io's Landing ~B~2
 
-~6Welcome to Skirmish Extreme: Cazzo Forge
+~6Welcome to Skirmish Extreme: Io's Landing (f.k.a. Cazzo Forge)
 
 ~B----If the zone appears empty please type "?arena" to view all sections of the zone---- ~B
 
@@ -16,9 +16,7 @@ Skirmish Extreme combines the classic Skirmish feel with some great new features
 
 3) An Upgrade System to enhance your weapon damage or armor protection by earning cash to gamble for the next highest level. This is extremely beneficial in Co-Op!
 
-4) An Unlock System which allows for more customization within the itemset as well as access to new classes and ways to play! You can use a Shotgun as Medic with this system or even carry and fire 2 LAWs!
-
-5) A Loot System that includes semi-rare, rare, and ultra-rare drops that have a wide range of uses! You can find everything from temporary Power Weapons to Lucky Dice that increase upgrade chances to pieces of Set Items that permanently boost your cash bonuses once put together.
+4) A Loot System that includes semi-rare, rare, and ultra-rare drops that have a wide range of uses! You can find everything from temporary Power Weapons to Lucky Dice that increase upgrade chances to pieces of Set Items that permanently boost your cash bonuses once put together.
 ~B
 
 
@@ -50,12 +48,81 @@ Skirmish Extreme combines the classic Skirmish feel with some great new features
 
 ~B~2Zone Updates~B
 
+[=~b~511/29/2023~2~B=]
+~b~4-C~2~B
+~4
+1. LAW fire rate reduced to make vehicles more playable
+2. Drop Pack now joins Deathboard, Slick, and Light Attack Exosuit in being susceptible to LAWs
+
+* Marine-type bots will use LAW against Deathboard/Drop Pack with 10% success rate, and against Slick/Exo with 40% success rate
+* Ripper-type bots will use LAW against Deathboard/Drop Pack with 20% success rate, and against Slick/Exo with 80% success rate
+
+
+[=~b~511/28/2023~2~B=]
+~b~4-C~2~B
+~4
+1. Rocketeers can now use Shotgun at all upgrade levels
+2. Removed ERROR reference in Shotgun (nonexistence class 20)
+3. Nova Trooper description no longer refers to Napalm Projector (was swapped out for Incinerator, cf. 2/2/19 updates)
+4. Storm Lord description now refers to the correct weapons (unnoted fix by Realm sometime last year)
+5. Co-op arena names are no longer require exact casing
+6. Minor item description typos fixed
+
+
+[=~b~511/18/2023~2~B=]
+~b~4-C~2~B
+~4
+1. SK Sniper now starts with proper max ammo, like other SK classes.
+
+
+[=~b~502/02/2023~2~B=]
+~b~4-C~2~B
+~4
+1. Anti-vehicle damage is now consistent across upgrades for Machinegun and Ripper Gun
+2. Demo RPG damage increased to be comparable to rifle grenade
+
+
+[=~b~509/02/2022~2~B=]
+~b~4-C~2~B
+~4
+1. Players can now customize co-op AI spawn rate via arena name with the syntax ?go [Co-Op]<N> <DIFFICULTY>, effectively adding N player-equivalents (max 9) to the spawn consideration. Miniboss health will scale accordingly. Note that this feature may be scaled back if deteremined to impact zone/server stability.
+
+* [Co-Op]0 Normal is equivalent to [Co-Op] Normal
+* [Co-Op]1 Hell is the old “1+1” setup on YouTube
+* [Co-Op]9 Expert is the highest difficulty with powerups enabled
+
+2. AI Ripper spawn timer decoupled from AI Marine spawn timer (as originally intended, but hampered by typo)
+3. AI medic lobotomized, will now ignore players with >90% hp to reduce wasting energy on excessive heals
+4. Added new “use it or lose it” reminders for pavelow and juggs (at 28 and 38 kills, respectively)
+5. AI Ripper spawn count rebalanced for high player counts
+6. Veteran AI Ripper restored to keep things spicy (appears in Master and higher difficulties)
+7. Removed powerup drops from veteran marine/ripper to decrease clutter (powerups are disabled in arenas that spawn veteran AI, which made the drops redundant anyway)
+8. Incendiary Grenade now obtainable from destroying Heavy Exos to increases viability of non-LAW classes, namely Machinegunner 
+
+
+[=~b~508/20/2022~2~B=]
+~b~4-C~2~B
+~4
+1. Resolved silent fails when upgrading shotgun as sapper
+2. Ammo supply box now provides all necessary ammo for SK classes and also takes into consideration SKX classes that require ammo (this means you no longer have to spec-unspec when out of ammo)
+
+Notable supply box changes:
+* [Assault Trooper] doubled drops for 10mm Pistol Cartridge (Dual AP uses double ammo)
+* [Rocketeer] added MiniLAW
+* [Sapper] added Shotgun Explosive Shells
+* [Snipers] added Throwing Knife, and also 10mm Pistol Cartridge for PDW to make the class actually playable (previously only had sniper rifle ammo)
+* [SKX Storm Lord] added 20mm HEAT Cartridge for Ripper Gun
+* [SKX Demo Trooper] added 40mm HE Cartridge for RPG
+* Incinerator now only appears for qualified classes (reduce drop clutter)
+
+
 [=~b~510/17/2020~2~B=]
 ~b~4-HS~2~B
 ~4
 1. Reduced "basic" AI Marine strafe thrust by 50%
 2. Reduced "Adept" AI Marine strafe thrust by 33%
 3. Reduced "Veteran" AI Marine strafe thrust by 5%
+
 
 [=~b~510/04/2020~2~B=]
 ~b~4-HS~2~B
@@ -67,11 +134,13 @@ Skirmish Extreme combines the classic Skirmish feel with some great new features
 5. Reduced AI count for all modes.
 6. Increased end-game win rewards for co-op.
 
+
 [=~b~509/20/2020~2~B=]
 ~b~4-HS~2~B
 ~4
 1. AI now has a limit of 1 law per unit.
 2. Pavelows now ignore fortifications
+
 
 [=~b~509/17/2020~2~B=]
 ~b~4-HS~2~B

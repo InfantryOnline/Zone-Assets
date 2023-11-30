@@ -68,10 +68,19 @@ namespace InfServer.Script.GameType_Multi
                         //Should we be firing our rifle?
                         if (distance <= fireDist && distance > sgDist)
                         {
-                            if (_weapon.ItemID != AssetManager.Manager.getItemByID(_type.InventoryItems[0]).id)
-                            _weapon.equip(AssetManager.Manager.getItemByID(_type.InventoryItems[0]));
 
-                            if (_target._occupiedVehicle != null && _target._occupiedVehicle._type.ClassId > 0 && _lawQuantity >= 1)
+                            string LAW_vName = "";
+                            bool is_LAW_target = false;
+
+                            if(target._occupiedVehicle != null){
+                                LAW_vName = target._occupiedVehicle._type.Name;
+                                is_LAW_target = (LAW_vName=="Slick" || LAW_vName=="Light Attack ExoSuit");
+                            }
+
+                            if (_weapon.ItemID != AssetManager.Manager.getItemByID(_type.InventoryItems[0]).id)
+                                _weapon.equip(AssetManager.Manager.getItemByID(_type.InventoryItems[0]));
+
+                            if (is_LAW_target && _lawQuantity >= 1)
                                 _weapon.equip(_arena._server._assets.getItemByID(1004));
 
                             if (_weapon.ableToFire())
@@ -81,7 +90,7 @@ namespace InfServer.Script.GameType_Multi
 
                                 if (_weapon.isAimed(aimResult))
                                 {
-                                    if (_target._occupiedVehicle != null && _target._occupiedVehicle._type.ClassId > 0 && _lawQuantity >= 1)
+                                    if (is_LAW_target && _lawQuantity >= 1)
                                     {
                                         _lawQuantity--;
                                         _movement.freezeMovement(3000);

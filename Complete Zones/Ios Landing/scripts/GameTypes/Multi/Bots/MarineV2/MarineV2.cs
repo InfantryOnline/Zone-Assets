@@ -32,10 +32,10 @@ namespace InfServer.Script.GameType_Multi.Bots
 		WeaponController.WeaponSettings settings;
 
 		// LAW fire rate adjustment
-		public string LAW_target_group1 = "Slick || Light Attack ExoSuit";
-		public string LAW_target_group2 = "Deathboard || Drop Pack";
-		public double LAW_misfire_rate1 = 0.6; // failure rate against mechs
-		public double LAW_misfire_rate2 = 0.9; // failure rate against non-mechs
+		public const string LAW_target_group1 = "Slick || Light Attack ExoSuit";
+		public const string LAW_target_group2 = "Deathboard || Drop Pack";
+		public const double LAW_misfire_rate1 = 0.6; // failure rate against mechs
+		public const double LAW_misfire_rate2 = 0.9; // failure rate against non-mechs
 
 		// workaround for "infinite clip size"
 		//public int clip_size = 45;

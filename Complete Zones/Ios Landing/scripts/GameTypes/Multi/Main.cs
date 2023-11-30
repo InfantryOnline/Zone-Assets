@@ -1187,7 +1187,12 @@ namespace InfServer.Script.GameType_Multi
                 Helpers.Vehicle_RouteDeath(_arena.Players, killer, dead, null);
                 if (killer != null && dead._team != killer._team)
                 {//Don't allow rewards for team kills
-                    Rewards.calculateBotKillRewards(dead, killer, _gameType);
+
+                    // pass # of captured objectives (anti-farm)
+                    Team _team = _arena.getTeamByName("Titan Militia");
+                    int flags = _arena._flags.Values.Where(f => f.team == _team).Count();
+
+                    Rewards.calculateBotKillRewards(dead, killer, _gameType, flags);
                 }
 
                 killer.Kills++;

@@ -48,6 +48,14 @@ Skirmish Extreme combines the classic Skirmish feel with some great new features
 
 ~B~2Zone Updates~B
 
+[=~b~511/30/2023~2~B=]
+~b~4-C~2~B
+~4
+1. Extended LAW fire rate adjustments to Elite Marine and Elite Heavy (0% against JT, 100% against mechs)
+2. Implemented measures to encourage flagging by discouraging farming: For each non-boss bot kill before 11/39 captured objectives, bty/pt reward is reduced by 10% (with floor of 1 at 1/39); cash/exp rewards remain unchanged
+3. Reduced log messages on the backend (not a visible change to players)
+
+
 [=~b~511/29/2023~2~B=]
 ~b~4-C~2~B
 ~4

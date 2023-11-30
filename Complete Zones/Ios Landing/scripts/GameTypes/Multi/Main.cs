@@ -106,8 +106,8 @@ namespace InfServer.Script.GameType_Multi
                 _gameType = Settings.GameTypes.Coop;
             else if (_arena._name.Equals("[PvP] Royale"))
                 _gameType = Settings.GameTypes.Royale;
-            else if (_arena._name.ToLower().StartsWith("[rts]"))
-                _gameType = Settings.GameTypes.RTS;
+            //else if (_arena._name.ToLower().StartsWith("[rts]"))
+            //    _gameType = Settings.GameTypes.RTS;
             else
             {
                 Team team1 = _arena.getTeamByName("Titan Militia");

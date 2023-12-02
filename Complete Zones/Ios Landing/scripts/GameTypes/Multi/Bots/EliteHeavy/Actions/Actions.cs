@@ -72,8 +72,8 @@ namespace InfServer.Script.GameType_Multi
                             string LAW_vName = "";
                             bool is_LAW_target = false;
 
-                            if(target._occupiedVehicle != null){
-                                LAW_vName = target._occupiedVehicle._type.Name;
+                            if(_target._occupiedVehicle != null){
+                                LAW_vName = _target._occupiedVehicle._type.Name;
                                 is_LAW_target = (LAW_vName=="Slick" || LAW_vName=="Light Attack ExoSuit");
                             }
 

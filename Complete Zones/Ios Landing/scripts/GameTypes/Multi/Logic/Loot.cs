@@ -59,7 +59,7 @@ namespace InfServer.Script.GameType_Multi
 
                 if (lootTable == null)
                 {
-                    Log.write("Could not find loot table for bot id {0}", dead._type.Id);
+                    Log.write(TLog.Warning, "Could not find loot table for bot id {0}", dead._type.Id);
                     return;
                 }
 
@@ -101,29 +101,29 @@ namespace InfServer.Script.GameType_Multi
                 List<LootInfo> potentialLoot = new List<LootInfo>();
                 foreach (Player player in players)
                 {
-                    Log.write("Trying loot drop for {0}", player._alias);
+                    //Log.write("Trying loot drop for {0}", player._alias);
                     weightRoll = _rand.Next(0, total);
 
-                    Log.write("Category Weight Roll: {0}", weightRoll);
+                    //Log.write("Category Weight Roll: {0}", weightRoll);
 
                     if (weightRoll.IsWithin(commonRange.min, commonRange.max))
                     {
-                        Log.write("selected commmon loot list");
+                        //Log.write("selected commmon loot list");
                         potentialLoot = lootTable.commonLoot;
                     }
                     else if (weightRoll.IsWithin(uncommonRange.min, uncommonRange.max))
                     {
-                        Log.write("selected uncommon loot list");
+                        //Log.write("selected uncommon loot list");
                         potentialLoot = lootTable.uncommonLoot;
                     }
                     else if (weightRoll.IsWithin(setRange.min, setRange.max))
                     {
-                        Log.write("selected set loot list");
+                        //Log.write("selected set loot list");
                         potentialLoot = lootTable.setLoot;
                     }
                     else if (weightRoll.IsWithin(rareRange.min, rareRange.max))
                     {
-                        Log.write("selected rare loot list");
+                        //Log.write("selected rare loot list");
                         potentialLoot = lootTable.rareLoot;
                     }
                     else
@@ -131,7 +131,7 @@ namespace InfServer.Script.GameType_Multi
                         //No loot for this guy :(
                         if (potentialLoot.Count == 0)
                         {
-                            Log.write("no loot list selected");
+                            //Log.write("no loot list selected");
                             continue;
                         }
 
@@ -151,7 +151,7 @@ namespace InfServer.Script.GameType_Multi
                     }
 
                     weightRoll = _rand.Next(0, totalLootProbability);
-                    Log.write("Item Weight Roll: {0}", weightRoll);
+                    //Log.write("Item Weight Roll: {0}", weightRoll);
                     LootInfo drop = lootRanges.FirstOrDefault(rng => weightRoll.IsWithin(rng.Key.min, rng.Key.max)).Value;
 
                     //Better luck next time!
@@ -180,7 +180,7 @@ namespace InfServer.Script.GameType_Multi
 
                 if (lootTable == null)
                 {
-                    Log.write("Could not find player loot table");
+                    Log.write(TLog.Warning, "Could not find player loot table");
                     return;
                 }
 
@@ -222,29 +222,29 @@ namespace InfServer.Script.GameType_Multi
                 List<LootInfo> potentialLoot = new List<LootInfo>();
                 foreach (Player player in players)
                 {
-                    Log.write("Trying loot drop for {0}", player._alias);
+                    //Log.write("Trying loot drop for {0}", player._alias);
                     weightRoll = _rand.Next(0, total);
 
-                    Log.write("Category Weight Roll: {0}", weightRoll);
+                    //Log.write("Category Weight Roll: {0}", weightRoll);
 
                     if (weightRoll.IsWithin(commonRange.min, commonRange.max))
                     {
-                        Log.write("selected commmon loot list");
+                        //Log.write("selected commmon loot list");
                         potentialLoot = lootTable.commonLoot;
                     }
                     else if (weightRoll.IsWithin(uncommonRange.min, uncommonRange.max))
                     {
-                        Log.write("selected uncommon loot list");
+                        //Log.write("selected uncommon loot list");
                         potentialLoot = lootTable.uncommonLoot;
                     }
                     else if (weightRoll.IsWithin(setRange.min, setRange.max))
                     {
-                        Log.write("selected set loot list");
+                        //Log.write("selected set loot list");
                         potentialLoot = lootTable.setLoot;
                     }
                     else if (weightRoll.IsWithin(rareRange.min, rareRange.max))
                     {
-                        Log.write("selected rare loot list");
+                        //Log.write("selected rare loot list");
                         potentialLoot = lootTable.rareLoot;
                     }
                     else
@@ -252,7 +252,7 @@ namespace InfServer.Script.GameType_Multi
                         //No loot for this guy :(
                         if (potentialLoot.Count == 0)
                         {
-                            Log.write("no loot list selected");
+                            //Log.write("no loot list selected");
                             continue;
                         }
 
@@ -272,7 +272,7 @@ namespace InfServer.Script.GameType_Multi
                     }
 
                     weightRoll = _rand.Next(0, totalLootProbability);
-                    Log.write("Item Weight Roll: {0}", weightRoll);
+                    //Log.write("Item Weight Roll: {0}", weightRoll);
                     LootInfo drop = lootRanges.FirstOrDefault(rng => weightRoll.IsWithin(rng.Key.min, rng.Key.max)).Value;
 
                     //Better luck next time!

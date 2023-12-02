@@ -169,7 +169,7 @@ namespace InfServer.Script.GameType_Multi
         /// <summary>
         /// Calculates and rewards a players for a bot kill
         /// </summary>
-        static public void calculateBotKillRewards(Bot victim, Player killer, Settings.GameTypes gameType)
+        static public void calculateBotKillRewards(Bot victim, Player killer, Settings.GameTypes gameType, int flags)
         {
             CfgInfo cfg = killer._server._zoneConfig;
             int killerCash = 0;
@@ -177,7 +177,7 @@ namespace InfServer.Script.GameType_Multi
             int killerPoints = 0;
             int killerBounty = 0;
             int victimBounty = 0;
-            int killerBountyIncrease = 0;
+            //int killerBountyIncrease = 0;
 
             BotSettings settings = victim.Settings();
             if (settings != null)
@@ -193,7 +193,7 @@ namespace InfServer.Script.GameType_Multi
                 killerCash = Convert.ToInt32((settings.Cash) + (killerBounty * Settings.c_cashMultiplier));
                 killerExp = Convert.ToInt32((settings.Experience) + (killerBounty * Settings.c_expMultiplier));
                 victimBounty = settings.Bounty;
-                killerBountyIncrease = 0;
+                //killerBountyIncrease = 0;
 
             }
             else
@@ -209,7 +209,18 @@ namespace InfServer.Script.GameType_Multi
                 killerCash = Convert.ToInt32(((int)cfg.bot.cashKillReward) + (killerBounty * Settings.c_cashMultiplier));
                 killerExp = Convert.ToInt32(((int)cfg.bot.expKillReward) + (killerBounty * Settings.c_expMultiplier));
                 victimBounty = (int)cfg.bot.fixedBountyToKiller;
-                killerBountyIncrease = 0;
+                //killerBountyIncrease = 0;
+            }
+
+            if(victimBounty<200 && flags<11){
+                if(flags>1){
+                    double antifarm_multiplier = 0.10 * (flags-1);
+                    killerPoints = Convert.ToInt32(killerPoints * antifarm_multiplier);
+                    victimBounty = Convert.ToInt32(victimBounty * antifarm_multiplier);
+                }else{
+                    killerPoints = 1;
+                    victimBounty = 1;
+                }
             }
 
             //Update his stats
@@ -217,7 +228,8 @@ namespace InfServer.Script.GameType_Multi
             killer.Experience += killerExp;
             killer.KillPoints += killerPoints;
             //killer.Bounty += killerBounty;
-            killer.Bounty += (killerBountyIncrease + victimBounty);
+            //killer.Bounty += (killerBountyIncrease + victimBounty);
+            killer.Bounty += victimBounty;
 
             //Inform the killer..
             killer.triggerMessage(1, 500,

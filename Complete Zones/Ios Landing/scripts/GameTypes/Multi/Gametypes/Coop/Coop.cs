@@ -492,16 +492,14 @@ namespace InfServer.Script.GameType_Multi
             //Obtain the Co-Op skill..
             SkillInfo coopskillInfo = _arena._server._assets.getSkillByID(200);
 
-
-
-            //Add the skill!
+            // add co-op mode
             if (player.findSkill(200) == null)
             player.skillModify(coopskillInfo, 1);
 
-            //Add the skill!
+            // remove royale mode
             if (player.findSkill(203) != null)
                 player._skills.Remove(203);
-            //Add the skill!
+            // remove rts mode
             if (player.findSkill(202) != null)
                 player._skills.Remove(202);
 

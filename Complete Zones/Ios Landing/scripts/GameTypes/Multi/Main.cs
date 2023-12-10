@@ -102,7 +102,7 @@ namespace InfServer.Script.GameType_Multi
 
             _isEarlyAccess = false;
 
-            if (_arena._name.ToLower().StartsWith("[co-op]"))
+            if (_arena._name.ToLower().StartsWith("[co-op]") || _arena._name.ToLower().StartsWith("[1cc]"))
                 _gameType = Settings.GameTypes.Coop;
             else if (_arena._name.Equals("[PvP] Royale"))
                 _gameType = Settings.GameTypes.Royale;
@@ -110,6 +110,7 @@ namespace InfServer.Script.GameType_Multi
             //    _gameType = Settings.GameTypes.RTS;
             else
             {
+                // default to Conquest
                 Team team1 = _arena.getTeamByName("Titan Militia");
                 Team team2 = _arena.getTeamByName("Collective Military");
                 _cq.setTeams(team1, team2, false);

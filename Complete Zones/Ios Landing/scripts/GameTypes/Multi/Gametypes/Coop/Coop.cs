@@ -64,7 +64,7 @@ namespace InfServer.Script.GameType_Multi
 
             var arn = _arena._name.ToLower();
 
-            if (arn.StartsWith("[co-op]"))
+            if (arn.StartsWith("[co-op]") || arn.StartsWith("[1cc]"))
             {   
 
                 // default difficulty is Normal

@@ -48,6 +48,17 @@ Skirmish Extreme combines the classic Skirmish feel with some great new features
 
 ~B~2Zone Updates~B
 
+[=~b~512/10/2023~2~B=]
+~b~4-C~2~B
+~4
+1. Cloaking Unit added to SciOp and LaserTech SKX classes
+2. Adjusted Collective LaserTech inventory assignment to mirror Titan
+3. ECM Device description no longer shows that of the Cloaking Unit
+4. Adjusted ExoSuit spawn warning messages to mirror actual spawns
+5. Removed all ExoSuit spawns from Easy difficulty
+6. Call Juggernaut should now override bot count limits
+
+
 [=~b~512/01/2023~2~B=]
 ~b~4-C~2~B
 ~4

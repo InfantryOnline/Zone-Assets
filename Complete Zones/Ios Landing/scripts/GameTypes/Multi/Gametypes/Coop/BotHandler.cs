@@ -131,7 +131,8 @@ namespace InfServer.Script.GameType_Multi
             if (_bots.Count >= _botMax)
             {
                 Log.write(TLog.Warning, "Excessive bot spawning");
-                return false;
+                if(botType == "Juggernaut") Log.write(TLog.Warning, "JUGGERNAUT OVERRIDE!");
+                else return false;
             }
 
             int playercount = _team.ActivePlayerCount; // Adjust bot difficulty by 1 for every player after 6.

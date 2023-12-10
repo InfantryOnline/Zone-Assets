@@ -489,7 +489,7 @@ namespace InfServer.Script.GameType_Multi
                 player.sendMessage(0, String.Format("&Co-Op Happy hour starts in {0} hours & {1} minutes", remaining.Hours, remaining.Minutes));
             }
 
-            //Obtain the Co-Op skill..
+            // obtain co-op skill
             SkillInfo coopskillInfo = _arena._server._assets.getSkillByID(200);
 
             // add co-op mode
@@ -507,10 +507,10 @@ namespace InfServer.Script.GameType_Multi
             {
                 player.sendMessage(2, String.Format("Powerups are enabled for this difficulty, {0}", player._alias));
 
-                //Obtain the Co-Op skill..
+                // obtain powerup skill
                 SkillInfo powerupskillInfo = _arena._server._assets.getSkillByID(201);
 
-                //Add the skill!
+                // enable powerup
                 if (player.findSkill(201) == null)
                     player.skillModify(powerupskillInfo, 1);
 
@@ -518,10 +518,8 @@ namespace InfServer.Script.GameType_Multi
             else
             {
                 player.sendMessage(2, String.Format("Powerups are disabled for this difficulty, {0}", player._alias));
-                //Obtain the Powerup skill..
-                SkillInfo powerupskillInfo2 = _arena._server._assets.getSkillByID(201);
 
-                //Add the skill!
+                // disable powerup
                 if (player.findSkill(201) != null)
                     player._skills.Remove(201);
             }

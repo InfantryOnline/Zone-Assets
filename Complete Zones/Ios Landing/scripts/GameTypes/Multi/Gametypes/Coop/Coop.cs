@@ -479,14 +479,19 @@ namespace InfServer.Script.GameType_Multi
 
         public void playerEnterArena(Player player)
         {
-            player.sendMessage(0, String.Format("Welcome to Cooperative mode, {0}", player._alias));
-
-            if (Script_Multi._bCoopHappyHour)
-                player.sendMessage(0, "&Co-Op Happy hour is currently active, Enjoy!");
+            if (_arena._name.ToLower().StartsWith("[1cc]"))
+                player.sendMessage(0, String.Format("Welcome to 1cc mode, {0}", player._alias));
             else
             {
-                TimeSpan remaining = _baseScript.timeTo(Settings._coopHappyHourStart);
-                player.sendMessage(0, String.Format("&Co-Op Happy hour starts in {0} hours & {1} minutes", remaining.Hours, remaining.Minutes));
+                player.sendMessage(0, String.Format("Welcome to co-op mode, {0}", player._alias));
+
+                if (Script_Multi._bCoopHappyHour)
+                    player.sendMessage(0, "&Co-Op Happy hour is currently active, Enjoy!");
+                else
+                {
+                    TimeSpan remaining = _baseScript.timeTo(Settings._coopHappyHourStart);
+                    player.sendMessage(0, String.Format("&Co-Op Happy hour starts in {0} hours & {1} minutes", remaining.Hours, remaining.Minutes));
+                }
             }
 
             // obtain co-op skill
@@ -505,7 +510,7 @@ namespace InfServer.Script.GameType_Multi
 
             if (_botDifficulty <= 6)
             {
-                player.sendMessage(2, String.Format("Powerups are enabled for this difficulty, {0}", player._alias));
+                player.sendMessage(2, "Power-ups are enabled for this difficulty.");
 
                 // obtain powerup skill
                 SkillInfo powerupskillInfo = _arena._server._assets.getSkillByID(201);
@@ -517,7 +522,7 @@ namespace InfServer.Script.GameType_Multi
             }
             else
             {
-                player.sendMessage(2, String.Format("Powerups are disabled for this difficulty, {0}", player._alias));
+                player.sendMessage(2, "Power-ups are disabled for this difficulty.");
 
                 // disable powerup
                 if (player.findSkill(201) != null)

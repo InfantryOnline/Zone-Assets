@@ -253,9 +253,9 @@ namespace InfServer.Script.GameType_Multi
 
             int timer = 1800 * 100;
 
-            if(!_arena.bLocked && _arena._name.ToLower().StartsWith("[1cc]")){
-                _arena.bLocked = true;
-                _arena.sendArenaMessage("Spec lock is ON");
+            if(!_arena._bLocked && _arena._name.ToLower().StartsWith("[1cc]")){
+                _arena._bLocked = true;
+                _arena.sendArenaMessage("Spectator lock is ON!");
             }
 
             //Let everyone know
@@ -287,9 +287,9 @@ namespace InfServer.Script.GameType_Multi
 
             _arena.flagReset();
 
-            if(_arena.bLocked && _arena._name.ToLower().StartsWith("[1cc]")){
+            if(_arena._bLocked && _arena._name.ToLower().StartsWith("[1cc]")){
                 _arena._bLocked = false;
-                _arena.sendArenaMessage("Spec lock is OFF");
+                _arena.sendArenaMessage("Spectator lock is OFF");
             }
 
             foreach (Bot bot in _bots)
@@ -308,11 +308,11 @@ namespace InfServer.Script.GameType_Multi
             else
             {
                 _baseScript._winner = _botTeam;
-                _arena.sendArenaMessage(String.Format("The Enemy is victorious. Better luck next time Soldiers!", _baseScript._winner._name, conquered));
+                _arena.sendArenaMessage("The Enemy is victorious. Try harder next time Soldiers!");
                 return;
             }
 
-            _arena.sendArenaMessage(String.Format("{0} is Victorious, Good work Soldiers", _baseScript._winner._name, conquered));
+            _arena.sendArenaMessage(String.Format("{0} is victorious! Good work Soldiers!", _baseScript._winner._name));
         }
 
         public void gameReset()
@@ -445,10 +445,10 @@ namespace InfServer.Script.GameType_Multi
 
         public bool playerSpawn(Player player, bool death)
         {
-            if(death) player.sendMessage(0, "TESTMSG: DEATH");
+            //if(death) player.sendMessage(0, "TESTMSG: DEATH");
 
             if(_arena._name.ToLower().StartsWith("[1cc]")){
-                player.sendMessage(0, "Better luck next time!");
+                player.sendMessage(0, "You fought well, but the enemy fought better...");
                 player.spec();
                 return false;
             }
@@ -459,7 +459,7 @@ namespace InfServer.Script.GameType_Multi
         public void playerEnterArena(Player player)
         {
             if (_arena._name.ToLower().StartsWith("[1cc]"))
-                player.sendMessage(0, String.Format("Welcome to 1cc mode, {0}", player._alias));
+                player.sendMessage(0, String.Format("Welcome to 1cc challenge mode, {0}", player._alias));
             else
             {
                 player.sendMessage(0, String.Format("Welcome to co-op mode, {0}", player._alias));

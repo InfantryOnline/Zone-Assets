@@ -405,7 +405,7 @@ namespace InfServer.Script.GameType_Multi
             //Read our list
             //_earlyAccessList = ListReader.readListFromFile("earlyaccess.txt");
 
-            player.sendMessage(3, "#Co-Op Arenas are BACK! Please type ?arena to pick your difficulty!");
+            player.sendMessage(3, "#Co-op arenas are back! Please type ?arena to pick your difficulty!");
 
 
             /*if (_isEarlyAccess)

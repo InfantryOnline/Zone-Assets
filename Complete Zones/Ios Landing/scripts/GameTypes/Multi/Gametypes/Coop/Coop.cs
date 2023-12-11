@@ -79,44 +79,6 @@ namespace InfServer.Script.GameType_Multi
                     + (arn.EndsWith("hell")?   35:0);
                 }
 
-                /*
-                _botDifficulty = 1;
-                if (_arena._name.EndsWith("Easy"))
-                {
-                    _botDifficulty = 0;
-                }
-
-                if (_arena._name.EndsWith("Normal"))
-                {
-                    _botDifficulty = 1;
-                }
-
-                if (_arena._name.EndsWith("Hard"))
-                {
-                    _botDifficulty = 3;
-                }
-
-                if (_arena._name.EndsWith("Expert"))
-                {
-                    _botDifficulty = 6;
-                }
-                if (_arena._name.EndsWith("Master"))
-                {
-                    _botDifficulty = 9;
-                }
-                if (_arena._name.EndsWith("Elite"))
-                {
-                    _botDifficulty = 12;
-                }
-                if (_arena._name.EndsWith("Insane"))
-                {
-                    _botDifficulty = 15;
-                }
-                if (_arena._name.EndsWith("Hell"))
-                {
-                    _botDifficulty = 35;
-                }
-                */
             }
         }
 
@@ -291,6 +253,10 @@ namespace InfServer.Script.GameType_Multi
 
             int timer = 1800 * 100;
 
+            if(!_arena.bLocked && _arena._name.ToLower().StartsWith("[1cc]")){
+                _arena.bLocked = true;
+                _arena.sendArenaMessage("Spec lock is ON");
+            }
 
             //Let everyone know
             _arena.sendArenaMessage("Game has started! Good luck Titans.");
@@ -320,6 +286,11 @@ namespace InfServer.Script.GameType_Multi
         {
 
             _arena.flagReset();
+
+            if(_arena.bLocked && _arena._name.ToLower().StartsWith("[1cc]")){
+                _arena._bLocked = false;
+                _arena.sendArenaMessage("Spec lock is OFF");
+            }
 
             foreach (Bot bot in _bots)
                 _condemnedBots.Add(bot);
@@ -474,6 +445,14 @@ namespace InfServer.Script.GameType_Multi
 
         public bool playerSpawn(Player player, bool death)
         {
+            if(death) player.sendMessage(0, "TESTMSG: DEATH");
+
+            if(_arena._name.ToLower().StartsWith("[1cc]")){
+                player.sendMessage(0, "Better luck next time!");
+                player.spec();
+                return false;
+            }
+
             return true;
         }
 

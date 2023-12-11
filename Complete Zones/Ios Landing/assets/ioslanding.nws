@@ -48,6 +48,17 @@ Skirmish Extreme combines the classic Skirmish feel with some great new features
 
 ~B~2Zone Updates~B
 
+[=~b~512/11/2023~2~B=]
+~b~4-C~2~B
+~4
+1. Deprecated early access rewards
+2. Tweaked various in-game messages
+3. New "1cc" challenge mode: like co-op, but arena is speclocked once game starts, and death sends you into spec
+
+To access 1cc mode, replace [Co-Op] with [1cc] in the arena name.
+Extra spawns are still in effect, e.g. ?go [1cc]2 Hell
+
+
 [=~b~512/10/2023~2~B=]
 ~b~4-C~2~B
 ~4

@@ -25,8 +25,8 @@ namespace InfServer.Script.GameType_Multi
         private Settings.GameTypes _gameType;
         public Loot _loot;
         public Crafting _crafting;
-        private List<string> _earlyAccessList;
-        private bool _isEarlyAccess;
+        //private List<string> _earlyAccessList;
+        //private bool _isEarlyAccess;
         public bool bJackpot;
         public Dictionary<ushort, LootDrop> _privateLoot;
         public Dictionary<ushort, LootDrop> _condemnedLoot;
@@ -100,9 +100,9 @@ namespace InfServer.Script.GameType_Multi
             _gameType = Settings.GameTypes.Conquest;
             _minPlayers = 1;
 
-            _isEarlyAccess = false;
+            //_isEarlyAccess = false;
 
-            if (_arena._name.ToLower().StartsWith("[co-op]"))
+            if (_arena._name.ToLower().StartsWith("[co-op]") || _arena._name.ToLower().StartsWith("[1cc]"))
                 _gameType = Settings.GameTypes.Coop;
             else if (_arena._name.Equals("[PvP] Royale"))
                 _gameType = Settings.GameTypes.Royale;
@@ -110,6 +110,7 @@ namespace InfServer.Script.GameType_Multi
             //    _gameType = Settings.GameTypes.RTS;
             else
             {
+                // default to Conquest
                 Team team1 = _arena.getTeamByName("Titan Militia");
                 Team team2 = _arena.getTeamByName("Collective Military");
                 _cq.setTeams(team1, team2, false);
@@ -398,16 +399,16 @@ namespace InfServer.Script.GameType_Multi
         public void playerEnterArena(Player player)
         {
             //Fix this later
-            if (_arena.TotalPlayerCount == 1 && player._permissionStatic < Data.PlayerPermission.Mod && _arena._bIsPublic)
-                player._permissionTemp = Data.PlayerPermission.Normal;
+            //if (_arena.TotalPlayerCount == 1 && player._permissionStatic < Data.PlayerPermission.Mod && _arena._bIsPublic)
+            //    player._permissionTemp = Data.PlayerPermission.Normal;
 
             //Read our list
-            _earlyAccessList = ListReader.readListFromFile("earlyaccess.txt");
+            //_earlyAccessList = ListReader.readListFromFile("earlyaccess.txt");
 
-            player.sendMessage(3, "#Co-Op Arenas are BACK! Please type ?arena to pick your difficulty!");
+            player.sendMessage(3, "#Co-op arenas are back! Please type ?arena to pick your difficulty!");
 
 
-            if (_isEarlyAccess)
+            /*if (_isEarlyAccess)
             {
                 if (!_earlyAccessList.Contains(player._alias))
                 {
@@ -433,7 +434,7 @@ namespace InfServer.Script.GameType_Multi
                     player.sendMessage(4,
                         String.Format("#Thanks for testing! Here is your early access bonus: (Cash=50000)"));
                 }
-            }
+            }*/
 
 
             if (StatsCurrent(player) == null)

@@ -64,7 +64,7 @@ namespace InfServer.Script.GameType_Multi
 
             var arn = _arena._name.ToLower();
 
-            if (arn.StartsWith("[co-op]"))
+            if (arn.StartsWith("[co-op]") || arn.StartsWith("[1cc]"))
             {   
 
                 // default difficulty is Normal
@@ -79,44 +79,6 @@ namespace InfServer.Script.GameType_Multi
                     + (arn.EndsWith("hell")?   35:0);
                 }
 
-                /*
-                _botDifficulty = 1;
-                if (_arena._name.EndsWith("Easy"))
-                {
-                    _botDifficulty = 0;
-                }
-
-                if (_arena._name.EndsWith("Normal"))
-                {
-                    _botDifficulty = 1;
-                }
-
-                if (_arena._name.EndsWith("Hard"))
-                {
-                    _botDifficulty = 3;
-                }
-
-                if (_arena._name.EndsWith("Expert"))
-                {
-                    _botDifficulty = 6;
-                }
-                if (_arena._name.EndsWith("Master"))
-                {
-                    _botDifficulty = 9;
-                }
-                if (_arena._name.EndsWith("Elite"))
-                {
-                    _botDifficulty = 12;
-                }
-                if (_arena._name.EndsWith("Insane"))
-                {
-                    _botDifficulty = 15;
-                }
-                if (_arena._name.EndsWith("Hell"))
-                {
-                    _botDifficulty = 35;
-                }
-                */
             }
         }
 
@@ -291,6 +253,10 @@ namespace InfServer.Script.GameType_Multi
 
             int timer = 1800 * 100;
 
+            if(!_arena._bLocked && _arena._name.ToLower().StartsWith("[1cc]")){
+                _arena._bLocked = true;
+                _arena.sendArenaMessage("Spectator lock is ON!");
+            }
 
             //Let everyone know
             _arena.sendArenaMessage("Game has started! Good luck Titans.");
@@ -321,6 +287,11 @@ namespace InfServer.Script.GameType_Multi
 
             _arena.flagReset();
 
+            if(_arena._bLocked && _arena._name.ToLower().StartsWith("[1cc]")){
+                _arena._bLocked = false;
+                _arena.sendArenaMessage("Spectator lock is OFF");
+            }
+
             foreach (Bot bot in _bots)
                 _condemnedBots.Add(bot);
 
@@ -337,11 +308,11 @@ namespace InfServer.Script.GameType_Multi
             else
             {
                 _baseScript._winner = _botTeam;
-                _arena.sendArenaMessage(String.Format("The Enemy is victorious. Better luck next time Soldiers!", _baseScript._winner._name, conquered));
+                _arena.sendArenaMessage("The Enemy is victorious. Try harder next time Soldiers!");
                 return;
             }
 
-            _arena.sendArenaMessage(String.Format("{0} is Victorious, Good work Soldiers", _baseScript._winner._name, conquered));
+            _arena.sendArenaMessage(String.Format("{0} is victorious! Good work Soldiers!", _baseScript._winner._name));
         }
 
         public void gameReset()
@@ -474,56 +445,65 @@ namespace InfServer.Script.GameType_Multi
 
         public bool playerSpawn(Player player, bool death)
         {
+            //if(death) player.sendMessage(0, "TESTMSG: DEATH");
+
+            if(_arena._name.ToLower().StartsWith("[1cc]")){
+                player.sendMessage(0, "You fought well, but the enemy fought better...");
+                player.spec();
+                return false;
+            }
+
             return true;
         }
 
         public void playerEnterArena(Player player)
         {
-            player.sendMessage(0, String.Format("Welcome to Cooperative mode, {0}", player._alias));
-
-            if (Script_Multi._bCoopHappyHour)
-                player.sendMessage(0, "&Co-Op Happy hour is currently active, Enjoy!");
+            if (_arena._name.ToLower().StartsWith("[1cc]"))
+                player.sendMessage(0, String.Format("Welcome to 1cc challenge mode, {0}", player._alias));
             else
             {
-                TimeSpan remaining = _baseScript.timeTo(Settings._coopHappyHourStart);
-                player.sendMessage(0, String.Format("&Co-Op Happy hour starts in {0} hours & {1} minutes", remaining.Hours, remaining.Minutes));
+                player.sendMessage(0, String.Format("Welcome to co-op mode, {0}", player._alias));
+
+                if (Script_Multi._bCoopHappyHour)
+                    player.sendMessage(0, "&Co-Op Happy hour is currently active, Enjoy!");
+                else
+                {
+                    TimeSpan remaining = _baseScript.timeTo(Settings._coopHappyHourStart);
+                    player.sendMessage(0, String.Format("&Co-Op Happy hour starts in {0} hours & {1} minutes", remaining.Hours, remaining.Minutes));
+                }
             }
 
-            //Obtain the Co-Op skill..
+            // obtain co-op skill
             SkillInfo coopskillInfo = _arena._server._assets.getSkillByID(200);
 
-
-
-            //Add the skill!
+            // add co-op mode
             if (player.findSkill(200) == null)
             player.skillModify(coopskillInfo, 1);
 
-            //Add the skill!
+            // remove royale mode
             if (player.findSkill(203) != null)
                 player._skills.Remove(203);
-            //Add the skill!
+            // remove rts mode
             if (player.findSkill(202) != null)
                 player._skills.Remove(202);
 
             if (_botDifficulty <= 6)
             {
-                player.sendMessage(2, String.Format("Powerups are enabled for this difficulty, {0}", player._alias));
+                player.sendMessage(2, "Power-ups are enabled for this difficulty.");
 
-                //Obtain the Co-Op skill..
+                // obtain powerup skill
                 SkillInfo powerupskillInfo = _arena._server._assets.getSkillByID(201);
 
-                //Add the skill!
+                // enable powerup
                 if (player.findSkill(201) == null)
                     player.skillModify(powerupskillInfo, 1);
 
             }
             else
             {
-                player.sendMessage(2, String.Format("Powerups are disabled for this difficulty, {0}", player._alias));
-                //Obtain the Powerup skill..
-                SkillInfo powerupskillInfo2 = _arena._server._assets.getSkillByID(201);
+                player.sendMessage(2, "Power-ups are disabled for this difficulty.");
 
-                //Add the skill!
+                // disable powerup
                 if (player.findSkill(201) != null)
                     player._skills.Remove(201);
             }

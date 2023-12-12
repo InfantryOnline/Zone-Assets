@@ -198,6 +198,10 @@ namespace InfServer.Script.GameType_Multi
             _arena.flagReset();
             _arena.flagSpawn();
 
+            // wipe lists from last game
+            _medBotFollowTargets = new Dictionary<ushort, Player>();
+            _medBotHealTargets = new Dictionary<ushort, Player>();
+
             _firstRushWave = false;
             _secondRushWave = false;
             _thirdRushWave = false;

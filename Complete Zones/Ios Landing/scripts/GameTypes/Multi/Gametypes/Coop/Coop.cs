@@ -95,7 +95,7 @@ namespace InfServer.Script.GameType_Multi
             int playing = _arena.PlayerCount;
             if (_arena._bGameRunning && playing < _minPlayers && _arena._bIsPublic)
             {
-            	_howLastGameEnded = 0; // game end due to insufficient players (or everyone got specced)
+                _howLastGameEnded = 0; // game end due to insufficient players (or everyone got specced)
                 _baseScript.bJackpot = false;
                 //Stop the game and reset voting
                 _arena.gameEnd();
@@ -116,17 +116,17 @@ namespace InfServer.Script.GameType_Multi
             //Do we have enough to start a game?
             if (!_arena._bGameRunning && _baseScript._tickGameStarting == 0 && playing >= _minPlayers && _arena._bIsPublic)
             {
-            	// give +20s time between rounds if there was a last game
-            	int extraTime = (_howLastGameEnded>0) ? 20 : 0;
+                // give +20s time between rounds if there was a last game
+                int extraTime = (_howLastGameEnded>0) ? 20 : 0;
 
-            	/*
+                /*
                 if(_arena._name.Contains("]--")){
-            		_arena.sendArenaMessage(String.Format("TESTING MODE [HLGE={0}]", _howLastGameEnded));
-            		if(extraTime>5){
-            			_arena.sendArenaMessage("extraTime reduced to 5");
-            			extraTime = 5;
-            		}
-            	}
+                    _arena.sendArenaMessage(String.Format("TESTING MODE [HLGE={0}]", _howLastGameEnded));
+                    if(extraTime>5){
+                        _arena.sendArenaMessage("extraTime reduced to 5");
+                        extraTime = 5;
+                    }
+                }
                 */
 
                 _baseScript._tickGameStarting = now;
@@ -155,7 +155,7 @@ namespace InfServer.Script.GameType_Multi
                 //Has anyone won?
                 if (team1count == 0 || team2count == 0)
                 {
-                	_howLastGameEnded = 2; // game end due to victory
+                    _howLastGameEnded = 2; // game end due to victory
                     _baseScript._winner = _team;
                     _arena.gameEnd();
                     return;
@@ -293,7 +293,7 @@ namespace InfServer.Script.GameType_Multi
             _arena.setTicker(1, 3, timer, "Time Left: ",
                 delegate ()
                 {   //Trigger game end
-                	_howLastGameEnded = 1; // game end due to timeout
+                    _howLastGameEnded = 1; // game end due to timeout
                     _arena.gameEnd();
                 }
             );

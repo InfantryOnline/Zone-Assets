@@ -102,6 +102,10 @@ namespace InfServer.Script.GameType_Multi
             }
             int now = Environment.TickCount;
 
+            // key check
+            if(!_game._medBotHealTargets.ContainsKey(_id)) _game._medBotHealTargets.Add(_id, null);
+            if(!_game._medBotFollowTargets.ContainsKey(_id)) _game._medBotFollowTargets.Add(_id, null);
+
             //Radar Dot
             if (now - _tickLastRadarDot >= 900)
             {
@@ -573,7 +577,7 @@ namespace InfServer.Script.GameType_Multi
                     steering.steerDelegate = steerAlongPath;
             }
 
-            #endregion
         }
+        #endregion
     }
 }

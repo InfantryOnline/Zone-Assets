@@ -48,6 +48,13 @@ Skirmish Extreme combines the classic Skirmish feel with some great new features
 
 ~B~2Zone Updates~B
 
+[=~b~512/12/2023~2~B=]
+~b~4-C~2~B
+~4
+1. Time until next game increased to 30 seconds if previous round was a full play-through (victory or buzzer).
+2. Fixed the infamous medic no-follow bug: the medic bot will now continue to follow players when they continue into a subsequent game. No more rejoins necessary.
+
+
 [=~b~512/11/2023~2~B=]
 ~b~4-C~2~B
 ~4

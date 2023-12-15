@@ -48,6 +48,15 @@ Skirmish Extreme combines the classic Skirmish feel with some great new features
 
 ~B~2Zone Updates~B
 
+[=~b~512/15/2023~2~B=]
+~b~4-C~2~B
+~4
+1. Cleaned up several outdated references in the skill requirements logic.
+2. Removed "Basic Bitch (aka Sov)" class permanently; removed "Inferno Trooper" class temporarily.
+3. Due to technical limitations (sadly, not a joke), LAW item is now usable by Sergeants, Captains, and Elite Captains.
+4. Added "Shadow" variants of healer classes: Medic (SK), Doctor (SKX), and Peacemaker (SKX). Shadow healers are ignored by the AI Medic in co-op mode, but they can still get healed from the area effect. The SKX shadow healers also easier to unlock than their counterparts, requiring only the Medical Training attribute. For purposes of spawning additional AI Medics, shadow healers still count as any other class.
+
+
 [=~b~512/12/2023~2~B=]
 ~b~4-C~2~B
 ~4

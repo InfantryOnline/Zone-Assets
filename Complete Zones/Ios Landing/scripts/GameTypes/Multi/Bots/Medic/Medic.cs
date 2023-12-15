@@ -279,6 +279,9 @@ namespace InfServer.Script.GameType_Multi
             if (target.IsDead)
                 return false;
 
+            if (target._baseVehicle._type.Name.EndsWith("Shadow"))
+                return false;
+
             if (target._team != _team)
                 return false;
 
@@ -330,6 +333,9 @@ namespace InfServer.Script.GameType_Multi
         protected bool isValidFollowTarget(Player target)
         {   //Don't shoot a dead zombie
             if (target.IsDead)
+                return false;
+
+            if (target._baseVehicle._type.Name.EndsWith("Shadow"))
                 return false;
 
             if (target._team != _team)

@@ -631,9 +631,9 @@ namespace InfServer.Script.GameType_Multi
 			// reset kill streak
 			_baseScript.UpdateDeath(victim, null);
 
-			// count deaths
-			_baseScript.StatsCurrent(victim).deaths++;
-			victim.Deaths++;
+			// somehow these get double counted so never mind!
+			//_baseScript.StatsCurrent(victim).deaths++;
+			//victim.Deaths++;
 
 			// reset bty
 			victim.ZoneStat1 = 0;

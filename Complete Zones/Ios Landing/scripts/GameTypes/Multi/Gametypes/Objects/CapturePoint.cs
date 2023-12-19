@@ -149,6 +149,14 @@ namespace InfServer.Script.GameType_Multi
                         cashReward  = 1250 + (flags<11? 0: 750 + 1000*(flags-10)) + (flags<31? 0: 2000);
                         expReward   =  950 + (flags<11? 0: 550 + 1000*(flags-10)) + (flags<31? 0: 2000);
                         pointReward = 1500 + (flags<11? 0: 500 + 1000*(flags-10)) + (flags<31? 0: 2000);
+
+                        if(_arena._name.ToLower().EndsWith(" master") || _arena._name.ToLower().EndsWith(" elite")
+                        || _arena._name.ToLower().EndsWith(" insane") || _arena._name.ToLower().EndsWith(" hell")){
+                            cashReward  += 250 + (flags<11? 0: 250) + (flags<21? 0: 500) + (flags<31? 0: 1000);
+                            expReward   += 250 + (flags<11? 0: 250) + (flags<21? 0: 500) + (flags<31? 0: 1000);
+                            pointReward += 250 + (flags<11? 0: 250) + (flags<21? 0: 500) + (flags<31? 0: 1000);
+                        }
+
                     }
 
                     foreach (Player player in playersInArea.Where(p => p._team == flag.team))

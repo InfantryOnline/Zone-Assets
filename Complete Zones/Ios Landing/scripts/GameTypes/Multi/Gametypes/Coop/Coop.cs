@@ -113,6 +113,19 @@ namespace InfServer.Script.GameType_Multi
                 _arena.setTicker(1, 3, 0, "Private arena, Waiting for arena owner to start the game!");
             }
 
+            // 1cc spec lock with grace period
+            if(_arena._name.ToLower().StartsWith("[1cc]") && !_arena._bLocked
+                && _baseScript._tickGameStarting > 0 && now - _baseScript._tickGameStarting >= 10000){
+                _arena._bLocked = true;
+                _arena.sendArenaMessage("Spectator lock is ON! Spectators must wait until the next game to join.");
+            }
+
+            // send warning when kill stat credit expires
+            if(_baseScript._warnCapture && now - _baseScript._lastCapture >= _baseScript._lastCaptureCutoff){
+                _arena.sendArenaMessage("Focus on the objective, Soldiers!");
+                _baseScript._warnCapture = false;
+            }
+
             //Do we have enough to start a game?
             if (!_arena._bGameRunning && _baseScript._tickGameStarting == 0 && playing >= _minPlayers && _arena._bIsPublic)
             {
@@ -243,6 +256,9 @@ namespace InfServer.Script.GameType_Multi
 
             _totalFlags = _flags.Count;
 
+            _baseScript._lastCapture = Environment.TickCount;
+            _baseScript._warnCapture = true;
+            Log.write(TLog.Normal, String.Format("Init Objective @ T = {0}", _baseScript._lastCapture));
 
             int flagcount = 1;
             foreach (Arena.FlagState flag in _flags)
@@ -258,6 +274,9 @@ namespace InfServer.Script.GameType_Multi
                     int playercount = _team.ActivePlayerCount;
                     int max = Convert.ToInt32(playercount * 1);
                     spawnRandomWave(_botTeam, _team, max);
+                    _baseScript._lastCapture = Environment.TickCount; // update capture time
+                    _baseScript._warnCapture = true; // reset warning
+                    Log.write(TLog.Normal, String.Format("Objective Captured @ T = {0}", _baseScript._lastCapture));
                 };
 
                 _allPoints.Add(point);
@@ -282,11 +301,6 @@ namespace InfServer.Script.GameType_Multi
 
             //game-end test syntax
             //if(_arena._name.Contains("]--")) timer = 30 * 100; // 30 sec to speed it up
-
-            if(!_arena._bLocked && _arena._name.ToLower().StartsWith("[1cc]")){
-                _arena._bLocked = true;
-                _arena.sendArenaMessage("Spectator lock is ON!");
-            }
 
             //Let everyone know
             _arena.sendArenaMessage("Game has started! Good luck Titans.");
@@ -318,11 +332,6 @@ namespace InfServer.Script.GameType_Multi
 
             _arena.flagReset();
 
-            if(_arena._bLocked && _arena._name.ToLower().StartsWith("[1cc]")){
-                _arena._bLocked = false;
-                _arena.sendArenaMessage("Spectator lock is OFF");
-            }
-
             foreach (Bot bot in _bots)
                 _condemnedBots.Add(bot);
 
@@ -334,16 +343,19 @@ namespace InfServer.Script.GameType_Multi
 
             int conquered = (_flagsCaptured / _totalFlags) * 100;
 
-            if (conquered == 100)
+            if (conquered == 100){
                 _baseScript._winner = _team;
-            else
-            {
+                _arena.sendArenaMessage(String.Format("{0} is victorious! Good work Soldiers!", _baseScript._winner._name));
+            }else{
                 _baseScript._winner = _botTeam;
                 _arena.sendArenaMessage("The Enemy is victorious. Try harder next time Soldiers!");
-                return;
             }
 
-            _arena.sendArenaMessage(String.Format("{0} is victorious! Good work Soldiers!", _baseScript._winner._name));
+            if(_arena._bLocked && _arena._name.ToLower().StartsWith("[1cc]")){
+                _arena._bLocked = false;
+                _arena.sendArenaMessage("Spectator lock is OFF! Please unspec now if you wish to participate in the next game.");
+            }
+
         }
 
         public void gameReset()
@@ -449,6 +461,9 @@ namespace InfServer.Script.GameType_Multi
         /// <returns></returns>
         public bool botDeath(Bot dead, Player killer)
         {
+			// no postmortem bty save
+			if(!killer.IsDead) killer.ZoneStat1 = killer.Bounty;
+
             return true;
         }
 
@@ -460,6 +475,8 @@ namespace InfServer.Script.GameType_Multi
         /// <returns></returns>
         public bool playerDeathBot(Player victim, Bot bot)
         {
+        	// reset bty
+            victim.ZoneStat1 = 0;
             return true;
         }
 
@@ -489,10 +506,19 @@ namespace InfServer.Script.GameType_Multi
 
         public void playerEnterArena(Player player)
         {
-            if (_arena._name.ToLower().StartsWith("[1cc]"))
-                player.sendMessage(0, String.Format("Welcome to 1cc challenge mode, {0}", player._alias));
-            else
-            {
+            if (_arena._name.ToLower().StartsWith("[1cc]")){
+
+                string welcome1cc = "";
+            	if(_baseScript._tickGameStarting > 0) // has the game started?
+            		welcome1cc = (_arena._bLocked)
+            		? "A 1cc challenge game has already started! Please wait for the next one if you wish to join."
+            		: "A 1cc challenge game has just started, but if you unspec fast enough you can still join!";
+            	else welcome1cc = "Welcome to 1cc challenge mode! Once a game starts, spectator mode will be LOCKED, and you will be specced upon death.");
+
+            	player.sendMessage(0, welcome1cc);
+
+            }else{
+
                 player.sendMessage(0, String.Format("Welcome to co-op mode, {0}", player._alias));
 
                 if (Script_Multi._bCoopHappyHour)
@@ -597,7 +623,19 @@ namespace InfServer.Script.GameType_Multi
 
         public void playerDeath(Player victim, Player killer, Helpers.KillType killType, CS_VehicleDeath update)
         {
-         
+			// this is a special case where player dies to bunker
+
+			// reset kill streak
+			UpdateDeath(victim, null);
+
+			// count deaths
+			StatsCurrent(victim).deaths++;
+			victim.Deaths++;
+
+			// reset bty
+			victim.ZoneStat1 = 0;
+
+			// nothing to return
         }
         #endregion
 

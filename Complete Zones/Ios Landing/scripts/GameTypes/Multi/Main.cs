@@ -1613,8 +1613,7 @@ namespace InfServer.Script.GameType_Multi
 							return false;
 						}
 
-						if (level < 1
-							|| level > (int)player.PermissionLevelLocal
+						if (level < 1 || level > (int)player.PermissionLevelLocal
 							|| level == (int)Data.PlayerPermission.SMod)
 						{
 							player.sendMessage(-1, ":alias:*poweradd level(optional), :alias:*poweradd level (Defaults to 1)");
@@ -2013,7 +2012,7 @@ namespace InfServer.Script.GameType_Multi
 		}
 
 
-		public void spawnSupplyDrop(Team team, short posX, short posY)
+	public void spawnSupplyDrop(Team team, short posX, short posY)
 		{
 			VehInfo supplyVehicle = AssetManager.Manager.getVehicleByID(405);
 			Helpers.ObjectState objState = new Helpers.ObjectState();
@@ -2144,8 +2143,6 @@ namespace InfServer.Script.GameType_Multi
 			else
 				return null;
 		}
-		#endregion
-
-	}//partial class Script_Multi : Scripts.IScript
-
-}//namespace InfServer.Script.GameType_Multi
+	}
+	#endregion
+}

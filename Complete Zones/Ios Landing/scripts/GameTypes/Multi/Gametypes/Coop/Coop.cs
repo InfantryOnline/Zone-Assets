@@ -91,6 +91,10 @@ namespace InfServer.Script.GameType_Multi
 
 		public void Poll(int now)
 		{
+			// give +20s time between rounds if there was a last game
+			int extraTime = (_howLastGameEnded>0) ? 20 : 0;
+			// 1cc grace period for unspec
+			int grace1cc = 10;
 
 			int playing = _arena.PlayerCount;
 			if (_arena._bGameRunning && playing < _minPlayers && _arena._bIsPublic)
@@ -115,7 +119,8 @@ namespace InfServer.Script.GameType_Multi
 
 			// 1cc spec lock with grace period
 			if(_arena._name.ToLower().StartsWith("[1cc]") && !_arena._bLocked
-				&& _baseScript._tickGameStarting > 0 && now - _baseScript._tickGameStarting >= 10000){
+				&& _baseScript._tickGameStarting > 0
+				&& now - _baseScript._tickGameStarting >= 1000*(_config.deathMatch.startDelay + extraTime + grace1cc)){
 				_arena._bLocked = true;
 				_arena.sendArenaMessage("Spectator lock is ON! Spectators must wait until the next game to join.");
 			}
@@ -129,8 +134,6 @@ namespace InfServer.Script.GameType_Multi
 			//Do we have enough to start a game?
 			if (!_arena._bGameRunning && _baseScript._tickGameStarting == 0 && playing >= _minPlayers && _arena._bIsPublic)
 			{
-				// give +20s time between rounds if there was a last game
-				int extraTime = (_howLastGameEnded>0) ? 20 : 0;
 
 				/*
 				if(_arena._name.Contains("]--")){
@@ -513,7 +516,7 @@ namespace InfServer.Script.GameType_Multi
 					welcome1cc = (_arena._bLocked)
 					? "A 1cc challenge game has already started! Please wait for the next one if you wish to join."
 					: "A 1cc challenge game has just started, but if you unspec fast enough you can still join!";
-				else welcome1cc = "Welcome to 1cc challenge mode! Once a game starts, spectator mode will be LOCKED, and you will be specced upon death.");
+				else welcome1cc = "Welcome to 1cc challenge mode! Once a game starts, spectator mode will be LOCKED, and you will be specced upon death.";
 
 				player.sendMessage(0, welcome1cc);
 
@@ -626,10 +629,10 @@ namespace InfServer.Script.GameType_Multi
 			// this is a special case where player dies to bunker
 
 			// reset kill streak
-			UpdateDeath(victim, null);
+			_baseScript.UpdateDeath(victim, null);
 
 			// count deaths
-			StatsCurrent(victim).deaths++;
+			_baseScript.StatsCurrent(victim).deaths++;
 			victim.Deaths++;
 
 			// reset bty

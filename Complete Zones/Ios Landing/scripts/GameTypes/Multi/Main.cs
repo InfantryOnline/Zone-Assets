@@ -1181,19 +1181,23 @@ namespace InfServer.Script.GameType_Multi
 			if (killer != null)
 			{
 				Helpers.Vehicle_RouteDeath(_arena.Players, killer, dead, null);
-				if (killer != null && dead._team != killer._team)
-				{//Don't allow rewards for team kills
-
-					// pass # of captured objectives (anti-farm)
-					Team _team = _arena.getTeamByName("Titan Militia");
-					int flags = _arena._flags.Values.Where(f => f.team == _team).Count();
-
-					Rewards.calculateBotKillRewards(dead, killer, _gameType, flags);
-				}
 
 				// no credit if too long has passed since last capture
 				int rn = Environment.TickCount;
 				bool credit = (_gameType == Settings.GameTypes.Coop) ? (rn - _lastCapture < _lastCaptureCutoff) : true;
+
+				if (killer != null && dead._team != killer._team)
+				{//Don't allow rewards for team kills
+
+					// pass # of captured objectives (anti-farm)
+					Team tm = _arena.getTeamByName("Titan Militia");
+					int flags = _arena._flags.Values.Where(f => f.team == tm).Count();
+
+					// punishment
+					if(!credit) flags = 0;
+
+					Rewards.calculateBotKillRewards(dead, killer, _gameType, flags);
+				}
 
 				if(credit){
 					killer.Kills++;

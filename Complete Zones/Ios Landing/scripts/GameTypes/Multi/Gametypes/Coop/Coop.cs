@@ -251,7 +251,7 @@ namespace InfServer.Script.GameType_Multi
 
 			_baseScript._lastCapture = Environment.TickCount;
 			_baseScript._warnCapture = true;
-			Log.write(TLog.Normal, String.Format("Init Objective @ T = {0}", _baseScript._lastCapture));
+			//Log.write(TLog.Normal, String.Format("Init Objective @ T = {0}", _baseScript._lastCapture));
 
 			int flagcount = 1;
 			foreach (Arena.FlagState flag in _flags)
@@ -269,7 +269,7 @@ namespace InfServer.Script.GameType_Multi
 					spawnRandomWave(_botTeam, _team, max);
 					_baseScript._lastCapture = Environment.TickCount; // update capture time
 					_baseScript._warnCapture = true; // reset warning
-					Log.write(TLog.Normal, String.Format("Objective Captured @ T = {0}", _baseScript._lastCapture));
+					//Log.write(TLog.Normal, String.Format("Objective Captured @ T = {0}", _baseScript._lastCapture));
 				};
 
 				_allPoints.Add(point);

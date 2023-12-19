@@ -138,9 +138,18 @@ namespace InfServer.Script.GameType_Multi
                     _arena.triggerMessage(0, 500, String.Format("{0} has taken control of the {1} capture point...", attacker._name, name));
                     _flags.FirstOrDefault(f => f == flag).team = attacker;
 
-                    int cashReward = 1250;
-                    int expReward = 950;
-                    int pointReward = 1500;
+                    int involved = attackers + defenders;
+                    int cashReward = 500 + ((involved>1) ? involved*2000 - 500 : 0);
+                    int expReward = 100 + ((involved>1) ? involved*1500 - 100 : 0);
+                    int pointReward = ((involved>1) ? involved*1000 : 0);
+
+                    if(_arena._name.ToLower().StartsWith("[co-op]") || _arena._name.ToLower().StartsWith("[1cc]")){ 
+                        Team tm = _arena.getTeamByName("Titan Militia");
+                        int flags = _arena._flags.Values.Where(f => f.team == tm).Count();
+                        cashReward  = 1250 + (flags<11? 0: 750 + 1000*(flags-10)) + (flags<31? 0: 2000);
+                        expReward   =  950 + (flags<11? 0: 550 + 1000*(flags-10)) + (flags<31? 0: 2000);
+                        pointReward = 1500 + (flags<11? 0: 500 + 1000*(flags-10)) + (flags<31? 0: 2000);
+                    }
 
                     foreach (Player player in playersInArea.Where(p => p._team == flag.team))
                     {

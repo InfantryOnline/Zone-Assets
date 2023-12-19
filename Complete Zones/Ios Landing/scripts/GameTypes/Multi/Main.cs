@@ -107,7 +107,7 @@ namespace InfServer.Script.GameType_Multi
 
 			if (_arena._name.ToLower().StartsWith("[co-op]") || _arena._name.ToLower().StartsWith("[1cc]")){
 				_gameType = Settings.GameTypes.Coop;
-				_lastCaptureCutoff = 1 * 60 * 1000;
+				_lastCaptureCutoff = 5 * 60 * 1000;
 			}
 			else if (_arena._name.ToLower().Equals("[pvp] royale"))
 				_gameType = Settings.GameTypes.Royale;

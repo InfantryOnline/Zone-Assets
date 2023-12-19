@@ -114,7 +114,7 @@ namespace InfServer.Script.GameType_Multi
 			}
 
 			// send warning when kill stat credit expires
-			if(_baseScript._warnCapture && now - _baseScript._lastCapture >= _baseScript._lastCaptureCutoff){
+			if(_arena._bGameRunning && _baseScript._warnCapture && now - _baseScript._lastCapture >= _baseScript._lastCaptureCutoff){
 				_arena.sendArenaMessage("Focus on the objective, Soldiers!");
 				_baseScript._warnCapture = false;
 			}
@@ -295,14 +295,15 @@ namespace InfServer.Script.GameType_Multi
 			//game-end test syntax
 			//if(_arena._name.Contains("]--")) timer = 30 * 100; // 30 sec to speed it up
 
-			// 1cc spec lock
-			if(_arena._name.ToLower().StartsWith("[1cc]") && !_arena._bLocked){
-				_arena._bLocked = true;
-				_arena.sendArenaMessage("Spectator lock is ON! Spectators must wait until the next game to join.");
-			}
+			
 
-			//Let everyone know
-			_arena.sendArenaMessage("Game has started! Good luck Titans.");
+			// 1cc spec lock
+			if(_arena._name.ToLower().StartsWith("[1cc]")){
+				_arena.sendArenaMessage("Game has started! Spectators must wait until the next game to join.");
+				if(!_arena._bLocked) _arena._bLocked = true;
+			}
+			else _arena.sendArenaMessage("Game has started! Good luck Titans.");
+
 			_arena.setTicker(1, 3, timer, "Time Left: ",
 				delegate ()
 				{	//Trigger game end

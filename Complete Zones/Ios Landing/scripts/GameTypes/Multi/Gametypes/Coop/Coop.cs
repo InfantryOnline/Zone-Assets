@@ -75,15 +75,15 @@ namespace InfServer.Script.GameType_Multi
 			{
 
 				// default difficulty is Normal
-				_botDifficulty = 1; 
-				if(!arn.EndsWith("normal")){
-					_botDifficulty = (arn.EndsWith("easy")) ? 0
-					: (arn.EndsWith("hard")?	3:0)
-					+ (arn.EndsWith("expert")?  6:0)
-					+ (arn.EndsWith("master")?  9:0)
-					+ (arn.EndsWith("elite")?  12:0)
-					+ (arn.EndsWith("insane")? 15:0)
-					+ (arn.EndsWith("hell")?	35:0);
+				_botDifficulty = 1;
+				if(!arn.EndsWith(" normal")){
+					_botDifficulty = (arn.EndsWith(" easy")) ? 0
+					: (arn.EndsWith(" hard")?	 3:0)
+					+ (arn.EndsWith(" expert")?	 6:0)
+					+ (arn.EndsWith(" master")?	 9:0)
+					+ (arn.EndsWith(" elite")?	12:0)
+					+ (arn.EndsWith(" insane")?	15:0)
+					+ (arn.EndsWith(" hell")?	35:0);
 				}
 
 			}

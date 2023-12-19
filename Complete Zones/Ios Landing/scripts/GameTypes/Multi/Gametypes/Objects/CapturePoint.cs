@@ -138,9 +138,32 @@ namespace InfServer.Script.GameType_Multi
                     _arena.triggerMessage(0, 500, String.Format("{0} has taken control of the {1} capture point...", attacker._name, name));
                     _flags.FirstOrDefault(f => f == flag).team = attacker;
 
-                    int cashReward = 1250;
-                    int expReward = 950;
-                    int pointReward = 1500;
+                    int involved = attackers + defenders;
+                    int cashReward = 500 ;
+                    int expReward = 100;
+                    int pointReward = 0;
+
+                    if(involved>1){
+                        cashReward = involved*2000;
+                        expReward = involved*1500;
+                        pointReward = involved*1000;
+                    }
+
+                    if(_arena._name.ToLower().StartsWith("[co-op]") || _arena._name.ToLower().StartsWith("[1cc]")){ 
+                        Team tm = _arena.getTeamByName("Titan Militia");
+                        int flags = _arena._flags.Values.Where(f => f.team == tm).Count();
+                        cashReward  = 1250 + (flags<11? 0: 750 + 100*(flags-11)) + (flags<31? 0: 2000);
+                        expReward   =  950 + (flags<11? 0: 550 + 100*(flags-11)) + (flags<31? 0: 2000);
+                        pointReward = 1500 + (flags<11? 0: 500 + 100*(flags-11)) + (flags<31? 0: 2000);
+
+                        if(_arena._name.ToLower().EndsWith(" master") || _arena._name.ToLower().EndsWith(" elite")
+                        || _arena._name.ToLower().EndsWith(" insane") || _arena._name.ToLower().EndsWith(" hell")){
+                            cashReward  += 200 + (flags<11? 0: 200) + (flags<21? 0: 200) + (flags<31? 0: 400);
+                            expReward   += 200 + (flags<11? 0: 200) + (flags<21? 0: 200) + (flags<31? 0: 400);
+                            pointReward += 200 + (flags<11? 0: 200) + (flags<21? 0: 200) + (flags<31? 0: 400);
+                        }
+
+                    }
 
                     foreach (Player player in playersInArea.Where(p => p._team == flag.team))
                     {

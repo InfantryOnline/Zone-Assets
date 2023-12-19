@@ -48,6 +48,19 @@ Skirmish Extreme combines the classic Skirmish feel with some great new features
 
 ~B~2Zone Updates~B
 
+[=~b~512/18/2023~2~B=]
+~b~4-C~2~B
+~4
+1. Edited 1cc arena welcome message to be a bit more user-friendly
+2. Bounty now properly resets upon death (no more postmortem credit)
+3. Removed royale arena name case sensitivity
+4. PvP arena flag rewards now scale to attacker/defender count
+5. Co-op and 1cc flag rewards greatly boosted with extra bonuses for later flags and higher difficulties
+6. More anti-farm measures to encourage flagging
+
+If more than 5 minutes passes without capturing a new flag, there will be an arena alert, after which kills will no longer register into player statistics, and bounty/point rewards are zeroed out; however, kills will still count toward pavelow/juggs kill streak. Once a new flag is captured, kill rewards will applied as usual once more (for the next 5 minutes).
+
+
 [=~b~512/15/2023~2~B=]
 ~b~4-C~2~B
 ~4

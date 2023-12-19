@@ -223,6 +223,12 @@ namespace InfServer.Script.GameType_Multi
                 }
             }
 
+            // farmer punishment
+            if(flags==0){
+                killerPoints = 0;
+                victimBounty = 0;
+            }
+
             //Update his stats
             killerCash = addCash(killer, killerCash, gameType);
             killer.Experience += killerExp;

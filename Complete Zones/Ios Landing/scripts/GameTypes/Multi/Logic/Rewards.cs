@@ -218,10 +218,15 @@ namespace InfServer.Script.GameType_Multi
                     killerPoints = Convert.ToInt32(killerPoints * antifarm_multiplier);
                     victimBounty = Convert.ToInt32(victimBounty * antifarm_multiplier);
                 }else{
-                    // 1 (default) or 0 (punishment)
-                    killerPoints = flags;
-                    victimBounty = flags;
+                    killerPoints = 1;
+                    victimBounty = 1;
                 }
+            }
+
+            // farmer punishment
+            if(flags==0){
+                killerPoints = 0;
+                victimBounty = 0;
             }
 
             //Update his stats

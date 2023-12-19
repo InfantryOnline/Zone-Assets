@@ -1193,7 +1193,7 @@ namespace InfServer.Script.GameType_Multi
 					Team tm = _arena.getTeamByName("Titan Militia");
 					int flags = _arena._flags.Values.Where(f => f.team == tm).Count();
 
-					// punishment
+					// farmer punishment
 					if(!credit) flags = 0;
 
 					Rewards.calculateBotKillRewards(dead, killer, _gameType, flags);

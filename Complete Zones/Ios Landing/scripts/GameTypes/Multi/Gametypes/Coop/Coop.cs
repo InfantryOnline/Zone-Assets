@@ -91,10 +91,6 @@ namespace InfServer.Script.GameType_Multi
 
 		public void Poll(int now)
 		{
-			// give +20s time between rounds if there was a last game
-			int extraTime = (_howLastGameEnded>0) ? 20 : 0;
-			// 1cc grace period for unspec
-			int grace1cc = 10;
 
 			int playing = _arena.PlayerCount;
 			if (_arena._bGameRunning && playing < _minPlayers && _arena._bIsPublic)
@@ -117,14 +113,6 @@ namespace InfServer.Script.GameType_Multi
 				_arena.setTicker(1, 3, 0, "Private arena, Waiting for arena owner to start the game!");
 			}
 
-			// 1cc spec lock with grace period
-			if(_arena._name.ToLower().StartsWith("[1cc]") && !_arena._bLocked
-				&& _baseScript._tickGameStarting > 0
-				&& now - _baseScript._tickGameStarting >= 1000*(_config.deathMatch.startDelay + extraTime + grace1cc)){
-				_arena._bLocked = true;
-				_arena.sendArenaMessage("Spectator lock is ON! Spectators must wait until the next game to join.");
-			}
-
 			// send warning when kill stat credit expires
 			if(_baseScript._warnCapture && now - _baseScript._lastCapture >= _baseScript._lastCaptureCutoff){
 				_arena.sendArenaMessage("Focus on the objective, Soldiers!");
@@ -134,6 +122,8 @@ namespace InfServer.Script.GameType_Multi
 			//Do we have enough to start a game?
 			if (!_arena._bGameRunning && _baseScript._tickGameStarting == 0 && playing >= _minPlayers && _arena._bIsPublic)
 			{
+				// give +20s time between rounds if there was a last game
+				int extraTime = (_howLastGameEnded>0) ? 20 : 0;
 
 				/*
 				if(_arena._name.Contains("]--")){
@@ -304,6 +294,12 @@ namespace InfServer.Script.GameType_Multi
 
 			//game-end test syntax
 			//if(_arena._name.Contains("]--")) timer = 30 * 100; // 30 sec to speed it up
+
+			// 1cc spec lock
+			if(_arena._name.ToLower().StartsWith("[1cc]") && !_arena._bLocked){
+				_arena._bLocked = true;
+				_arena.sendArenaMessage("Spectator lock is ON! Spectators must wait until the next game to join.");
+			}
 
 			//Let everyone know
 			_arena.sendArenaMessage("Game has started! Good luck Titans.");

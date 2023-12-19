@@ -139,22 +139,28 @@ namespace InfServer.Script.GameType_Multi
                     _flags.FirstOrDefault(f => f == flag).team = attacker;
 
                     int involved = attackers + defenders;
-                    int cashReward = 500 + ((involved>1) ? involved*2000 - 500 : 0);
-                    int expReward = 100 + ((involved>1) ? involved*1500 - 100 : 0);
-                    int pointReward = ((involved>1) ? involved*1000 : 0);
+                    int cashReward = 500 ;
+                    int expReward = 100;
+                    int pointReward = 0;
+
+                    if(involved>1){
+                        cashReward = involved*2000;
+                        expReward = involved*1500;
+                        pointReward = involved*1000;
+                    }
 
                     if(_arena._name.ToLower().StartsWith("[co-op]") || _arena._name.ToLower().StartsWith("[1cc]")){ 
                         Team tm = _arena.getTeamByName("Titan Militia");
                         int flags = _arena._flags.Values.Where(f => f.team == tm).Count();
-                        cashReward  = 1250 + (flags<11? 0: 750 + 1000*(flags-10)) + (flags<31? 0: 2000);
-                        expReward   =  950 + (flags<11? 0: 550 + 1000*(flags-10)) + (flags<31? 0: 2000);
-                        pointReward = 1500 + (flags<11? 0: 500 + 1000*(flags-10)) + (flags<31? 0: 2000);
+                        cashReward  = 1250 + (flags<11? 0: 750 + 100*(flags-11)) + (flags<31? 0: 2000);
+                        expReward   =  950 + (flags<11? 0: 550 + 100*(flags-11)) + (flags<31? 0: 2000);
+                        pointReward = 1500 + (flags<11? 0: 500 + 100*(flags-11)) + (flags<31? 0: 2000);
 
                         if(_arena._name.ToLower().EndsWith(" master") || _arena._name.ToLower().EndsWith(" elite")
                         || _arena._name.ToLower().EndsWith(" insane") || _arena._name.ToLower().EndsWith(" hell")){
-                            cashReward  += 250 + (flags<11? 0: 250) + (flags<21? 0: 500) + (flags<31? 0: 1000);
-                            expReward   += 250 + (flags<11? 0: 250) + (flags<21? 0: 500) + (flags<31? 0: 1000);
-                            pointReward += 250 + (flags<11? 0: 250) + (flags<21? 0: 500) + (flags<31? 0: 1000);
+                            cashReward  += 200 + (flags<11? 0: 200) + (flags<21? 0: 200) + (flags<31? 0: 400);
+                            expReward   += 200 + (flags<11? 0: 200) + (flags<21? 0: 200) + (flags<31? 0: 400);
+                            pointReward += 200 + (flags<11? 0: 200) + (flags<21? 0: 200) + (flags<31? 0: 400);
                         }
 
                     }

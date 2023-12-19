@@ -511,6 +511,7 @@ namespace InfServer.Script.GameType_Multi
 		{
 			if (_arena._name.ToLower().StartsWith("[1cc]")){
 
+				/*
 				string welcome1cc = "";
 				if(_baseScript._tickGameStarting > 0) // has the game started?
 					welcome1cc = (_arena._bLocked)
@@ -519,6 +520,8 @@ namespace InfServer.Script.GameType_Multi
 				else welcome1cc = "Welcome to 1cc challenge mode! Once a game starts, spectator mode will be LOCKED, and you will be specced upon death.";
 
 				player.sendMessage(0, welcome1cc);
+				*/
+				player.sendMessage(0, "Welcome to 1cc challenge mode! Once a game starts, spectator mode will be LOCKED, and you will be specced upon death.");
 
 			}else{
 

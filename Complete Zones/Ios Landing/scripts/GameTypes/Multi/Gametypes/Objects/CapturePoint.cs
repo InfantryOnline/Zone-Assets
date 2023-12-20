@@ -163,6 +163,12 @@ namespace InfServer.Script.GameType_Multi
                             pointReward += 200 + (flags<11? 0: 200) + (flags<21? 0: 200) + (flags<31? 0: 400);
                         }
 
+                        if(_arena._name.ToLower().EndsWith(" easy")){
+                        	cashReward = Math.Max(200, cashReward / 10);
+                        	expReward = Math.Max(100, expReward / 10);
+                        	pointReward = 100;
+                        }
+
                     }
 
                     foreach (Player player in playersInArea.Where(p => p._team == flag.team))

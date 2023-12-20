@@ -259,6 +259,8 @@ namespace InfServer.Script.GameType_Multi
 
                 case 4:
                     {
+                        _baseScript._lastCaptureCutoff = 4 * 60 * 1000;
+
                         if (!_sixthDifficultyWave)
                         {
                             _sixthDifficultyWave = true;
@@ -276,6 +278,8 @@ namespace InfServer.Script.GameType_Multi
 
                 case 6:
                     {
+                        _baseScript._lastCaptureCutoff = 5 * 60 * 1000;
+
                         if (!_secondLightExoWave)
                         {
                             _secondLightExoWave = true;

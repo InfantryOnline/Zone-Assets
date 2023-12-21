@@ -48,6 +48,14 @@ Skirmish Extreme combines the classic Skirmish feel with some great new features
 
 ~B~2Zone Updates~B
 
+[=~b~512/21/2023~2~B=]
+~b~4-C~2~B
+~4
+1. Another infamous bug squashed: marine/ripper bots are now forced to reload, no more infinite clip size
+2. Increased bot's ripper gun clip size from 35 to 45, same as player
+3. Juggernauts no longer vomit red errors onto the server console when summoned
+
+
 [=~b~512/20/2023~2~B=]
 ~b~4-C~2~B
 ~4

@@ -127,12 +127,25 @@ namespace InfServer.Script.GameType_Multi
 
             //creator.sendMessage(0, String.Format("Attempting to spawn a {0}", type.Name));
 
+            // Juggernaut (181) doesn't care about the other checks
+            if(botType == "Juggernaut"){
+                // juggs is Bot not Troop type
+                Bot newBot = _arena.newBot(type, vehicleID, team, creator, state) as Bot;
+            //  newBot._team = team;
+            //  newBot.targetTeam = targetTeam;
+                newBot.Destroyed += delegate (Vehicle bot)
+                {
+                    _bots.Remove((Bot)bot);
+                };
+                _bots.Add(newBot);
+                return true;
+            }
+
             //Max bots?
             if (_bots.Count >= _botMax)
             {
                 Log.write(TLog.Warning, "Excessive bot spawning");
-                if(botType == "Juggernaut") Log.write(TLog.Warning, "JUGGERNAUT OVERRIDE!");
-                else return false;
+                return false;
             }
 
             int playercount = _team.ActivePlayerCount; // Adjust bot difficulty by 1 for every player after 6.

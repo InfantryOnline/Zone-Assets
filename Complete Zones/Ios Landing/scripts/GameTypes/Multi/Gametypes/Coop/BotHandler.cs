@@ -130,14 +130,18 @@ namespace InfServer.Script.GameType_Multi
             // Juggernaut (181) doesn't care about the other checks
             if(botType == "Juggernaut"){
                 // juggs is Bot not Troop type
+                Log.write(TLog.Normal, "Incoming Juggernaut Checkpoint 1");
                 Bot newBot = _arena.newBot(type, vehicleID, team, creator, state) as Bot;
             //  newBot._team = team;
             //  newBot.targetTeam = targetTeam;
+                Log.write(TLog.Normal, "Incoming Juggernaut Checkpoint 2");
                 newBot.Destroyed += delegate (Vehicle bot)
                 {
                     _bots.Remove((Bot)bot);
                 };
+                Log.write(TLog.Normal, "Incoming Juggernaut Checkpoint 3");
                 _bots.Add(newBot);
+                Log.write(TLog.Normal, "Incoming Juggernaut Checkpoint 4");
                 return true;
             }
 

@@ -19,11 +19,11 @@ namespace InfServer.Script.GameType_Multi.Bots
 	/// A ranged zombie which tries to keep it's distance from the player to shoot from afar
 	///////////////////////////////////////////////////////
 	public class RipperV2 : Troop
-	{   // Member variables
+	{	// Member variables
 		///////////////////////////////////////////////////
-		public float farDist;               //The distance from the player where we actively pursue them
-		public float shortDist;         //The distance from the player where we keep our distance
-		public float runDist;               //The distance from the player where we run away!
+		public float farDist;	//The distance from the player where we actively pursue them
+		public float shortDist;	//The distance from the player where we keep our distance
+		public float runDist;	//The distance from the player where we run away!
 		public float fireDist;
 		public static ushort basevehicleID = 145;
 		public static ushort vetvehicleID = 153;
@@ -36,13 +36,6 @@ namespace InfServer.Script.GameType_Multi.Bots
 		public const string LAW_target_group2 = "Deathboard || Drop Pack";
 		public const double LAW_misfire_rate1 = 0.2; // failure rate against mechs
 		public const double LAW_misfire_rate2 = 0.8; // failure rate against non-mechs
-
-		// workaround for "infinite clip size"
-		//public int clip_size = 45;
-		//public int shots_fired = 0; // tracks # of shots fired
-		//public int reload_iteration = 15; // skip shots to simulate reload
-		//public int reload_counter;
-
 
 		///////////////////////////////////////////////////
 		// Member Functions
@@ -67,7 +60,7 @@ namespace InfServer.Script.GameType_Multi.Bots
 		/// Looks after the bot's functionality
 		/// </summary>
 		public override bool poll()
-		{   //Dead? Do nothing
+		{	//Dead? Do nothing
 			if (IsDead)
 			{
 				steering.steerDelegate = null;
@@ -81,7 +74,7 @@ namespace InfServer.Script.GameType_Multi.Bots
 			{
 
 				if (bClearPath)
-				{   //What is our distance to the target?
+				{	//What is our distance to the target?
 					double distance = (_state.position() - target._state.position()).Length;
 					bool bFleeing = false;
 					//Too far?
@@ -132,10 +125,14 @@ namespace InfServer.Script.GameType_Multi.Bots
 						is_LAW_target = (is_LAW_group1 || is_LAW_group2);
 					}
 
-					if (is_LAW_target && _lawQuantity >= 1)
-						_weapon.equip(_arena._server._assets.getItemByID(1004));
-					else
-						_weapon.equip(AssetManager.Manager.getItemByID(_type.InventoryItems[0]));
+					if (is_LAW_target && _lawQuantity >= 1){
+						if(_weapon.ItemID != 1004)
+							_weapon.equip(_arena._server._assets.getItemByID(1004));
+					}else{
+						// need to do a check before we switch back or else we will reset ammo count
+						if(_weapon.ItemID != AssetManager.Manager.getItemByID(_type.InventoryItems[0]).id)
+							_weapon.equip(AssetManager.Manager.getItemByID(_type.InventoryItems[0]));
+					}
 
 
 					_bStrafe = false;

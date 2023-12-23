@@ -404,8 +404,8 @@ namespace InfServer.Script.GameType_Multi
 		public void playerEnterArena(Player player)
 		{
 			//Fix this later
-			//if (_arena.TotalPlayerCount == 1 && player._permissionStatic < Data.PlayerPermission.Mod && _arena._bIsPublic)
-			//	player._permissionTemp = Data.PlayerPermission.Normal;
+			if (_arena.TotalPlayerCount == 1 && player._permissionStatic < Data.PlayerPermission.Mod && _arena._bIsPublic)
+				player._permissionTemp = Data.PlayerPermission.Normal;
 
 			//Read our list
 			//_earlyAccessList = ListReader.readListFromFile("earlyaccess.txt");

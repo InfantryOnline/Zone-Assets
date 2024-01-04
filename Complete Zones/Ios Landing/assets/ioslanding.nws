@@ -51,6 +51,14 @@ Skirmish Extreme combines the classic Skirmish feel with some great new features
 [=~b~512/21/2023~2~B=]
 ~b~4-C~2~B
 ~4
+1. Added $100k cash transfer item
+2. Drop Troopers given Light Enercell to retain Gauss Rifle capability
+3. Energy consumption adjusted for the following weapons/skills: Disruptor, IRL Rifle, IRL SMG, Plasma Rifle, Pulse Rifle, Plasma Bomb, Repulsor Field Superior, Sonic Cannon, Maser, Gauss Rifle
+
+
+[=~b~512/21/2023~2~B=]
+~b~4-C~2~B
+~4
 1. Another infamous bug squashed: marine/ripper bots are now forced to reload, no more infinite clip size
 2. Increased bot's ripper gun clip size from 35 to 45, same as player
 3. Juggernauts no longer vomit red errors onto the server console when summoned
